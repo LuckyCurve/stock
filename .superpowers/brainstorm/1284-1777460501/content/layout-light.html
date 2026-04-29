@@ -1,0 +1,79 @@
+<h2>浅色主题方案</h2>
+<p class="subtitle">同样三 Tab 结构，换浅色底</p>
+
+<div class="mockup">
+  <div class="mockup-header">ROIC Munger Analysis Dashboard — Light Theme</div>
+  <div class="mockup-body" style="background:#f8f9fa;color:#212529;font-family:system-ui;padding:0;">
+    <!-- Top bar -->
+    <div style="background:#ffffff;padding:12px 20px;display:flex;align-items:center;justify-content:space-between;border-bottom:1px solid #dee2e6;">
+      <div style="font-size:18px;font-weight:600;color:#1a73e8;">🧠 Munger Analysis</div>
+      <div style="font-size:12px;color:#6c757d;">数据来源: roic_cache/ · 22 tickers · 更新时间: 2026-04-29</div>
+    </div>
+    <!-- Tabs -->
+    <div style="display:flex;background:#ffffff;border-bottom:2px solid #dee2e6;">
+      <div style="padding:10px 24px;color:#1a73e8;font-weight:600;border-bottom:2px solid #1a73e8;margin-bottom:-2px;">📊 总览</div>
+      <div style="padding:10px 24px;color:#6c757d;cursor:pointer;">📈 对比分析</div>
+      <div style="padding:10px 24px;color:#6c757d;cursor:pointer;">🔍 深度详情</div>
+    </div>
+    <!-- Tab 1 content: Overview -->
+    <div style="padding:20px;">
+      <h3 style="color:#1a73e8;margin:0 0 12px;font-size:14px;">芒格式筛选汇总（按 ROIC 中位数排序）</h3>
+      <table style="width:100%;border-collapse:collapse;font-size:12px;">
+        <thead>
+          <tr style="background:#e8f0fe;color:#1a73e8;text-align:left;">
+            <th style="padding:6px 8px;">Ticker</th><th style="padding:6px 8px;">Yrs</th><th style="padding:6px 8px;">CAGR%</th>
+            <th style="padding:6px 8px;">ROIC med</th><th style="padding:6px 8px;">Recent5</th><th style="padding:6px 8px;">MinROIC</th>
+            <th style="padding:6px 8px;">&lt;10y</th><th style="padding:6px 8px;">NetC%</th>
+            <th style="padding:6px 8px;">✅</th>
+          </tr>
+        </thead>
+        <tbody>
+          <tr style="background:rgba(52,168,83,0.06);border-bottom:1px solid #dee2e6;">
+            <td style="padding:6px 8px;font-weight:600;">FIZZ</td><td>34</td><td>4.1</td><td style="color:#34a853;">31.4</td>
+            <td style="color:#34a853;">62.2</td><td style="color:#34a853;">16.7</td><td>0</td><td style="color:#34a853;">28.8</td><td>5/5</td>
+          </tr>
+          <tr style="border-bottom:1px solid #dee2e6;">
+            <td style="padding:6px 8px;font-weight:600;">DECK</td><td>33</td><td>14.9</td><td style="color:#ea4335;">23.8</td>
+            <td style="color:#34a853;">59.4</td><td style="color:#ea4335;">-3.1</td><td>8</td><td style="color:#34a853;">52.9</td><td>3/5</td>
+          </tr>
+          <tr style="border-bottom:1px solid #dee2e6;">
+            <td style="padding:6px 8px;font-weight:600;">NVR</td><td>31</td><td>12.3</td><td style="color:#34a853;">22.1</td>
+            <td style="color:#34a853;">28.5</td><td style="color:#fbbc04;">9.2</td><td>4</td><td style="color:#34a853;">15.3</td><td>3/5</td>
+          </tr>
+        </tbody>
+      </table>
+      <div style="margin-top:16px;padding:12px;background:#e8f0fe;border-left:3px solid #34a853;font-size:12px;border-radius:4px;">
+        <strong style="color:#34a853;">✅ 芒格名单候选</strong>：FIZZ — 全部 5 项筛选通过<br>
+        <span style="color:#fbbc04;">⚠️ 边缘候选</span>：DECK (MinROIC &lt;10), NVR (MinROIC &lt;10)<br>
+        <span style="color:#ea4335;">❌ 明确淘汰</span>：CDE (MinROIC 负值, 长期负债重)
+      </div>
+    </div>
+  </div>
+</div>
+
+<div style="margin-top:24px;">
+  <h3>对比一下</h3>
+  <div class="options">
+    <div class="option" data-choice="light" onclick="toggleSelect(this)">
+      <div class="letter">A</div>
+      <div class="content">
+        <h4>浅色主题</h4>
+        <p>白底 + 蓝色主色调，清爽明亮，打印友好</p>
+      </div>
+    </div>
+    <div class="option" data-choice="dark" onclick="toggleSelect(this)">
+      <div class="letter">B</div>
+      <div class="content">
+        <h4>深色主题</h4>
+        <p>深蓝底 + 红/绿强调，护眼，长时间研究舒适</p>
+      </div>
+    </div>
+    <div class="option" data-choice="both" onclick="toggleSelect(this)">
+      <div class="letter">C</div>
+      <div class="content">
+        <h4>都做，支持切换</h4>
+        <p>页面右上角放一个 🌙/☀️ 按钮，一键切换深浅主题</p>
+      </div>
+    </div>
+  </div>
+</div>

@@ -1,0 +1,6301 @@
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Sales/Revenue/Turnover
+  value: 76
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Sales/Revenue/Turnover
+  value: 122
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Sales/Revenue/Turnover
+  value: 153
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Sales/Revenue/Turnover
+  value: 205
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Sales/Revenue/Turnover
+  value: 259
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Sales/Revenue/Turnover
+  value: 347
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Sales/Revenue/Turnover
+  value: 554
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: + Sales & Services Revenue
+  value: 76
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: + Sales & Services Revenue
+  value: 122
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: + Sales & Services Revenue
+  value: 153
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: + Sales & Services Revenue
+  value: 205
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: + Sales & Services Revenue
+  value: 259
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: + Sales & Services Revenue
+  value: 347
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: + Sales & Services Revenue
+  value: 554
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: '- Cost of Revenue'
+  value: 15
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: '- Cost of Revenue'
+  value: 22
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: '- Cost of Revenue'
+  value: 23
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: '- Cost of Revenue'
+  value: 32
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: '- Cost of Revenue'
+  value: 61
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: '- Cost of Revenue'
+  value: 65
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: '- Cost of Revenue'
+  value: 74
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: + Cost of Goods & Services
+  value: 15
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: + Cost of Goods & Services
+  value: 22
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: + Cost of Goods & Services
+  value: 23
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: + Cost of Goods & Services
+  value: 32
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: + Cost of Goods & Services
+  value: 61
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: + Cost of Goods & Services
+  value: 65
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: + Cost of Goods & Services
+  value: 74
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Gross Profit
+  value: 61
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Gross Profit
+  value: 100
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Gross Profit
+  value: 130
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Gross Profit
+  value: 173
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Gross Profit
+  value: 198
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Gross Profit
+  value: 282
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Gross Profit
+  value: 480
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Income
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Income
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Income
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Income
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Income
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Income
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Income
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: '- Operating Expenses'
+  value: 59
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: '- Operating Expenses'
+  value: 102
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: '- Operating Expenses'
+  value: 176
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: '- Operating Expenses'
+  value: 307
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: '- Operating Expenses'
+  value: 240
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: '- Operating Expenses'
+  value: 247
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: '- Operating Expenses'
+  value: 294
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: + Selling, General & Admin
+  value: 32
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: + Selling, General & Admin
+  value: 60
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: + Selling, General & Admin
+  value: 101
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: + Selling, General & Admin
+  value: 172
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: + Selling, General & Admin
+  value: 150
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: + Selling, General & Admin
+  value: 159
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: + Selling, General & Admin
+  value: 169
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: + Research & Development
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: + Research & Development
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: + Research & Development
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: + Research & Development
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: + Research & Development
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: + Research & Development
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: + Research & Development
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Expense
+  value: 27
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Expense
+  value: 41
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Expense
+  value: 75
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Expense
+  value: 135
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Expense
+  value: 90
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Expense
+  value: 88
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Expense
+  value: 124
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Operating Income (Loss)
+  value: 2
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Operating Income (Loss)
+  value: -1
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Operating Income (Loss)
+  value: -47
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Operating Income (Loss)
+  value: -134
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Operating Income (Loss)
+  value: -42
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Operating Income (Loss)
+  value: 35
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Operating Income (Loss)
+  value: 187
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: '- Non-Operating (Income) Loss'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: '- Non-Operating (Income) Loss'
+  value: 5
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: '- Non-Operating (Income) Loss'
+  value: -27
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: '- Non-Operating (Income) Loss'
+  value: -5
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: '- Non-Operating (Income) Loss'
+  value: 6
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: '- Non-Operating (Income) Loss'
+  value: -26
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: '- Non-Operating (Income) Loss'
+  value: 19
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense, Net
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense, Net
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense, Net
+  value: 2
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense, Net
+  value: 6
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense, Net
+  value: 6
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense, Net
+  value: 5
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense, Net
+  value: 5
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense
+  value: 1
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense
+  value: 3
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense
+  value: 9
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense
+  value: 12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense
+  value: 8
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense
+  value: 7
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: '- Interest Income'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: '- Interest Income'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: '- Interest Income'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: '- Interest Income'
+  value: 3
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: '- Interest Income'
+  value: 5
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: '- Interest Income'
+  value: 3
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: '- Interest Income'
+  value: 2
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: + Other Non-Op (Income) Loss
+  value: 6
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: + Other Non-Op (Income) Loss
+  value: -29
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: + Other Non-Op (Income) Loss
+  value: -12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: + Other Non-Op (Income) Loss
+  value: -31
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: + Other Non-Op (Income) Loss
+  value: 13
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Pretax Income
+  value: 1
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Pretax Income
+  value: -7
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Pretax Income
+  value: -20
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Pretax Income
+  value: -129
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Pretax Income
+  value: -48
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Pretax Income
+  value: 60
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Pretax Income
+  value: 168
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: '- Income Tax Expense (Benefit)'
+  value: 1
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: '- Income Tax Expense (Benefit)'
+  value: 2
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: '- Income Tax Expense (Benefit)'
+  value: -28
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) from Cont Ops
+  value: 1
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) from Cont Ops
+  value: -7
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) from Cont Ops
+  value: -20
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) from Cont Ops
+  value: -129
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) from Cont Ops
+  value: -49
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) from Cont Ops
+  value: 58
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) from Cont Ops
+  value: 196
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: + Discontinued Operations
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: + Discontinued Operations
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: + Discontinued Operations
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: + Discontinued Operations
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: + Discontinued Operations
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: + Discontinued Operations
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: + Discontinued Operations
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) Incl. MI
+  value: 1
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) Incl. MI
+  value: -7
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) Incl. MI
+  value: -20
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) Incl. MI
+  value: -129
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) Incl. MI
+  value: -49
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) Incl. MI
+  value: 58
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) Incl. MI
+  value: 196
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: '- Minority Interest'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: '- Minority Interest'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: '- Minority Interest'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: '- Minority Interest'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: '- Minority Interest'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: '- Minority Interest'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: '- Minority Interest'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Net Income, GAAP
+  value: 1
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Net Income, GAAP
+  value: -7
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Net Income, GAAP
+  value: -20
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Net Income, GAAP
+  value: -129
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Net Income, GAAP
+  value: -49
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Net Income, GAAP
+  value: 58
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Net Income, GAAP
+  value: 196
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: '- Preferred Dividends'
+  value: 1
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: '- Preferred Dividends'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: '- Preferred Dividends'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: '- Preferred Dividends'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: '- Preferred Dividends'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: '- Preferred Dividends'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: '- Preferred Dividends'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: '- Other Adjustments'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: '- Other Adjustments'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: '- Other Adjustments'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: '- Other Adjustments'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: '- Other Adjustments'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: '- Other Adjustments'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: '- Other Adjustments'
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Net Income Avail to Common, GAAP
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Net Income Avail to Common, GAAP
+  value: -7
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Net Income Avail to Common, GAAP
+  value: -20
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Net Income Avail to Common, GAAP
+  value: -129
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Net Income Avail to Common, GAAP
+  value: -49
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Net Income Avail to Common, GAAP
+  value: 58
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Net Income Avail to Common, GAAP
+  value: 196
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: EBIT
+  value: 2
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: EBIT
+  value: -1
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: EBIT
+  value: -47
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: EBIT
+  value: -134
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: EBIT
+  value: -42
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: EBIT
+  value: 35
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: EBIT
+  value: 187
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA
+  value: 3
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA
+  value: -44
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA
+  value: -127
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA
+  value: -37
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA
+  value: 42
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA
+  value: 194
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: 3.39
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: 0.28
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -28.64
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -62.13
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: -14.15
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 12.19
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 34.96
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: EBITA
+  value: 2
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: EBITA
+  value: -1
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: EBITA
+  value: -47
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: EBITA
+  value: -134
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: EBITA
+  value: -42
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: EBITA
+  value: 35
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: EBITA
+  value: 187
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Gross Margin (%)
+  value: 80.04
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Gross Margin (%)
+  value: 82.23
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Gross Margin (%)
+  value: 84.67
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Gross Margin (%)
+  value: 84.4
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Gross Margin (%)
+  value: 76.3
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Gross Margin (%)
+  value: 81.24
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Gross Margin (%)
+  value: 86.69
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Operating Margin (%)
+  value: 2.33
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Operating Margin (%)
+  value: -1.13
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Operating Margin (%)
+  value: -30.64
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Operating Margin (%)
+  value: -65.61
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Operating Margin (%)
+  value: -16.29
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Operating Margin (%)
+  value: 9.97
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Operating Margin (%)
+  value: 33.68
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Profit Margin (%)
+  value: 1.03
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Profit Margin (%)
+  value: -5.71
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Profit Margin (%)
+  value: -13.07
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Profit Margin (%)
+  value: -62.93
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Profit Margin (%)
+  value: -18.73
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Profit Margin (%)
+  value: 16.67
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Profit Margin (%)
+  value: 35.34
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Sales per Employee
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Sales per Employee
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Sales per Employee
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Sales per Employee
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Sales per Employee
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Sales per Employee
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Sales per Employee
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Dividend per Share
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Dividend per Share
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Dividend per Share
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Dividend per Share
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Dividend per Share
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Dividend per Share
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Dividend per Share
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Depreciation Expense
+  value: 1
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Depreciation Expense
+  value: 2
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Depreciation Expense
+  value: 3
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Depreciation Expense
+  value: 7
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Depreciation Expense
+  value: 6
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Depreciation Expense
+  value: 8
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Depreciation Expense
+  value: 7
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Basic Weighted Avg Shares
+  value: 12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Basic Weighted Avg Shares
+  value: 12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Basic Weighted Avg Shares
+  value: 12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Basic Weighted Avg Shares
+  value: 12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Basic Weighted Avg Shares
+  value: 12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Basic Weighted Avg Shares
+  value: 13
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Basic Weighted Avg Shares
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS, GAAP
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS, GAAP
+  value: -0.6
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS, GAAP
+  value: -1.72
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS, GAAP
+  value: -10.93
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS, GAAP
+  value: -4.07
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS, GAAP
+  value: 4.62
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS, GAAP
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS from Cont Ops
+  value: 0.07
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS from Cont Ops
+  value: -0.6
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS from Cont Ops
+  value: -1.72
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS from Cont Ops
+  value: -10.93
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS from Cont Ops
+  value: -4.07
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS from Cont Ops
+  value: 4.62
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS from Cont Ops
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Diluted Weighted Avg Shares
+  value: 12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Diluted Weighted Avg Shares
+  value: 12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Diluted Weighted Avg Shares
+  value: 12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Diluted Weighted Avg Shares
+  value: 12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Diluted Weighted Avg Shares
+  value: 12
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Diluted Weighted Avg Shares
+  value: 14
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Diluted Weighted Avg Shares
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS, GAAP
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS, GAAP
+  value: -0.6
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS, GAAP
+  value: -1.72
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS, GAAP
+  value: -10.93
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS, GAAP
+  value: -4.07
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS, GAAP
+  value: 4.19
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS, GAAP
+  value: null
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS from Cont Ops
+  value: 0.07
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS from Cont Ops
+  value: -0.6
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS from Cont Ops
+  value: -1.72
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS from Cont Ops
+  value: -10.93
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS from Cont Ops
+  value: -4.07
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS from Cont Ops
+  value: 4.19
+- ticker: DAVE
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS from Cont Ops
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Assets
+  value: 62
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Assets
+  value: 69
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Assets
+  value: 100
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Assets
+  value: 309
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Assets
+  value: 277
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Assets
+  value: 282
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Assets
+  value: 437
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash, Cash Equivalents & STI
+  value: 32
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash, Cash Equivalents & STI
+  value: 22
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash, Cash Equivalents & STI
+  value: 40
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash, Cash Equivalents & STI
+  value: 192
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash, Cash Equivalents & STI
+  value: 156
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash, Cash Equivalents & STI
+  value: 90
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash, Cash Equivalents & STI
+  value: 121
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash & Cash Equivalents
+  value: 6
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash & Cash Equivalents
+  value: 5
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash & Cash Equivalents
+  value: 32
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash & Cash Equivalents
+  value: 23
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash & Cash Equivalents
+  value: 42
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash & Cash Equivalents
+  value: 50
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash & Cash Equivalents
+  value: 81
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Investments
+  value: 25
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Investments
+  value: 18
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Investments
+  value: 8
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Investments
+  value: 169
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Investments
+  value: 114
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Investments
+  value: 41
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Investments
+  value: 41
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts & Notes Receiv
+  value: 29
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts & Notes Receiv
+  value: 39
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts & Notes Receiv
+  value: 49
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts & Notes Receiv
+  value: 104
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts & Notes Receiv
+  value: 113
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts & Notes Receiv
+  value: 176
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts & Notes Receiv
+  value: 297
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Receivable, Net
+  value: 29
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Receivable, Net
+  value: 39
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Receivable, Net
+  value: 49
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Receivable, Net
+  value: 104
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Receivable, Net
+  value: 113
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Receivable, Net
+  value: 176
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Receivable, Net
+  value: 297
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Notes Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Notes Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Notes Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Notes Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Notes Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Notes Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Notes Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Loans Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Loans Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Loans Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Loans Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Loans Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Loans Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Loans Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Receivable, Net
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventories
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventories
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventories
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventories
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventories
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventories
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventories
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Raw Materials
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Raw Materials
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Raw Materials
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Raw Materials
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Raw Materials
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Raw Materials
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Raw Materials
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Work In Process
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Work In Process
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Work In Process
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Work In Process
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Work In Process
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Work In Process
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Work In Process
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Finished Goods
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Finished Goods
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Finished Goods
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Finished Goods
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Finished Goods
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Finished Goods
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Finished Goods
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventory Adjustments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventory Adjustments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventory Adjustments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventory Adjustments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventory Adjustments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventory Adjustments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventory Adjustments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Inventory
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Inventory
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Inventory
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Inventory
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Inventory
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Inventory
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Inventory
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Assets
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Assets
+  value: 8
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Assets
+  value: 11
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Assets
+  value: 12
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Assets
+  value: 8
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Assets
+  value: 16
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Assets
+  value: 18
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Prepaid Expenses
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Prepaid Expenses
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Prepaid Expenses
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Prepaid Expenses
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Prepaid Expenses
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Prepaid Expenses
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Prepaid Expenses
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Assets
+  value: 5
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Assets
+  value: 7
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Assets
+  value: 47
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Assets
+  value: 13
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Assets
+  value: 17
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Assets
+  value: 17
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Assets
+  value: 51
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip, Net
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip, Net
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip, Net
+  value: 3
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip, Net
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip, Net
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip, Net
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip, Net
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip
+  value: 4
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip
+  value: 3
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip
+  value: 3
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip
+  value: 3
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: '- Accumulated Depreciation'
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: '- Accumulated Depreciation'
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: '- Accumulated Depreciation'
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: '- Accumulated Depreciation'
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: '- Accumulated Depreciation'
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: '- Accumulated Depreciation'
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: '- Accumulated Depreciation'
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments & Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments & Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments & Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments & Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments & Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments & Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments & Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Receivables
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Assets
+  value: 3
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Assets
+  value: 5
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Assets
+  value: 44
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Assets
+  value: 11
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Assets
+  value: 15
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Assets
+  value: 16
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Assets
+  value: 50
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Total Intangible Assets
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Total Intangible Assets
+  value: 5
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Total Intangible Assets
+  value: 8
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Total Intangible Assets
+  value: 10
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Total Intangible Assets
+  value: 13
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Total Intangible Assets
+  value: 14
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Total Intangible Assets
+  value: 14
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Goodwill
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Goodwill
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Goodwill
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Goodwill
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Goodwill
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Goodwill
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Goodwill
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Intangible Assets
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Intangible Assets
+  value: 5
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Intangible Assets
+  value: 8
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Intangible Assets
+  value: 10
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Intangible Assets
+  value: 13
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Intangible Assets
+  value: 14
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Intangible Assets
+  value: 14
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Assets
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Assets
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Assets
+  value: 36
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Assets
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Assets
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Assets
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Assets
+  value: 36
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Total Assets
+  value: 67
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Total Assets
+  value: 76
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Total Assets
+  value: 147
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Total Assets
+  value: 321
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Total Assets
+  value: 294
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Total Assets
+  value: 299
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Total Assets
+  value: 487
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Payables & Accruals
+  value: 9
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Payables & Accruals
+  value: 16
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Payables & Accruals
+  value: 28
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Payables & Accruals
+  value: 30
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Payables & Accruals
+  value: 18
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Payables & Accruals
+  value: 25
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Payables & Accruals
+  value: 25
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Payable
+  value: 7
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Payable
+  value: 8
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Payable
+  value: 13
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Payable
+  value: 11
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Payable
+  value: 5
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Payable
+  value: 7
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Payable
+  value: 8
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Taxes
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Taxes
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Taxes
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Taxes
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Taxes
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Taxes
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Taxes
+  value: 3
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Payables & Accruals
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Payables & Accruals
+  value: 7
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Payables & Accruals
+  value: 14
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Payables & Accruals
+  value: 18
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Payables & Accruals
+  value: 11
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Payables & Accruals
+  value: 16
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Payables & Accruals
+  value: 14
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Debt
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Debt
+  value: 4
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Debt
+  value: 38
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Debt
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Debt
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Debt
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Debt
+  value: 75
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Borrowings
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Borrowings
+  value: 4
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Borrowings
+  value: 36
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Borrowings
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Borrowings
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Borrowings
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Borrowings
+  value: 75
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Finance Leases
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Finance Leases
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Finance Leases
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Finance Leases
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Finance Leases
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Finance Leases
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Finance Leases
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Liabilities
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Liabilities
+  value: 4
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Liabilities
+  value: 3
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Liabilities
+  value: 6
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Liabilities
+  value: 7
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Liabilities
+  value: 9
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Liabilities
+  value: 14
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Liabilities
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Liabilities
+  value: 4
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Liabilities
+  value: 3
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Liabilities
+  value: 6
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Liabilities
+  value: 7
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Liabilities
+  value: 9
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Liabilities
+  value: 13
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Liabilities
+  value: 10
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Liabilities
+  value: 24
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Liabilities
+  value: 69
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Liabilities
+  value: 36
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Liabilities
+  value: 26
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Liabilities
+  value: 35
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Liabilities
+  value: 114
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Debt
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Debt
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Debt
+  value: 36
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Debt
+  value: 178
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Debt
+  value: 181
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Debt
+  value: 75
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Debt
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Borrowings
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Borrowings
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Borrowings
+  value: 35
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Borrowings
+  value: 177
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Borrowings
+  value: 180
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Borrowings
+  value: 75
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Borrowings
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Finance Leases
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Finance Leases
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Finance Leases
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Finance Leases
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Finance Leases
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Finance Leases
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Finance Leases
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Liabilities
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Liabilities
+  value: 4
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Liabilities
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Liabilities
+  value: 6
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Liabilities
+  value: 21
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Pension Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Pension Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Pension Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Pension Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Pension Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Pension Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Pension Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Liabilities
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Liabilities
+  value: 4
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Liabilities
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Liabilities
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Liabilities
+  value: 6
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Liabilities
+  value: 21
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Liabilities
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Liabilities
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Liabilities
+  value: 40
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Liabilities
+  value: 179
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Liabilities
+  value: 181
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Liabilities
+  value: 81
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Liabilities
+  value: 21
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities
+  value: 12
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities
+  value: 27
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities
+  value: 108
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities
+  value: 215
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities
+  value: 207
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities
+  value: 116
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities
+  value: 135
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Preferred Equity and Hybrid Capital
+  value: 72
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Preferred Equity and Hybrid Capital
+  value: 72
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Share Capital & APIC
+  value: 4
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Share Capital & APIC
+  value: 5
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Share Capital & APIC
+  value: 87
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Share Capital & APIC
+  value: 270
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Share Capital & APIC
+  value: 297
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Share Capital & APIC
+  value: 335
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Share Capital & APIC
+  value: 353
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Common Stock
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Common Stock
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Common Stock
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Common Stock
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Common Stock
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Common Stock
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Common Stock
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Additional Paid in Capital
+  value: 4
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Additional Paid in Capital
+  value: 5
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Additional Paid in Capital
+  value: 87
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Additional Paid in Capital
+  value: 270
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Additional Paid in Capital
+  value: 297
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Additional Paid in Capital
+  value: 335
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Additional Paid in Capital
+  value: 353
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: '- Treasury Stock'
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: '- Treasury Stock'
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: '- Treasury Stock'
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: '- Treasury Stock'
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: '- Treasury Stock'
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: '- Treasury Stock'
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: '- Treasury Stock'
+  value: 44
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Retained Earnings
+  value: -6
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Retained Earnings
+  value: -13
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Retained Earnings
+  value: -33
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Retained Earnings
+  value: -162
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Retained Earnings
+  value: -210
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Retained Earnings
+  value: -152
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Retained Earnings
+  value: 43
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Equity
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Equity
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Equity
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Equity
+  value: -2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Equity
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Equity
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Equity
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Equity Before Minority Interest
+  value: 55
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Equity Before Minority Interest
+  value: 50
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Equity Before Minority Interest
+  value: 39
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Equity Before Minority Interest
+  value: 107
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Equity Before Minority Interest
+  value: 87
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Equity Before Minority Interest
+  value: 183
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Equity Before Minority Interest
+  value: 353
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Total Equity
+  value: 55
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Total Equity
+  value: 50
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Total Equity
+  value: 39
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Total Equity
+  value: 107
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Total Equity
+  value: 87
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Total Equity
+  value: 183
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Total Equity
+  value: 353
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities & Equity
+  value: 67
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities & Equity
+  value: 76
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities & Equity
+  value: 147
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities & Equity
+  value: 321
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities & Equity
+  value: 294
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities & Equity
+  value: 299
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities & Equity
+  value: 487
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Shares Outstanding
+  value: 12
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Shares Outstanding
+  value: 12
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Shares Outstanding
+  value: 12
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Shares Outstanding
+  value: 12
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Shares Outstanding
+  value: 12
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Shares Outstanding
+  value: 13
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Shares Outstanding
+  value: 14
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Number of Employees
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Number of Employees
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Number of Employees
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Number of Employees
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Number of Employees
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Number of Employees
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Number of Employees
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Capital Leases - Total
+  value: 2
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Capital Leases - Total
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Capital Leases - Total
+  value: 3
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Capital Leases - Total
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Capital Leases - Total
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Capital Leases - Total
+  value: 1
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Capital Leases - Total
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt
+  value: -6
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt
+  value: 39
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt
+  value: 154
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt
+  value: 139
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt
+  value: 25
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt
+  value: -6
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt to Equity
+  value: -10.33
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt to Equity
+  value: -0.34
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt to Equity
+  value: 100
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt to Equity
+  value: 144.93
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt to Equity
+  value: 159.3
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt to Equity
+  value: 13.81
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt to Equity
+  value: -1.57
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Tangible Common Equity Ratio
+  value: -29.19
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Tangible Common Equity Ratio
+  value: -37.32
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Tangible Common Equity Ratio
+  value: 22.17
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Tangible Common Equity Ratio
+  value: 30.96
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Tangible Common Equity Ratio
+  value: 26.3
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Tangible Common Equity Ratio
+  value: 59.32
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Tangible Common Equity Ratio
+  value: 71.57
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Current Ratio
+  value: 6.5
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Current Ratio
+  value: 2.87
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Current Ratio
+  value: 1.46
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Current Ratio
+  value: 8.47
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Current Ratio
+  value: 10.81
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Current Ratio
+  value: 8.05
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Current Ratio
+  value: 3.83
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2019
+  item: Cash Conversion Cycle
+  value: null
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2020
+  item: Cash Conversion Cycle
+  value: -24.85
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2021
+  item: Cash Conversion Cycle
+  value: -62.87
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2022
+  item: Cash Conversion Cycle
+  value: -3.26
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2023
+  item: Cash Conversion Cycle
+  value: 102.63
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2024
+  item: Cash Conversion Cycle
+  value: 117.46
+- ticker: DAVE
+  statement: balance
+  fiscalYear: 2025
+  item: Cash Conversion Cycle
+  value: 118.41
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Income
+  value: 1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Income
+  value: -7
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Income
+  value: -20
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Income
+  value: -129
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Income
+  value: -49
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Income
+  value: 58
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Income
+  value: 196
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Depreciation & Amortization
+  value: 1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Depreciation & Amortization
+  value: 2
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Depreciation & Amortization
+  value: 3
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Depreciation & Amortization
+  value: 7
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Depreciation & Amortization
+  value: 6
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Depreciation & Amortization
+  value: 8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Depreciation & Amortization
+  value: 7
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Non-Cash Items
+  value: 20
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Non-Cash Items
+  value: 27
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Non-Cash Items
+  value: 8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Non-Cash Items
+  value: 86
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Non-Cash Items
+  value: 88
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Non-Cash Items
+  value: 61
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Non-Cash Items
+  value: 100
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Stock-Based Compensation
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Stock-Based Compensation
+  value: 2
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Stock-Based Compensation
+  value: 7
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Stock-Based Compensation
+  value: 41
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Stock-Based Compensation
+  value: 27
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Stock-Based Compensation
+  value: 37
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Stock-Based Compensation
+  value: 30
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Deferred Income Taxes
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Deferred Income Taxes
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Deferred Income Taxes
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Deferred Income Taxes
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Deferred Income Taxes
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Deferred Income Taxes
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Deferred Income Taxes
+  value: -34
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Asset Impairment Charge
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Asset Impairment Charge
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Asset Impairment Charge
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Asset Impairment Charge
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Asset Impairment Charge
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Asset Impairment Charge
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Asset Impairment Charge
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Non-Cash Adj
+  value: 20
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Non-Cash Adj
+  value: 25
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Non-Cash Adj
+  value: 1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Non-Cash Adj
+  value: 45
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Non-Cash Adj
+  value: 61
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Non-Cash Adj
+  value: 24
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Non-Cash Adj
+  value: 104
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Chg in Non-Cash Work Cap
+  value: -33
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Chg in Non-Cash Work Cap
+  value: -31
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Chg in Non-Cash Work Cap
+  value: 8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Chg in Non-Cash Work Cap
+  value: -9
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Chg in Non-Cash Work Cap
+  value: -11
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Chg in Non-Cash Work Cap
+  value: -2
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Chg in Non-Cash Work Cap
+  value: -13
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Accts Receiv
+  value: 5
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Accts Receiv
+  value: 2
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Accts Receiv
+  value: 3
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Accts Receiv
+  value: -4
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Accts Receiv
+  value: -6
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Accts Receiv
+  value: -17
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Prepaid Assets
+  value: -41
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Prepaid Assets
+  value: -42
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Prepaid Assets
+  value: -13
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Prepaid Assets
+  value: 4
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Prepaid Assets
+  value: -8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Prepaid Assets
+  value: -2
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Accts Payable
+  value: 8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Accts Payable
+  value: 8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Accts Payable
+  value: 10
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Accts Payable
+  value: 4
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Accts Payable
+  value: -10
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Accts Payable
+  value: 9
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Accts Payable
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Other
+  value: -5
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Other
+  value: 1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Other
+  value: -5
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Other
+  value: -1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Other
+  value: -1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Other
+  value: 3
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Other
+  value: 5
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Operating Activities
+  value: -11
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Operating Activities
+  value: -9
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Operating Activities
+  value: -1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Operating Activities
+  value: -45
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Operating Activities
+  value: 34
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Operating Activities
+  value: 125
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Operating Activities
+  value: 290
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed & Intang
+  value: -3
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed & Intang
+  value: -4
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed & Intang
+  value: -6
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed & Intang
+  value: -9
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed & Intang
+  value: -9
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed & Intang
+  value: -8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed & Intang
+  value: -7
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed Prod Assets
+  value: -1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed Prod Assets
+  value: -1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed Prod Assets
+  value: -1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Intangible Assets
+  value: -2
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Intangible Assets
+  value: -4
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Intangible Assets
+  value: -6
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Intangible Assets
+  value: -9
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Intangible Assets
+  value: -8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Intangible Assets
+  value: -7
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Intangible Assets
+  value: -6
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash (Repurchase) of Equity
+  value: 194
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash (Repurchase) of Equity
+  value: -44
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Increase in Capital Stock
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Increase in Capital Stock
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Increase in Capital Stock
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Increase in Capital Stock
+  value: 195
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Increase in Capital Stock
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Increase in Capital Stock
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Increase in Capital Stock
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Decrease in Capital Stock
+  value: -1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Decrease in Capital Stock
+  value: -44
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Change in LT Investment
+  value: -17
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Change in LT Investment
+  value: 8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Change in LT Investment
+  value: 9
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Change in LT Investment
+  value: -162
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Change in LT Investment
+  value: 57
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Change in LT Investment
+  value: 73
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Change in LT Investment
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dec in LT Investment
+  value: 16
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dec in LT Investment
+  value: 8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dec in LT Investment
+  value: 9
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dec in LT Investment
+  value: 358
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dec in LT Investment
+  value: 212
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dec in LT Investment
+  value: 244
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dec in LT Investment
+  value: 190
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc in LT Investment
+  value: -33
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc in LT Investment
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc in LT Investment
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc in LT Investment
+  value: -520
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc in LT Investment
+  value: -154
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc in LT Investment
+  value: -171
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc in LT Investment
+  value: -190
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash from Divestitures
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash from Divestitures
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash from Divestitures
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash from Divestitures
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash from Divestitures
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash from Divestitures
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash from Divestitures
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for JVs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for JVs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for JVs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for JVs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for JVs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for JVs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for JVs
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Investing Activities
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Investing Activities
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Investing Activities
+  value: -40
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Investing Activities
+  value: -114
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Investing Activities
+  value: -63
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Investing Activities
+  value: -111
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Investing Activities
+  value: -196
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Investing Activities
+  value: -20
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Investing Activities
+  value: 3
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Investing Activities
+  value: -37
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Investing Activities
+  value: -286
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Investing Activities
+  value: -14
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Investing Activities
+  value: -46
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Investing Activities
+  value: -203
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dividends Paid
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dividends Paid
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dividends Paid
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dividends Paid
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dividends Paid
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dividends Paid
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dividends Paid
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Debt
+  value: -16
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Debt
+  value: 4
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Debt
+  value: 66
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Debt
+  value: 120
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Debt
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Debt
+  value: -71
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Debt
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash From Debt
+  value: 2
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash From Debt
+  value: 4
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash From Debt
+  value: 70
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash From Debt
+  value: 140
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash From Debt
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash From Debt
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash From Debt
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Repayments of Debt
+  value: -18
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Repayments of Debt
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Repayments of Debt
+  value: -4
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Repayments of Debt
+  value: -20
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Repayments of Debt
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Repayments of Debt
+  value: -71
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Repayments of Debt
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Financing Activities
+  value: 50
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Financing Activities
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Financing Activities
+  value: -1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Financing Activities
+  value: 7
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Financing Activities
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Financing Activities
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Financing Activities
+  value: -13
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Financing Activities
+  value: 34
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Financing Activities
+  value: 4
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Financing Activities
+  value: 65
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Financing Activities
+  value: 322
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Financing Activities
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Financing Activities
+  value: -71
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Financing Activities
+  value: -56
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Changes in Cash
+  value: 3
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Changes in Cash
+  value: -1
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Changes in Cash
+  value: 27
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Changes in Cash
+  value: -9
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Changes in Cash
+  value: 19
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Changes in Cash
+  value: 8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Changes in Cash
+  value: 31
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA
+  value: 3
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA
+  value: -44
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA
+  value: -127
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA
+  value: -37
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA
+  value: 42
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA
+  value: 194
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: 3.39
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: 0.28
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -28.64
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -62.13
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: -14.15
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 12.19
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 34.96
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow
+  value: -14
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow
+  value: -13
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow
+  value: -7
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow
+  value: -54
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow
+  value: 25
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow
+  value: 118
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow
+  value: 283
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Firm
+  value: -13
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Firm
+  value: 125
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Equity
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Equity
+  value: -5
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Equity
+  value: -7
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Equity
+  value: 74
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Equity
+  value: 33
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Equity
+  value: 54
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Equity
+  value: 290
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow per Basic Share
+  value: -1.16
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow per Basic Share
+  value: -1.15
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow per Basic Share
+  value: -0.6
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow per Basic Share
+  value: -4.59
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow per Basic Share
+  value: 2.11
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow per Basic Share
+  value: 9.38
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow per Basic Share
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Price/Free Cash Flow
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Price/Free Cash Flow
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Price/Free Cash Flow
+  value: 642.24
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Price/Free Cash Flow
+  value: -3.08
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Price/Free Cash Flow
+  value: 2.37
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Price/Free Cash Flow
+  value: 9.05
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Price/Free Cash Flow
+  value: null
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash Flow to Net Income
+  value: -13.89
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash Flow to Net Income
+  value: 1.31
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash Flow to Net Income
+  value: 0.03
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash Flow to Net Income
+  value: 0.35
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash Flow to Net Income
+  value: -0.7
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash Flow to Net Income
+  value: 2.16
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash Flow to Net Income
+  value: 1.48
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2019
+  item: Capital Expenditures
+  value: -3
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2020
+  item: Capital Expenditures
+  value: -4
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2021
+  item: Capital Expenditures
+  value: -6
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2022
+  item: Capital Expenditures
+  value: -9
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2023
+  item: Capital Expenditures
+  value: -9
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2024
+  item: Capital Expenditures
+  value: -8
+- ticker: DAVE
+  statement: cashflow
+  fiscalYear: 2025
+  item: Capital Expenditures
+  value: -7
+
