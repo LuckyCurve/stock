@@ -189,7 +189,6 @@ function loadStars() {
   const match = hash.match(/stars=([^&]*)/);
   if (match && match[1]) {
     state.stars = match[1].split(',').filter(s => s.length > 0);
-    saveStars();
   } else {
     try {
       const stored = localStorage.getItem(STARS_KEY);
@@ -198,18 +197,23 @@ function loadStars() {
       state.stars = [];
     }
   }
+  // Always sync hash from current state
+  syncStarsHash();
+}
+
+function syncStarsHash() {
+  if (state.stars.length > 0) {
+    history.replaceState(null, '', '#stars=' + state.stars.join(','));
+  } else {
+    history.replaceState(null, '', window.location.pathname + window.location.search);
+  }
 }
 
 function saveStars() {
   try {
     localStorage.setItem(STARS_KEY, JSON.stringify(state.stars));
   } catch (e) {}
-  // Sync URL hash
-  if (state.stars.length > 0) {
-    history.replaceState(null, '', '#stars=' + state.stars.join(','));
-  } else {
-    history.replaceState(null, '', window.location.pathname + window.location.search);
-  }
+  syncStarsHash();
 }
 
 function toggleStar(ticker) {
