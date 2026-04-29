@@ -1,0 +1,684 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Munger Analysis Dashboard</title>
+{{{ECHARTS_SCRIPT}}}
+<style>
+* { margin: 0; padding: 0; box-sizing: border-box; }
+body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif; background: #f8f9fa; color: #212529; font-size: 13px; }
+
+/* Layout */
+.app { display: flex; height: 100vh; overflow: hidden; }
+.left-panel { width: 220px; background: #fff; border-right: 1px solid #dee2e6; display: flex; flex-direction: column; flex-shrink: 0; }
+.right-panel { flex: 1; display: flex; flex-direction: column; overflow: hidden; min-width: 0; }
+
+/* Top bar */
+.top-bar { background: #fff; padding: 10px 20px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #dee2e6; }
+.top-bar h1 { font-size: 16px; font-weight: 600; color: #1a73e8; }
+.top-bar .meta { font-size: 11px; color: #6c757d; }
+
+/* Left panel */
+.panel-header { padding: 10px 12px; border-bottom: 1px solid #eee; font-size: 11px; color: #6c757d; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+.ticker-list { flex: 1; overflow-y: auto; padding: 4px 0; }
+.ticker-item { display: flex; align-items: center; padding: 5px 12px; cursor: pointer; transition: background 0.15s; }
+.ticker-item:hover { background: #f0f4ff; }
+.ticker-item.selected { background: #e8f0fe; }
+.ticker-item input[type="checkbox"] { margin-right: 6px; cursor: pointer; accent-color: #1a73e8; }
+.ticker-name { flex: 1; font-size: 12px; font-weight: 500; cursor: pointer; }
+.ticker-name.active { color: #1a73e8; font-weight: 700; }
+.ticker-mini { font-size: 11px; font-weight: 600; min-width: 36px; text-align: right; }
+.ticker-warn { font-size: 10px; margin-left: 2px; }
+.ticker-years { font-size: 10px; color: #adb5bd; margin-left: 4px; }
+
+/* Verdict */
+.verdict { padding: 10px 12px; border-top: 1px solid #eee; font-size: 11px; line-height: 1.6; }
+.verdict-candidate { color: #34a853; font-weight: 600; }
+.verdict-edge { color: #e37400; }
+.verdict-eliminated { color: #ea4335; }
+
+/* Sub tabs */
+.sub-tabs { display: flex; background: #fff; border-bottom: 1px solid #dee2e6; flex-shrink: 0; }
+.sub-tab { padding: 8px 16px; font-size: 12px; color: #6c757d; cursor: pointer; border-bottom: 2px solid transparent; transition: color 0.15s, border-color 0.15s; user-select: none; }
+.sub-tab:hover { color: #1a73e8; }
+.sub-tab.active { color: #1a73e8; font-weight: 600; border-bottom-color: #1a73e8; }
+
+/* Content area */
+.content-area { flex: 1; overflow-y: auto; padding: 16px; }
+
+/* Tables */
+table { width: 100%; border-collapse: collapse; }
+th { background: #e8f0fe; color: #1a73e8; text-align: left; padding: 6px 8px; font-size: 11px; font-weight: 600; cursor: pointer; user-select: none; white-space: nowrap; }
+th:hover { background: #d2e3fc; }
+th .sort-arrow { margin-left: 4px; font-size: 10px; }
+td { padding: 5px 8px; border-bottom: 1px solid #eee; font-size: 11px; }
+tr:hover { background: #f8f9fa; }
+tr.highlight { background: #e8f0fe; }
+tr.highlight:hover { background: #d2e3fc; }
+
+/* Color coding */
+.val-good { color: #34a853; font-weight: 600; }
+.val-warn { color: #e37400; }
+.val-bad { color: #ea4335; font-weight: 600; }
+.val-null { color: #adb5bd; }
+
+/* Chart containers */
+.charts-grid { display: grid; grid-template-columns: 1fr 1fr; gap: 12px; margin-bottom: 16px; }
+.chart-box { background: #fff; border: 1px solid #dee2e6; border-radius: 6px; padding: 8px; }
+.chart-box .chart-title { font-size: 12px; font-weight: 600; color: #1a73e8; margin-bottom: 4px; padding-left: 4px; }
+
+/* Detail page */
+.screen-card { background: #fff; border: 1px solid #dee2e6; border-radius: 6px; padding: 12px; margin-bottom: 12px; }
+.screen-criteria { display: grid; grid-template-columns: repeat(5, 1fr); gap: 8px; }
+.criterion { padding: 8px; border-radius: 4px; text-align: center; font-size: 11px; }
+.criterion.pass { background: #e6f4ea; color: #34a853; }
+.criterion.fail { background: #fce8e6; color: #ea4335; }
+.criterion .c-label { font-weight: 600; margin-bottom: 2px; }
+.criterion .c-value { font-size: 13px; font-weight: 700; }
+
+.stats-row { display: flex; gap: 8px; margin-bottom: 12px; flex-wrap: wrap; }
+.stat-chip { background: #fff; border: 1px solid #dee2e6; border-radius: 4px; padding: 6px 10px; font-size: 11px; }
+.stat-chip .stat-label { color: #6c757d; }
+.stat-chip .stat-value { font-weight: 600; margin-left: 4px; }
+
+/* Warning banner */
+.warn-banner { background: #fef7e0; border: 1px solid #fbbc04; border-radius: 4px; padding: 8px 12px; font-size: 12px; color: #e37400; margin-bottom: 12px; }
+
+/* Statement sub-tabs */
+.stmt-tabs { display: flex; gap: 4px; margin-bottom: 8px; }
+.stmt-tab { padding: 4px 10px; font-size: 11px; border-radius: 3px; cursor: pointer; background: #e8f0fe; color: #1a73e8; transition: background 0.15s, color 0.15s; }
+.stmt-tab:hover { background: #d2e3fc; }
+.stmt-tab.active { background: #1a73e8; color: #fff; }
+
+/* Empty state */
+.empty-state { display: flex; align-items: center; justify-content: center; min-height: 200px; color: #adb5bd; font-size: 13px; }
+
+/* Ratios table highlight */
+.ratio-best { color: #34a853; font-weight: 700; }
+.ratio-worst { color: #ea4335; font-weight: 700; }
+
+/* Scrollbar */
+::-webkit-scrollbar { width: 6px; height: 6px; }
+::-webkit-scrollbar-track { background: transparent; }
+::-webkit-scrollbar-thumb { background: #ccc; border-radius: 3px; }
+::-webkit-scrollbar-thumb:hover { background: #999; }
+</style>
+</head>
+<body>
+<div class="app">
+  <!-- Left Panel -->
+  <div class="left-panel">
+    <div class="panel-header">Tickers (勾选对比 / 点击详情)</div>
+    <div class="ticker-list" id="tickerList"></div>
+    <div class="verdict" id="verdict"></div>
+  </div>
+
+  <!-- Right Panel -->
+  <div class="right-panel">
+    <div class="top-bar">
+      <h1>🧠 Munger Analysis</h1>
+      <div class="meta" id="metaInfo"></div>
+    </div>
+    <div class="sub-tabs" id="subTabs">
+      <div class="sub-tab active" data-tab="summary">📊 汇总排名</div>
+      <div class="sub-tab" data-tab="compare">📈 图表对比</div>
+      <div class="sub-tab" data-tab="detail">🔍 深度详情</div>
+    </div>
+    <div class="content-area" id="contentArea"></div>
+  </div>
+</div>
+
+<script>
+// ========= DATA =========
+const DATA = {{{DATA}}};
+
+// ========= STATE =========
+let state = {
+  checkedTickers: new Set(),
+  activeTicker: null,
+  activeTab: 'summary',
+  sortColumn: 'roic_median',
+  sortAsc: false,
+  activeStatement: 'income',
+};
+
+const MAX_COMPARE = 8;
+const CHART_COLORS = ['#1a73e8','#34a853','#ea4335','#fbbc04','#9c27b0','#00bcd4','#ff5722','#607d8b'];
+
+// Chart instances for cleanup
+let chartInstances = [];
+
+// ========= INIT =========
+function init() {
+  renderTickerList();
+  renderVerdict();
+  renderMetaInfo();
+  renderContent();
+  bindSubTabs();
+}
+
+// ========= LEFT PANEL =========
+function renderTickerList() {
+  const list = document.getElementById('tickerList');
+  list.innerHTML = '';
+  for (const t of DATA.summary) {
+    const div = document.createElement('div');
+    div.className = 'ticker-item' + (state.checkedTickers.has(t.ticker) ? ' selected' : '');
+
+    const cb = document.createElement('input');
+    cb.type = 'checkbox';
+    cb.checked = state.checkedTickers.has(t.ticker);
+    cb.addEventListener('change', (e) => { e.stopPropagation(); toggleCheck(t.ticker); });
+
+    const name = document.createElement('span');
+    name.className = 'ticker-name' + (state.activeTicker === t.ticker ? ' active' : '');
+    name.textContent = t.ticker;
+    name.addEventListener('click', (e) => { e.stopPropagation(); selectTicker(t.ticker); });
+
+    const mini = document.createElement('span');
+    mini.className = 'ticker-mini';
+    mini.textContent = t.roic_median != null ? t.roic_median.toFixed(1) : '\u2014';
+    mini.style.color = t.roic_median >= 20 ? '#34a853' : t.roic_median >= 10 ? '#e37400' : '#ea4335';
+
+    div.appendChild(cb);
+    div.appendChild(name);
+
+    if (t.short_history) {
+      const warn = document.createElement('span');
+      warn.className = 'ticker-warn';
+      warn.textContent = '\u26A0\uFE0F';
+      warn.title = '\u4EC5 ' + t.n_years + ' \u5E74\u6570\u636E';
+      div.appendChild(warn);
+      const yrs = document.createElement('span');
+      yrs.className = 'ticker-years';
+      yrs.textContent = t.n_years + 'y';
+      div.appendChild(yrs);
+    }
+
+    div.appendChild(mini);
+    list.appendChild(div);
+  }
+}
+
+function renderVerdict() {
+  const el = document.getElementById('verdict');
+  const c = DATA.classification;
+  el.innerHTML =
+    '<div class="verdict-candidate">\u2705 \u5019\u9009: ' + (c.candidate.join(', ') || '\u2014') + '</div>' +
+    '<div class="verdict-edge">\u26A0\uFE0F \u8FB9\u7F18: ' + (c.edge.join(', ') || '\u2014') + '</div>' +
+    '<div class="verdict-eliminated">\u274C \u6DD8\u6C70: ' + (c.eliminated.join(', ') || '\u2014') + '</div>';
+}
+
+function renderMetaInfo() {
+  document.getElementById('metaInfo').textContent =
+    DATA.tickers.length + ' tickers \u00B7 roic_cache/';
+}
+
+function toggleCheck(ticker) {
+  if (state.checkedTickers.has(ticker)) {
+    state.checkedTickers.delete(ticker);
+  } else {
+    if (state.checkedTickers.size >= MAX_COMPARE) {
+      alert('\u6700\u591A\u540C\u65F6\u5BF9\u6BD4 ' + MAX_COMPARE + ' \u652F\u80A1\u7968');
+      renderTickerList();
+      return;
+    }
+    state.checkedTickers.add(ticker);
+  }
+  renderTickerList();
+  if (state.activeTab === 'compare' || state.activeTab === 'summary') renderContent();
+}
+
+function selectTicker(ticker) {
+  state.activeTicker = ticker;
+  state.activeTab = 'detail';
+  renderTickerList();
+  setActiveTab('detail');
+  renderContent();
+}
+
+// ========= SUB TABS =========
+function bindSubTabs() {
+  document.querySelectorAll('.sub-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      state.activeTab = tab.dataset.tab;
+      setActiveTab(tab.dataset.tab);
+      renderContent();
+    });
+  });
+}
+
+function setActiveTab(name) {
+  document.querySelectorAll('.sub-tab').forEach(t => {
+    t.classList.toggle('active', t.dataset.tab === name);
+  });
+}
+
+// ========= CONTENT ROUTER =========
+function renderContent() {
+  disposeCharts();
+  const area = document.getElementById('contentArea');
+  switch (state.activeTab) {
+    case 'summary': renderSummary(area); break;
+    case 'compare': renderCompare(area); break;
+    case 'detail':  renderDetail(area);  break;
+  }
+}
+
+function disposeCharts() {
+  chartInstances.forEach(c => c.dispose());
+  chartInstances = [];
+}
+
+// ========= SUMMARY TAB =========
+function renderSummary(area) {
+  let rows = [...DATA.summary];
+  const col = state.sortColumn;
+  rows.sort((a, b) => {
+    let va = a[col], vb = b[col];
+    if (va == null) va = -9999;
+    if (vb == null) vb = -9999;
+    if (typeof va === 'string') return state.sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
+    return state.sortAsc ? va - vb : vb - va;
+  });
+
+  const arrow = (c) => state.sortColumn === c ? (state.sortAsc ? ' \u25B2' : ' \u25BC') : '';
+  const cols = [
+    {key:'ticker',label:'Ticker'}, {key:'n_years',label:'Yrs'}, {key:'cagr',label:'CAGR%'},
+    {key:'roic_median',label:'ROICmed'}, {key:'roic_recent5',label:'Recent5'},
+    {key:'roic_min',label:'MinROIC'}, {key:'lt10_years',label:'<10y'},
+    {key:'net_cash_pct',label:'NetC%'}, {key:'screen_total',label:'\u2705'}
+  ];
+
+  let html = '<table><thead><tr>';
+  for (const c of cols) {
+    html += '<th data-col="' + c.key + '">' + c.label + '<span class="sort-arrow">' + arrow(c.key) + '</span></th>';
+  }
+  html += '</tr></thead><tbody>';
+
+  for (const r of rows) {
+    const hl = state.checkedTickers.has(r.ticker) ? ' class="highlight"' : '';
+    const warn = r.short_history ? ' \u26A0\uFE0F' : '';
+    const yrsStyle = r.short_history ? ' style="color:#adb5bd"' : '';
+    const fmt = (v, d=1) => v != null ? v.toFixed(d) : '<span class="val-null">\u2014</span>';
+    const colorVal = (v, good, bad) => {
+      if (v == null) return '<span class="val-null">\u2014</span>';
+      const s = v.toFixed(1);
+      if (v >= good) return '<span class="val-good">' + s + '</span>';
+      if (v <= bad) return '<span class="val-bad">' + s + '</span>';
+      return s;
+    };
+
+    html += '<tr' + hl + '>';
+    html += '<td><strong>' + r.ticker + '</strong>' + warn + '</td>';
+    html += '<td' + yrsStyle + '>' + r.n_years + '</td>';
+    html += '<td>' + fmt(r.cagr) + '</td>';
+    html += '<td>' + colorVal(r.roic_median, 20, 0) + '</td>';
+    html += '<td>' + colorVal(r.roic_recent5, 20, 0) + '</td>';
+    html += '<td>' + colorVal(r.roic_min, 10, 0) + '</td>';
+    html += '<td>' + r.lt10_years + '</td>';
+    html += '<td>' + colorVal(r.net_cash_pct, 0, -20) + '</td>';
+    html += '<td>' + r.screen_total + '/5</td>';
+    html += '</tr>';
+  }
+  html += '</tbody></table>';
+  area.innerHTML = html;
+
+  // Bind sort
+  area.querySelectorAll('th').forEach(th => {
+    th.addEventListener('click', () => {
+      const col = th.dataset.col;
+      if (state.sortColumn === col) state.sortAsc = !state.sortAsc;
+      else { state.sortColumn = col; state.sortAsc = col === 'ticker'; }
+      renderSummary(area);
+    });
+  });
+}
+
+// ========= COMPARE TAB =========
+function renderCompare(area) {
+  const selected = Array.from(state.checkedTickers);
+  if (selected.length === 0) {
+    area.innerHTML = '<div class="empty-state">\u8BF7\u5728\u5DE6\u4FA7\u52FE\u9009 ticker \u8FDB\u884C\u5BF9\u6BD4</div>';
+    return;
+  }
+
+  const tickers = selected.map(t => DATA.tickers.find(x => x.ticker === t)).filter(Boolean);
+  if (tickers.length === 0) return;
+
+  let html = '<div class="charts-grid">';
+  html += '<div class="chart-box"><div class="chart-title">ROIC \u65F6\u5E8F\u6298\u7EBF\u56FE</div><div id="chartRoic" style="height:280px;"></div></div>';
+  html += '<div class="chart-box"><div class="chart-title">\u8425\u6536/EBIT \u589E\u957F\u66F2\u7EBF</div><div id="chartGrowth" style="height:280px;"></div></div>';
+  html += '<div class="chart-box"><div class="chart-title">\u5173\u952E\u6307\u6807\u67F1\u72B6\u56FE</div><div id="chartBar" style="height:280px;"></div></div>';
+  html += '<div class="chart-box"><div class="chart-title">\u96F7\u8FBE\u56FE\uFF08\u591A\u7EF4\u5BF9\u6BD4\uFF09</div><div id="chartRadar" style="height:280px;"></div></div>';
+  html += '</div>';
+
+  html += renderRatiosTable(tickers);
+  area.innerHTML = html;
+
+  // Render charts after DOM update
+  setTimeout(() => {
+    renderRoicChart(tickers);
+    renderGrowthChart(tickers);
+    renderBarChart(tickers);
+    renderRadarChart(tickers);
+  }, 50);
+}
+
+function renderRoicChart(tickers) {
+  const dom = document.getElementById('chartRoic');
+  if (!dom || typeof echarts === 'undefined') return;
+  const chart = echarts.init(dom);
+  chartInstances.push(chart);
+  const series = tickers.map((t, i) => ({
+    name: t.ticker,
+    type: 'line',
+    data: Object.entries(t.roic_series).map(([y,v]) => [parseInt(y), v]).sort((a,b) => a[0]-b[0]),
+    connectNulls: false,
+    symbolSize: 3,
+    itemStyle: { color: CHART_COLORS[i % CHART_COLORS.length] },
+  }));
+  chart.setOption({
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(1) + '%' : '\u2014' },
+    legend: { bottom: 0, textStyle: { fontSize: 10 } },
+    grid: { top: 10, right: 20, bottom: 40, left: 50 },
+    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25 },
+    yAxis: { type: 'value', name: 'ROIC%', nameLocation: 'end',
+      axisLine: { lineStyle: { color: '#dee2e6' } },
+      splitLine: { lineStyle: { color: '#f0f0f0' } }
+    },
+    series: series,
+  });
+  // Add reference lines via separate series
+  chart.setOption({
+    series: series.map(s => ({...s, markLine: undefined})),
+  });
+  // Use graphic component for reference lines
+  const option = chart.getOption();
+  if (series.length > 0) {
+    chart.setOption({
+      yAxis: {
+        axisLine: { lineStyle: { color: '#dee2e6' } },
+      },
+      series: series.map((s, i) => i === 0 ? {
+        ...s,
+        markLine: {
+          silent: true,
+          symbol: 'none',
+          data: [
+            { yAxis: 10, lineStyle: { color: '#fbbc04', type: 'dashed', width: 1 }, label: { formatter: '10%', fontSize: 9, position: 'insideEndTop' } },
+            { yAxis: 20, lineStyle: { color: '#34a853', type: 'dashed', width: 1 }, label: { formatter: '20%', fontSize: 9, position: 'insideEndTop' } },
+          ]
+        }
+      } : s)
+    });
+  }
+  window.addEventListener('resize', () => chart.resize());
+}
+
+function renderGrowthChart(tickers) {
+  const dom = document.getElementById('chartGrowth');
+  if (!dom || typeof echarts === 'undefined') return;
+  const chart = echarts.init(dom);
+  chartInstances.push(chart);
+  const series = [];
+  tickers.forEach((t, i) => {
+    const rev = t.raw_data.income && t.raw_data.income['Sales/Revenue/Turnover'] || {};
+    const ebit = t.raw_data.income && t.raw_data.income['EBIT'] || {};
+    series.push({
+      name: t.ticker + ' Revenue',
+      type: 'line',
+      symbolSize: 3,
+      data: Object.entries(rev).map(([y,v]) => [parseInt(y), v]).sort((a,b) => a[0]-b[0]),
+      itemStyle: { color: CHART_COLORS[i % CHART_COLORS.length] },
+    });
+    series.push({
+      name: t.ticker + ' EBIT',
+      type: 'line',
+      lineStyle: { type: 'dashed' },
+      symbolSize: 2,
+      data: Object.entries(ebit).filter(([y,v]) => v != null).map(([y,v]) => [parseInt(y), v]).sort((a,b) => a[0]-b[0]),
+      itemStyle: { color: CHART_COLORS[i % CHART_COLORS.length], opacity: 0.6 },
+    });
+  });
+  chart.setOption({
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? '$' + v.toFixed(0) + 'M' : '\u2014' },
+    legend: { bottom: 0, textStyle: { fontSize: 9 }, type: 'scroll' },
+    grid: { top: 10, right: 20, bottom: 40, left: 60 },
+    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25 },
+    yAxis: { type: 'log', name: '$M (log)', nameLocation: 'end',
+      axisLine: { lineStyle: { color: '#dee2e6' } },
+      splitLine: { lineStyle: { color: '#f0f0f0' } }
+    },
+    series: series,
+  });
+  window.addEventListener('resize', () => chart.resize());
+}
+
+function renderBarChart(tickers) {
+  const dom = document.getElementById('chartBar');
+  if (!dom || typeof echarts === 'undefined') return;
+  const chart = echarts.init(dom);
+  chartInstances.push(chart);
+  const names = tickers.map(t => t.ticker);
+  chart.setOption({
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(1) + '%' : '\u2014' },
+    legend: { bottom: 0, textStyle: { fontSize: 10 } },
+    grid: { top: 10, right: 20, bottom: 40, left: 50 },
+    xAxis: { type: 'category', data: names },
+    yAxis: { type: 'value',
+      axisLine: { lineStyle: { color: '#dee2e6' } },
+      splitLine: { lineStyle: { color: '#f0f0f0' } }
+    },
+    series: [
+      { name: 'NetC%', type: 'bar', data: tickers.map(t => t.net_cash_pct), itemStyle: { color: '#34a853' } },
+      { name: 'ROICmed', type: 'bar', data: tickers.map(t => t.roic_median), itemStyle: { color: '#1a73e8' } },
+      { name: 'MinROIC', type: 'bar', data: tickers.map(t => t.roic_min), itemStyle: { color: '#ea4335' } },
+    ],
+  });
+  window.addEventListener('resize', () => chart.resize());
+}
+
+function renderRadarChart(tickers) {
+  const dom = document.getElementById('chartRadar');
+  if (!dom || typeof echarts === 'undefined') return;
+  const chart = echarts.init(dom);
+  chartInstances.push(chart);
+  const indicators = [
+    { name: 'ROIC \u7A33\u5B9A\u6027', max: 100 },
+    { name: '\u589E\u957F', max: 100 },
+    { name: '\u51C0\u73B0\u91D1', max: 100 },
+    { name: 'FCF \u8D28\u91CF', max: 100 },
+    { name: '\u8F7B\u8D44\u4EA7\u5EA6', max: 100 },
+  ];
+  const series = tickers.map((t, i) => {
+    const n_years = t.n_years || 1;
+    const bad_yrs = t.lt10_years || 0;
+    const stability = Math.max(0, 100 - (bad_yrs / n_years * 100));
+    const growth = Math.min(100, Math.max(0, (t.cagr || 0) * 5));
+    const netCash = Math.min(100, Math.max(0, (t.net_cash_pct || 0) + 20));
+    const fcfNi = t.key_ratios && t.key_ratios.fcf_to_ni;
+    const fcfQuality = Math.min(100, (fcfNi != null ? Math.max(0, fcfNi) * 80 : 50));
+    const capexRatio = t.key_ratios && t.key_ratios.capex_ratio;
+    const lightAsset = Math.min(100, Math.max(0, capexRatio != null ? 100 - capexRatio * 5 : 50));
+    return {
+      name: t.ticker,
+      type: 'radar',
+      data: [{ value: [stability, growth, netCash, fcfQuality, lightAsset], name: t.ticker }],
+      itemStyle: { color: CHART_COLORS[i % CHART_COLORS.length] },
+      areaStyle: { opacity: 0.15 },
+    };
+  });
+  chart.setOption({
+    tooltip: {},
+    legend: { bottom: 0, textStyle: { fontSize: 10 } },
+    radar: { indicator: indicators, radius: '60%',
+      splitArea: { areaStyle: { color: ['rgba(26,115,232,0.02)','rgba(26,115,232,0.04)'] } },
+      axisName: { fontSize: 10 }
+    },
+    series: series,
+  });
+  window.addEventListener('resize', () => chart.resize());
+}
+
+function renderRatiosTable(tickers) {
+  const ratioKeys = [
+    { key: 'gross_margin', label: 'Gross Margin %' },
+    { key: 'operating_margin', label: 'Operating Margin %' },
+    { key: 'fcf_to_ni', label: 'FCF / Net Income' },
+    { key: 'capex_ratio', label: 'CapEx / Revenue %' },
+    { key: 'current_ratio', label: 'Current Ratio' },
+  ];
+  let html = '<div class="screen-card"><h3 style="margin-bottom:8px;font-size:13px;color:#1a73e8;">\u5173\u952E\u6BD4\u7387\u5BF9\u6BD4</h3>';
+  html += '<table><thead><tr><th>\u6307\u6807</th>';
+  for (const t of tickers) html += '<th>' + t.ticker + '</th>';
+  html += '</tr></thead><tbody>';
+
+  for (const rk of ratioKeys) {
+    html += '<tr><td>' + rk.label + '</td>';
+    const vals = tickers.map(t => t.key_ratios ? t.key_ratios[rk.key] : null);
+    const nonNull = vals.filter(v => v != null);
+    const isLowerBetter = rk.key === 'capex_ratio';
+    let bestVal = null, worstVal = null;
+    if (nonNull.length > 1) {
+      bestVal = isLowerBetter ? Math.min(...nonNull) : Math.max(...nonNull);
+      worstVal = isLowerBetter ? Math.max(...nonNull) : Math.min(...nonNull);
+    }
+    for (const v of vals) {
+      if (v == null) {
+        html += '<td class="val-null">\u2014</td>';
+      } else {
+        let cls = '';
+        if (bestVal != null && v === bestVal) cls = ' class="ratio-best"';
+        else if (worstVal != null && v === worstVal) cls = ' class="ratio-worst"';
+        const fmt = (rk.key === 'current_ratio' || rk.key === 'fcf_to_ni') ? v.toFixed(2) : v.toFixed(1);
+        html += '<td' + cls + '>' + fmt + '</td>';
+      }
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table></div>';
+  return html;
+}
+
+// ========= DETAIL TAB =========
+function renderDetail(area) {
+  if (!state.activeTicker) {
+    area.innerHTML = '<div class="empty-state">\u8BF7\u5728\u5DE6\u4FA7\u70B9\u51FB ticker \u540D\u67E5\u770B\u8BE6\u60C5</div>';
+    return;
+  }
+  const t = DATA.tickers.find(x => x.ticker === state.activeTicker);
+  if (!t) return;
+
+  let html = '';
+
+  // Warning banner
+  if (t.short_history) {
+    html += '<div class="warn-banner">\u26A0\uFE0F ' + t.ticker + ' \u4EC5\u6709 ' + t.n_years + ' \u5E74\u6570\u636E\uFF08\u5EFA\u8BAE \u226520 \u5E74\uFF09\uFF0C\u7ED3\u8BBA\u53EF\u9760\u6027\u53D7\u9650</div>';
+  }
+
+  // Munger screen
+  html += '<div class="screen-card"><h3 style="margin-bottom:8px;font-size:13px;color:#1a73e8;">\u8292\u683C\u7B5B\u9009</h3>';
+  html += '<div class="screen-criteria">';
+  for (const c of t.munger_screen.criteria) {
+    html += '<div class="criterion ' + (c.pass ? 'pass' : 'fail') + '">';
+    html += '<div class="c-label">' + (c.pass ? '\u2705' : '\u274C') + ' ' + c.name + '</div>';
+    html += '<div class="c-value">' + (c.value != null ? (typeof c.value === 'number' ? c.value.toFixed(1) : c.value) : '\u2014') + '</div>';
+    html += '</div>';
+  }
+  html += '</div></div>';
+
+  // Stats
+  const s = t.roic_stats;
+  if (s && Object.keys(s).length > 0) {
+    html += '<div class="stats-row">';
+    const chips = [
+      ['Min', s.min], ['Max', s.max], ['Mean', s.mean], ['Median', s.median],
+      ['Stdev', s.stdev], ['\u8D1F\u503C\u5E74', s.negative_years], ['<10%\u5E74', s.lt10_years], ['<20%\u5E74', s.lt20_years],
+    ];
+    for (const [label, val] of chips) {
+      html += '<div class="stat-chip"><span class="stat-label">' + label + '</span><span class="stat-value">' + (val != null ? (typeof val === 'number' ? val.toFixed(1) : val) : '\u2014') + '</span></div>';
+    }
+    html += '</div>';
+  }
+
+  // ROIC detail table
+  html += '<div class="screen-card"><h3 style="margin-bottom:8px;font-size:13px;color:#1a73e8;">ROIC \u8BA1\u7B97\u660E\u7EC6\uFF08\u9010\u5E74\u9A8C\u8BC1\uFF09</h3>';
+  html += '<div style="overflow-x:auto;"><table><thead><tr>';
+  html += '<th>Year</th><th>Revenue</th><th>EBIT</th><th>Total Equity</th><th>LT Debt</th><th>ST Debt</th><th>Cash</th><th>NOPAT</th><th>IC</th><th>ROIC%</th>';
+  html += '</tr></thead><tbody>';
+  for (const r of t.roic_detail) {
+    const f = (v) => v != null ? v.toFixed(0) : '<span class="val-null">\u2014</span>';
+    let roicClass = 'val-null';
+    if (r.roic != null) {
+      if (r.roic >= 20) roicClass = 'val-good';
+      else if (r.roic >= 10) roicClass = '';
+      else if (r.roic < 0) roicClass = 'val-bad';
+      else roicClass = 'val-warn';
+    }
+    const roicVal = r.roic != null ? '<span class="' + roicClass + '">' + r.roic.toFixed(1) + '</span>' : '<span class="val-null">\u2014</span>';
+    html += '<tr><td>' + r.year + '</td><td>' + f(r.revenue) + '</td><td>' + f(r.ebit) + '</td><td>' + f(r.total_equity) + '</td><td>' + f(r.lt_debt) + '</td><td>' + f(r.st_debt) + '</td><td>' + f(r.cash) + '</td><td>' + f(r.nopat) + '</td><td>' + f(r.ic) + '</td><td>' + roicVal + '</td></tr>';
+  }
+  html += '</tbody></table></div></div>';
+
+  // Three statements
+  html += '<div class="screen-card"><h3 style="margin-bottom:8px;font-size:13px;color:#1a73e8;">\u4E09\u5927\u62A5\u8868\u539F\u59CB\u6570\u636E</h3>';
+  html += '<div class="stmt-tabs" id="stmtTabs">';
+  for (const st of ['income','balance','cashflow']) {
+    const label = st === 'income' ? 'Income' : st === 'balance' ? 'Balance' : 'Cashflow';
+    html += '<div class="stmt-tab' + (state.activeStatement === st ? ' active' : '') + '" data-stmt="' + st + '">' + label + '</div>';
+  }
+  html += '</div>';
+  html += '<div id="stmtContent"></div></div>';
+
+  area.innerHTML = html;
+
+  // Bind statement tabs
+  document.querySelectorAll('.stmt-tab').forEach(tab => {
+    tab.addEventListener('click', () => {
+      state.activeStatement = tab.dataset.stmt;
+      document.querySelectorAll('.stmt-tab').forEach(t2 => t2.classList.toggle('active', t2.dataset.stmt === state.activeStatement));
+      renderStatement(t);
+    });
+  });
+  renderStatement(t);
+}
+
+function renderStatement(t) {
+  const el = document.getElementById('stmtContent');
+  if (!el) return;
+  const stmt = state.activeStatement;
+  const stmtData = t.raw_data[stmt];
+  if (!stmtData) { el.innerHTML = '<div class="empty-state">\u65E0\u6570\u636E</div>'; return; }
+
+  const items = Object.keys(stmtData);
+  if (items.length === 0) { el.innerHTML = '<div class="empty-state">\u65E0\u6570\u636E</div>'; return; }
+
+  const yearsSet = new Set();
+  for (const item of items) {
+    for (const y of Object.keys(stmtData[item])) yearsSet.add(parseInt(y));
+  }
+  const years = Array.from(yearsSet).sort((a,b) => b-a);
+
+  let html = '<div style="overflow-x:auto;"><table><thead><tr><th>Item</th>';
+  for (const y of years) html += '<th>' + y + '</th>';
+  html += '</tr></thead><tbody>';
+
+  for (const item of items) {
+    html += '<tr><td style="white-space:nowrap;">' + item + '</td>';
+    for (const y of years) {
+      const v = stmtData[item][y] != null ? stmtData[item][y] : stmtData[item][String(y)];
+      html += '<td>' + (v != null ? v.toFixed(0) : '<span class="val-null">\u2014</span>') + '</td>';
+    }
+    html += '</tr>';
+  }
+  html += '</tbody></table></div>';
+  el.innerHTML = html;
+}
+
+// ========= BOOT =========
+document.addEventListener('DOMContentLoaded', init);
+</script>
+</body>
+</html>
