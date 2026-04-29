@@ -565,7 +565,7 @@ function renderRoicChart(tickers) {
   if (minYear === Infinity) { minYear = 1990; maxYear = 2025; }
 
   chart.setOption({
-    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(1) + '%' : '\u2014' },
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
     legend: { bottom: 0, textStyle: { fontSize: 10 } },
     grid: { top: 10, right: 20, bottom: 40, left: 50 },
     xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
@@ -641,7 +641,7 @@ function renderGrowthChart(tickers) {
   if (minYear === Infinity) { minYear = 1990; maxYear = 2025; }
 
   chart.setOption({
-    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? '$' + v.toFixed(0) + 'M' : '\u2014' },
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? '$' + v.toFixed(2) + 'M' : '\u2014' },
     legend: { bottom: 0, textStyle: { fontSize: 9 }, type: 'scroll' },
     grid: { top: 10, right: 20, bottom: 40, left: 60 },
     xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
@@ -661,7 +661,7 @@ function renderBarChart(tickers) {
   chartInstances.push(chart);
   const names = tickers.map(t => t.ticker);
   chart.setOption({
-    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(1) + '%' : '\u2014' },
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
     legend: { bottom: 0, textStyle: { fontSize: 10 } },
     grid: { top: 10, right: 20, bottom: 40, left: 50 },
     xAxis: { type: 'category', data: names },
@@ -709,7 +709,7 @@ function renderRadarChart(tickers) {
     };
   });
   chart.setOption({
-    tooltip: {},
+    tooltip: { trigger: 'item', valueFormatter: v => v != null ? v.toFixed(2) : '\u2014' },
     legend: { bottom: 0, textStyle: { fontSize: 10 } },
     radar: { indicator: indicators, radius: '60%',
       splitArea: { areaStyle: { color: ['rgba(26,115,232,0.02)','rgba(26,115,232,0.04)'] } },
@@ -887,7 +887,7 @@ function renderDetailRevenueChart(t) {
   const minYear = data.length ? data[0][0] : 2000;
   const maxYear = data.length ? data[data.length-1][0] : 2025;
   chart.setOption({
-    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? '$' + v.toFixed(0) + 'M' : '\u2014' },
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? '$' + v.toFixed(2) + 'M' : '\u2014' },
     grid: { top: 10, right: 15, bottom: 24, left: 55 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10 }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
@@ -906,7 +906,7 @@ function renderDetailNetCashChart(t) {
   const minYear = data.length ? data[0][0] : 2000;
   const maxYear = data.length ? data[data.length-1][0] : 2025;
   chart.setOption({
-    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(1) + '%' : '\u2014' },
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
     grid: { top: 10, right: 15, bottom: 24, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
@@ -932,7 +932,7 @@ function renderDetailRoicChart(t) {
   const minYear = data.length ? data[0][0] : 2000;
   const maxYear = data.length ? data[data.length-1][0] : 2025;
   chart.setOption({
-    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(1) + '%' : '\u2014' },
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
     grid: { top: 10, right: 15, bottom: 24, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
