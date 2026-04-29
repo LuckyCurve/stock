@@ -617,6 +617,13 @@ function renderDetail(area) {
     html += '<div class="warn-banner">\u26A0\uFE0F ' + t.ticker + ' \u4EC5\u6709 ' + t.n_years + ' \u5E74\u6570\u636E\uFF08\u5EFA\u8BAE \u226520 \u5E74\uFF09\uFF0C\u7ED3\u8BBA\u53EF\u9760\u6027\u53D7\u9650</div>';
   }
 
+  // Three timeseries charts
+  html += '<div class="charts-grid" style="grid-template-columns:1fr 1fr 1fr;margin-bottom:12px;">';
+  html += '<div class="chart-box"><div class="chart-title">\u6536\u5165\u8D8B\u52BF</div><div id="chartDetailRevenue" style="height:200px;"></div></div>';
+  html += '<div class="chart-box"><div class="chart-title">\u51C0\u73B0\u91D1/\u603B\u8D44\u4EA7</div><div id="chartDetailNetCash" style="height:200px;"></div></div>';
+  html += '<div class="chart-box"><div class="chart-title">ROIC \u8D8B\u52BF</div><div id="chartDetailRoic" style="height:200px;"></div></div>';
+  html += '</div>';
+
   // Munger screen
   html += '<div class="screen-card"><h3 style="margin-bottom:8px;font-size:13px;color:#1a73e8;">\u8292\u683C\u7B5B\u9009</h3>';
   html += '<div class="screen-criteria">';
@@ -696,6 +703,87 @@ function renderDetail(area) {
     });
   });
   renderStatement(t);
+
+  // Render detail timeseries charts
+  setTimeout(() => {
+    renderDetailRevenueChart(t);
+    renderDetailNetCashChart(t);
+    renderDetailRoicChart(t);
+  }, 50);
+}
+
+function renderDetailRevenueChart(t) {
+  const dom = document.getElementById('chartDetailRevenue');
+  if (!dom || typeof echarts === 'undefined') return;
+  const chart = echarts.init(dom);
+  chartInstances.push(chart);
+  const rev = t.raw_data && t.raw_data.income && t.raw_data.income['Sales/Revenue/Turnover'] || {};
+  const data = Object.entries(rev).map(([y,v]) => [parseInt(y), v]).sort((a,b) => a[0]-b[0]);
+  const minYear = data.length ? data[0][0] : 2000;
+  const maxYear = data.length ? data[data.length-1][0] : 2025;
+  chart.setOption({
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? '$' + v.toFixed(0) + 'M' : '\u2014' },
+    grid: { top: 10, right: 15, bottom: 24, left: 55 },
+    xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
+    yAxis: { type: 'value', axisLabel: { fontSize: 10 }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
+    series: [{ type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#1a73e8' }, areaStyle: { color: 'rgba(26,115,232,0.08)' } }],
+  });
+  window.addEventListener('resize', () => chart.resize());
+}
+
+function renderDetailNetCashChart(t) {
+  const dom = document.getElementById('chartDetailNetCash');
+  if (!dom || typeof echarts === 'undefined') return;
+  const chart = echarts.init(dom);
+  chartInstances.push(chart);
+  const series = t.net_cash_pct_series || {};
+  const data = Object.entries(series).map(([y,v]) => [parseInt(y), v]).sort((a,b) => a[0]-b[0]);
+  const minYear = data.length ? data[0][0] : 2000;
+  const maxYear = data.length ? data[data.length-1][0] : 2025;
+  chart.setOption({
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(1) + '%' : '\u2014' },
+    grid: { top: 10, right: 15, bottom: 24, left: 45 },
+    xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
+    yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
+    series: [{
+      type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#34a853' },
+      areaStyle: { color: 'rgba(52,168,83,0.08)' },
+      markLine: {
+        silent: true, symbol: 'none',
+        data: [{ yAxis: 0, lineStyle: { color: '#ea4335', type: 'dashed', width: 1 }, label: { formatter: '0%', fontSize: 9, position: 'insideEndTop' } }]
+      }
+    }],
+  });
+  window.addEventListener('resize', () => chart.resize());
+}
+
+function renderDetailRoicChart(t) {
+  const dom = document.getElementById('chartDetailRoic');
+  if (!dom || typeof echarts === 'undefined') return;
+  const chart = echarts.init(dom);
+  chartInstances.push(chart);
+  const series = t.roic_series || {};
+  const data = Object.entries(series).map(([y,v]) => [parseInt(y), v]).sort((a,b) => a[0]-b[0]);
+  const minYear = data.length ? data[0][0] : 2000;
+  const maxYear = data.length ? data[data.length-1][0] : 2025;
+  chart.setOption({
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(1) + '%' : '\u2014' },
+    grid: { top: 10, right: 15, bottom: 24, left: 45 },
+    xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
+    yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
+    series: [{
+      type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#1a73e8' },
+      areaStyle: { color: 'rgba(26,115,232,0.08)' },
+      markLine: {
+        silent: true, symbol: 'none',
+        data: [
+          { yAxis: 10, lineStyle: { color: '#fbbc04', type: 'dashed', width: 1 }, label: { formatter: '10%', fontSize: 9, position: 'insideEndTop' } },
+          { yAxis: 20, lineStyle: { color: '#34a853', type: 'dashed', width: 1 }, label: { formatter: '20%', fontSize: 9, position: 'insideEndTop' } },
+        ]
+      }
+    }],
+  });
+  window.addEventListener('resize', () => chart.resize());
 }
 
 function renderStatement(t) {

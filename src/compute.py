@@ -92,6 +92,22 @@ def compute_cagr(data):
     return ((end_val / start_val) ** (1 / n) - 1) * 100
 
 
+def compute_net_cash_pct_series(data):
+    """逐年计算 NetC%。返回 {year: net_cash_pct or None}"""
+    assets_years = sorted(data.get('balance', {}).get(ITEM_TOTAL_ASSETS, {}).keys())
+    result = {}
+    for y in assets_years:
+        ltd = _get(data, 'balance', ITEM_LT_DEBT, y) or 0
+        std = _get(data, 'balance', ITEM_ST_DEBT, y) or 0
+        cash = _get(data, 'balance', ITEM_CASH, y) or 0
+        assets = _get(data, 'balance', ITEM_TOTAL_ASSETS, y)
+        if assets and assets != 0:
+            result[y] = (cash - ltd - std) / assets * 100
+        else:
+            result[y] = None
+    return result
+
+
 def compute_key_ratios(data):
     """Compute key ratios for the most recent year with revenue data."""
     rev_years = sorted(data.get('income', {}).get(ITEM_REVENUE, {}).keys())
@@ -199,6 +215,9 @@ def compute_all(ticker_data):
     latest_year = rev_years[-1] if rev_years else None
     net_cash, net_cash_pct = (None, None) if latest_year is None else compute_net_cash(data, latest_year)
 
+    # NetC% series (year-by-year)
+    net_cash_pct_series = compute_net_cash_pct_series(data)
+
     # CAGR
     cagr = compute_cagr(data)
 
@@ -241,6 +260,7 @@ def compute_all(ticker_data):
         'lt10_years': roic_stats.get('lt10_years', 0),
         'net_cash': net_cash,
         'net_cash_pct': net_cash_pct,
+        'net_cash_pct_series': net_cash_pct_series,
         'roic_stats': roic_stats,
         'key_ratios': key_ratios,
         'roic_detail': roic_detail,
