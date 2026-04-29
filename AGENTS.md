@@ -5,11 +5,11 @@
 ## 快速开始
 
 ```bash
-# 1. 抓取财报数据（双击 fetch.bat 或终端运行）
+# 1. 抓取财报数据（双击 scripts/fetch.bat 或终端运行）
 python src/fetch.py
 # 交互式输入 ticker，如: AAPL MSFT GOOGL
 
-# 2. 构建仪表盘（双击 build.bat 或终端运行）
+# 2. 构建仪表盘（双击 scripts/build.bat 或终端运行）
 python src/build.py
 
 # 3. 打开生成的文件
@@ -27,8 +27,9 @@ python src/build.py
 
 ```
 stock/
-├── fetch.bat              # Windows 双击抓取入口
-├── build.bat              # Windows 双击构建入口
+├── scripts/
+│   ├── fetch.bat          # Windows 双击抓取入口
+│   └── build.bat          # Windows 双击构建入口
 ├── src/
 │   ├── fetch.py           # 交互式抓取脚本（opencli roic financials）
 │   ├── build.py           # 构建脚本：解析 YAML → 计算指标 → 嵌入 HTML
