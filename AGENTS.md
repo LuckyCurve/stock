@@ -16,6 +16,13 @@ python src/build.py
 # munger-dashboard.html
 ```
 
+## ⚠️ 修改须知
+
+- **修改页面样式或交互** → 改 `src/template.html`，然后重新 `python src/build.py`
+- **修改指标计算逻辑** → 改 `src/compute.py`
+- **修改数据解析** → 改 `src/parse.py`
+- **不要直接编辑 `munger-dashboard.html`**，它是构建产物，下次构建会被覆盖
+
 ## 项目结构
 
 ```
