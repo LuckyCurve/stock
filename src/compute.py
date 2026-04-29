@@ -172,11 +172,11 @@ def munger_screen(roic_series, net_cash_pct, cagr):
     c5 = cagr is not None and cagr > 5
 
     criteria = [
-        {'name': 'MinROIC ≥ 10%', 'pass': c1, 'value': min(valid_roics) if valid_roics else None},
-        {'name': '<10y ≤ 3', 'pass': c2, 'value': sum(1 for v in valid_roics if v < 10) if valid_roics else None},
-        {'name': 'ROICmed ≥ 20%', 'pass': c3, 'value': statistics.median(valid_roics) if valid_roics else None},
-        {'name': 'NetC% > 0', 'pass': c4, 'value': net_cash_pct},
-        {'name': 'CAGR > 5%', 'pass': c5, 'value': cagr},
+        {'name': 'MinROIC ≥ 10%', 'pass': c1, 'value': min(valid_roics) if valid_roics else None, 'zh': '历史最低 ROIC 是否 ≥ 10%'},
+        {'name': '<10y ≤ 3', 'pass': c2, 'value': sum(1 for v in valid_roics if v < 10) if valid_roics else None, 'zh': 'ROIC 低于 10% 的年数是否 ≤ 3'},
+        {'name': 'ROICmed ≥ 20%', 'pass': c3, 'value': statistics.median(valid_roics) if valid_roics else None, 'zh': 'ROIC 中位数是否 ≥ 20%'},
+        {'name': 'NetC% > 0', 'pass': c4, 'value': net_cash_pct, 'zh': '净现金占总资产比例是否 > 0（正值=净现金企业）'},
+        {'name': 'CAGR > 5%', 'pass': c5, 'value': cagr, 'zh': '营收年复合增长率是否 > 5%'},
     ]
     total = sum(1 for c in criteria if c['pass'])
     return {'criteria': criteria, 'total': total}
