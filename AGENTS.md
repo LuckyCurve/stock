@@ -5,17 +5,11 @@
 ## 快速开始
 
 ```bash
-# 1. 抓取财报数据到缓存（终端手动执行）
-CACHE_DIR="./roic_cache"
-mkdir -p "$CACHE_DIR"
-for T in DECK FIZZ NVR; do
-  OUT="$CACHE_DIR/$T.yaml"
-  if [ ! -s "$OUT" ]; then
-    opencli roic financials "$T" > "$OUT"
-  fi
-done
+# 1. 抓取财报数据（双击 fetch.bat 或终端运行）
+python src/fetch.py
+# 交互式输入 ticker，如: AAPL MSFT GOOGL
 
-# 2. 构建 HTML（双击 build.bat 或终端运行）
+# 2. 构建仪表盘（双击 build.bat 或终端运行）
 python src/build.py
 
 # 3. 打开生成的文件
@@ -26,15 +20,17 @@ python src/build.py
 
 ```
 stock/
+├── fetch.bat              # Windows 双击抓取入口
 ├── build.bat              # Windows 双击构建入口
-├── build.sh               # macOS/Linux 构建入口（调用 src/build.py）
 ├── src/
+│   ├── fetch.py           # 交互式抓取脚本（opencli roic financials）
 │   ├── build.py           # 构建脚本：解析 YAML → 计算指标 → 嵌入 HTML
 │   ├── parse.py           # 手写 YAML 解析器（零依赖，仅支持 roic.ai 格式）
 │   ├── compute.py         # 指标计算：ROIC、CAGR、净现金、芒格筛选、关键比率
 │   └── template.html      # HTML 模板（布局 + CSS + JS + ECharts）
 ├── munger-dashboard.html  # 构建产物（自包含，可直接打开）
 ├── roic_cache/            # 财报数据缓存（YAML，由 opencli roic financials 抓取）
+├── .cache/                # ECharts 缓存（构建时自动下载）
 └── docs/
     └── superpowers/
         ├── specs/         # 设计文档
@@ -48,6 +44,7 @@ stock/
 - **格式**: long-format YAML，每条记录 `{ticker, statement, fiscalYear, item, value}`
 - **单位**: 百万美元，`null` 表示数据缺失
 - **覆盖**: 三大报表（Income / Balance / Cashflow），年度数据
+- **缓存**: 已抓取的 ticker 自动跳过，存放在 `roic_cache/<TICKER>.yaml`
 
 ## 核心指标
 
@@ -79,5 +76,5 @@ stock/
 ## 技术栈
 
 - Python 3（stdlib only，零外部依赖）
-- ECharts 5（构建时内联嵌入）
+- ECharts 5（构建时自动下载并内联嵌入）
 - 纯 HTML/CSS/JS，单文件自包含
