@@ -41,17 +41,30 @@ def main():
     with open(template_path, 'r', encoding='utf-8') as f:
         template = f.read()
 
-    # Read ECharts
+    # Download ECharts if not cached
     echarts_path = os.path.join(script_dir, '.cache', 'echarts.min.js')
     echarts_url = 'https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js'
+    os.makedirs(os.path.dirname(echarts_path), exist_ok=True)
+
+    if not os.path.exists(echarts_path) or os.path.getsize(echarts_path) == 0:
+        print('Downloading ECharts from CDN...', file=sys.stderr)
+        try:
+            import urllib.request
+            urllib.request.urlretrieve(echarts_url, echarts_path)
+            print(f'Downloaded: {os.path.getsize(echarts_path)} bytes', file=sys.stderr)
+        except Exception as e:
+            print(f'WARNING: ECharts download failed: {e}', file=sys.stderr)
+            if os.path.exists(echarts_path):
+                os.remove(echarts_path)
+
     if os.path.exists(echarts_path) and os.path.getsize(echarts_path) > 0:
         with open(echarts_path, 'r', encoding='utf-8') as f:
             echarts_js = f.read()
         echarts_script = '<script>' + echarts_js + '</script>'
-        print(f"ECharts inline: {os.path.getsize(echarts_path)} bytes", file=sys.stderr)
+        print(f'ECharts inline: {os.path.getsize(echarts_path)} bytes', file=sys.stderr)
     else:
         echarts_script = '<script src="' + echarts_url + '"></script>'
-        print("ECharts via CDN", file=sys.stderr)
+        print('ECharts via CDN (download failed)', file=sys.stderr)
 
     # Replace placeholders and write output
     html = template.replace('{{{DATA}}}', data_json)

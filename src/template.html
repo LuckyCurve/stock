@@ -22,10 +22,10 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 /* Left panel */
 .panel-header { padding: 10px 12px; border-bottom: 1px solid #eee; font-size: 11px; color: #6c757d; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
 .ticker-list { flex: 1; overflow-y: auto; padding: 4px 0; }
-.ticker-item { display: flex; align-items: center; padding: 5px 12px; cursor: pointer; transition: background 0.15s; }
+.ticker-item { display: flex; align-items: center; padding: 6px 10px; cursor: pointer; transition: background 0.15s; gap: 4px; }
 .ticker-item:hover { background: #f0f4ff; }
 .ticker-item.selected { background: #e8f0fe; }
-.ticker-item input[type="checkbox"] { margin-right: 6px; cursor: pointer; accent-color: #1a73e8; }
+.ticker-item input[type="checkbox"] { cursor: pointer; accent-color: #1a73e8; width: 16px; height: 16px; flex-shrink: 0; }
 .ticker-name { flex: 1; font-size: 12px; font-weight: 500; cursor: pointer; }
 .ticker-name.active { color: #1a73e8; font-weight: 700; }
 .ticker-mini { font-size: 11px; font-weight: 600; min-width: 36px; text-align: right; }
@@ -165,6 +165,13 @@ function renderTickerList() {
   for (const t of DATA.summary) {
     const div = document.createElement('div');
     div.className = 'ticker-item' + (state.checkedTickers.has(t.ticker) ? ' selected' : '');
+
+    // Clicking the row toggles checkbox; clicking the name goes to detail
+    div.addEventListener('click', (e) => {
+      if (e.target === cb) return; // checkbox handles itself
+      if (e.target === name) return; // name handles itself
+      toggleCheck(t.ticker);
+    });
 
     const cb = document.createElement('input');
     cb.type = 'checkbox';
@@ -379,11 +386,22 @@ function renderRoicChart(tickers) {
     symbolSize: 3,
     itemStyle: { color: CHART_COLORS[i % CHART_COLORS.length] },
   }));
+  // Compute x-axis range from actual data
+  let minYear = Infinity, maxYear = -Infinity;
+  for (const t of tickers) {
+    const years = Object.keys(t.roic_series).map(Number);
+    if (years.length) {
+      minYear = Math.min(minYear, ...years);
+      maxYear = Math.max(maxYear, ...years);
+    }
+  }
+  if (minYear === Infinity) { minYear = 1990; maxYear = 2025; }
+
   chart.setOption({
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(1) + '%' : '\u2014' },
     legend: { bottom: 0, textStyle: { fontSize: 10 } },
     grid: { top: 10, right: 20, bottom: 40, left: 50 },
-    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25 },
+    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
     yAxis: { type: 'value', name: 'ROIC%', nameLocation: 'end',
       axisLine: { lineStyle: { color: '#dee2e6' } },
       splitLine: { lineStyle: { color: '#f0f0f0' } }
@@ -442,11 +460,24 @@ function renderGrowthChart(tickers) {
       itemStyle: { color: CHART_COLORS[i % CHART_COLORS.length], opacity: 0.6 },
     });
   });
+  // Compute x-axis range from actual data
+  let minYear = Infinity, maxYear = -Infinity;
+  tickers.forEach(t => {
+    const rev = t.raw_data.income && t.raw_data.income['Sales/Revenue/Turnover'] || {};
+    const ebit = t.raw_data.income && t.raw_data.income['EBIT'] || {};
+    const allYears = [...Object.keys(rev), ...Object.keys(ebit)].map(Number);
+    if (allYears.length) {
+      minYear = Math.min(minYear, ...allYears);
+      maxYear = Math.max(maxYear, ...allYears);
+    }
+  });
+  if (minYear === Infinity) { minYear = 1990; maxYear = 2025; }
+
   chart.setOption({
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? '$' + v.toFixed(0) + 'M' : '\u2014' },
     legend: { bottom: 0, textStyle: { fontSize: 9 }, type: 'scroll' },
     grid: { top: 10, right: 20, bottom: 40, left: 60 },
-    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25 },
+    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
     yAxis: { type: 'log', name: '$M (log)', nameLocation: 'end',
       axisLine: { lineStyle: { color: '#dee2e6' } },
       splitLine: { lineStyle: { color: '#f0f0f0' } }
