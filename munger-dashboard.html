@@ -657,6 +657,12 @@ function renderDetail(area) {
 
   let html = '';
 
+  // Ticker header
+  html += '<div style="display:flex;align-items:baseline;gap:12px;margin-bottom:12px;">';
+  html += '<span style="font-size:28px;font-weight:800;color:#1a73e8;">' + t.ticker + '</span>';
+  html += '<span style="font-size:12px;color:#6c757d;">' + t.n_years + ' \u5E74 \u00B7 ' + (t.year_start || '\u2014') + '\u2192' + (t.year_end || '\u2014') + '</span>';
+  html += '</div>';
+
   // Warning banner
   if (t.short_history) {
     html += '<div class="warn-banner">\u26A0\uFE0F ' + t.ticker + ' \u4EC5\u6709 ' + t.n_years + ' \u5E74\u6570\u636E\uFF08\u5EFA\u8BAE \u226520 \u5E74\uFF09\uFF0C\u7ED3\u8BBA\u53EF\u9760\u6027\u53D7\u9650</div>';
