@@ -21,6 +21,13 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 
 /* Left panel */
 .panel-header { padding: 10px 12px; border-bottom: 1px solid #eee; font-size: 11px; color: #6c757d; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+.ticker-filter { position: relative; padding: 6px 10px; border-bottom: 1px solid #eee; }
+.ticker-filter input { width: 100%; padding: 5px 24px 5px 8px; border: 1px solid #dee2e6; border-radius: 4px; font-size: 12px; outline: none; background: #fff; }
+.ticker-filter input:focus { border-color: #1a73e8; box-shadow: 0 0 0 2px rgba(26,115,232,0.15); }
+.ticker-filter input::placeholder { color: #adb5bd; }
+.filter-clear { position: absolute; right: 14px; top: 50%; transform: translateY(-50%); cursor: pointer; color: #adb5bd; font-size: 14px; line-height: 1; display: none; user-select: none; }
+.filter-clear:hover { color: #6c757d; }
+.filter-clear.visible { display: block; }
 .ticker-list { flex: 1; overflow-y: auto; padding: 4px 0; }
 .ticker-item { display: flex; align-items: center; padding: 6px 10px; cursor: pointer; transition: background 0.15s; gap: 4px; }
 .ticker-item:hover { background: #f0f4ff; }
@@ -113,6 +120,10 @@ tr.highlight:hover { background: #d2e3fc; }
   <!-- Left Panel -->
   <div class="left-panel">
     <div class="panel-header">Tickers (勾选对比 / 点击详情)</div>
+    <div class="ticker-filter">
+      <input type="text" id="tickerFilter" placeholder="搜索 ticker..." />
+      <span class="filter-clear" id="filterClear">&times;</span>
+    </div>
     <div class="ticker-list" id="tickerList"></div>
     <div class="verdict" id="verdict"></div>
   </div>
@@ -144,6 +155,7 @@ let state = {
   sortColumn: 'roic_median',
   sortAsc: false,
   activeStatement: 'income',
+  filterText: '',
 };
 
 const MAX_COMPARE = 8;
@@ -159,13 +171,16 @@ function init() {
   renderMetaInfo();
   renderContent();
   bindSubTabs();
+  bindFilter();
 }
 
 // ========= LEFT PANEL =========
 function renderTickerList() {
   const list = document.getElementById('tickerList');
   list.innerHTML = '';
+  const filter = state.filterText.toLowerCase();
   for (const t of DATA.summary) {
+    if (filter && !t.ticker.toLowerCase().includes(filter)) continue;
     const div = document.createElement('div');
     div.className = 'ticker-item' + (state.checkedTickers.has(t.ticker) ? ' selected' : '');
 
@@ -246,6 +261,24 @@ function selectTicker(ticker) {
   renderTickerList();
   setActiveTab('detail');
   renderContent();
+}
+
+// ========= FILTER =========
+function bindFilter() {
+  const input = document.getElementById('tickerFilter');
+  const clearBtn = document.getElementById('filterClear');
+  input.addEventListener('input', () => {
+    state.filterText = input.value;
+    clearBtn.classList.toggle('visible', input.value.length > 0);
+    renderTickerList();
+  });
+  clearBtn.addEventListener('click', () => {
+    input.value = '';
+    state.filterText = '';
+    clearBtn.classList.remove('visible');
+    renderTickerList();
+    input.focus();
+  });
 }
 
 // ========= SUB TABS =========
