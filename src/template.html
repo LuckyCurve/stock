@@ -112,6 +112,10 @@ tr.highlight:hover { background: #d2e3fc; }
 /* Tooltip hint for hover-able labels */
 [title] { text-decoration: underline dotted #adb5bd; text-underline-offset: 3px; cursor: help; }
 
+/* Clickable ticker link in summary table */
+.ticker-link { color: #1a73e8; cursor: pointer; text-decoration: none; }
+.ticker-link:hover { text-decoration: underline; }
+
 /* Scrollbar */
 ::-webkit-scrollbar { width: 6px; height: 6px; }
 ::-webkit-scrollbar-track { background: transparent; }
@@ -444,7 +448,7 @@ function renderSummary(area) {
     };
 
     html += '<tr' + hl + '>';
-    html += '<td><strong>' + r.ticker + '</strong>' + warn + '</td>';
+    html += '<td><strong class="ticker-link" data-ticker="' + r.ticker + '">' + r.ticker + '</strong>' + warn + '</td>';
     html += '<td' + yrsStyle + '>' + r.n_years + '</td>';
     html += '<td>' + fmt(r.cagr) + '</td>';
     html += '<td>' + colorVal(r.roic_median, 20, 0) + '</td>';
@@ -457,6 +461,11 @@ function renderSummary(area) {
   }
   html += '</tbody></table>';
   area.innerHTML = html;
+
+  // Bind ticker link clicks
+  area.querySelectorAll('.ticker-link').forEach(el => {
+    el.addEventListener('click', () => selectTicker(el.dataset.ticker));
+  });
 
   // Bind sort
   area.querySelectorAll('th').forEach(th => {
