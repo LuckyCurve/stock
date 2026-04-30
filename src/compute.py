@@ -25,6 +25,13 @@ ITEM_NET_INCOME = 'Net Income, GAAP'
 ITEM_CAP_EX = 'Capital Expenditures'
 ITEM_CURRENT_RATIO = 'Current Ratio'
 
+# EPS items in fallback order (most conservative/clean first)
+ITEM_EPS_DILUTED_CONT = 'Diluted EPS from Cont Ops'
+ITEM_EPS_DILUTED_GAAP = 'Diluted EPS, GAAP'
+ITEM_EPS_BASIC_CONT = 'Basic EPS from Cont Ops'
+ITEM_EPS_BASIC_GAAP = 'Basic EPS, GAAP'
+EPS_FALLBACK = [ITEM_EPS_DILUTED_CONT, ITEM_EPS_DILUTED_GAAP, ITEM_EPS_BASIC_CONT, ITEM_EPS_BASIC_GAAP]
+
 
 def _get(data, statement, item, year, default=None):
     """Safely get a value from organized data. Year can be int or str."""
@@ -103,6 +110,71 @@ def compute_net_cash_pct_series(data):
         assets = _get(data, 'balance', ITEM_TOTAL_ASSETS, y)
         if assets and assets != 0:
             result[y] = (cash - ltd - std) / assets * 100
+        else:
+            result[y] = None
+    return result
+
+
+def compute_eps_series(data):
+    """Return (eps_series, eps_source) using fallback chain.
+    eps_series: {year: eps_value or None}
+    eps_source: str, the item name actually used
+    """
+    income = data.get('income', {})
+    for item in EPS_FALLBACK:
+        series = income.get(item, {})
+        # Check if this item has any non-null values
+        if any(v is not None for v in series.values()):
+            return series, item
+    return {}, None
+
+
+def compute_eps_cagr(eps_series):
+    """Compute EPS CAGR from first positive to last positive year."""
+    if not eps_series:
+        return None
+    years = sorted(int(y) for y in eps_series.keys())
+    if len(years) < 2:
+        return None
+    # Find first year with positive EPS
+    start_val, start_year = None, None
+    for y in years:
+        v = eps_series.get(y) if y in eps_series else eps_series.get(str(y))
+        if v is not None and v > 0:
+            start_val, start_year = v, y
+            break
+    # Find last year with positive EPS
+    end_val, end_year = None, None
+    for y in reversed(years):
+        v = eps_series.get(y) if y in eps_series else eps_series.get(str(y))
+        if v is not None and v > 0:
+            end_val, end_year = v, y
+            break
+    if start_val is None or end_val is None or start_year == end_year:
+        return None
+    n = end_year - start_year
+    if n <= 0:
+        return None
+    return ((end_val / start_val) ** (1 / n) - 1) * 100
+
+
+def compute_eps_yoy_series(eps_series):
+    """Compute year-over-year EPS growth rate series.
+    Returns {year: yoy_percent or None}. First year has no YoY.
+    YoY is null if either year's EPS is missing or <= 0.
+    """
+    if not eps_series:
+        return {}
+    years = sorted(int(y) for y in eps_series.keys())
+    result = {}
+    for i, y in enumerate(years):
+        if i == 0:
+            result[y] = None
+            continue
+        cur = eps_series.get(y) if y in eps_series else eps_series.get(str(y))
+        prev = eps_series.get(years[i-1]) if years[i-1] in eps_series else eps_series.get(str(years[i-1]))
+        if cur is not None and prev is not None and prev > 0:
+            result[y] = (cur / prev - 1) * 100
         else:
             result[y] = None
     return result
@@ -215,6 +287,11 @@ def compute_all(ticker_data):
     latest_year = rev_years[-1] if rev_years else None
     net_cash, net_cash_pct = (None, None) if latest_year is None else compute_net_cash(data, latest_year)
 
+    # EPS
+    eps_series, eps_source = compute_eps_series(data)
+    eps_cagr = compute_eps_cagr(eps_series)
+    eps_yoy_series = compute_eps_yoy_series(eps_series)
+
     # NetC% series (year-by-year)
     net_cash_pct_series = compute_net_cash_pct_series(data)
 
@@ -261,6 +338,9 @@ def compute_all(ticker_data):
         'net_cash': net_cash,
         'net_cash_pct': net_cash_pct,
         'net_cash_pct_series': net_cash_pct_series,
+        'eps_cagr': eps_cagr,
+        'eps_source': eps_source,
+        'eps_yoy_series': eps_yoy_series,
         'roic_stats': roic_stats,
         'key_ratios': key_ratios,
         'roic_detail': roic_detail,
@@ -279,6 +359,7 @@ def build_summary(ticker_results):
             'n_years': t['n_years'],
             'short_history': t['short_history'],
             'cagr': t['cagr'],
+            'eps_cagr': t['eps_cagr'],
             'roic_median': t['roic_median'],
             'roic_recent5': t['roic_recent5'],
             'roic_min': t['roic_min'],

@@ -63,6 +63,7 @@ stock/
 | 净现金 | Cash - LT Debt - ST Debt |
 | NetC% | 净现金 / Total Assets × 100 |
 | CAGR | (末年 Revenue / 首年 Revenue)^(1/年数) - 1 |
+| EPS CAGR | (首年正EPS / 末年正EPS)^(1/年数) - 1，口径 fallback: Diluted Cont Ops → Diluted GAAP → Basic Cont Ops → Basic GAAP |
 
 ## 芒格筛选（5 项）
 
@@ -78,8 +79,8 @@ stock/
 
 - **左侧面板**: ticker 列表（勾选对比 / 点击详情）、搜索过滤、⭐ 星标（localStorage + URL hash 持久化）、芒格筛选结论（默认折叠，点击展开）
 - **📊 汇总排名**: 全 ticker 汇总表，可排序，勾选行高亮，Ticker 名可点击跳转深度详情
-- **📈 图表对比**: ROIC 折线图、营收/EBIT 增长曲线（半对数）、柱状图、雷达图、关键比率对比表
-- **🔍 深度详情**: Ticker 大标题、收入/净现金/ROIC 三联小图表、ROIC 计算明细（逐年验证）、芒格筛选卡、统计摘要、三大报表原始数据
+- **📈 图表对比**: ROIC 折线图、营收/EBIT 增长曲线（半对数）、柱状图、雷达图、EPS YoY% 增长率对比折线图、关键比率对比表
+- **🔍 深度详情**: Ticker 大标题、收入/净现金/ROIC/EPS YoY% 四联图表、ROIC 计算明细（逐年验证）、芒格筛选卡、EPS CAGR 统计芯片、统计摘要、三大报表原始数据
 - **💡 悬停提示**: 英文指标标签悬停显示中文释义
 - **⚠️ 短历史标注**: 数据不足 20 年的 ticker 全局标注提醒
 

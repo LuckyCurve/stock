@@ -433,6 +433,7 @@ function renderSummary(area) {
     {key:'ticker',label:'Ticker',zh:'股票代码'},
     {key:'n_years',label:'Yrs',zh:'数据年限'},
     {key:'cagr',label:'CAGR%',zh:'营收年复合增长率'},
+    {key:'eps_cagr',label:'EPS CAGR%',zh:'每股收益年复合增长率'},
     {key:'roic_median',label:'ROICmed',zh:'ROIC 中位数（全历史）'},
     {key:'roic_recent5',label:'Recent5',zh:'近 5 年 ROIC 均值'},
     {key:'roic_min',label:'MinROIC',zh:'历史最低 ROIC'},
@@ -464,6 +465,7 @@ function renderSummary(area) {
     html += '<td><strong class="ticker-link" data-ticker="' + r.ticker + '">' + r.ticker + '</strong>' + warn + '</td>';
     html += '<td' + yrsStyle + '>' + r.n_years + '</td>';
     html += '<td>' + fmt(r.cagr) + '</td>';
+    html += '<td>' + fmt(r.eps_cagr) + '</td>';
     html += '<td>' + colorVal(r.roic_median, 20, 0) + '</td>';
     html += '<td>' + colorVal(r.roic_recent5, 20, 0) + '</td>';
     html += '<td>' + colorVal(r.roic_min, 10, 0) + '</td>';
@@ -509,6 +511,9 @@ function renderCompare(area) {
   html += '<div class="chart-box"><div class="chart-title">\u96F7\u8FBE\u56FE\uFF08\u591A\u7EF4\u5BF9\u6BD4\uFF09</div><div id="chartRadar" style="height:280px;"></div></div>';
   html += '</div>';
 
+  // EPS YoY% comparison chart (full width below the 2x2 grid)
+  html += '<div class="chart-box" style="margin-bottom:16px;"><div class="chart-title">EPS YoY% 增长率对比</div><div id="chartEpsYoy" style="height:280px;"></div></div>';
+
   html += renderRatiosTable(tickers);
   area.innerHTML = html;
 
@@ -518,6 +523,7 @@ function renderCompare(area) {
     renderGrowthChart(tickers);
     renderBarChart(tickers);
     renderRadarChart(tickers);
+    renderEpsYoyCompareChart(tickers);
   }, 50);
 }
 
@@ -701,6 +707,48 @@ function renderRadarChart(tickers) {
   if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
 
+function renderEpsYoyCompareChart(tickers) {
+  const dom = document.getElementById('chartEpsYoy');
+  if (!dom || typeof echarts === 'undefined') return;
+  const chart = echarts.init(dom);
+  chartInstances.push(chart);
+  const series = tickers.map((t, i) => ({
+    name: t.ticker,
+    type: 'line',
+    data: Object.entries(t.eps_yoy_series || {}).map(([y,v]) => [parseInt(y), v]).sort((a,b) => a[0]-b[0]),
+    connectNulls: false,
+    symbolSize: 3,
+    itemStyle: { color: CHART_COLORS[i % CHART_COLORS.length] },
+  }));
+  let minYear = Infinity, maxYear = -Infinity;
+  for (const t of tickers) {
+    const years = Object.keys(t.eps_yoy_series || {}).map(Number);
+    if (years.length) {
+      minYear = Math.min(minYear, ...years);
+      maxYear = Math.max(maxYear, ...years);
+    }
+  }
+  if (minYear === Infinity) { minYear = 1990; maxYear = 2025; }
+  chart.setOption({
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
+    legend: { bottom: 0, textStyle: { fontSize: 10 } },
+    grid: { top: 10, right: 20, bottom: 40, left: 50 },
+    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
+    yAxis: { type: 'value', name: 'YoY%', nameLocation: 'end',
+      axisLine: { lineStyle: { color: '#dee2e6' } },
+      splitLine: { lineStyle: { color: '#f0f0f0' } }
+    },
+    series: series.map((s, i) => i === 0 ? {
+      ...s,
+      markLine: {
+        silent: true, symbol: 'none',
+        data: [{ yAxis: 0, lineStyle: { color: '#ea4335', type: 'dashed', width: 2 }, label: { formatter: '0%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } }]
+      }
+    } : s),
+  });
+  if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
+}
+
 function renderRatiosTable(tickers) {
   const ratioKeys = [
     { key: 'gross_margin', label: 'Gross Margin %', zh: '毛利率 = 毛利 / 营收 × 100' },
@@ -763,11 +811,12 @@ function renderDetail(area) {
     html += '<div class="warn-banner">\u26A0\uFE0F ' + t.ticker + ' \u4EC5\u6709 ' + t.n_years + ' \u5E74\u6570\u636E\uFF08\u5EFA\u8BAE \u226520 \u5E74\uFF09\uFF0C\u7ED3\u8BBA\u53EF\u9760\u6027\u53D7\u9650</div>';
   }
 
-  // Three timeseries charts
-  html += '<div class="charts-grid" style="grid-template-columns:1fr 1fr 1fr;margin-bottom:12px;">';
+  // Three timeseries charts (2x2 grid)
+  html += '<div class="charts-grid" style="grid-template-columns:1fr 1fr;margin-bottom:12px;">';
   html += '<div class="chart-box"><div class="chart-title">\u6536\u5165\u8D8B\u52BF</div><div id="chartDetailRevenue" style="height:200px;"></div></div>';
   html += '<div class="chart-box"><div class="chart-title">\u51C0\u73B0\u91D1/\u603B\u8D44\u4EA7</div><div id="chartDetailNetCash" style="height:200px;"></div></div>';
   html += '<div class="chart-box"><div class="chart-title">ROIC \u8D8B\u52BF</div><div id="chartDetailRoic" style="height:200px;"></div></div>';
+  html += '<div class="chart-box"><div class="chart-title">EPS YoY% \u589E\u957F\u7387</div><div id="chartDetailEpsYoy" style="height:200px;"></div></div>';
   html += '</div>';
 
   // Munger screen
@@ -791,6 +840,11 @@ function renderDetail(area) {
     ];
     for (const [label, val] of chips) {
       html += '<div class="stat-chip"><span class="stat-label">' + label + '</span><span class="stat-value">' + (val != null ? (typeof val === 'number' ? val.toFixed(1) : val) : '\u2014') + '</span></div>';
+    }
+    // EPS CAGR chip
+    html += '<div class="stat-chip"><span class="stat-label">EPS CAGR%</span><span class="stat-value">' + (t.eps_cagr != null ? t.eps_cagr.toFixed(1) : '\u2014') + '</span></div>';
+    if (t.eps_source) {
+      html += '<div class="stat-chip"><span class="stat-label">EPS\u53E3\u5F84</span><span class="stat-value" style="font-size:9px;">' + t.eps_source + '</span></div>';
     }
     html += '</div>';
   }
@@ -855,6 +909,7 @@ function renderDetail(area) {
     renderDetailRevenueChart(t);
     renderDetailNetCashChart(t);
     renderDetailRoicChart(t);
+    renderDetailEpsYoyChart(t);
   }, 50);
 }
 
@@ -926,6 +981,32 @@ function renderDetailRoicChart(t) {
           { yAxis: 10, lineStyle: { color: '#fbbc04', type: 'dashed', width: 2 }, label: { formatter: '10%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } },
           { yAxis: 20, lineStyle: { color: '#34a853', type: 'dashed', width: 2 }, label: { formatter: '20%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } },
         ]
+      }
+    }],
+  });
+  if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
+}
+
+function renderDetailEpsYoyChart(t) {
+  const dom = document.getElementById('chartDetailEpsYoy');
+  if (!dom || typeof echarts === 'undefined') return;
+  const chart = echarts.init(dom);
+  chartInstances.push(chart);
+  const series = t.eps_yoy_series || {};
+  const data = Object.entries(series).map(([y,v]) => [parseInt(y), v]).sort((a,b) => a[0]-b[0]);
+  const minYear = data.length ? data[0][0] : 2000;
+  const maxYear = data.length ? data[data.length-1][0] : 2025;
+  chart.setOption({
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
+    grid: { top: 10, right: 15, bottom: 24, left: 45 },
+    xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
+    yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
+    series: [{
+      type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#9c27b0' },
+      areaStyle: { color: 'rgba(156,39,176,0.08)' },
+      markLine: {
+        silent: true, symbol: 'none',
+        data: [{ yAxis: 0, lineStyle: { color: '#ea4335', type: 'dashed', width: 2 }, label: { formatter: '0%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } }]
       }
     }],
   });
