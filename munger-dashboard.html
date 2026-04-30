@@ -89,7 +89,12 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .ticker-divider { border-top: 1px solid #dee2e6; margin: 4px 10px; }
 
 /* Verdict */
-.verdict { padding: 10px 12px; border-top: 1px solid #eee; font-size: 11px; line-height: 1.6; }
+.verdict-toggle { padding: 6px 12px; border-top: 1px solid #eee; font-size: 11px; color: #6c757d; cursor: pointer; user-select: none; display: flex; align-items: center; gap: 4px; transition: background 0.15s; }
+.verdict-toggle:hover { background: #f0f4ff; color: #1a73e8; }
+.verdict-toggle .arrow { font-size: 10px; transition: transform 0.2s; }
+.verdict-toggle .arrow.open { transform: rotate(90deg); }
+.verdict-body { padding: 0 12px 8px 12px; font-size: 11px; line-height: 1.6; display: none; }
+.verdict-body.open { display: block; }
 .verdict-candidate { color: #34a853; font-weight: 600; }
 .verdict-edge { color: #e37400; }
 .verdict-eliminated { color: #ea4335; }
@@ -178,7 +183,8 @@ tr.highlight:hover { background: #d2e3fc; }
       <span class="filter-clear" id="filterClear">&times;</span>
     </div>
     <div class="ticker-list" id="tickerList"></div>
-    <div class="verdict" id="verdict"></div>
+    <div class="verdict-toggle" id="verdictToggle"><span class="arrow" id="verdictArrow">▶</span>芒格筛选结论</div>
+    <div class="verdict-body" id="verdictBody"></div>
   </div>
 
   <!-- Right Panel -->
@@ -361,12 +367,20 @@ function renderTickerList() {
 }
 
 function renderVerdict() {
-  const el = document.getElementById('verdict');
+  const body = document.getElementById('verdictBody');
   const c = DATA.classification;
-  el.innerHTML =
+  body.innerHTML =
     '<div class="verdict-candidate">\u2705 \u5019\u9009: ' + (c.candidate.join(', ') || '\u2014') + '</div>' +
     '<div class="verdict-edge">\u26A0\uFE0F \u8FB9\u7F18: ' + (c.edge.join(', ') || '\u2014') + '</div>' +
     '<div class="verdict-eliminated">\u274C \u6DD8\u6C70: ' + (c.eliminated.join(', ') || '\u2014') + '</div>';
+
+  // Bind toggle
+  const toggle = document.getElementById('verdictToggle');
+  const arrow = document.getElementById('verdictArrow');
+  toggle.onclick = () => {
+    const isOpen = body.classList.toggle('open');
+    arrow.classList.toggle('open', isOpen);
+  };
 }
 
 function renderMetaInfo() {
