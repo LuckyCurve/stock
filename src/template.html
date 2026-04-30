@@ -259,14 +259,6 @@ function renderTickerList() {
     const div = document.createElement('div');
     div.className = 'ticker-item' + (state.checkedTickers.has(t.ticker) ? ' selected' : '');
 
-    // Clicking the row toggles checkbox; clicking the name/star handles itself
-    div.addEventListener('click', (e) => {
-      if (e.target === cb) return;
-      if (e.target === name) return;
-      if (e.target === star) return;
-      toggleCheck(t.ticker);
-    });
-
     const cb = document.createElement('input');
     cb.type = 'checkbox';
     cb.checked = state.checkedTickers.has(t.ticker);
