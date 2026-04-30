@@ -150,7 +150,7 @@ tr.highlight:hover { background: #d2e3fc; }
       <div class="meta" id="metaInfo"></div>
     </div>
     <div class="sub-tabs" id="subTabs">
-      <div class="sub-tab active" data-tab="summary">📊 汇总排名</div>
+      <div class="sub-tab active" data-tab="summary">📋 汇总排名</div>
       <div class="sub-tab" data-tab="compare">📈 图表对比</div>
       <div class="sub-tab" data-tab="detail">🔍 深度详情</div>
     </div>
@@ -180,6 +180,12 @@ const CHART_COLORS = ['#1a73e8','#34a853','#ea4335','#fbbc04','#9c27b0','#00bcd4
 // Chart instances for cleanup
 let chartInstances = [];
 
+// Resize handler (single listener, not per-chart)
+let _resizeBound = false;
+function handleResize() {
+  chartInstances.forEach(c => { try { c.resize(); } catch(e) {} });
+}
+
 // ========= INIT =========
 function init() {
   loadStars();
@@ -192,7 +198,7 @@ function init() {
 }
 
 // ========= STARS =========
-const STARS_KEY = 'munger-stars';
+const STARS_KEY = 'stock-screener-stars';
 
 function loadStars() {
   // URL hash takes priority (for sharing)
@@ -574,7 +580,7 @@ function renderRoicChart(tickers) {
       } : s)
     });
   }
-  window.addEventListener('resize', () => chart.resize());
+  if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
 
 function renderGrowthChart(tickers) {
@@ -626,7 +632,7 @@ function renderGrowthChart(tickers) {
     },
     series: series,
   });
-  window.addEventListener('resize', () => chart.resize());
+  if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
 
 function renderBarChart(tickers) {
@@ -650,7 +656,7 @@ function renderBarChart(tickers) {
       { name: 'MinROIC', type: 'bar', data: tickers.map(t => t.roic_min), itemStyle: { color: '#ea4335' } },
     ],
   });
-  window.addEventListener('resize', () => chart.resize());
+  if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
 
 function renderRadarChart(tickers) {
@@ -692,7 +698,7 @@ function renderRadarChart(tickers) {
     },
     series: series,
   });
-  window.addEventListener('resize', () => chart.resize());
+  if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
 
 function renderRatiosTable(tickers) {
@@ -868,7 +874,7 @@ function renderDetailRevenueChart(t) {
     yAxis: { type: 'value', axisLabel: { fontSize: 10 }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
     series: [{ type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#1a73e8' }, areaStyle: { color: 'rgba(26,115,232,0.08)' } }],
   });
-  window.addEventListener('resize', () => chart.resize());
+  if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
 
 function renderDetailNetCashChart(t) {
@@ -894,7 +900,7 @@ function renderDetailNetCashChart(t) {
       }
     }],
   });
-  window.addEventListener('resize', () => chart.resize());
+  if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
 
 function renderDetailRoicChart(t) {
@@ -923,7 +929,7 @@ function renderDetailRoicChart(t) {
       }
     }],
   });
-  window.addEventListener('resize', () => chart.resize());
+  if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
 
 function renderStatement(t) {
