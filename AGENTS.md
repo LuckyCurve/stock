@@ -1,4 +1,4 @@
-# Munger Analysis Dashboard
+# 股票筛选器
 
 芒格式长期投资分析可视化工具。基于 `roic_cache/` 中的 roic.ai 财报 YAML 数据，计算 ROIC、净现金、CAGR 等核心指标，生成自包含的 HTML 仪表盘，支持横向对比与深度验证。
 
