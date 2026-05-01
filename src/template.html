@@ -248,6 +248,27 @@ function toggleStar(ticker) {
   renderTickerList();
 }
 
+function toggleAllStars() {
+  if (state.stars.length === 0) return;
+  const allStarredChecked = state.stars.every(t => state.checkedTickers.has(t));
+  if (allStarredChecked) {
+    for (const t of state.stars) {
+      state.checkedTickers.delete(t);
+    }
+  } else {
+    if (state.stars.length > MAX_COMPARE) {
+      alert('\u6700\u591A\u540C\u65F6\u5BF9\u6BD4 ' + MAX_COMPARE + ' \u652F\u80A1\u7968');
+      return;
+    }
+    state.checkedTickers.clear();
+    for (const t of state.stars) {
+      state.checkedTickers.add(t);
+    }
+  }
+  renderTickerList();
+  if (state.activeTab === 'compare' || state.activeTab === 'summary') renderContent();
+}
+
 // ========= LEFT PANEL =========
 function renderTickerList() {
   const list = document.getElementById('tickerList');
@@ -308,6 +329,21 @@ function renderTickerList() {
     div.appendChild(mini);
     div.appendChild(star);
     list.appendChild(div);
+  }
+
+  // Star select-all button
+  if (state.stars.length > 0) {
+    const visibleStars = state.stars.filter(s => !filter || s.toLowerCase().includes(filter));
+    if (visibleStars.length > 0) {
+      const allStarredChecked = visibleStars.every(t => state.checkedTickers.has(t));
+      const btn = document.createElement('div');
+      btn.className = 'star-select-all';
+      btn.textContent = allStarredChecked
+        ? '\u2B50 \u53D6\u6D88\u5168\u90E8\u661F\u6807 (' + visibleStars.length + ')'
+        : '\u2B50 \u52FE\u9009\u5168\u90E8\u661F\u6807 (' + visibleStars.length + ')';
+      btn.addEventListener('click', (e) => { e.stopPropagation(); toggleAllStars(); });
+      list.appendChild(btn);
+    }
   }
 
   // Render starred group
