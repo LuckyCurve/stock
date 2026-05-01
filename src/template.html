@@ -600,7 +600,7 @@ function renderRoicChart(tickers) {
   chart.setOption({
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
     legend: { bottom: 0, textStyle: { fontSize: 10 } },
-    grid: { top: 10, right: 20, bottom: 40, left: 50 },
+    grid: { top: 10, right: 20, bottom: 55, left: 50 },
     xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
     yAxis: { type: 'value', name: 'ROIC%', nameLocation: 'end',
       axisLine: { lineStyle: { color: '#dee2e6' } },
@@ -676,7 +676,7 @@ function renderGrowthChart(tickers) {
   chart.setOption({
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? '$' + v.toFixed(2) + 'M' : '\u2014' },
     legend: { bottom: 0, textStyle: { fontSize: 9 }, type: 'scroll' },
-    grid: { top: 10, right: 20, bottom: 40, left: 60 },
+    grid: { top: 10, right: 20, bottom: 55, left: 60 },
     xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
     yAxis: { type: 'log', name: '$M (log)', nameLocation: 'end',
       axisLine: { lineStyle: { color: '#dee2e6' } },
@@ -696,7 +696,7 @@ function renderBarChart(tickers) {
   chart.setOption({
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
     legend: { bottom: 0, textStyle: { fontSize: 10 } },
-    grid: { top: 10, right: 20, bottom: 40, left: 50 },
+    grid: { top: 10, right: 20, bottom: 50, left: 50 },
     xAxis: { type: 'category', data: names },
     yAxis: { type: 'value',
       axisLine: { lineStyle: { color: '#dee2e6' } },
@@ -744,7 +744,7 @@ function renderRadarChart(tickers) {
   chart.setOption({
     tooltip: { trigger: 'item', valueFormatter: v => v != null ? v.toFixed(2) : '\u2014' },
     legend: { bottom: 0, textStyle: { fontSize: 10 } },
-    radar: { indicator: indicators, radius: '60%',
+    radar: { indicator: indicators, radius: '55%',
       splitArea: { areaStyle: { color: ['rgba(26,115,232,0.02)','rgba(26,115,232,0.04)'] } },
       axisName: { fontSize: 10 }
     },
@@ -778,7 +778,7 @@ function renderEpsYoyCompareChart(tickers) {
   chart.setOption({
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
     legend: { bottom: 0, textStyle: { fontSize: 10 } },
-    grid: { top: 10, right: 20, bottom: 40, left: 50 },
+    grid: { top: 10, right: 20, bottom: 55, left: 50 },
     xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
     yAxis: { type: 'value', name: 'YoY%', nameLocation: 'end',
       axisLine: { lineStyle: { color: '#dee2e6' } },
@@ -971,7 +971,7 @@ function renderDetailRevenueChart(t) {
   const maxYear = data.length ? data[data.length-1][0] : 2025;
   chart.setOption({
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? '$' + v.toFixed(2) + 'M' : '\u2014' },
-    grid: { top: 10, right: 15, bottom: 24, left: 55 },
+    grid: { top: 10, right: 15, bottom: 30, left: 55 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10 }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
     series: [{ type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#1a73e8' }, areaStyle: { color: 'rgba(26,115,232,0.08)' } }],
@@ -990,7 +990,7 @@ function renderDetailNetCashChart(t) {
   const maxYear = data.length ? data[data.length-1][0] : 2025;
   chart.setOption({
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
-    grid: { top: 10, right: 15, bottom: 24, left: 45 },
+    grid: { top: 10, right: 15, bottom: 30, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
     series: [{
@@ -1016,7 +1016,7 @@ function renderDetailRoicChart(t) {
   const maxYear = data.length ? data[data.length-1][0] : 2025;
   chart.setOption({
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
-    grid: { top: 10, right: 15, bottom: 24, left: 45 },
+    grid: { top: 10, right: 15, bottom: 30, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
     series: [{
@@ -1045,7 +1045,7 @@ function renderDetailEpsYoyChart(t) {
   const maxYear = data.length ? data[data.length-1][0] : 2025;
   chart.setOption({
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
-    grid: { top: 10, right: 15, bottom: 24, left: 45 },
+    grid: { top: 10, right: 15, bottom: 30, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
     series: [{
