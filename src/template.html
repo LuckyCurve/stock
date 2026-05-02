@@ -198,10 +198,27 @@ let state = {
   activeStatement: 'income',
   filterText: '',
   stars: [],
+  filters: {},
+  filterCollapsed: false,
+  balanceMode: 'absolute',
 };
 
 const MAX_COMPARE = 8;
 const CHART_COLORS = ['#1a73e8','#34a853','#ea4335','#fbbc04','#9c27b0','#00bcd4','#ff5722','#607d8b'];
+
+// Filter state
+const FILTER_KEYS = [
+  { key: 'n_years', label: 'Yrs \u2265', op: 'gte', type: 'number' },
+  { key: 'cagr', label: 'CAGR% \u2265', op: 'gte', type: 'number' },
+  { key: 'eps_cagr', label: 'EPS CAGR% \u2265', op: 'gte', type: 'number' },
+  { key: 'roic_median', label: 'ROICmed \u2265', op: 'gte', type: 'number' },
+  { key: 'roic_recent5', label: 'Recent5 \u2265', op: 'gte', type: 'number' },
+  { key: 'roic_min', label: 'MinROIC \u2265', op: 'gte', type: 'number' },
+  { key: 'lt10_years', label: '<10y \u2264', op: 'lte', type: 'number' },
+  { key: 'net_cash_pct', label: 'NetC% \u2265', op: 'gte', type: 'number' },
+  { key: 'screen_total', label: '\u8292\u683C\u7B5B\u9009', op: 'enum', type: 'select', options: ['\u5168\u90E8', '\u22653/5', '=5/5'] },
+];
+const FILTERS_KEY = 'stock-screener-filters';
 
 // Chart instances for cleanup
 let chartInstances = [];
@@ -215,6 +232,7 @@ function handleResize() {
 // ========= INIT =========
 function init() {
   loadStars();
+  loadFilters();
   renderTickerList();
   renderVerdict();
   renderMetaInfo();
@@ -257,6 +275,31 @@ function saveStars() {
     localStorage.setItem(STARS_KEY, JSON.stringify(state.stars));
   } catch (e) {}
   syncStarsHash();
+}
+
+function loadFilters() {
+  try {
+    const stored = localStorage.getItem(FILTERS_KEY);
+    if (stored) {
+      const parsed = JSON.parse(stored);
+      for (const fk of FILTER_KEYS) {
+        if (parsed[fk.key] !== undefined) {
+          state.filters[fk.key] = parsed[fk.key];
+        }
+      }
+    }
+  } catch (e) {}
+}
+
+function saveFilters() {
+  try {
+    localStorage.setItem(FILTERS_KEY, JSON.stringify(state.filters));
+  } catch (e) {}
+}
+
+function resetFilters() {
+  state.filters = {};
+  saveFilters();
 }
 
 function toggleStar(ticker) {
