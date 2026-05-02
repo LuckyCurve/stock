@@ -521,17 +521,78 @@ function disposeCharts() {
   chartInstances = [];
 }
 
+function applyFilters(rows) {
+  return rows.filter(r => {
+    for (const fk of FILTER_KEYS) {
+      const fv = state.filters[fk.key];
+      if (fv === undefined || fv === '' || fv === null) continue;
+      const rv = r[fk.key];
+      if (rv == null) return false;
+      if (fk.op === 'gte' && rv < Number(fv)) return false;
+      if (fk.op === 'lte' && rv > Number(fv)) return false;
+      if (fk.op === 'enum') {
+        if (fv === '\u22653/5' && rv < 3) return false;
+        if (fv === '=5/5' && rv !== 5) return false;
+      }
+    }
+    return true;
+  });
+}
+
+function hasActiveFilters() {
+  return Object.values(state.filters).some(v => v !== undefined && v !== '' && v !== null && v !== '\u5168\u90E8');
+}
+
 // ========= SUMMARY TAB =========
 function renderSummary(area) {
-  let rows = [...DATA.summary];
+  let allRows = [...DATA.summary];
   const col = state.sortColumn;
-  rows.sort((a, b) => {
+  allRows.sort((a, b) => {
     let va = a[col], vb = b[col];
     if (va == null) va = -9999;
     if (vb == null) vb = -9999;
     if (typeof va === 'string') return state.sortAsc ? va.localeCompare(vb) : vb.localeCompare(va);
     return state.sortAsc ? va - vb : vb - va;
   });
+
+  // Apply filters
+  let rows = applyFilters(allRows);
+  const filterPassCount = rows.length;
+  const filterTotalCount = allRows.length;
+
+  // Render filter panel
+  let filterHtml = '<div class="filter-panel' + (state.filterCollapsed ? ' collapsed' : '') + '">';
+  filterHtml += '<div class="filter-header">';
+  filterHtml += '<span class="filter-title" data-count="' + filterPassCount + '/' + filterTotalCount + '">\uD83D\uDD27' + (hasActiveFilters() ? '<span class="badge active"></span>' : '<span class="badge"></span>') + ' \u81EA\u5B9A\u4E49\u7B5B\u9009</span>';
+  filterHtml += '<span class="filter-reset" id="filterReset">\u91CD\u7F6E</span>';
+  filterHtml += '</div>';
+  filterHtml += '<div class="filter-body">';
+  for (const fk of FILTER_KEYS) {
+    if (fk.type === 'number') {
+      const fv = state.filters[fk.key];
+      const isActive = fv !== undefined && fv !== '' && fv !== null;
+      filterHtml += '<div class="filter-item">';
+      filterHtml += '<span class="filter-label">' + fk.label + '</span>';
+      filterHtml += '<input type="number" class="filter-input' + (isActive ? ' filter-active' : '') + '" data-key="' + fk.key + '" value="' + (isActive ? fv : '') + '" placeholder="\u2014" />';
+      filterHtml += '</div>';
+    } else if (fk.type === 'select') {
+      const fv = state.filters[fk.key] || '\u5168\u90E8';
+      filterHtml += '<div class="filter-item">';
+      filterHtml += '<span class="filter-label">' + fk.label + '</span>';
+      filterHtml += '<select class="filter-input" data-key="' + fk.key + '">';
+      for (const opt of fk.options) {
+        filterHtml += '<option' + (fv === opt ? ' selected' : '') + '>' + opt + '</option>';
+      }
+      filterHtml += '</select>';
+      filterHtml += '</div>';
+    }
+  }
+  filterHtml += '</div>';
+  filterHtml += '<div class="filter-footer">';
+  filterHtml += '<span class="filter-status">\u2705 ' + filterPassCount + '/' + filterTotalCount + ' \u901A\u8FC7\u7B5B\u9009</span>';
+  filterHtml += '<span class="filter-toggle" id="filterToggle">' + (state.filterCollapsed ? '\u5C55\u5F00 \u25BC' : '\u6536\u8D77 \u25B2') + '</span>';
+  filterHtml += '</div>';
+  filterHtml += '</div>';
 
   const arrow = (c) => state.sortColumn === c ? (state.sortAsc ? ' \u25B2' : ' \u25BC') : '';
   const cols = [
@@ -547,7 +608,7 @@ function renderSummary(area) {
     {key:'screen_total',label:'\u2705',zh:'芒格筛选通过项数（共 5 项）'}
   ];
 
-  let html = '<table><thead><tr>';
+  let html = filterHtml + '<table><thead><tr>';
   for (const c of cols) {
     html += '<th data-col="' + c.key + '" title="' + c.zh + '">' + c.label + '<span class="sort-arrow">' + arrow(c.key) + '</span></th>';
   }
@@ -602,6 +663,44 @@ function renderSummary(area) {
       renderSummary(area);
     });
   });
+
+  // Bind filter inputs
+  let filterTimer = null;
+  area.querySelectorAll('.filter-input').forEach(input => {
+    const handler = () => {
+      const key = input.dataset.key;
+      const val = input.value.trim();
+      if (val === '' || val === '\u5168\u90E8') {
+        delete state.filters[key];
+      } else {
+        state.filters[key] = val;
+      }
+      saveFilters();
+      input.classList.toggle('filter-active', val !== '' && val !== '\u5168\u90E8');
+      clearTimeout(filterTimer);
+      filterTimer = setTimeout(() => renderSummary(area), 300);
+    };
+    input.addEventListener('input', handler);
+    input.addEventListener('change', handler);
+  });
+
+  // Bind reset
+  const resetBtn = document.getElementById('filterReset');
+  if (resetBtn) {
+    resetBtn.addEventListener('click', () => {
+      resetFilters();
+      renderSummary(area);
+    });
+  }
+
+  // Bind toggle collapse
+  const toggleBtn = document.getElementById('filterToggle');
+  if (toggleBtn) {
+    toggleBtn.addEventListener('click', () => {
+      state.filterCollapsed = !state.filterCollapsed;
+      renderSummary(area);
+    });
+  }
 }
 
 // ========= COMPARE TAB =========
