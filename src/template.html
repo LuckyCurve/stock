@@ -624,13 +624,13 @@ function renderSummary(area) {
       const fv = state.filters[fk.key];
       const isActive = fv !== undefined && fv !== '' && fv !== null;
       filterHtml += '<div class="filter-item">';
-      filterHtml += '<span class="filter-label">' + fk.label + '</span>';
+      filterHtml += '<span class="filter-label" data-tippy-content="' + fk.zh + '">' + fk.label + '</span>';
       filterHtml += '<input type="number" class="filter-input' + (isActive ? ' filter-active' : '') + '" data-key="' + fk.key + '" value="' + (isActive ? fv : '') + '" placeholder="\u2014" />';
       filterHtml += '</div>';
     } else if (fk.type === 'select') {
       const fv = state.filters[fk.key] || '\u5168\u90E8';
       filterHtml += '<div class="filter-item">';
-      filterHtml += '<span class="filter-label">' + fk.label + '</span>';
+      filterHtml += '<span class="filter-label" data-tippy-content="' + fk.zh + '">' + fk.label + '</span>';
       filterHtml += '<select class="filter-input" data-key="' + fk.key + '">';
       for (const opt of fk.options) {
         filterHtml += '<option' + (fv === opt ? ' selected' : '') + '>' + opt + '</option>';
