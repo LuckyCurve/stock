@@ -221,15 +221,15 @@ const CHART_COLORS = ['#1a73e8','#34a853','#ea4335','#fbbc04','#9c27b0','#00bcd4
 
 // Filter state
 const FILTER_KEYS = [
-  { key: 'n_years', label: 'Yrs \u2265', op: 'gte', type: 'number' },
-  { key: 'cagr', label: 'CAGR% \u2265', op: 'gte', type: 'number' },
-  { key: 'eps_cagr', label: 'EPS CAGR% \u2265', op: 'gte', type: 'number' },
-  { key: 'roic_median', label: 'ROICmed \u2265', op: 'gte', type: 'number' },
-  { key: 'roic_recent5', label: 'Recent5 \u2265', op: 'gte', type: 'number' },
-  { key: 'roic_min', label: 'MinROIC \u2265', op: 'gte', type: 'number' },
-  { key: 'lt10_years', label: '<10y \u2264', op: 'lte', type: 'number' },
-  { key: 'net_cash_pct', label: 'NetC% \u2265', op: 'gte', type: 'number' },
-  { key: 'screen_total', label: '\u8292\u683C\u7B5B\u9009', op: 'enum', type: 'select', options: ['\u5168\u90E8', '\u22653/5', '=5/5'] },
+  { key: 'n_years', label: 'Yrs ≥', zh: '数据年限', op: 'gte', type: 'number' },
+  { key: 'cagr', label: 'CAGR% ≥', zh: '营收年复合增长率', op: 'gte', type: 'number' },
+  { key: 'eps_cagr', label: 'EPS CAGR% ≥', zh: '每股收益年复合增长率', op: 'gte', type: 'number' },
+  { key: 'roic_median', label: 'ROICmed ≥', zh: 'ROIC 中位数（全历史）', op: 'gte', type: 'number' },
+  { key: 'roic_recent5', label: 'Recent5 ≥', zh: '近 5 年 ROIC 均值', op: 'gte', type: 'number' },
+  { key: 'roic_min', label: 'MinROIC ≥', zh: '历史最低 ROIC', op: 'gte', type: 'number' },
+  { key: 'lt10_years', label: '<10y ≤', zh: 'ROIC 低于 10% 的年数', op: 'lte', type: 'number' },
+  { key: 'net_cash_pct', label: 'NetC% ≥', zh: '净现金占总资产比例（正值=净现金）', op: 'gte', type: 'number' },
+  { key: 'screen_total', label: '芒格筛选', zh: '芒格筛选通过项数（共 5 项）', op: 'enum', type: 'select', options: ['全部', '≥3/5', '=5/5'] },
 ];
 const FILTERS_KEY = 'stock-screener-filters';
 
