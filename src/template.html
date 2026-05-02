@@ -1029,6 +1029,18 @@ function renderDetail(area) {
   html += '<div class="chart-box"><div class="chart-title">EPS YoY% \u589E\u957F\u7387</div><div id="chartDetailEpsYoy" style="height:200px;"></div></div>';
   html += '</div>';
 
+  // Capital structure chart
+  html += '<div class="chart-box" style="margin-bottom:12px;">';
+  html += '<div style="display:flex;justify-content:space-between;align-items:center;">';
+  html += '<span class="chart-title">\uD83D\uDCCA \u8D44\u672C\u7ED3\u6784</span>';
+  html += '<div class="stmt-tabs" style="margin-bottom:0;">';
+  html += '<div class="stmt-tab' + (state.balanceMode !== 'normalized' ? ' active' : '') + '" data-mode="absolute">\u7EDD\u5BF9\u503C</div>';
+  html += '<div class="stmt-tab' + (state.balanceMode === 'normalized' ? ' active' : '') + '" data-mode="normalized">\u5F52\u4E00\u5316</div>';
+  html += '</div>';
+  html += '</div>';
+  html += '<div id="chartDetailBalance" style="height:250px;"></div>';
+  html += '</div>';
+
   // Munger screen
   html += '<div class="screen-card"><h3 style="margin-bottom:8px;font-size:13px;color:#1a73e8;">\u8292\u683C\u7B5B\u9009</h3>';
   html += '<div class="screen-criteria">';
@@ -1105,6 +1117,16 @@ function renderDetail(area) {
 
   area.innerHTML = html;
 
+  // Bind balance mode tabs
+  document.querySelectorAll('[data-mode]').forEach(tab => {
+    tab.addEventListener('click', () => {
+      state.balanceMode = tab.dataset.mode;
+      document.querySelectorAll('[data-mode]').forEach(t2 => t2.classList.toggle('active', t2.dataset.mode === state.balanceMode));
+      const t = DATA.tickers.find(x => x.ticker === state.activeTicker);
+      if (t) renderDetailBalanceChart(t);
+    });
+  });
+
   // Bind statement tabs
   document.querySelectorAll('.stmt-tab').forEach(tab => {
     tab.addEventListener('click', () => {
@@ -1121,6 +1143,7 @@ function renderDetail(area) {
     renderDetailNetCashChart(t);
     renderDetailRoicChart(t);
     renderDetailEpsYoyChart(t);
+    renderDetailBalanceChart(t);
   }, 50);
 }
 
