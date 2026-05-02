@@ -1074,6 +1074,18 @@ function renderDetail(area) {
   html += '<div class="chart-box"><div class="chart-title">EPS YoY% \u589E\u957F\u7387</div><div id="chartDetailEpsYoy" style="height:200px;"></div></div>';
   html += '</div>';
 
+  // Capital structure chart
+  html += '<div class="chart-box" style="margin-bottom:12px;">';
+  html += '<div style="display:flex;justify-content:space-between;align-items:center;">';
+  html += '<span class="chart-title">\uD83D\uDCCA \u8D44\u672C\u7ED3\u6784</span>';
+  html += '<div class="stmt-tabs" style="margin-bottom:0;">';
+  html += '<div class="stmt-tab' + (state.balanceMode !== 'normalized' ? ' active' : '') + '" data-mode="absolute">\u7EDD\u5BF9\u503C</div>';
+  html += '<div class="stmt-tab' + (state.balanceMode === 'normalized' ? ' active' : '') + '" data-mode="normalized">\u5F52\u4E00\u5316</div>';
+  html += '</div>';
+  html += '</div>';
+  html += '<div id="chartDetailBalance" style="height:250px;"></div>';
+  html += '</div>';
+
   // Munger screen
   html += '<div class="screen-card"><h3 style="margin-bottom:8px;font-size:13px;color:#1a73e8;">\u8292\u683C\u7B5B\u9009</h3>';
   html += '<div class="screen-criteria">';
@@ -1150,6 +1162,16 @@ function renderDetail(area) {
 
   area.innerHTML = html;
 
+  // Bind balance mode tabs
+  document.querySelectorAll('[data-mode]').forEach(tab => {
+    tab.addEventListener('click', () => {
+      state.balanceMode = tab.dataset.mode;
+      document.querySelectorAll('[data-mode]').forEach(t2 => t2.classList.toggle('active', t2.dataset.mode === state.balanceMode));
+      const t = DATA.tickers.find(x => x.ticker === state.activeTicker);
+      if (t) renderDetailBalanceChart(t);
+    });
+  });
+
   // Bind statement tabs
   document.querySelectorAll('.stmt-tab').forEach(tab => {
     tab.addEventListener('click', () => {
@@ -1166,6 +1188,7 @@ function renderDetail(area) {
     renderDetailNetCashChart(t);
     renderDetailRoicChart(t);
     renderDetailEpsYoyChart(t);
+    renderDetailBalanceChart(t);
   }, 50);
 }
 
@@ -1265,6 +1288,107 @@ function renderDetailEpsYoyChart(t) {
         data: [{ yAxis: 0, lineStyle: { color: '#ea4335', type: 'dashed', width: 2 }, label: { formatter: '0%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } }]
       }
     }],
+  });
+  if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
+}
+
+function renderDetailBalanceChart(t) {
+  const dom = document.getElementById('chartDetailBalance');
+  if (!dom || typeof echarts === 'undefined') return;
+
+  // Dispose previous instance if exists
+  const existingIdx = chartInstances.findIndex(c => c.getDom() === dom);
+  if (existingIdx >= 0) {
+    chartInstances[existingIdx].dispose();
+    chartInstances.splice(existingIdx, 1);
+  }
+
+  const chart = echarts.init(dom);
+  chartInstances.push(chart);
+
+  const balance = t.raw_data && t.raw_data.balance;
+  if (!balance) return;
+
+  // Extract 4 series from balance data
+  const equityData = balance['Total Equity'] || {};
+  const ltDebtData = balance['+ LT Debt'] || {};
+  const stDebtData = balance['+ ST Debt'] || {};
+  const cashData = balance['+ Cash & Cash Equivalents'] || {};
+
+  // Collect all years
+  const yearsSet = new Set();
+  for (const item of [equityData, ltDebtData, stDebtData, cashData]) {
+    for (const y of Object.keys(item)) yearsSet.add(parseInt(y));
+  }
+  const years = Array.from(yearsSet).sort((a, b) => a - b);
+  if (years.length === 0) return;
+
+  const isNormalized = state.balanceMode === 'normalized';
+
+  // Build series data arrays
+  const equityArr = [];
+  const ltDebtArr = [];
+  const stDebtArr = [];
+  const cashArr = [];
+
+  for (const y of years) {
+    const eq = equityData[y] ?? equityData[String(y)] ?? 0;
+    const ltd = ltDebtData[y] ?? ltDebtData[String(y)] ?? 0;
+    const std = stDebtData[y] ?? stDebtData[String(y)] ?? 0;
+    const csh = cashData[y] ?? cashData[String(y)] ?? 0;
+    const total = eq + ltd + std + csh;
+    if (isNormalized && total > 0) {
+      equityArr.push((eq / total * 100).toFixed(2) * 1);
+      ltDebtArr.push((ltd / total * 100).toFixed(2) * 1);
+      stDebtArr.push((std / total * 100).toFixed(2) * 1);
+      cashArr.push((csh / total * 100).toFixed(2) * 1);
+    } else if (!isNormalized) {
+      equityArr.push(eq);
+      ltDebtArr.push(ltd);
+      stDebtArr.push(std);
+      cashArr.push(csh);
+    }
+  }
+
+  const series = [
+    { name: '\u6743\u76CA', type: 'bar', stack: 'capital', data: equityArr, itemStyle: { color: '#1a73e8' } },
+    { name: '\u957F\u671F\u503A', type: 'bar', stack: 'capital', data: ltDebtArr, itemStyle: { color: '#fbbc04' } },
+    { name: '\u77ED\u671F\u503A', type: 'bar', stack: 'capital', data: stDebtArr, itemStyle: { color: '#ea4335' } },
+    { name: '\u73B0\u91D1', type: 'bar', stack: 'capital', data: cashArr, itemStyle: { color: '#34a853' } },
+  ];
+
+  chart.setOption({
+    tooltip: {
+      trigger: 'axis',
+      axisPointer: { type: 'shadow' },
+      formatter: function(params) {
+        if (!params || !params.length) return '';
+        const year = params[0].axisValue;
+        let tip = '<strong>' + year + '</strong><br/>';
+        for (const p of params) {
+          if (isNormalized) {
+            tip += p.marker + p.seriesName + ': ' + (p.value != null ? p.value.toFixed(1) + '%' : '\u2014') + '<br/>';
+          } else {
+            tip += p.marker + p.seriesName + ': ' + (p.value != null ? '$' + p.value.toFixed(0) + 'M' : '\u2014') + '<br/>';
+          }
+        }
+        return tip;
+      }
+    },
+    legend: { bottom: 0, textStyle: { fontSize: 10 } },
+    grid: { top: 10, right: 15, bottom: 40, left: isNormalized ? 45 : 60 },
+    xAxis: { type: 'category', data: years.map(String), axisLabel: { fontSize: 10, rotate: years.length > 20 ? 45 : 0 } },
+    yAxis: {
+      type: 'value',
+      name: isNormalized ? '%' : '$M',
+      nameLocation: 'end',
+      max: isNormalized ? 100 : undefined,
+      min: 0,
+      axisLabel: { fontSize: 10, formatter: isNormalized ? v => v + '%' : undefined },
+      axisLine: { lineStyle: { color: '#dee2e6' } },
+      splitLine: { lineStyle: { color: '#f0f0f0' } }
+    },
+    series: series,
   });
   if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
