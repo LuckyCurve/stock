@@ -1,0 +1,6301 @@
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Sales/Revenue/Turnover
+  value: 64
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Sales/Revenue/Turnover
+  value: 278
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Sales/Revenue/Turnover
+  value: 488
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Sales/Revenue/Turnover
+  value: 592
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Sales/Revenue/Turnover
+  value: 691
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Sales/Revenue/Turnover
+  value: 924
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Sales/Revenue/Turnover
+  value: 1134
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: + Sales & Services Revenue
+  value: 64
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: + Sales & Services Revenue
+  value: 278
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: + Sales & Services Revenue
+  value: 488
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: + Sales & Services Revenue
+  value: 592
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: + Sales & Services Revenue
+  value: 691
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: + Sales & Services Revenue
+  value: 924
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: + Sales & Services Revenue
+  value: 1134
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: '- Cost of Revenue'
+  value: 33
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: '- Cost of Revenue'
+  value: 191
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: '- Cost of Revenue'
+  value: 332
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: '- Cost of Revenue'
+  value: 415
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: '- Cost of Revenue'
+  value: 465
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: '- Cost of Revenue'
+  value: 602
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: '- Cost of Revenue'
+  value: 742
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: + Cost of Goods & Services
+  value: 33
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: + Cost of Goods & Services
+  value: 191
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: + Cost of Goods & Services
+  value: 332
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: + Cost of Goods & Services
+  value: 415
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: + Cost of Goods & Services
+  value: 465
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: + Cost of Goods & Services
+  value: 602
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: + Cost of Goods & Services
+  value: 742
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Gross Profit
+  value: 31
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Gross Profit
+  value: 88
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Gross Profit
+  value: 156
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Gross Profit
+  value: 178
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Gross Profit
+  value: 226
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Gross Profit
+  value: 322
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Gross Profit
+  value: 393
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Income
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Income
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Income
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Income
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Income
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Income
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Income
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: '- Operating Expenses'
+  value: 53
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: '- Operating Expenses'
+  value: 221
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: '- Operating Expenses'
+  value: 250
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: '- Operating Expenses'
+  value: 302
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: '- Operating Expenses'
+  value: 278
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: '- Operating Expenses'
+  value: 297
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: '- Operating Expenses'
+  value: 305
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: + Selling, General & Admin
+  value: 52
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: + Selling, General & Admin
+  value: 219
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: + Selling, General & Admin
+  value: 246
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: + Selling, General & Admin
+  value: 288
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: + Selling, General & Admin
+  value: 248
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: + Selling, General & Admin
+  value: 265
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: + Selling, General & Admin
+  value: 265
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: + Research & Development
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: + Research & Development
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: + Research & Development
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: + Research & Development
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: + Research & Development
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: + Research & Development
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: + Research & Development
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Expense
+  value: 1
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Expense
+  value: 2
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Expense
+  value: 4
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Expense
+  value: 14
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Expense
+  value: 30
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Expense
+  value: 32
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Expense
+  value: 40
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Operating Income (Loss)
+  value: -22
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Operating Income (Loss)
+  value: -133
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Operating Income (Loss)
+  value: -94
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Operating Income (Loss)
+  value: -125
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Operating Income (Loss)
+  value: -52
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Operating Income (Loss)
+  value: 25
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Operating Income (Loss)
+  value: 87
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: '- Non-Operating (Income) Loss'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: '- Non-Operating (Income) Loss'
+  value: -5
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: '- Non-Operating (Income) Loss'
+  value: -28
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: '- Non-Operating (Income) Loss'
+  value: 1
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: '- Non-Operating (Income) Loss'
+  value: -3
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: '- Non-Operating (Income) Loss'
+  value: -7
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: '- Non-Operating (Income) Loss'
+  value: 99
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense, Net
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense, Net
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense, Net
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense, Net
+  value: 1
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense, Net
+  value: -3
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense, Net
+  value: -7
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense, Net
+  value: -9
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense
+  value: 1
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: '- Interest Income'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: '- Interest Income'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: '- Interest Income'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: '- Interest Income'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: '- Interest Income'
+  value: 3
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: '- Interest Income'
+  value: 7
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: '- Interest Income'
+  value: 9
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: + Other Non-Op (Income) Loss
+  value: -5
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: + Other Non-Op (Income) Loss
+  value: -28
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: + Other Non-Op (Income) Loss
+  value: 1
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: + Other Non-Op (Income) Loss
+  value: 108
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Pretax Income
+  value: -22
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Pretax Income
+  value: -129
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Pretax Income
+  value: -66
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Pretax Income
+  value: -125
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Pretax Income
+  value: -49
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Pretax Income
+  value: 32
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Pretax Income
+  value: -11
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: '- Income Tax Expense (Benefit)'
+  value: 3
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: '- Income Tax Expense (Benefit)'
+  value: 5
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: '- Income Tax Expense (Benefit)'
+  value: 9
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: '- Income Tax Expense (Benefit)'
+  value: 11
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: '- Income Tax Expense (Benefit)'
+  value: 25
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: '- Income Tax Expense (Benefit)'
+  value: -85
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) from Cont Ops
+  value: -22
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) from Cont Ops
+  value: -132
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) from Cont Ops
+  value: -71
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) from Cont Ops
+  value: -134
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) from Cont Ops
+  value: -60
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) from Cont Ops
+  value: 7
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) from Cont Ops
+  value: 74
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: '- Net Extraordinary Losses (Gains)'
+  value: -265
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: '- Net Extraordinary Losses (Gains)'
+  value: -84
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: '- Net Extraordinary Losses (Gains)'
+  value: -191
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: '- Net Extraordinary Losses (Gains)'
+  value: -84
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 10
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 81
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: + Discontinued Operations
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: + Discontinued Operations
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: + Discontinued Operations
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: + Discontinued Operations
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: + Discontinued Operations
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: + Discontinued Operations
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: + Discontinued Operations
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: + Extraord. & Accounting Changes
+  value: -265
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: + Extraord. & Accounting Changes
+  value: -84
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: + Extraord. & Accounting Changes
+  value: -191
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: + Extraord. & Accounting Changes
+  value: -84
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: + Extraord. & Accounting Changes
+  value: 10
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: + Extraord. & Accounting Changes
+  value: 81
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) Incl. MI
+  value: -22
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) Incl. MI
+  value: 134
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) Incl. MI
+  value: 13
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) Incl. MI
+  value: 57
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) Incl. MI
+  value: 23
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) Incl. MI
+  value: -2
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) Incl. MI
+  value: -7
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: '- Minority Interest'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: '- Minority Interest'
+  value: 133
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: '- Minority Interest'
+  value: 42
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: '- Minority Interest'
+  value: 96
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: '- Minority Interest'
+  value: 42
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: '- Minority Interest'
+  value: -5
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: '- Minority Interest'
+  value: -41
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Net Income, GAAP
+  value: -22
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Net Income, GAAP
+  value: 1
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Net Income, GAAP
+  value: -29
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Net Income, GAAP
+  value: -39
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Net Income, GAAP
+  value: -18
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Net Income, GAAP
+  value: 2
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Net Income, GAAP
+  value: 33
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: '- Other Adjustments'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: '- Other Adjustments'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: '- Other Adjustments'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: '- Other Adjustments'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: '- Other Adjustments'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: '- Other Adjustments'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: '- Other Adjustments'
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Net Income Avail to Common, GAAP
+  value: -22
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Net Income Avail to Common, GAAP
+  value: 1
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Net Income Avail to Common, GAAP
+  value: -29
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Net Income Avail to Common, GAAP
+  value: -39
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Net Income Avail to Common, GAAP
+  value: -18
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Net Income Avail to Common, GAAP
+  value: 2
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Net Income Avail to Common, GAAP
+  value: 33
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: EBIT
+  value: -22
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: EBIT
+  value: -133
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: EBIT
+  value: -94
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: EBIT
+  value: -125
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: EBIT
+  value: -52
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: EBIT
+  value: 25
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: EBIT
+  value: 87
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA
+  value: -22
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA
+  value: -131
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA
+  value: -90
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA
+  value: -110
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA
+  value: -22
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA
+  value: 57
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA
+  value: 127
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: -34.91
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -47.16
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -18.45
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -18.65
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: -3.16
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 6.2
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 11.23
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: EBITA
+  value: -22
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: EBITA
+  value: -133
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: EBITA
+  value: -94
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: EBITA
+  value: -125
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: EBITA
+  value: -52
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: EBITA
+  value: 25
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: EBITA
+  value: 87
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Gross Margin (%)
+  value: 48.34
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Gross Margin (%)
+  value: 31.46
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Gross Margin (%)
+  value: 31.95
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Gross Margin (%)
+  value: 29.98
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Gross Margin (%)
+  value: 32.72
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Gross Margin (%)
+  value: 34.85
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Gross Margin (%)
+  value: 34.62
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Operating Margin (%)
+  value: -35.07
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Operating Margin (%)
+  value: -47.91
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Operating Margin (%)
+  value: -19.32
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Operating Margin (%)
+  value: -21.07
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Operating Margin (%)
+  value: -7.47
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Operating Margin (%)
+  value: 2.71
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Operating Margin (%)
+  value: 7.71
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Profit Margin (%)
+  value: -35.26
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Profit Margin (%)
+  value: 0.39
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Profit Margin (%)
+  value: -5.95
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Profit Margin (%)
+  value: -6.52
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Profit Margin (%)
+  value: -2.65
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Profit Margin (%)
+  value: 0.26
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Profit Margin (%)
+  value: 2.94
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Sales per Employee
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Sales per Employee
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Sales per Employee
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Sales per Employee
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Sales per Employee
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Sales per Employee
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Sales per Employee
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Dividend per Share
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Dividend per Share
+  value: 0.12
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Dividend per Share
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Dividend per Share
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Dividend per Share
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Dividend per Share
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Dividend per Share
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Depreciation Expense
+  value: null
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Depreciation Expense
+  value: 2
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Depreciation Expense
+  value: 4
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Depreciation Expense
+  value: 14
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Depreciation Expense
+  value: 30
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Depreciation Expense
+  value: 32
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Depreciation Expense
+  value: 40
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Basic Weighted Avg Shares
+  value: 45
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Basic Weighted Avg Shares
+  value: 44
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Basic Weighted Avg Shares
+  value: 56
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Basic Weighted Avg Shares
+  value: 64
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Basic Weighted Avg Shares
+  value: 69
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Basic Weighted Avg Shares
+  value: 82
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Basic Weighted Avg Shares
+  value: 96
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS, GAAP
+  value: -0.5
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS, GAAP
+  value: 0.02
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS, GAAP
+  value: -0.52
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS, GAAP
+  value: -0.61
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS, GAAP
+  value: -0.27
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS, GAAP
+  value: 0.03
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS, GAAP
+  value: 0.35
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS from Cont Ops
+  value: -0.5
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS from Cont Ops
+  value: -3.02
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS from Cont Ops
+  value: -1.26
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS from Cont Ops
+  value: -2.11
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS from Cont Ops
+  value: -0.88
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS from Cont Ops
+  value: 0.09
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS from Cont Ops
+  value: 0.77
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Diluted Weighted Avg Shares
+  value: 45
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Diluted Weighted Avg Shares
+  value: 44
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Diluted Weighted Avg Shares
+  value: 57
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Diluted Weighted Avg Shares
+  value: 64
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Diluted Weighted Avg Shares
+  value: 69
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Diluted Weighted Avg Shares
+  value: 88
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Diluted Weighted Avg Shares
+  value: 236
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS, GAAP
+  value: -0.5
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS, GAAP
+  value: 0.02
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS, GAAP
+  value: -0.51
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS, GAAP
+  value: -0.61
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS, GAAP
+  value: -0.27
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS, GAAP
+  value: 0.03
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS, GAAP
+  value: 0.14
+- ticker: RSI
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS from Cont Ops
+  value: -0.5
+- ticker: RSI
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS from Cont Ops
+  value: -3.02
+- ticker: RSI
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS from Cont Ops
+  value: -1.24
+- ticker: RSI
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS from Cont Ops
+  value: -2.11
+- ticker: RSI
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS from Cont Ops
+  value: -0.88
+- ticker: RSI
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS from Cont Ops
+  value: 0.08
+- ticker: RSI
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS from Cont Ops
+  value: 0.31
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Assets
+  value: 17
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Assets
+  value: 294
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Assets
+  value: 342
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Assets
+  value: 264
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Assets
+  value: 229
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Assets
+  value: 285
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Assets
+  value: 407
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash, Cash Equivalents & STI
+  value: 7
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash, Cash Equivalents & STI
+  value: 256
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash, Cash Equivalents & STI
+  value: 281
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash, Cash Equivalents & STI
+  value: 180
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash, Cash Equivalents & STI
+  value: 168
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash, Cash Equivalents & STI
+  value: 229
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash, Cash Equivalents & STI
+  value: 336
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash & Cash Equivalents
+  value: 7
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash & Cash Equivalents
+  value: 256
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash & Cash Equivalents
+  value: 281
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash & Cash Equivalents
+  value: 180
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash & Cash Equivalents
+  value: 168
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash & Cash Equivalents
+  value: 229
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash & Cash Equivalents
+  value: 336
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts & Notes Receiv
+  value: 5
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts & Notes Receiv
+  value: 30
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts & Notes Receiv
+  value: 34
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts & Notes Receiv
+  value: 47
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts & Notes Receiv
+  value: 44
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts & Notes Receiv
+  value: 33
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts & Notes Receiv
+  value: 36
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Receivable, Net
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Receivable, Net
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Receivable, Net
+  value: 6
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Receivable, Net
+  value: 11
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Receivable, Net
+  value: 11
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Receivable, Net
+  value: 15
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Receivable, Net
+  value: 16
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Receivable, Net
+  value: 3
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Receivable, Net
+  value: 29
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Receivable, Net
+  value: 28
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Receivable, Net
+  value: 36
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Receivable, Net
+  value: 33
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Receivable, Net
+  value: 18
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Receivable, Net
+  value: 20
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventories
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventories
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventories
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventories
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventories
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventories
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventories
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Raw Materials
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Raw Materials
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Raw Materials
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Raw Materials
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Raw Materials
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Raw Materials
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Raw Materials
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Work In Process
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Work In Process
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Work In Process
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Work In Process
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Work In Process
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Work In Process
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Work In Process
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Finished Goods
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Finished Goods
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Finished Goods
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Finished Goods
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Finished Goods
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Finished Goods
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Finished Goods
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventory Adjustments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventory Adjustments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventory Adjustments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventory Adjustments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventory Adjustments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventory Adjustments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventory Adjustments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Inventory
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Inventory
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Inventory
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Inventory
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Inventory
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Inventory
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Inventory
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Assets
+  value: 5
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Assets
+  value: 9
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Assets
+  value: 27
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Assets
+  value: 38
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Assets
+  value: 16
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Assets
+  value: 23
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Assets
+  value: 35
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Prepaid Expenses
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Prepaid Expenses
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Prepaid Expenses
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Prepaid Expenses
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Prepaid Expenses
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Prepaid Expenses
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Prepaid Expenses
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Assets
+  value: 8
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Assets
+  value: 14
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Assets
+  value: 67
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Assets
+  value: 86
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Assets
+  value: 90
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Assets
+  value: 94
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Assets
+  value: 252
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip, Net
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip, Net
+  value: 3
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip, Net
+  value: 9
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip, Net
+  value: 12
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip, Net
+  value: 10
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip, Net
+  value: 10
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip, Net
+  value: 11
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip
+  value: 5
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip
+  value: 11
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip
+  value: 16
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip
+  value: 19
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip
+  value: 20
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip
+  value: 26
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: '- Accumulated Depreciation'
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: '- Accumulated Depreciation'
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: '- Accumulated Depreciation'
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: '- Accumulated Depreciation'
+  value: 4
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: '- Accumulated Depreciation'
+  value: 9
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: '- Accumulated Depreciation'
+  value: 11
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: '- Accumulated Depreciation'
+  value: 15
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Receivables
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Assets
+  value: 8
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Assets
+  value: 11
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Assets
+  value: 58
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Assets
+  value: 74
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Assets
+  value: 80
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Assets
+  value: 85
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Assets
+  value: 241
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Total Intangible Assets
+  value: 7
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Total Intangible Assets
+  value: 10
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Total Intangible Assets
+  value: 53
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Total Intangible Assets
+  value: 69
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Total Intangible Assets
+  value: 75
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Total Intangible Assets
+  value: 77
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Total Intangible Assets
+  value: 76
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Goodwill
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Goodwill
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Goodwill
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Goodwill
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Goodwill
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Goodwill
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Goodwill
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Intangible Assets
+  value: 7
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Intangible Assets
+  value: 10
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Intangible Assets
+  value: 53
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Intangible Assets
+  value: 69
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Intangible Assets
+  value: 75
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Intangible Assets
+  value: 77
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Intangible Assets
+  value: 76
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Assets
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Assets
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Assets
+  value: 5
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Assets
+  value: 5
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Assets
+  value: 5
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Assets
+  value: 7
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Assets
+  value: 164
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Total Assets
+  value: 25
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Total Assets
+  value: 309
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Total Assets
+  value: 409
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Total Assets
+  value: 350
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Total Assets
+  value: 319
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Total Assets
+  value: 379
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Total Assets
+  value: 659
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Payables & Accruals
+  value: 13
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Payables & Accruals
+  value: 37
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Payables & Accruals
+  value: 49
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Payables & Accruals
+  value: 85
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Payables & Accruals
+  value: 78
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Payables & Accruals
+  value: 98
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Payables & Accruals
+  value: 137
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Payable
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Payable
+  value: 12
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Payable
+  value: 7
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Payable
+  value: 30
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Payable
+  value: 32
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Payable
+  value: 26
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Payable
+  value: 42
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Taxes
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Taxes
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Taxes
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Taxes
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Taxes
+  value: 8
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Taxes
+  value: 17
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Taxes
+  value: 32
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Payables & Accruals
+  value: 12
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Payables & Accruals
+  value: 23
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Payables & Accruals
+  value: 42
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Payables & Accruals
+  value: 55
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Payables & Accruals
+  value: 37
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Payables & Accruals
+  value: 55
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Payables & Accruals
+  value: 63
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Debt
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Debt
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Debt
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Debt
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Debt
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Debt
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Debt
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Finance Leases
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Finance Leases
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Finance Leases
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Finance Leases
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Finance Leases
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Finance Leases
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Finance Leases
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Liabilities
+  value: 13
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Liabilities
+  value: 364
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Liabilities
+  value: 35
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Liabilities
+  value: 59
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Liabilities
+  value: 59
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Liabilities
+  value: 63
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Liabilities
+  value: 71
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Liabilities
+  value: 13
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Liabilities
+  value: 363
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Liabilities
+  value: 33
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Liabilities
+  value: 57
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Liabilities
+  value: 57
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Liabilities
+  value: 63
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Liabilities
+  value: 71
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Liabilities
+  value: 26
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Liabilities
+  value: 401
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Liabilities
+  value: 84
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Liabilities
+  value: 144
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Liabilities
+  value: 138
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Liabilities
+  value: 163
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Liabilities
+  value: 210
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Debt
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Debt
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Debt
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Debt
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Debt
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Debt
+  value: 3
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Debt
+  value: 4
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Borrowings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Finance Leases
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Finance Leases
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Finance Leases
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Finance Leases
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Finance Leases
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Finance Leases
+  value: 3
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Finance Leases
+  value: 4
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Liabilities
+  value: 3
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Liabilities
+  value: 174
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Liabilities
+  value: 16
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Liabilities
+  value: 14
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Liabilities
+  value: 13
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Liabilities
+  value: 15
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Liabilities
+  value: 141
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Liabilities
+  value: 3
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Liabilities
+  value: 4
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Liabilities
+  value: 16
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Liabilities
+  value: 14
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Liabilities
+  value: 12
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Liabilities
+  value: 11
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Liabilities
+  value: 9
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Pension Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Pension Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Pension Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Pension Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Pension Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Pension Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Pension Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Liabilities
+  value: 170
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Liabilities
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Liabilities
+  value: 5
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Liabilities
+  value: 132
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Liabilities
+  value: 3
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Liabilities
+  value: 175
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Liabilities
+  value: 17
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Liabilities
+  value: 16
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Liabilities
+  value: 15
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Liabilities
+  value: 18
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Liabilities
+  value: 145
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities
+  value: 29
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities
+  value: 576
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities
+  value: 101
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities
+  value: 159
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities
+  value: 152
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities
+  value: 181
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities
+  value: 355
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Share Capital & APIC
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Share Capital & APIC
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Share Capital & APIC
+  value: 167
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Share Capital & APIC
+  value: 178
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Share Capital & APIC
+  value: 192
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Share Capital & APIC
+  value: 218
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Share Capital & APIC
+  value: 252
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Common Stock
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Common Stock
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Common Stock
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Common Stock
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Common Stock
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Common Stock
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Common Stock
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Additional Paid in Capital
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Additional Paid in Capital
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Additional Paid in Capital
+  value: 167
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Additional Paid in Capital
+  value: 178
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Additional Paid in Capital
+  value: 192
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Additional Paid in Capital
+  value: 218
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Additional Paid in Capital
+  value: 252
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: '- Treasury Stock'
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: '- Treasury Stock'
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: '- Treasury Stock'
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: '- Treasury Stock'
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: '- Treasury Stock'
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: '- Treasury Stock'
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: '- Treasury Stock'
+  value: 3
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Retained Earnings
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Retained Earnings
+  value: -62
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Retained Earnings
+  value: -81
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Retained Earnings
+  value: -120
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Retained Earnings
+  value: -138
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Retained Earnings
+  value: -136
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Retained Earnings
+  value: -103
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Equity
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Equity
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Equity
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Equity
+  value: -2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Equity
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Equity
+  value: -3
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Equity
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Equity Before Minority Interest
+  value: -3
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Equity Before Minority Interest
+  value: -62
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Equity Before Minority Interest
+  value: 85
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Equity Before Minority Interest
+  value: 56
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Equity Before Minority Interest
+  value: 54
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Equity Before Minority Interest
+  value: 79
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Equity Before Minority Interest
+  value: 147
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: + Minority/Non Controlling Interest
+  value: -206
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: + Minority/Non Controlling Interest
+  value: 222
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: + Minority/Non Controlling Interest
+  value: 135
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: + Minority/Non Controlling Interest
+  value: 112
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: + Minority/Non Controlling Interest
+  value: 120
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: + Minority/Non Controlling Interest
+  value: 156
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Total Equity
+  value: -3
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Total Equity
+  value: -267
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Total Equity
+  value: 308
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Total Equity
+  value: 191
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Total Equity
+  value: 166
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Total Equity
+  value: 198
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Total Equity
+  value: 303
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities & Equity
+  value: 25
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities & Equity
+  value: 309
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities & Equity
+  value: 409
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities & Equity
+  value: 350
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities & Equity
+  value: 319
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities & Equity
+  value: 379
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities & Equity
+  value: 659
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Shares Outstanding
+  value: 45
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Shares Outstanding
+  value: 45
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Shares Outstanding
+  value: 61
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Shares Outstanding
+  value: 65
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Shares Outstanding
+  value: 72
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Shares Outstanding
+  value: 91
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Shares Outstanding
+  value: 100
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Number of Employees
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Number of Employees
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Number of Employees
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Number of Employees
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Number of Employees
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Number of Employees
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Number of Employees
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Capital Leases - Total
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Capital Leases - Total
+  value: 1
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Capital Leases - Total
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Capital Leases - Total
+  value: 2
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Capital Leases - Total
+  value: 4
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Capital Leases - Total
+  value: 5
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Capital Leases - Total
+  value: 6
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt
+  value: -7
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt
+  value: -256
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt
+  value: -281
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt
+  value: -180
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt
+  value: -168
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt
+  value: -229
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt
+  value: -336
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt to Equity
+  value: 205.02
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt to Equity
+  value: 95.62
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt to Equity
+  value: -91.33
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt to Equity
+  value: -94.16
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt to Equity
+  value: -101.32
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt to Equity
+  value: -115.56
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt to Equity
+  value: -110.8
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Tangible Common Equity Ratio
+  value: -55.7
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Tangible Common Equity Ratio
+  value: -92.73
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Tangible Common Equity Ratio
+  value: 71.57
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Tangible Common Equity Ratio
+  value: 43.31
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Tangible Common Equity Ratio
+  value: 37.44
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Tangible Common Equity Ratio
+  value: 40.04
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Tangible Common Equity Ratio
+  value: 39.01
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Current Ratio
+  value: 0.66
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Current Ratio
+  value: 0.73
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Current Ratio
+  value: 4.07
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Current Ratio
+  value: 1.84
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Current Ratio
+  value: 1.66
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Current Ratio
+  value: 1.75
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Current Ratio
+  value: 1.93
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2019
+  item: Cash Conversion Cycle
+  value: null
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2020
+  item: Cash Conversion Cycle
+  value: -10.42
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2021
+  item: Cash Conversion Cycle
+  value: -7.69
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2022
+  item: Cash Conversion Cycle
+  value: -10.74
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2023
+  item: Cash Conversion Cycle
+  value: -18.66
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2024
+  item: Cash Conversion Cycle
+  value: -12.6
+- ticker: RSI
+  statement: balance
+  fiscalYear: 2025
+  item: Cash Conversion Cycle
+  value: -11.63
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Income
+  value: -22
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Income
+  value: -132
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Income
+  value: -71
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Income
+  value: -134
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Income
+  value: -60
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Income
+  value: 7
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Income
+  value: 74
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Depreciation & Amortization
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Depreciation & Amortization
+  value: 2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Depreciation & Amortization
+  value: 4
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Depreciation & Amortization
+  value: 14
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Depreciation & Amortization
+  value: 30
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Depreciation & Amortization
+  value: 32
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Depreciation & Amortization
+  value: 40
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Non-Cash Items
+  value: 14
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Non-Cash Items
+  value: 140
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Non-Cash Items
+  value: -3
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Non-Cash Items
+  value: 19
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Non-Cash Items
+  value: 31
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Non-Cash Items
+  value: 37
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Non-Cash Items
+  value: 23
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Stock-Based Compensation
+  value: 13
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Stock-Based Compensation
+  value: 145
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Stock-Based Compensation
+  value: 25
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Stock-Based Compensation
+  value: 19
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Stock-Based Compensation
+  value: 30
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Stock-Based Compensation
+  value: 35
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Stock-Based Compensation
+  value: 26
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Deferred Income Taxes
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Deferred Income Taxes
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Deferred Income Taxes
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Deferred Income Taxes
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Deferred Income Taxes
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Deferred Income Taxes
+  value: 1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Deferred Income Taxes
+  value: -4
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Asset Impairment Charge
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Asset Impairment Charge
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Asset Impairment Charge
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Asset Impairment Charge
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Asset Impairment Charge
+  value: 1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Asset Impairment Charge
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Asset Impairment Charge
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Non-Cash Adj
+  value: 1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Non-Cash Adj
+  value: -5
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Non-Cash Adj
+  value: -28
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Non-Cash Adj
+  value: 1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Non-Cash Adj
+  value: 1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Non-Cash Adj
+  value: 1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Non-Cash Adj
+  value: 1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Chg in Non-Cash Work Cap
+  value: 5
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Chg in Non-Cash Work Cap
+  value: 6
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Chg in Non-Cash Work Cap
+  value: 21
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Chg in Non-Cash Work Cap
+  value: 40
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Chg in Non-Cash Work Cap
+  value: -7
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Chg in Non-Cash Work Cap
+  value: 30
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Chg in Non-Cash Work Cap
+  value: 28
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Accts Receiv
+  value: -4
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Accts Receiv
+  value: -25
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Accts Receiv
+  value: -4
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Accts Receiv
+  value: -13
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Accts Receiv
+  value: 3
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Accts Receiv
+  value: 10
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Accts Receiv
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Prepaid Assets
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Prepaid Assets
+  value: -5
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Prepaid Assets
+  value: -4
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Prepaid Assets
+  value: -8
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Prepaid Assets
+  value: -8
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Accts Payable
+  value: 6
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Accts Payable
+  value: 28
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Accts Payable
+  value: 17
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Accts Payable
+  value: 39
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Accts Payable
+  value: -9
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Accts Payable
+  value: 25
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Accts Payable
+  value: 36
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Other
+  value: 4
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Other
+  value: 3
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Other
+  value: 14
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Other
+  value: 18
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Other
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Other
+  value: 2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Other
+  value: 3
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Operating Activities
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Operating Activities
+  value: 16
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Operating Activities
+  value: -48
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Operating Activities
+  value: -60
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Operating Activities
+  value: -6
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Operating Activities
+  value: 106
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Operating Activities
+  value: 165
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed & Intang
+  value: -6
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed & Intang
+  value: -6
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed & Intang
+  value: -35
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed & Intang
+  value: -28
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed & Intang
+  value: -31
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed & Intang
+  value: -29
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed & Intang
+  value: -33
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed Prod Assets
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed Prod Assets
+  value: -4
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed Prod Assets
+  value: -4
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed Prod Assets
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed Prod Assets
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed Prod Assets
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Intangible Assets
+  value: -5
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Intangible Assets
+  value: -4
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Intangible Assets
+  value: -31
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Intangible Assets
+  value: -24
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Intangible Assets
+  value: -30
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Intangible Assets
+  value: -29
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Intangible Assets
+  value: -33
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash (Repurchase) of Equity
+  value: 16
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash (Repurchase) of Equity
+  value: 128
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash (Repurchase) of Equity
+  value: -8
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Increase in Capital Stock
+  value: 16
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Increase in Capital Stock
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Increase in Capital Stock
+  value: 132
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Increase in Capital Stock
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Increase in Capital Stock
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Increase in Capital Stock
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Increase in Capital Stock
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Decrease in Capital Stock
+  value: -3
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Decrease in Capital Stock
+  value: -8
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Change in LT Investment
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Change in LT Investment
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Change in LT Investment
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Change in LT Investment
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Change in LT Investment
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Change in LT Investment
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Change in LT Investment
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dec in LT Investment
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dec in LT Investment
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dec in LT Investment
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dec in LT Investment
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dec in LT Investment
+  value: 2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dec in LT Investment
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dec in LT Investment
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc in LT Investment
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc in LT Investment
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc in LT Investment
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc in LT Investment
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc in LT Investment
+  value: -4
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc in LT Investment
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc in LT Investment
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Acq & Div
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash from Divestitures
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash from Divestitures
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash from Divestitures
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash from Divestitures
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash from Divestitures
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash from Divestitures
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash from Divestitures
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for Acq of Subs
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for JVs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for JVs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for JVs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for JVs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for JVs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for JVs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for JVs
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Investing Activities
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Investing Activities
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Investing Activities
+  value: 2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Investing Activities
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Investing Activities
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Investing Activities
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Investing Activities
+  value: -3
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Investing Activities
+  value: -6
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Investing Activities
+  value: -6
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Investing Activities
+  value: -37
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Investing Activities
+  value: -29
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Investing Activities
+  value: -34
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Investing Activities
+  value: -33
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Investing Activities
+  value: -37
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dividends Paid
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dividends Paid
+  value: -5
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dividends Paid
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dividends Paid
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dividends Paid
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dividends Paid
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dividends Paid
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Debt
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Debt
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Debt
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Debt
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Debt
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Debt
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Debt
+  value: -3
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash From Debt
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash From Debt
+  value: 1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash From Debt
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash From Debt
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash From Debt
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash From Debt
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash From Debt
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Repayments of Debt
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Repayments of Debt
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Repayments of Debt
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Repayments of Debt
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Repayments of Debt
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Repayments of Debt
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Repayments of Debt
+  value: -3
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Financing Activities
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Financing Activities
+  value: 246
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Financing Activities
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Financing Activities
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Financing Activities
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Financing Activities
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Financing Activities
+  value: -27
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Financing Activities
+  value: 16
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Financing Activities
+  value: 241
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Financing Activities
+  value: 126
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Financing Activities
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Financing Activities
+  value: -1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Financing Activities
+  value: -3
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Financing Activities
+  value: -37
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Effect of Foreign Exchange Rates
+  value: 1
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Effect of Foreign Exchange Rates
+  value: -2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Effect of Foreign Exchange Rates
+  value: -4
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Effect of Foreign Exchange Rates
+  value: 5
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Effect of Foreign Exchange Rates
+  value: -9
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Effect of Foreign Exchange Rates
+  value: 17
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Changes in Cash
+  value: 7
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Changes in Cash
+  value: 251
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Changes in Cash
+  value: 40
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Changes in Cash
+  value: -91
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Changes in Cash
+  value: -40
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Changes in Cash
+  value: 70
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Changes in Cash
+  value: 91
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA
+  value: -22
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA
+  value: -131
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA
+  value: -90
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA
+  value: -110
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA
+  value: -22
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA
+  value: 57
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA
+  value: 127
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: -34.91
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -47.16
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -18.45
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -18.65
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: -3.16
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 6.2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 11.23
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow
+  value: -8
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow
+  value: 10
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow
+  value: -83
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow
+  value: -89
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow
+  value: -37
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow
+  value: 77
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow
+  value: 132
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Cash Paid for Acquisitions
+  value: 2
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Firm
+  value: 77
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Equity
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Equity
+  value: 14
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Equity
+  value: -54
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Equity
+  value: -66
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Equity
+  value: -8
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Equity
+  value: 104
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Equity
+  value: 162
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow per Basic Share
+  value: -0.18
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow per Basic Share
+  value: 0.23
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow per Basic Share
+  value: -1.47
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow per Basic Share
+  value: -1.39
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow per Basic Share
+  value: -0.54
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow per Basic Share
+  value: 0.94
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow per Basic Share
+  value: 1.37
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Price/Free Cash Flow
+  value: null
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Price/Free Cash Flow
+  value: 42.08
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Price/Free Cash Flow
+  value: -70.54
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Price/Free Cash Flow
+  value: -7.12
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Price/Free Cash Flow
+  value: 12.18
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Price/Free Cash Flow
+  value: 8.93
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Price/Free Cash Flow
+  value: 23.13
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash Flow to Net Income
+  value: 0.11
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash Flow to Net Income
+  value: 14.97
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash Flow to Net Income
+  value: 1.66
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash Flow to Net Income
+  value: 1.56
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash Flow to Net Income
+  value: 0.32
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash Flow to Net Income
+  value: 44.58
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash Flow to Net Income
+  value: 4.95
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2019
+  item: Capital Expenditures
+  value: -6
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2020
+  item: Capital Expenditures
+  value: -6
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2021
+  item: Capital Expenditures
+  value: -35
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2022
+  item: Capital Expenditures
+  value: -28
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2023
+  item: Capital Expenditures
+  value: -31
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2024
+  item: Capital Expenditures
+  value: -29
+- ticker: RSI
+  statement: cashflow
+  fiscalYear: 2025
+  item: Capital Expenditures
+  value: -33
+

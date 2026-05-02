@@ -1,0 +1,7201 @@
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Sales/Revenue/Turnover
+  value: 600
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Sales/Revenue/Turnover
+  value: 698
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Sales/Revenue/Turnover
+  value: 736
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Sales/Revenue/Turnover
+  value: 792
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Sales/Revenue/Turnover
+  value: 909
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Sales/Revenue/Turnover
+  value: 1046
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Sales/Revenue/Turnover
+  value: 1228
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Sales/Revenue/Turnover
+  value: 1449
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: + Sales & Services Revenue
+  value: 600
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: + Sales & Services Revenue
+  value: 698
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: + Sales & Services Revenue
+  value: 736
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: + Sales & Services Revenue
+  value: 792
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: + Sales & Services Revenue
+  value: 909
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: + Sales & Services Revenue
+  value: 1046
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: + Sales & Services Revenue
+  value: 1228
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: + Sales & Services Revenue
+  value: 1449
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: '- Cost of Revenue'
+  value: 477
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: '- Cost of Revenue'
+  value: 555
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: '- Cost of Revenue'
+  value: 589
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: '- Cost of Revenue'
+  value: 631
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: '- Cost of Revenue'
+  value: 723
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: '- Cost of Revenue'
+  value: 838
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: '- Cost of Revenue'
+  value: 984
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: '- Cost of Revenue'
+  value: 1156
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: + Cost of Goods & Services
+  value: 477
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: + Cost of Goods & Services
+  value: 555
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: + Cost of Goods & Services
+  value: 589
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: + Cost of Goods & Services
+  value: 631
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: + Cost of Goods & Services
+  value: 723
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: + Cost of Goods & Services
+  value: 838
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: + Cost of Goods & Services
+  value: 984
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: + Cost of Goods & Services
+  value: 1156
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Gross Profit
+  value: 123
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Gross Profit
+  value: 143
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Gross Profit
+  value: 147
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Gross Profit
+  value: 161
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Gross Profit
+  value: 186
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Gross Profit
+  value: 208
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Gross Profit
+  value: 244
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Gross Profit
+  value: 293
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: + Other Operating Income
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Income
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Income
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Income
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Income
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Income
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Income
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Income
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: '- Operating Expenses'
+  value: 97
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: '- Operating Expenses'
+  value: 108
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: '- Operating Expenses'
+  value: 114
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: '- Operating Expenses'
+  value: 131
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: '- Operating Expenses'
+  value: 134
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: '- Operating Expenses'
+  value: 167
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: '- Operating Expenses'
+  value: 307
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: '- Operating Expenses'
+  value: 220
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: + Selling, General & Admin
+  value: 88
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: + Selling, General & Admin
+  value: 98
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: + Selling, General & Admin
+  value: 103
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: + Selling, General & Admin
+  value: 131
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: + Selling, General & Admin
+  value: 134
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: + Selling, General & Admin
+  value: 167
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: + Selling, General & Admin
+  value: 307
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: + Selling, General & Admin
+  value: 220
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: + Research & Development
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: + Research & Development
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: + Research & Development
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: + Research & Development
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: + Research & Development
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: + Research & Development
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: + Research & Development
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: + Research & Development
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: + Other Operating Expense
+  value: 9
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Expense
+  value: 11
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Expense
+  value: 12
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Expense
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Expense
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Expense
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Expense
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Expense
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Operating Income (Loss)
+  value: 26
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Operating Income (Loss)
+  value: 35
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Operating Income (Loss)
+  value: 33
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Operating Income (Loss)
+  value: 30
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Operating Income (Loss)
+  value: 52
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Operating Income (Loss)
+  value: 41
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Operating Income (Loss)
+  value: -63
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Operating Income (Loss)
+  value: 73
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: '- Non-Operating (Income) Loss'
+  value: 3
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: '- Non-Operating (Income) Loss'
+  value: 4
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: '- Non-Operating (Income) Loss'
+  value: 3
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: '- Non-Operating (Income) Loss'
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: '- Non-Operating (Income) Loss'
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: '- Non-Operating (Income) Loss'
+  value: 3
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: '- Non-Operating (Income) Loss'
+  value: 4
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: '- Non-Operating (Income) Loss'
+  value: -1
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: + Interest Expense, Net
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense, Net
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense, Net
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense, Net
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense, Net
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense, Net
+  value: 3
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense, Net
+  value: 3
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense, Net
+  value: 1
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: + Interest Expense
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense
+  value: 3
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense
+  value: 3
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense
+  value: 1
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: '- Interest Income'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: '- Interest Income'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: '- Interest Income'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: '- Interest Income'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: '- Interest Income'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: '- Interest Income'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: '- Interest Income'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: '- Interest Income'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: + Other Non-Op (Income) Loss
+  value: 1
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: + Other Non-Op (Income) Loss
+  value: 2
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: + Other Non-Op (Income) Loss
+  value: 1
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: + Other Non-Op (Income) Loss
+  value: -1
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Pretax Income
+  value: 23
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Pretax Income
+  value: 31
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Pretax Income
+  value: 30
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Pretax Income
+  value: 28
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Pretax Income
+  value: 50
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Pretax Income
+  value: 38
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Pretax Income
+  value: -66
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Pretax Income
+  value: 73
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: '- Income Tax Expense (Benefit)'
+  value: 5
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: '- Income Tax Expense (Benefit)'
+  value: 24
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Income (Loss) from Cont Ops
+  value: 23
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) from Cont Ops
+  value: 31
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) from Cont Ops
+  value: 30
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) from Cont Ops
+  value: 28
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) from Cont Ops
+  value: 50
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) from Cont Ops
+  value: 38
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) from Cont Ops
+  value: -71
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) from Cont Ops
+  value: 49
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 17
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 19
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 19
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 24
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 28
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 28
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 33
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: '- Net Extraordinary Losses (Gains)'
+  value: -1
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: + Discontinued Operations
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: + Discontinued Operations
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: + Discontinued Operations
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: + Discontinued Operations
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: + Discontinued Operations
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: + Discontinued Operations
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: + Discontinued Operations
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: + Discontinued Operations
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: + Extraord. & Accounting Changes
+  value: 17
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: + Extraord. & Accounting Changes
+  value: 19
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: + Extraord. & Accounting Changes
+  value: 19
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: + Extraord. & Accounting Changes
+  value: 24
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: + Extraord. & Accounting Changes
+  value: 28
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: + Extraord. & Accounting Changes
+  value: 28
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: + Extraord. & Accounting Changes
+  value: 33
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: + Extraord. & Accounting Changes
+  value: -1
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Income (Loss) Incl. MI
+  value: 6
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) Incl. MI
+  value: 12
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) Incl. MI
+  value: 10
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) Incl. MI
+  value: 4
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) Incl. MI
+  value: 21
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) Incl. MI
+  value: 10
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) Incl. MI
+  value: -104
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) Incl. MI
+  value: 49
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: '- Minority Interest'
+  value: -9
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: '- Minority Interest'
+  value: -10
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: '- Minority Interest'
+  value: -10
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: '- Minority Interest'
+  value: -12
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: '- Minority Interest'
+  value: -14
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: '- Minority Interest'
+  value: -14
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: '- Minority Interest'
+  value: -16
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: '- Minority Interest'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Net Income, GAAP
+  value: 15
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Net Income, GAAP
+  value: 22
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Net Income, GAAP
+  value: 20
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Net Income, GAAP
+  value: 16
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Net Income, GAAP
+  value: 35
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Net Income, GAAP
+  value: 24
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Net Income, GAAP
+  value: -87
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Net Income, GAAP
+  value: 49
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: '- Preferred Dividends'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: '- Preferred Dividends'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: '- Preferred Dividends'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: '- Preferred Dividends'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: '- Preferred Dividends'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: '- Preferred Dividends'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: '- Preferred Dividends'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: '- Preferred Dividends'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: '- Other Adjustments'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: '- Other Adjustments'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: '- Other Adjustments'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: '- Other Adjustments'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: '- Other Adjustments'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: '- Other Adjustments'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: '- Other Adjustments'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: '- Other Adjustments'
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Net Income Avail to Common, GAAP
+  value: 15
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Net Income Avail to Common, GAAP
+  value: 22
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Net Income Avail to Common, GAAP
+  value: 20
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Net Income Avail to Common, GAAP
+  value: 16
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Net Income Avail to Common, GAAP
+  value: 35
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Net Income Avail to Common, GAAP
+  value: 24
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Net Income Avail to Common, GAAP
+  value: -87
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Net Income Avail to Common, GAAP
+  value: 49
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: EBIT
+  value: 26
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: EBIT
+  value: 35
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: EBIT
+  value: 33
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: EBIT
+  value: 30
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: EBIT
+  value: 52
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: EBIT
+  value: 41
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: EBIT
+  value: -63
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: EBIT
+  value: 73
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: EBITDA
+  value: 39
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA
+  value: 51
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA
+  value: 50
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA
+  value: 47
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA
+  value: 69
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA
+  value: 59
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA
+  value: -43
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA
+  value: 95
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: EBITDA Margin (%)
+  value: 6.54
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: 7.33
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: 6.82
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: 5.89
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: 7.54
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 5.66
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: -3.51
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 6.56
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: EBITA
+  value: 26
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: EBITA
+  value: 35
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: EBITA
+  value: 33
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: EBITA
+  value: 30
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: EBITA
+  value: 52
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: EBITA
+  value: 41
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: EBITA
+  value: -63
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: EBITA
+  value: 73
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Gross Margin (%)
+  value: 20.49
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Gross Margin (%)
+  value: 20.54
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Gross Margin (%)
+  value: 19.97
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Gross Margin (%)
+  value: 20.36
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Gross Margin (%)
+  value: 20.45
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Gross Margin (%)
+  value: 19.91
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Gross Margin (%)
+  value: 19.89
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Gross Margin (%)
+  value: 20.21
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Operating Margin (%)
+  value: 4.35
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Operating Margin (%)
+  value: 5.06
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Operating Margin (%)
+  value: 4.48
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Operating Margin (%)
+  value: 3.81
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Operating Margin (%)
+  value: 5.72
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Operating Margin (%)
+  value: 3.91
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Operating Margin (%)
+  value: -5.12
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Operating Margin (%)
+  value: 5.02
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Profit Margin (%)
+  value: 2.44
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Profit Margin (%)
+  value: 3.11
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Profit Margin (%)
+  value: 2.71
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Profit Margin (%)
+  value: 2.06
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Profit Margin (%)
+  value: 3.9
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Profit Margin (%)
+  value: 2.28
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Profit Margin (%)
+  value: -7.11
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Profit Margin (%)
+  value: 3.4
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Sales per Employee
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Sales per Employee
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Sales per Employee
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Sales per Employee
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Sales per Employee
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Sales per Employee
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Sales per Employee
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Sales per Employee
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Dividend per Share
+  value: 0.46
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Dividend per Share
+  value: 0.56
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Dividend per Share
+  value: 0.18
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Dividend per Share
+  value: 0.29
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Dividend per Share
+  value: 0.51
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Dividend per Share
+  value: 0.63
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Dividend per Share
+  value: 0.58
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Dividend per Share
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Depreciation Expense
+  value: 13
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Depreciation Expense
+  value: 16
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Depreciation Expense
+  value: 17
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Depreciation Expense
+  value: 17
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Depreciation Expense
+  value: 17
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Depreciation Expense
+  value: 18
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Depreciation Expense
+  value: 20
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Depreciation Expense
+  value: 22
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Basic Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Basic Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Basic Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Basic Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Basic Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Basic Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Basic Weighted Avg Shares
+  value: 62
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Basic Weighted Avg Shares
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Basic EPS, GAAP
+  value: 0.24
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS, GAAP
+  value: 0.36
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS, GAAP
+  value: 0.33
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS, GAAP
+  value: 0.27
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS, GAAP
+  value: 0.58
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS, GAAP
+  value: 0.39
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS, GAAP
+  value: -1.41
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS, GAAP
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Basic EPS from Cont Ops
+  value: 0.38
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS from Cont Ops
+  value: 0.52
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS from Cont Ops
+  value: 0.49
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS from Cont Ops
+  value: 0.47
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS from Cont Ops
+  value: 0.82
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS from Cont Ops
+  value: 0.62
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS from Cont Ops
+  value: -1.15
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS from Cont Ops
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Diluted Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Diluted Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Diluted Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Diluted Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Diluted Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Diluted Weighted Avg Shares
+  value: 61
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Diluted Weighted Avg Shares
+  value: 62
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Diluted Weighted Avg Shares
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Diluted EPS, GAAP
+  value: 0.24
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS, GAAP
+  value: 0.36
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS, GAAP
+  value: 0.33
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS, GAAP
+  value: 0.27
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS, GAAP
+  value: 0.58
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS, GAAP
+  value: 0.39
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS, GAAP
+  value: -1.41
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS, GAAP
+  value: null
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2018
+  item: Diluted EPS from Cont Ops
+  value: 0.38
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS from Cont Ops
+  value: 0.52
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS from Cont Ops
+  value: 0.49
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS from Cont Ops
+  value: 0.47
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS from Cont Ops
+  value: 0.82
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS from Cont Ops
+  value: 0.62
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS from Cont Ops
+  value: -1.15
+- ticker: GRDN
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS from Cont Ops
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Total Current Assets
+  value: 81
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Assets
+  value: 90
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Assets
+  value: 94
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Assets
+  value: 112
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Assets
+  value: 120
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Assets
+  value: 130
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Assets
+  value: 152
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Assets
+  value: 222
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Cash, Cash Equivalents & STI
+  value: 2
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash, Cash Equivalents & STI
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash, Cash Equivalents & STI
+  value: 6
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash, Cash Equivalents & STI
+  value: 15
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash, Cash Equivalents & STI
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash, Cash Equivalents & STI
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash, Cash Equivalents & STI
+  value: 5
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash, Cash Equivalents & STI
+  value: 66
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Cash & Cash Equivalents
+  value: 2
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash & Cash Equivalents
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash & Cash Equivalents
+  value: 6
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash & Cash Equivalents
+  value: 15
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash & Cash Equivalents
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash & Cash Equivalents
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash & Cash Equivalents
+  value: 5
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash & Cash Equivalents
+  value: 66
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts & Notes Receiv
+  value: 48
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts & Notes Receiv
+  value: 54
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts & Notes Receiv
+  value: 49
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts & Notes Receiv
+  value: 55
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts & Notes Receiv
+  value: 68
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts & Notes Receiv
+  value: 77
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts & Notes Receiv
+  value: 97
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts & Notes Receiv
+  value: 102
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts Receivable, Net
+  value: 45
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Receivable, Net
+  value: 51
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Receivable, Net
+  value: 46
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Receivable, Net
+  value: 55
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Receivable, Net
+  value: 68
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Receivable, Net
+  value: 77
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Receivable, Net
+  value: 97
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Receivable, Net
+  value: 102
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Notes Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Notes Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Notes Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Notes Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Notes Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Notes Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Notes Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Notes Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Loans Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Loans Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Loans Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Loans Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Loans Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Loans Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Loans Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Loans Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Receivable, Net
+  value: 3
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Receivable, Net
+  value: 3
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Receivable, Net
+  value: 3
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Receivable, Net
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Inventories
+  value: 28
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventories
+  value: 31
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventories
+  value: 32
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventories
+  value: 33
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventories
+  value: 41
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventories
+  value: 37
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventories
+  value: 41
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventories
+  value: 43
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Raw Materials
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Raw Materials
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Raw Materials
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Raw Materials
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Raw Materials
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Raw Materials
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Raw Materials
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Raw Materials
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Work In Process
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Work In Process
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Work In Process
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Work In Process
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Work In Process
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Work In Process
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Work In Process
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Work In Process
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Finished Goods
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Finished Goods
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Finished Goods
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Finished Goods
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Finished Goods
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Finished Goods
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Finished Goods
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Finished Goods
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Inventory Adjustments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventory Adjustments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventory Adjustments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventory Adjustments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventory Adjustments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventory Adjustments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventory Adjustments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventory Adjustments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Inventory
+  value: 28
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Inventory
+  value: 31
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Inventory
+  value: 32
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Inventory
+  value: 33
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Inventory
+  value: 41
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Inventory
+  value: 37
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Inventory
+  value: 41
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Inventory
+  value: 43
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Other ST Assets
+  value: 4
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Assets
+  value: 5
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Assets
+  value: 7
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Assets
+  value: 9
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Assets
+  value: 10
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Assets
+  value: 15
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Assets
+  value: 10
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Assets
+  value: 11
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc ST Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Prepaid Expenses
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Prepaid Expenses
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Prepaid Expenses
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Prepaid Expenses
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Prepaid Expenses
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Prepaid Expenses
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Prepaid Expenses
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Prepaid Expenses
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Total Noncurrent Assets
+  value: 101
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Assets
+  value: 106
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Assets
+  value: 124
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Assets
+  value: 124
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Assets
+  value: 136
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Assets
+  value: 142
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Assets
+  value: 169
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Assets
+  value: 191
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Property, Plant & Equip, Net
+  value: 28
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip, Net
+  value: 35
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip, Net
+  value: 52
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip, Net
+  value: 52
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip, Net
+  value: 65
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip, Net
+  value: 73
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip, Net
+  value: 79
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip, Net
+  value: 90
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Property, Plant & Equip
+  value: 60
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip
+  value: 75
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip
+  value: 99
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip
+  value: 106
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip
+  value: 126
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip
+  value: 142
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip
+  value: 157
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip
+  value: 178
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: '- Accumulated Depreciation'
+  value: 32
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: '- Accumulated Depreciation'
+  value: 40
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: '- Accumulated Depreciation'
+  value: 47
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: '- Accumulated Depreciation'
+  value: 54
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: '- Accumulated Depreciation'
+  value: 61
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: '- Accumulated Depreciation'
+  value: 69
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: '- Accumulated Depreciation'
+  value: 78
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: '- Accumulated Depreciation'
+  value: 88
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Investments & Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments & Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments & Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments & Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments & Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments & Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments & Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments & Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Receivables
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Other LT Assets
+  value: 73
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Assets
+  value: 71
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Assets
+  value: 72
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Assets
+  value: 72
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Assets
+  value: 71
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Assets
+  value: 68
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Assets
+  value: 90
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Assets
+  value: 101
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Total Intangible Assets
+  value: 72
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Total Intangible Assets
+  value: 67
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Total Intangible Assets
+  value: 72
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Total Intangible Assets
+  value: 72
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Total Intangible Assets
+  value: 70
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Total Intangible Assets
+  value: 68
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Total Intangible Assets
+  value: 84
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Total Intangible Assets
+  value: 98
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Goodwill
+  value: 48
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Goodwill
+  value: 46
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Goodwill
+  value: 52
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Goodwill
+  value: 55
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Goodwill
+  value: 56
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Goodwill
+  value: 56
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Goodwill
+  value: 69
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Goodwill
+  value: 80
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Intangible Assets
+  value: 24
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Intangible Assets
+  value: 21
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Intangible Assets
+  value: 19
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Intangible Assets
+  value: 17
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Intangible Assets
+  value: 14
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Intangible Assets
+  value: 12
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Intangible Assets
+  value: 15
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Intangible Assets
+  value: 18
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc LT Assets
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Assets
+  value: 4
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Assets
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Assets
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Assets
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Assets
+  value: 6
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Assets
+  value: 3
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Total Assets
+  value: 182
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Total Assets
+  value: 197
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Total Assets
+  value: 218
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Total Assets
+  value: 236
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Total Assets
+  value: 256
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Total Assets
+  value: 271
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Total Assets
+  value: 321
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Total Assets
+  value: 413
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Payables & Accruals
+  value: 53
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Payables & Accruals
+  value: 60
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Payables & Accruals
+  value: 61
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Payables & Accruals
+  value: 79
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Payables & Accruals
+  value: 78
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Payables & Accruals
+  value: 86
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Payables & Accruals
+  value: 102
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Payables & Accruals
+  value: 116
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts Payable
+  value: 48
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Payable
+  value: 55
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Payable
+  value: 53
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Payable
+  value: 65
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Payable
+  value: 78
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Payable
+  value: 86
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Payable
+  value: 102
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Payable
+  value: 116
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Accrued Taxes
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Taxes
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Taxes
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Taxes
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Taxes
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Taxes
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Taxes
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Taxes
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Payables & Accruals
+  value: 5
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Payables & Accruals
+  value: 5
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Payables & Accruals
+  value: 7
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Payables & Accruals
+  value: 14
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Payables & Accruals
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Payables & Accruals
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Payables & Accruals
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Payables & Accruals
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Debt
+  value: 5
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Debt
+  value: 20
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Debt
+  value: 13
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Debt
+  value: 10
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Debt
+  value: 14
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Debt
+  value: 19
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Debt
+  value: 7
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Debt
+  value: 7
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Borrowings
+  value: 3
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Borrowings
+  value: 17
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Borrowings
+  value: 4
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Borrowings
+  value: 4
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Borrowings
+  value: 8
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Borrowings
+  value: 13
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Borrowings
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Borrowings
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Finance Leases
+  value: 2
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Finance Leases
+  value: 3
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Finance Leases
+  value: 9
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Finance Leases
+  value: 6
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Finance Leases
+  value: 6
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Finance Leases
+  value: 6
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Finance Leases
+  value: 7
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Finance Leases
+  value: 7
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Other ST Liabilities
+  value: 8
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Liabilities
+  value: 10
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Liabilities
+  value: 13
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Liabilities
+  value: 23
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Liabilities
+  value: 20
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Liabilities
+  value: 33
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Liabilities
+  value: 35
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Liabilities
+  value: 37
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc ST Liabilities
+  value: 8
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Liabilities
+  value: 10
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Liabilities
+  value: 13
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Liabilities
+  value: 23
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Liabilities
+  value: 20
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Liabilities
+  value: 33
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Liabilities
+  value: 35
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Liabilities
+  value: 37
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Total Current Liabilities
+  value: 65
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Liabilities
+  value: 90
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Liabilities
+  value: 86
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Liabilities
+  value: 112
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Liabilities
+  value: 112
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Liabilities
+  value: 138
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Liabilities
+  value: 144
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Liabilities
+  value: 161
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Debt
+  value: 39
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Debt
+  value: 37
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Debt
+  value: 46
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Debt
+  value: 41
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Debt
+  value: 43
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Debt
+  value: 42
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Debt
+  value: 23
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Debt
+  value: 30
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Borrowings
+  value: 36
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Borrowings
+  value: 34
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Borrowings
+  value: 31
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Borrowings
+  value: 27
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Borrowings
+  value: 23
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Borrowings
+  value: 19
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Borrowings
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Borrowings
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Finance Leases
+  value: 2
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Finance Leases
+  value: 4
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Finance Leases
+  value: 16
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Finance Leases
+  value: 14
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Finance Leases
+  value: 20
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Finance Leases
+  value: 23
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Finance Leases
+  value: 23
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Finance Leases
+  value: 30
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Other LT Liabilities
+  value: 10
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Liabilities
+  value: 12
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Liabilities
+  value: 18
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Liabilities
+  value: 30
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Liabilities
+  value: 25
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Liabilities
+  value: 31
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Liabilities
+  value: 3
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Liabilities
+  value: 4
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Accrued Liabilities
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Liabilities
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Liabilities
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Pension Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Pension Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Pension Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Pension Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Pension Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Pension Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Pension Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Pension Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc LT Liabilities
+  value: 9
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Liabilities
+  value: 12
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Liabilities
+  value: 18
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Liabilities
+  value: 30
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Liabilities
+  value: 25
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Liabilities
+  value: 31
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Liabilities
+  value: 3
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Liabilities
+  value: 4
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Total Noncurrent Liabilities
+  value: 49
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Liabilities
+  value: 49
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Liabilities
+  value: 64
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Liabilities
+  value: 71
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Liabilities
+  value: 68
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Liabilities
+  value: 73
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Liabilities
+  value: 27
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Liabilities
+  value: 34
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Total Liabilities
+  value: 114
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities
+  value: 139
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities
+  value: 151
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities
+  value: 183
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities
+  value: 180
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities
+  value: 211
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities
+  value: 171
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities
+  value: 195
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Share Capital & APIC
+  value: 34
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Share Capital & APIC
+  value: 30
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Share Capital & APIC
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Share Capital & APIC
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Share Capital & APIC
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Share Capital & APIC
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Share Capital & APIC
+  value: 126
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Share Capital & APIC
+  value: 139
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Common Stock
+  value: 34
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Common Stock
+  value: 30
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Common Stock
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Common Stock
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Common Stock
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Common Stock
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Common Stock
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Common Stock
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Additional Paid in Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Additional Paid in Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Additional Paid in Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Additional Paid in Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Additional Paid in Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Additional Paid in Capital
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Additional Paid in Capital
+  value: 125
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Additional Paid in Capital
+  value: 139
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: '- Treasury Stock'
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: '- Treasury Stock'
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: '- Treasury Stock'
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: '- Treasury Stock'
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: '- Treasury Stock'
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: '- Treasury Stock'
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: '- Treasury Stock'
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: '- Treasury Stock'
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Retained Earnings
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Retained Earnings
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Retained Earnings
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Retained Earnings
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Retained Earnings
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Retained Earnings
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Retained Earnings
+  value: 17
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Retained Earnings
+  value: 66
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Equity
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Equity
+  value: -1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Equity
+  value: -1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Equity
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Equity
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Equity
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Equity
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Equity
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Equity Before Minority Interest
+  value: 42
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Equity Before Minority Interest
+  value: 29
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Equity Before Minority Interest
+  value: 38
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Equity Before Minority Interest
+  value: 24
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Equity Before Minority Interest
+  value: 43
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Equity Before Minority Interest
+  value: 28
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Equity Before Minority Interest
+  value: 143
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Equity Before Minority Interest
+  value: 206
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: + Minority/Non Controlling Interest
+  value: 26
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: + Minority/Non Controlling Interest
+  value: 28
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: + Minority/Non Controlling Interest
+  value: 29
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: + Minority/Non Controlling Interest
+  value: 29
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: + Minority/Non Controlling Interest
+  value: 33
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: + Minority/Non Controlling Interest
+  value: 32
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: + Minority/Non Controlling Interest
+  value: 7
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: + Minority/Non Controlling Interest
+  value: 12
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Total Equity
+  value: 68
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Total Equity
+  value: 57
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Total Equity
+  value: 67
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Total Equity
+  value: 53
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Total Equity
+  value: 76
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Total Equity
+  value: 60
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Total Equity
+  value: 150
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Total Equity
+  value: 218
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Total Liabilities & Equity
+  value: 182
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities & Equity
+  value: 197
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities & Equity
+  value: 218
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities & Equity
+  value: 236
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities & Equity
+  value: 256
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities & Equity
+  value: 271
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities & Equity
+  value: 321
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities & Equity
+  value: 413
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Shares Outstanding
+  value: 61
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Shares Outstanding
+  value: 61
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Shares Outstanding
+  value: 61
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Shares Outstanding
+  value: 61
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Shares Outstanding
+  value: 61
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Shares Outstanding
+  value: 61
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Shares Outstanding
+  value: 63
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Shares Outstanding
+  value: 63
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Number of Employees
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Number of Employees
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Number of Employees
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Number of Employees
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Number of Employees
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Number of Employees
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Number of Employees
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Number of Employees
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Capital Leases - Total
+  value: 5
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Capital Leases - Total
+  value: 6
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Capital Leases - Total
+  value: 24
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Capital Leases - Total
+  value: 20
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Capital Leases - Total
+  value: 26
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Capital Leases - Total
+  value: 29
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Capital Leases - Total
+  value: 30
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Capital Leases - Total
+  value: 37
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Net Debt
+  value: 37
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt
+  value: 50
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt
+  value: 28
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt
+  value: 16
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt
+  value: 30
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt
+  value: 31
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt
+  value: -5
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt
+  value: -66
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Net Debt to Equity
+  value: 54.05
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt to Equity
+  value: 88.4
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt to Equity
+  value: 41.64
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt to Equity
+  value: 29.42
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt to Equity
+  value: 39.94
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt to Equity
+  value: 52.15
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt to Equity
+  value: -3.11
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt to Equity
+  value: -30.11
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Tangible Common Equity Ratio
+  value: -3.3
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Tangible Common Equity Ratio
+  value: -7.7
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Tangible Common Equity Ratio
+  value: -3.07
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Tangible Common Equity Ratio
+  value: -11.21
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Tangible Common Equity Ratio
+  value: 2.93
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Tangible Common Equity Ratio
+  value: -4.02
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Tangible Common Equity Ratio
+  value: 27.8
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Tangible Common Equity Ratio
+  value: 38.07
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Current Ratio
+  value: 1.24
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Current Ratio
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Current Ratio
+  value: 1.09
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Current Ratio
+  value: 1
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Current Ratio
+  value: 1.07
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Current Ratio
+  value: 0.94
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Current Ratio
+  value: 1.05
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Current Ratio
+  value: 1.38
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2018
+  item: Cash Conversion Cycle
+  value: null
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2019
+  item: Cash Conversion Cycle
+  value: 10.78
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2020
+  item: Cash Conversion Cycle
+  value: 9.94
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2021
+  item: Cash Conversion Cycle
+  value: 8
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2022
+  item: Cash Conversion Cycle
+  value: 7.91
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2023
+  item: Cash Conversion Cycle
+  value: 6.48
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2024
+  item: Cash Conversion Cycle
+  value: 5.51
+- ticker: GRDN
+  statement: balance
+  fiscalYear: 2025
+  item: Cash Conversion Cycle
+  value: 3.85
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Income
+  value: 23
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Income
+  value: 31
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Income
+  value: 30
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Income
+  value: 28
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Income
+  value: 50
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Income
+  value: 38
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Income
+  value: -71
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Income
+  value: 49
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Depreciation & Amortization
+  value: 13
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Depreciation & Amortization
+  value: 16
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Depreciation & Amortization
+  value: 17
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Depreciation & Amortization
+  value: 17
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Depreciation & Amortization
+  value: 17
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Depreciation & Amortization
+  value: 18
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Depreciation & Amortization
+  value: 20
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Depreciation & Amortization
+  value: 22
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Non-Cash Items
+  value: 9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Non-Cash Items
+  value: 8
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Non-Cash Items
+  value: 7
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Non-Cash Items
+  value: 15
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Non-Cash Items
+  value: 1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Non-Cash Items
+  value: -1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Non-Cash Items
+  value: 139
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Non-Cash Items
+  value: 23
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Stock-Based Compensation
+  value: 6
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Stock-Based Compensation
+  value: 2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Stock-Based Compensation
+  value: 3
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Stock-Based Compensation
+  value: 13
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Stock-Based Compensation
+  value: -3
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Stock-Based Compensation
+  value: -6
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Stock-Based Compensation
+  value: 131
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Stock-Based Compensation
+  value: 14
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Deferred Income Taxes
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Deferred Income Taxes
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Deferred Income Taxes
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Deferred Income Taxes
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Deferred Income Taxes
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Deferred Income Taxes
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Deferred Income Taxes
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Deferred Income Taxes
+  value: 3
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Asset Impairment Charge
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Asset Impairment Charge
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Asset Impairment Charge
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Asset Impairment Charge
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Asset Impairment Charge
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Asset Impairment Charge
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Asset Impairment Charge
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Asset Impairment Charge
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Non-Cash Adj
+  value: 3
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Non-Cash Adj
+  value: 6
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Non-Cash Adj
+  value: 4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Non-Cash Adj
+  value: 2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Non-Cash Adj
+  value: 4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Non-Cash Adj
+  value: 5
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Non-Cash Adj
+  value: 7
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Non-Cash Adj
+  value: 6
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Chg in Non-Cash Work Cap
+  value: -2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Chg in Non-Cash Work Cap
+  value: 1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Chg in Non-Cash Work Cap
+  value: -1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Chg in Non-Cash Work Cap
+  value: -1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Chg in Non-Cash Work Cap
+  value: -19
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Chg in Non-Cash Work Cap
+  value: 16
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Chg in Non-Cash Work Cap
+  value: -29
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Chg in Non-Cash Work Cap
+  value: 6
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Accts Receiv
+  value: -9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Accts Receiv
+  value: -11
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Accts Receiv
+  value: 4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Accts Receiv
+  value: -8
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Accts Receiv
+  value: -17
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Accts Receiv
+  value: -14
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Accts Receiv
+  value: -25
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Accts Receiv
+  value: -9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Inventories
+  value: -3
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Inventories
+  value: -8
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Inventories
+  value: 4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Inventories
+  value: -1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Inventories
+  value: -1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Prepaid Assets
+  value: -1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Prepaid Assets
+  value: -3
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc (Dec) in Accts Payable
+  value: 13
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Accts Payable
+  value: 9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Accts Payable
+  value: 4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Accts Payable
+  value: 9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Accts Payable
+  value: 12
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Accts Payable
+  value: 9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Accts Payable
+  value: 10
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Accts Payable
+  value: 17
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc (Dec) in Other
+  value: -5
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Other
+  value: 7
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Other
+  value: -7
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Other
+  value: -2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Other
+  value: -6
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Other
+  value: 16
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Other
+  value: -13
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Other
+  value: -1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Operating Activities
+  value: 44
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Operating Activities
+  value: 56
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Operating Activities
+  value: 53
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Operating Activities
+  value: 58
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Operating Activities
+  value: 49
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Operating Activities
+  value: 71
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Operating Activities
+  value: 58
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Operating Activities
+  value: 100
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Fixed & Intang
+  value: -10
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed & Intang
+  value: -15
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed & Intang
+  value: -8
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed & Intang
+  value: -9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed & Intang
+  value: -17
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed & Intang
+  value: -15
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed & Intang
+  value: -16
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed & Intang
+  value: -20
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Fixed Prod Assets
+  value: -10
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed Prod Assets
+  value: -15
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed Prod Assets
+  value: -8
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed Prod Assets
+  value: -9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed Prod Assets
+  value: -17
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed Prod Assets
+  value: -15
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed Prod Assets
+  value: -16
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed Prod Assets
+  value: -20
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash (Repurchase) of Equity
+  value: 65
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Increase in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Increase in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Increase in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Increase in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Increase in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Increase in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Increase in Capital Stock
+  value: 120
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Increase in Capital Stock
+  value: 29
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Decrease in Capital Stock
+  value: -55
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Decrease in Capital Stock
+  value: -29
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Change in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Change in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Change in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Change in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Change in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Change in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Change in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Change in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Dec in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dec in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dec in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dec in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dec in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dec in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dec in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dec in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc in LT Investment
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Acq & Div
+  value: -11
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Acq & Div
+  value: -2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Acq & Div
+  value: -4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Acq & Div
+  value: -4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Acq & Div
+  value: -2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Acq & Div
+  value: -1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Acq & Div
+  value: -15
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Acq & Div
+  value: -13
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash from Divestitures
+  value: 1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash from Divestitures
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash from Divestitures
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash from Divestitures
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash from Divestitures
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash from Divestitures
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash from Divestitures
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash from Divestitures
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash for Acq of Subs
+  value: -11
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for Acq of Subs
+  value: -2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for Acq of Subs
+  value: -4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for Acq of Subs
+  value: -4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for Acq of Subs
+  value: -2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for Acq of Subs
+  value: -1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for Acq of Subs
+  value: -15
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for Acq of Subs
+  value: -13
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash for JVs
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for JVs
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for JVs
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for JVs
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for JVs
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for JVs
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for JVs
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for JVs
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Investing Activities
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Investing Activities
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Investing Activities
+  value: 1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Investing Activities
+  value: 1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Investing Activities
+  value: 1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Investing Activities
+  value: 2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Investing Activities
+  value: 1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Investing Activities
+  value: 1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Investing Activities
+  value: -21
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Investing Activities
+  value: -17
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Investing Activities
+  value: -12
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Investing Activities
+  value: -13
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Investing Activities
+  value: -18
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Investing Activities
+  value: -13
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Investing Activities
+  value: -30
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Investing Activities
+  value: -32
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Dividends Paid
+  value: -28
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dividends Paid
+  value: -34
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dividends Paid
+  value: -11
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dividends Paid
+  value: -17
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dividends Paid
+  value: -31
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dividends Paid
+  value: -38
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dividends Paid
+  value: -36
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dividends Paid
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Debt
+  value: 16
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Debt
+  value: 2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Debt
+  value: -13
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Debt
+  value: -6
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Debt
+  value: -3
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Debt
+  value: -3
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Debt
+  value: -36
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Debt
+  value: -5
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash From Debt
+  value: 87
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash From Debt
+  value: 28
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash From Debt
+  value: 87
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash From Debt
+  value: 11
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash From Debt
+  value: 253
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash From Debt
+  value: 270
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash From Debt
+  value: 204
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash From Debt
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Repayments of Debt
+  value: -71
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Repayments of Debt
+  value: -26
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Repayments of Debt
+  value: -100
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Repayments of Debt
+  value: -17
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Repayments of Debt
+  value: -256
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Repayments of Debt
+  value: -272
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Repayments of Debt
+  value: -241
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Repayments of Debt
+  value: -5
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Financing Activities
+  value: -9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Financing Activities
+  value: -10
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Financing Activities
+  value: -10
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Financing Activities
+  value: -13
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Financing Activities
+  value: -11
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Financing Activities
+  value: -16
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Financing Activities
+  value: -16
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Financing Activities
+  value: -2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Financing Activities
+  value: -21
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Financing Activities
+  value: -42
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Financing Activities
+  value: -34
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Financing Activities
+  value: -37
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Financing Activities
+  value: -45
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Financing Activities
+  value: -57
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Financing Activities
+  value: -24
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Financing Activities
+  value: -7
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Net Changes in Cash
+  value: 2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Changes in Cash
+  value: -2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Changes in Cash
+  value: 6
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Changes in Cash
+  value: 9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Changes in Cash
+  value: -14
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Changes in Cash
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Changes in Cash
+  value: 4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Changes in Cash
+  value: 61
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: EBITDA
+  value: 39
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA
+  value: 51
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA
+  value: 50
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA
+  value: 47
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA
+  value: 69
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA
+  value: 59
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA
+  value: -43
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA
+  value: 95
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: EBITDA Margin (%)
+  value: 6.54
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: 7.33
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: 6.82
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: 5.89
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: 7.54
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 5.66
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: -3.51
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 6.56
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow
+  value: 34
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow
+  value: 42
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow
+  value: 44
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow
+  value: 49
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow
+  value: 32
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow
+  value: 56
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow
+  value: 42
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow
+  value: 81
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Net Cash Paid for Acquisitions
+  value: 11
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Cash Paid for Acquisitions
+  value: 2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Cash Paid for Acquisitions
+  value: 4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Cash Paid for Acquisitions
+  value: 4
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Cash Paid for Acquisitions
+  value: 2
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Cash Paid for Acquisitions
+  value: 1
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Cash Paid for Acquisitions
+  value: 15
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Cash Paid for Acquisitions
+  value: 13
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow to Firm
+  value: 36
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Firm
+  value: 44
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Firm
+  value: 46
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Firm
+  value: 51
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Firm
+  value: 34
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Firm
+  value: 59
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Firm
+  value: 81
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow to Equity
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Equity
+  value: 44
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Equity
+  value: 31
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Equity
+  value: 43
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Equity
+  value: 29
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Equity
+  value: 53
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Equity
+  value: 5
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Equity
+  value: 76
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow per Basic Share
+  value: 0.55
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow per Basic Share
+  value: 0.68
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow per Basic Share
+  value: 0.73
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow per Basic Share
+  value: 0.81
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow per Basic Share
+  value: 0.52
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow per Basic Share
+  value: 0.92
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow per Basic Share
+  value: 0.67
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow per Basic Share
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Price/Free Cash Flow
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Price/Free Cash Flow
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Price/Free Cash Flow
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Price/Free Cash Flow
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Price/Free Cash Flow
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Price/Free Cash Flow
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Price/Free Cash Flow
+  value: 16.9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Price/Free Cash Flow
+  value: null
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash Flow to Net Income
+  value: 2.98
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash Flow to Net Income
+  value: 2.58
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash Flow to Net Income
+  value: 2.64
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash Flow to Net Income
+  value: 3.59
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash Flow to Net Income
+  value: 1.37
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash Flow to Net Income
+  value: 2.96
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash Flow to Net Income
+  value: -0.66
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash Flow to Net Income
+  value: 2.04
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2018
+  item: Capital Expenditures
+  value: -10
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2019
+  item: Capital Expenditures
+  value: -15
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2020
+  item: Capital Expenditures
+  value: -8
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2021
+  item: Capital Expenditures
+  value: -9
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2022
+  item: Capital Expenditures
+  value: -17
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2023
+  item: Capital Expenditures
+  value: -15
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2024
+  item: Capital Expenditures
+  value: -16
+- ticker: GRDN
+  statement: cashflow
+  fiscalYear: 2025
+  item: Capital Expenditures
+  value: -20
+

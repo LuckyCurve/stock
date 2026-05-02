@@ -1,0 +1,7201 @@
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Sales/Revenue/Turnover
+  value: 595
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Sales/Revenue/Turnover
+  value: 743
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Sales/Revenue/Turnover
+  value: 1093
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Sales/Revenue/Turnover
+  value: 1542
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Sales/Revenue/Turnover
+  value: 1906
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Sales/Revenue/Turnover
+  value: 2225
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Sales/Revenue/Turnover
+  value: 2866
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Sales/Revenue/Turnover
+  value: 4475
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: + Sales & Services Revenue
+  value: 595
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: + Sales & Services Revenue
+  value: 743
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: + Sales & Services Revenue
+  value: 1093
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: + Sales & Services Revenue
+  value: 1542
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: + Sales & Services Revenue
+  value: 1906
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: + Sales & Services Revenue
+  value: 2225
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: + Sales & Services Revenue
+  value: 2866
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: + Sales & Services Revenue
+  value: 4475
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: '- Cost of Revenue'
+  value: 165
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: '- Cost of Revenue'
+  value: 242
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: '- Cost of Revenue'
+  value: 353
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: '- Cost of Revenue'
+  value: 339
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: '- Cost of Revenue'
+  value: 409
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: '- Cost of Revenue'
+  value: 431
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: '- Cost of Revenue'
+  value: 566
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: '- Cost of Revenue'
+  value: 789
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: + Cost of Goods & Services
+  value: 165
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: + Cost of Goods & Services
+  value: 242
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: + Cost of Goods & Services
+  value: 353
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: + Cost of Goods & Services
+  value: 339
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: + Cost of Goods & Services
+  value: 409
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: + Cost of Goods & Services
+  value: 431
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: + Cost of Goods & Services
+  value: 566
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: + Cost of Goods & Services
+  value: 789
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Gross Profit
+  value: 430
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Gross Profit
+  value: 500
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Gross Profit
+  value: 740
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Gross Profit
+  value: 1202
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Gross Profit
+  value: 1497
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Gross Profit
+  value: 1794
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Gross Profit
+  value: 2300
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Gross Profit
+  value: 3686
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: + Other Operating Income
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Income
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Income
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Income
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Income
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Income
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Income
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Income
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: '- Operating Expenses'
+  value: 1053
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: '- Operating Expenses'
+  value: 1077
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: '- Operating Expenses'
+  value: 1914
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: '- Operating Expenses'
+  value: 1614
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: '- Operating Expenses'
+  value: 1659
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: '- Operating Expenses'
+  value: 1674
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: '- Operating Expenses'
+  value: 1989
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: '- Operating Expenses'
+  value: 2272
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: + Selling, General & Admin
+  value: 768
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: + Selling, General & Admin
+  value: 771
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: + Selling, General & Admin
+  value: 1353
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: + Selling, General & Admin
+  value: 1226
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: + Selling, General & Admin
+  value: 1299
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: + Selling, General & Admin
+  value: 1269
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: + Selling, General & Admin
+  value: 1481
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: + Selling, General & Admin
+  value: 1715
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: + Research & Development
+  value: 285
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: + Research & Development
+  value: 306
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: + Research & Development
+  value: 561
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: + Research & Development
+  value: 387
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: + Research & Development
+  value: 360
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: + Research & Development
+  value: 405
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: + Research & Development
+  value: 508
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: + Research & Development
+  value: 558
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: + Other Operating Expense
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Expense
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Expense
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Expense
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Expense
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Expense
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Expense
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Expense
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Operating Income (Loss)
+  value: -623
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Operating Income (Loss)
+  value: -576
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Operating Income (Loss)
+  value: -1174
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Operating Income (Loss)
+  value: -411
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Operating Income (Loss)
+  value: -161
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Operating Income (Loss)
+  value: 120
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Operating Income (Loss)
+  value: 310
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Operating Income (Loss)
+  value: 1414
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: '- Non-Operating (Income) Loss'
+  value: -53
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: '- Non-Operating (Income) Loss'
+  value: -9
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: '- Non-Operating (Income) Loss'
+  value: 5
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: '- Non-Operating (Income) Loss'
+  value: 77
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: '- Non-Operating (Income) Loss'
+  value: 200
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: '- Non-Operating (Income) Loss'
+  value: -117
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: '- Non-Operating (Income) Loss'
+  value: -179
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: '- Non-Operating (Income) Loss'
+  value: -243
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: + Interest Expense, Net
+  value: -7
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense, Net
+  value: -12
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense, Net
+  value: 9
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense, Net
+  value: 2
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense, Net
+  value: -16
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense, Net
+  value: -129
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense, Net
+  value: -197
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense, Net
+  value: -229
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: + Interest Expense
+  value: 3
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense
+  value: 3
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense
+  value: 14
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense
+  value: 4
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense
+  value: 4
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense
+  value: 3
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: '- Interest Income'
+  value: 10
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: '- Interest Income'
+  value: 15
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: '- Interest Income'
+  value: 5
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: '- Interest Income'
+  value: 2
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: '- Interest Income'
+  value: 20
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: '- Interest Income'
+  value: 133
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: '- Interest Income'
+  value: 197
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: '- Interest Income'
+  value: 229
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: + Other Non-Op (Income) Loss
+  value: -45
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: + Other Non-Op (Income) Loss
+  value: 3
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: + Other Non-Op (Income) Loss
+  value: -4
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: + Other Non-Op (Income) Loss
+  value: 75
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: + Other Non-Op (Income) Loss
+  value: 216
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: + Other Non-Op (Income) Loss
+  value: 12
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: + Other Non-Op (Income) Loss
+  value: 18
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: + Other Non-Op (Income) Loss
+  value: -14
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Pretax Income
+  value: -571
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Pretax Income
+  value: -567
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Pretax Income
+  value: -1179
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Pretax Income
+  value: -488
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Pretax Income
+  value: -361
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Pretax Income
+  value: 237
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Pretax Income
+  value: 489
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Pretax Income
+  value: 1657
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: '- Income Tax Expense (Benefit)'
+  value: 9
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: '- Income Tax Expense (Benefit)'
+  value: 12
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: '- Income Tax Expense (Benefit)'
+  value: -13
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: '- Income Tax Expense (Benefit)'
+  value: 32
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: '- Income Tax Expense (Benefit)'
+  value: 10
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: '- Income Tax Expense (Benefit)'
+  value: 20
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: '- Income Tax Expense (Benefit)'
+  value: 21
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: '- Income Tax Expense (Benefit)'
+  value: 23
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Income (Loss) from Cont Ops
+  value: -580
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) from Cont Ops
+  value: -580
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) from Cont Ops
+  value: -1166
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) from Cont Ops
+  value: -520
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) from Cont Ops
+  value: -371
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) from Cont Ops
+  value: 217
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) from Cont Ops
+  value: 468
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) from Cont Ops
+  value: 1635
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 5
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 15
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 11
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 19
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: + Discontinued Operations
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: + Discontinued Operations
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: + Discontinued Operations
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: + Discontinued Operations
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: + Discontinued Operations
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: + Discontinued Operations
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: + Discontinued Operations
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: + Discontinued Operations
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: + Extraord. & Accounting Changes
+  value: 5
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: + Extraord. & Accounting Changes
+  value: 15
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: + Extraord. & Accounting Changes
+  value: 11
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: + Extraord. & Accounting Changes
+  value: 19
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Income (Loss) Incl. MI
+  value: -580
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) Incl. MI
+  value: -580
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) Incl. MI
+  value: -1166
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) Incl. MI
+  value: -520
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) Incl. MI
+  value: -376
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) Incl. MI
+  value: 202
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) Incl. MI
+  value: 456
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) Incl. MI
+  value: 1615
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: '- Minority Interest'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: '- Minority Interest'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: '- Minority Interest'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: '- Minority Interest'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: '- Minority Interest'
+  value: -3
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: '- Minority Interest'
+  value: -8
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: '- Minority Interest'
+  value: -6
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: '- Minority Interest'
+  value: -10
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Net Income, GAAP
+  value: -580
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Net Income, GAAP
+  value: -580
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Net Income, GAAP
+  value: -1166
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Net Income, GAAP
+  value: -520
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Net Income, GAAP
+  value: -374
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Net Income, GAAP
+  value: 210
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Net Income, GAAP
+  value: 462
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Net Income, GAAP
+  value: 1625
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: '- Preferred Dividends'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: '- Preferred Dividends'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: '- Preferred Dividends'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: '- Preferred Dividends'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: '- Preferred Dividends'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: '- Preferred Dividends'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: '- Preferred Dividends'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: '- Preferred Dividends'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: '- Other Adjustments'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: '- Other Adjustments'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: '- Other Adjustments'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: '- Other Adjustments'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: '- Other Adjustments'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: '- Other Adjustments'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: '- Other Adjustments'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: '- Other Adjustments'
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Net Income Avail to Common, GAAP
+  value: -580
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Net Income Avail to Common, GAAP
+  value: -580
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Net Income Avail to Common, GAAP
+  value: -1166
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Net Income Avail to Common, GAAP
+  value: -520
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Net Income Avail to Common, GAAP
+  value: -374
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Net Income Avail to Common, GAAP
+  value: 210
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Net Income Avail to Common, GAAP
+  value: 462
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Net Income Avail to Common, GAAP
+  value: 1625
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: EBIT
+  value: -623
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: EBIT
+  value: -576
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: EBIT
+  value: -1174
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: EBIT
+  value: -411
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: EBIT
+  value: -161
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: EBIT
+  value: 120
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: EBIT
+  value: 310
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: EBIT
+  value: 1414
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: EBITDA
+  value: -610
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA
+  value: -564
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA
+  value: -1160
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA
+  value: -396
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA
+  value: -139
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA
+  value: 153
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA
+  value: 342
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA
+  value: 1440
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: EBITDA Margin (%)
+  value: -102.37
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: -75.98
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -106.14
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -25.69
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -7.28
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 6.89
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 11.93
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 32.18
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: EBITA
+  value: -623
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: EBITA
+  value: -576
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: EBITA
+  value: -1174
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: EBITA
+  value: -411
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: EBITA
+  value: -161
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: EBITA
+  value: 120
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: EBITA
+  value: 310
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: EBITA
+  value: 1414
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Gross Margin (%)
+  value: 72.22
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Gross Margin (%)
+  value: 67.36
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Gross Margin (%)
+  value: 67.74
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Gross Margin (%)
+  value: 77.99
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Gross Margin (%)
+  value: 78.56
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Gross Margin (%)
+  value: 80.62
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Gross Margin (%)
+  value: 80.25
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Gross Margin (%)
+  value: 82.37
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Operating Margin (%)
+  value: -104.71
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Operating Margin (%)
+  value: -77.63
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Operating Margin (%)
+  value: -107.41
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Operating Margin (%)
+  value: -26.66
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Operating Margin (%)
+  value: -8.46
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Operating Margin (%)
+  value: 5.39
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Operating Margin (%)
+  value: 10.83
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Operating Margin (%)
+  value: 31.59
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Profit Margin (%)
+  value: -97.42
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Profit Margin (%)
+  value: -78.06
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Profit Margin (%)
+  value: -106.75
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Profit Margin (%)
+  value: -33.75
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Profit Margin (%)
+  value: -19.61
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Profit Margin (%)
+  value: 9.43
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Profit Margin (%)
+  value: 16.13
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Profit Margin (%)
+  value: 36.31
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Sales per Employee
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Sales per Employee
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Sales per Employee
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Sales per Employee
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Sales per Employee
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Sales per Employee
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Sales per Employee
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Sales per Employee
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Dividend per Share
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Dividend per Share
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Dividend per Share
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Dividend per Share
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Dividend per Share
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Dividend per Share
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Dividend per Share
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Dividend per Share
+  value: null
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Depreciation Expense
+  value: 14
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Depreciation Expense
+  value: 12
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Depreciation Expense
+  value: 14
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Depreciation Expense
+  value: 15
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Depreciation Expense
+  value: 23
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Depreciation Expense
+  value: 33
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Depreciation Expense
+  value: 32
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Depreciation Expense
+  value: 26
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Basic Weighted Avg Shares
+  value: 2250
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Basic Weighted Avg Shares
+  value: 2250
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Basic Weighted Avg Shares
+  value: 976
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Basic Weighted Avg Shares
+  value: 1921
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Basic Weighted Avg Shares
+  value: 2061
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Basic Weighted Avg Shares
+  value: 2144
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Basic Weighted Avg Shares
+  value: 2247
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Basic Weighted Avg Shares
+  value: 2370
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Basic EPS, GAAP
+  value: -0.26
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS, GAAP
+  value: -0.26
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS, GAAP
+  value: -1.19
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS, GAAP
+  value: -0.27
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS, GAAP
+  value: -0.18
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS, GAAP
+  value: 0.1
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS, GAAP
+  value: 0.21
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS, GAAP
+  value: 0.69
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Basic EPS from Cont Ops
+  value: -0.26
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS from Cont Ops
+  value: -0.26
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS from Cont Ops
+  value: -1.19
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS from Cont Ops
+  value: -0.27
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS from Cont Ops
+  value: -0.18
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS from Cont Ops
+  value: 0.1
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS from Cont Ops
+  value: 0.21
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS from Cont Ops
+  value: 0.69
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Diluted Weighted Avg Shares
+  value: 2451
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Diluted Weighted Avg Shares
+  value: 2451
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Diluted Weighted Avg Shares
+  value: 978
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Diluted Weighted Avg Shares
+  value: 1921
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Diluted Weighted Avg Shares
+  value: 2061
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Diluted Weighted Avg Shares
+  value: 2295
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Diluted Weighted Avg Shares
+  value: 2447
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Diluted Weighted Avg Shares
+  value: 2565
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Diluted EPS, GAAP
+  value: -0.24
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS, GAAP
+  value: -0.24
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS, GAAP
+  value: -1.19
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS, GAAP
+  value: -0.27
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS, GAAP
+  value: -0.18
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS, GAAP
+  value: 0.09
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS, GAAP
+  value: 0.19
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS, GAAP
+  value: 0.63
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2018
+  item: Diluted EPS from Cont Ops
+  value: -0.24
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS from Cont Ops
+  value: -0.24
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS from Cont Ops
+  value: -1.19
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS from Cont Ops
+  value: -0.27
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS from Cont Ops
+  value: -0.18
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS from Cont Ops
+  value: 0.09
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS from Cont Ops
+  value: 0.19
+- ticker: PLTR
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS from Cont Ops
+  value: 0.64
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Total Current Assets
+  value: 1220
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Assets
+  value: 1214
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Assets
+  value: 2257
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Assets
+  value: 2863
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Assets
+  value: 3042
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Assets
+  value: 4139
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Assets
+  value: 5934
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Assets
+  value: 8358
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Cash, Cash Equivalents & STI
+  value: 1116
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash, Cash Equivalents & STI
+  value: 1079
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash, Cash Equivalents & STI
+  value: 2011
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash, Cash Equivalents & STI
+  value: 2525
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash, Cash Equivalents & STI
+  value: 2634
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash, Cash Equivalents & STI
+  value: 3674
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash, Cash Equivalents & STI
+  value: 5230
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash, Cash Equivalents & STI
+  value: 7177
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Cash & Cash Equivalents
+  value: 1116
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash & Cash Equivalents
+  value: 1079
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash & Cash Equivalents
+  value: 2011
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash & Cash Equivalents
+  value: 2291
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash & Cash Equivalents
+  value: 2599
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash & Cash Equivalents
+  value: 831
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash & Cash Equivalents
+  value: 2099
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash & Cash Equivalents
+  value: 1424
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Investments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Investments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Investments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Investments
+  value: 234
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Investments
+  value: 35
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Investments
+  value: 2843
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Investments
+  value: 3131
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Investments
+  value: 5753
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts & Notes Receiv
+  value: 19
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts & Notes Receiv
+  value: 50
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts & Notes Receiv
+  value: 157
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts & Notes Receiv
+  value: 191
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts & Notes Receiv
+  value: 258
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts & Notes Receiv
+  value: 365
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts & Notes Receiv
+  value: 575
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts & Notes Receiv
+  value: 1042
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts Receivable, Net
+  value: 19
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Receivable, Net
+  value: 50
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Receivable, Net
+  value: 157
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Receivable, Net
+  value: 191
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Receivable, Net
+  value: 258
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Receivable, Net
+  value: 365
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Receivable, Net
+  value: 575
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Receivable, Net
+  value: 1042
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Notes Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Notes Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Notes Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Notes Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Notes Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Notes Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Notes Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Notes Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Loans Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Loans Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Loans Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Loans Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Loans Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Loans Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Loans Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Loans Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Receivable, Net
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Inventories
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventories
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventories
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventories
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventories
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventories
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventories
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventories
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Raw Materials
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Raw Materials
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Raw Materials
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Raw Materials
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Raw Materials
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Raw Materials
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Raw Materials
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Raw Materials
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Work In Process
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Work In Process
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Work In Process
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Work In Process
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Work In Process
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Work In Process
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Work In Process
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Work In Process
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Finished Goods
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Finished Goods
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Finished Goods
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Finished Goods
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Finished Goods
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Finished Goods
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Finished Goods
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Finished Goods
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Inventory Adjustments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventory Adjustments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventory Adjustments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventory Adjustments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventory Adjustments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventory Adjustments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventory Adjustments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventory Adjustments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Inventory
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Inventory
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Inventory
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Inventory
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Inventory
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Inventory
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Inventory
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Inventory
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Other ST Assets
+  value: 85
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Assets
+  value: 85
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Assets
+  value: 89
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Assets
+  value: 148
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Assets
+  value: 150
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Assets
+  value: 100
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Assets
+  value: 129
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Assets
+  value: 139
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc ST Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Prepaid Expenses
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Prepaid Expenses
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Prepaid Expenses
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Prepaid Expenses
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Prepaid Expenses
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Prepaid Expenses
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Prepaid Expenses
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Prepaid Expenses
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Total Noncurrent Assets
+  value: 211
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Assets
+  value: 380
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Assets
+  value: 433
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Assets
+  value: 384
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Assets
+  value: 420
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Assets
+  value: 384
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Assets
+  value: 407
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Assets
+  value: 542
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Property, Plant & Equip, Net
+  value: 30
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip, Net
+  value: 32
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip, Net
+  value: 247
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip, Net
+  value: 248
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip, Net
+  value: 269
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip, Net
+  value: 231
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip, Net
+  value: 240
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip, Net
+  value: 252
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Property, Plant & Equip
+  value: 126
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip
+  value: 140
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip
+  value: 335
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip
+  value: 318
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip
+  value: 352
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip
+  value: 333
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip
+  value: 363
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip
+  value: 401
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: '- Accumulated Depreciation'
+  value: 96
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: '- Accumulated Depreciation'
+  value: 109
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: '- Accumulated Depreciation'
+  value: 88
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: '- Accumulated Depreciation'
+  value: 70
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: '- Accumulated Depreciation'
+  value: 82
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: '- Accumulated Depreciation'
+  value: 102
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: '- Accumulated Depreciation'
+  value: 123
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: '- Accumulated Depreciation'
+  value: 149
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Investments & Receivables
+  value: 18
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments & Receivables
+  value: 26
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments & Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments & Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments & Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments & Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments & Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments & Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Investments
+  value: 18
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments
+  value: 26
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Receivables
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Other LT Assets
+  value: 163
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Assets
+  value: 322
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Assets
+  value: 186
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Assets
+  value: 136
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Assets
+  value: 150
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Assets
+  value: 153
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Assets
+  value: 166
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Assets
+  value: 290
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Total Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Total Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Total Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Total Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Total Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Total Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Total Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Total Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Goodwill
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Goodwill
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Goodwill
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Goodwill
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Goodwill
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Goodwill
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Goodwill
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Goodwill
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc LT Assets
+  value: 163
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Assets
+  value: 322
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Assets
+  value: 186
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Assets
+  value: 136
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Assets
+  value: 150
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Assets
+  value: 153
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Assets
+  value: 166
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Assets
+  value: 290
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Total Assets
+  value: 1431
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Total Assets
+  value: 1594
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Total Assets
+  value: 2691
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Total Assets
+  value: 3247
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Total Assets
+  value: 3461
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Total Assets
+  value: 4522
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Total Assets
+  value: 6341
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Total Assets
+  value: 8900
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Payables & Accruals
+  value: 151
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Payables & Accruals
+  value: 178
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Payables & Accruals
+  value: 175
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Payables & Accruals
+  value: 231
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Payables & Accruals
+  value: 218
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Payables & Accruals
+  value: 235
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Payables & Accruals
+  value: 427
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Payables & Accruals
+  value: 364
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts Payable
+  value: 27
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Payable
+  value: 52
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Payable
+  value: 16
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Payable
+  value: 75
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Payable
+  value: 45
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Payable
+  value: 12
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Payable
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Payable
+  value: 8
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Accrued Taxes
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Taxes
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Taxes
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Taxes
+  value: 23
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Taxes
+  value: 41
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Taxes
+  value: 47
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Taxes
+  value: 42
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Taxes
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Payables & Accruals
+  value: 124
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Payables & Accruals
+  value: 127
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Payables & Accruals
+  value: 159
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Payables & Accruals
+  value: 133
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Payables & Accruals
+  value: 131
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Payables & Accruals
+  value: 176
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Payables & Accruals
+  value: 385
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Payables & Accruals
+  value: 356
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Debt
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Debt
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Debt
+  value: 29
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Debt
+  value: 40
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Debt
+  value: 45
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Debt
+  value: 54
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Debt
+  value: 44
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Debt
+  value: 46
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Finance Leases
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Finance Leases
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Finance Leases
+  value: 29
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Finance Leases
+  value: 40
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Finance Leases
+  value: 45
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Finance Leases
+  value: 54
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Finance Leases
+  value: 44
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Finance Leases
+  value: 46
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Other ST Liabilities
+  value: 381
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Liabilities
+  value: 550
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Liabilities
+  value: 400
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Liabilities
+  value: 389
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Liabilities
+  value: 325
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Liabilities
+  value: 457
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Liabilities
+  value: 525
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Liabilities
+  value: 766
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Revenue
+  value: 381
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: 550
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: 400
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: 389
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: 325
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: 457
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: 525
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: 766
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc ST Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Total Current Liabilities
+  value: 532
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Liabilities
+  value: 729
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Liabilities
+  value: 604
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Liabilities
+  value: 660
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Liabilities
+  value: 588
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Liabilities
+  value: 746
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Liabilities
+  value: 996
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Liabilities
+  value: 1176
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Debt
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Debt
+  value: 396
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Debt
+  value: 428
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Debt
+  value: 220
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Debt
+  value: 204
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Debt
+  value: 175
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Debt
+  value: 195
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Debt
+  value: 183
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Borrowings
+  value: 396
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Borrowings
+  value: 198
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Borrowings
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Finance Leases
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Finance Leases
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Finance Leases
+  value: 230
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Finance Leases
+  value: 220
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Finance Leases
+  value: 204
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Finance Leases
+  value: 175
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Finance Leases
+  value: 195
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Finance Leases
+  value: 183
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Other LT Liabilities
+  value: 2650
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Liabilities
+  value: 2450
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Liabilities
+  value: 136
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Liabilities
+  value: 76
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Liabilities
+  value: 27
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Liabilities
+  value: 40
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Liabilities
+  value: 55
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Liabilities
+  value: 53
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Accrued Liabilities
+  value: 314
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Liabilities
+  value: 245
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Liabilities
+  value: 132
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Liabilities
+  value: 74
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Liabilities
+  value: 14
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Liabilities
+  value: 30
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Liabilities
+  value: 42
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Liabilities
+  value: 46
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Pension Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Pension Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Pension Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Pension Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Pension Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Pension Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Pension Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Pension Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Revenue
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc LT Liabilities
+  value: 2336
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Liabilities
+  value: 2205
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Liabilities
+  value: 4
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Liabilities
+  value: 2
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Liabilities
+  value: 13
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Liabilities
+  value: 11
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Liabilities
+  value: 14
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Liabilities
+  value: 7
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Total Noncurrent Liabilities
+  value: 2650
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Liabilities
+  value: 2846
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Liabilities
+  value: 564
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Liabilities
+  value: 296
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Liabilities
+  value: 231
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Liabilities
+  value: 215
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Liabilities
+  value: 250
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Liabilities
+  value: 237
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Total Liabilities
+  value: 3182
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities
+  value: 3575
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities
+  value: 1168
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities
+  value: 956
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities
+  value: 819
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities
+  value: 961
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities
+  value: 1246
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities
+  value: 1412
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Share Capital & APIC
+  value: 1628
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Share Capital & APIC
+  value: 1858
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Share Capital & APIC
+  value: 6491
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Share Capital & APIC
+  value: 7779
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Share Capital & APIC
+  value: 8430
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Share Capital & APIC
+  value: 9124
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Share Capital & APIC
+  value: 10196
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Share Capital & APIC
+  value: 10936
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Common Stock
+  value: 1
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Common Stock
+  value: 1
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Common Stock
+  value: 2
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Common Stock
+  value: 2
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Common Stock
+  value: 2
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Common Stock
+  value: 2
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Common Stock
+  value: 2
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Common Stock
+  value: 2
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Additional Paid in Capital
+  value: 1628
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Additional Paid in Capital
+  value: 1857
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Additional Paid in Capital
+  value: 6489
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Additional Paid in Capital
+  value: 7777
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Additional Paid in Capital
+  value: 8428
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Additional Paid in Capital
+  value: 9122
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Additional Paid in Capital
+  value: 10194
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Additional Paid in Capital
+  value: 10933
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: '- Treasury Stock'
+  value: 149
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: '- Treasury Stock'
+  value: 39
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: '- Treasury Stock'
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: '- Treasury Stock'
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: '- Treasury Stock'
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: '- Treasury Stock'
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: '- Treasury Stock'
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: '- Treasury Stock'
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Retained Earnings
+  value: -3232
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Retained Earnings
+  value: -3799
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Retained Earnings
+  value: -4965
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Retained Earnings
+  value: -5486
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Retained Earnings
+  value: -5859
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Retained Earnings
+  value: -5650
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Retained Earnings
+  value: -5187
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Retained Earnings
+  value: -3562
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Equity
+  value: 1
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Equity
+  value: -1
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Equity
+  value: -3
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Equity
+  value: -2
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Equity
+  value: -5
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Equity
+  value: 1
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Equity
+  value: -6
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Equity
+  value: 14
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Equity Before Minority Interest
+  value: -1751
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Equity Before Minority Interest
+  value: -1981
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Equity Before Minority Interest
+  value: 1523
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Equity Before Minority Interest
+  value: 2291
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Equity Before Minority Interest
+  value: 2565
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Equity Before Minority Interest
+  value: 3476
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Equity Before Minority Interest
+  value: 5003
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Equity Before Minority Interest
+  value: 7387
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: + Minority/Non Controlling Interest
+  value: 77
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: + Minority/Non Controlling Interest
+  value: 85
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: + Minority/Non Controlling Interest
+  value: 91
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: + Minority/Non Controlling Interest
+  value: 101
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Total Equity
+  value: -1751
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Total Equity
+  value: -1981
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Total Equity
+  value: 1523
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Total Equity
+  value: 2291
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Total Equity
+  value: 2642
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Total Equity
+  value: 3561
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Total Equity
+  value: 5094
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Total Equity
+  value: 7488
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Total Liabilities & Equity
+  value: 1431
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities & Equity
+  value: 1594
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities & Equity
+  value: 2691
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities & Equity
+  value: 3247
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities & Equity
+  value: 3461
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities & Equity
+  value: 4522
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities & Equity
+  value: 6341
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities & Equity
+  value: 8900
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Shares Outstanding
+  value: 1588
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Shares Outstanding
+  value: 1588
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Shares Outstanding
+  value: 1792
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Shares Outstanding
+  value: 2027
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Shares Outstanding
+  value: 2099
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Shares Outstanding
+  value: 2200
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Shares Outstanding
+  value: 2339
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Shares Outstanding
+  value: 2391
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Number of Employees
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Number of Employees
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Number of Employees
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Number of Employees
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Number of Employees
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Number of Employees
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Number of Employees
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Number of Employees
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Capital Leases - Total
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Capital Leases - Total
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Capital Leases - Total
+  value: 259
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Capital Leases - Total
+  value: 260
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Capital Leases - Total
+  value: 249
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Capital Leases - Total
+  value: 229
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Capital Leases - Total
+  value: 239
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Capital Leases - Total
+  value: 229
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Net Debt
+  value: -1116
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt
+  value: -683
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt
+  value: -1813
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt
+  value: -2291
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt
+  value: -2599
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt
+  value: -831
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt
+  value: -2099
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt
+  value: -1424
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Net Debt to Equity
+  value: 63.74
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt to Equity
+  value: 34.49
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt to Equity
+  value: -119.1
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt to Equity
+  value: -99.98
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt to Equity
+  value: -98.34
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt to Equity
+  value: -23.34
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt to Equity
+  value: -41.19
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt to Equity
+  value: -19.01
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Tangible Common Equity Ratio
+  value: -122.39
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Tangible Common Equity Ratio
+  value: -124.25
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Tangible Common Equity Ratio
+  value: 56.59
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Tangible Common Equity Ratio
+  value: 70.55
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Tangible Common Equity Ratio
+  value: 76.34
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Tangible Common Equity Ratio
+  value: 78.74
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Tangible Common Equity Ratio
+  value: 80.34
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Tangible Common Equity Ratio
+  value: 84.13
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Current Ratio
+  value: 2.29
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Current Ratio
+  value: 1.67
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Current Ratio
+  value: 3.74
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Current Ratio
+  value: 4.34
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Current Ratio
+  value: 5.17
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Current Ratio
+  value: 5.55
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Current Ratio
+  value: 5.96
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Current Ratio
+  value: 7.11
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2018
+  item: Cash Conversion Cycle
+  value: null
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2019
+  item: Cash Conversion Cycle
+  value: -42.5
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2020
+  item: Cash Conversion Cycle
+  value: -0.63
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2021
+  item: Cash Conversion Cycle
+  value: -7.9
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2022
+  item: Cash Conversion Cycle
+  value: -10.45
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2023
+  item: Cash Conversion Cycle
+  value: 27.02
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2024
+  item: Cash Conversion Cycle
+  value: 55.91
+- ticker: PLTR
+  statement: balance
+  fiscalYear: 2025
+  item: Cash Conversion Cycle
+  value: 64.05
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Income
+  value: -580
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Income
+  value: -580
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Income
+  value: -1166
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Income
+  value: -520
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Income
+  value: -371
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Income
+  value: 217
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Income
+  value: 468
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Income
+  value: 1635
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Depreciation & Amortization
+  value: 14
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Depreciation & Amortization
+  value: 12
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Depreciation & Amortization
+  value: 14
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Depreciation & Amortization
+  value: 15
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Depreciation & Amortization
+  value: 23
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Depreciation & Amortization
+  value: 33
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Depreciation & Amortization
+  value: 32
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Depreciation & Amortization
+  value: 26
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Non-Cash Items
+  value: 225
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Non-Cash Items
+  value: 261
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Non-Cash Items
+  value: 1290
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Non-Cash Items
+  value: 931
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Non-Cash Items
+  value: 834
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Non-Cash Items
+  value: 455
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Non-Cash Items
+  value: 724
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Non-Cash Items
+  value: 684
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Stock-Based Compensation
+  value: 249
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Stock-Based Compensation
+  value: 242
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Stock-Based Compensation
+  value: 1271
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Stock-Based Compensation
+  value: 778
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Stock-Based Compensation
+  value: 565
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Stock-Based Compensation
+  value: 476
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Stock-Based Compensation
+  value: 692
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Stock-Based Compensation
+  value: 684
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Deferred Income Taxes
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Deferred Income Taxes
+  value: -7
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Deferred Income Taxes
+  value: -20
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Deferred Income Taxes
+  value: 43
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Deferred Income Taxes
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Deferred Income Taxes
+  value: -5
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Deferred Income Taxes
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Deferred Income Taxes
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Asset Impairment Charge
+  value: 24
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Asset Impairment Charge
+  value: 23
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Asset Impairment Charge
+  value: 1
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Asset Impairment Charge
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Asset Impairment Charge
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Asset Impairment Charge
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Asset Impairment Charge
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Asset Impairment Charge
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Non-Cash Adj
+  value: -48
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Non-Cash Adj
+  value: 3
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Non-Cash Adj
+  value: 39
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Non-Cash Adj
+  value: 110
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Non-Cash Adj
+  value: 269
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Non-Cash Adj
+  value: -16
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Non-Cash Adj
+  value: 33
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Non-Cash Adj
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Chg in Non-Cash Work Cap
+  value: 303
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Chg in Non-Cash Work Cap
+  value: 141
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Chg in Non-Cash Work Cap
+  value: -434
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Chg in Non-Cash Work Cap
+  value: -92
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Chg in Non-Cash Work Cap
+  value: -261
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Chg in Non-Cash Work Cap
+  value: 6
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Chg in Non-Cash Work Cap
+  value: -70
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Chg in Non-Cash Work Cap
+  value: -210
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Accts Receiv
+  value: -10
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Accts Receiv
+  value: -24
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Accts Receiv
+  value: -108
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Accts Receiv
+  value: -35
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Accts Receiv
+  value: -73
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Accts Receiv
+  value: -106
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Accts Receiv
+  value: -211
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Accts Receiv
+  value: -450
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Prepaid Assets
+  value: -19
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Prepaid Assets
+  value: 19
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Prepaid Assets
+  value: -19
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Prepaid Assets
+  value: -11
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Prepaid Assets
+  value: -25
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Prepaid Assets
+  value: -3
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Prepaid Assets
+  value: 12
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Prepaid Assets
+  value: 52
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc (Dec) in Accts Payable
+  value: 37
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Accts Payable
+  value: 27
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Accts Payable
+  value: 4
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Accts Payable
+  value: 73
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Accts Payable
+  value: -24
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Accts Payable
+  value: 21
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Accts Payable
+  value: 97
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Accts Payable
+  value: 5
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc (Dec) in Other
+  value: 295
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Other
+  value: 119
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Other
+  value: -311
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Other
+  value: -119
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Other
+  value: -139
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Other
+  value: 94
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Other
+  value: 32
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Other
+  value: 184
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Operating Activities
+  value: -39
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Operating Activities
+  value: -165
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Operating Activities
+  value: -297
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Operating Activities
+  value: 334
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Operating Activities
+  value: 224
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Operating Activities
+  value: 712
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Operating Activities
+  value: 1154
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Operating Activities
+  value: 2134
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Fixed & Intang
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed & Intang
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed & Intang
+  value: -12
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed & Intang
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed & Intang
+  value: -40
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed & Intang
+  value: -15
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed & Intang
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed & Intang
+  value: -34
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Fixed Prod Assets
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed Prod Assets
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed Prod Assets
+  value: -12
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed Prod Assets
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed Prod Assets
+  value: -40
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed Prod Assets
+  value: -15
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed Prod Assets
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed Prod Assets
+  value: -34
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash (Repurchase) of Equity
+  value: 89
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash (Repurchase) of Equity
+  value: 89
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash (Repurchase) of Equity
+  value: 939
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash (Repurchase) of Equity
+  value: -64
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash (Repurchase) of Equity
+  value: -75
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Increase in Capital Stock
+  value: 96
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Increase in Capital Stock
+  value: 100
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Increase in Capital Stock
+  value: 943
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Increase in Capital Stock
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Increase in Capital Stock
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Increase in Capital Stock
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Increase in Capital Stock
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Increase in Capital Stock
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Decrease in Capital Stock
+  value: -8
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Decrease in Capital Stock
+  value: -11
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Decrease in Capital Stock
+  value: -4
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Decrease in Capital Stock
+  value: -64
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Decrease in Capital Stock
+  value: -75
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Change in LT Investment
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Change in LT Investment
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Change in LT Investment
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Change in LT Investment
+  value: -381
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Change in LT Investment
+  value: -72
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Change in LT Investment
+  value: -2747
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Change in LT Investment
+  value: -328
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Change in LT Investment
+  value: -2749
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Dec in LT Investment
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dec in LT Investment
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dec in LT Investment
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dec in LT Investment
+  value: 1
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dec in LT Investment
+  value: 52
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dec in LT Investment
+  value: 2889
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dec in LT Investment
+  value: 5074
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dec in LT Investment
+  value: 5026
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc in LT Investment
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc in LT Investment
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc in LT Investment
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc in LT Investment
+  value: -382
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc in LT Investment
+  value: -124
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc in LT Investment
+  value: -5636
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc in LT Investment
+  value: -5402
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc in LT Investment
+  value: -7775
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Acq & Div
+  value: -9
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Acq & Div
+  value: -3
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Acq & Div
+  value: 67
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash from Divestitures
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash from Divestitures
+  value: 17
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash from Divestitures
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash from Divestitures
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash from Divestitures
+  value: 67
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash from Divestitures
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash from Divestitures
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash from Divestitures
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for Acq of Subs
+  value: -26
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for Acq of Subs
+  value: -3
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash for JVs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for JVs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for JVs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for JVs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for JVs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for JVs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for JVs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for JVs
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Investing Activities
+  value: 6
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Investing Activities
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Investing Activities
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Investing Activities
+  value: -4
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Investing Activities
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Investing Activities
+  value: 51
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Investing Activities
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Investing Activities
+  value: -1
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Investing Activities
+  value: -7
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Investing Activities
+  value: -22
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Investing Activities
+  value: -15
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Investing Activities
+  value: -398
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Investing Activities
+  value: -45
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Investing Activities
+  value: -2711
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Investing Activities
+  value: -341
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Investing Activities
+  value: -2784
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Dividends Paid
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dividends Paid
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dividends Paid
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dividends Paid
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dividends Paid
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dividends Paid
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dividends Paid
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dividends Paid
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Debt
+  value: -56
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Debt
+  value: 394
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Debt
+  value: -201
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Debt
+  value: -200
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash From Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash From Debt
+  value: 544
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash From Debt
+  value: 199
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash From Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash From Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash From Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash From Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash From Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Repayments of Debt
+  value: -56
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Repayments of Debt
+  value: -150
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Repayments of Debt
+  value: -400
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Repayments of Debt
+  value: -200
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Repayments of Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Repayments of Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Repayments of Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Repayments of Debt
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Financing Activities
+  value: 14
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Financing Activities
+  value: -159
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Financing Activities
+  value: 298
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Financing Activities
+  value: 507
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Financing Activities
+  value: 86
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Financing Activities
+  value: 219
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Financing Activities
+  value: 528
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Financing Activities
+  value: 48
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Financing Activities
+  value: 46
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Financing Activities
+  value: 325
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Financing Activities
+  value: 1036
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Financing Activities
+  value: 307
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Financing Activities
+  value: 86
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Financing Activities
+  value: 219
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Financing Activities
+  value: 463
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Financing Activities
+  value: -27
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Effect of Foreign Exchange Rates
+  value: -4
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Effect of Foreign Exchange Rates
+  value: -2
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Effect of Foreign Exchange Rates
+  value: 1
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Effect of Foreign Exchange Rates
+  value: -4
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Effect of Foreign Exchange Rates
+  value: -4
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Effect of Foreign Exchange Rates
+  value: 3
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Effect of Foreign Exchange Rates
+  value: -7
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Effect of Foreign Exchange Rates
+  value: 7
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Net Changes in Cash
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Changes in Cash
+  value: 137
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Changes in Cash
+  value: 725
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Changes in Cash
+  value: 243
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Changes in Cash
+  value: 264
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Changes in Cash
+  value: -1780
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Changes in Cash
+  value: 1277
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Changes in Cash
+  value: -676
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: EBITDA
+  value: -610
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA
+  value: -564
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA
+  value: -1160
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA
+  value: -396
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA
+  value: -139
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA
+  value: 153
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA
+  value: 342
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA
+  value: 1440
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: EBITDA Margin (%)
+  value: -102.37
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: -75.98
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -106.14
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -25.69
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -7.28
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 6.89
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 11.93
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 32.18
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow
+  value: -52
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow
+  value: -178
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow
+  value: -309
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow
+  value: 321
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow
+  value: 184
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow
+  value: 697
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow
+  value: 1141
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow
+  value: 2101
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Cash Paid for Acquisitions
+  value: 9
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Cash Paid for Acquisitions
+  value: 3
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Cash Paid for Acquisitions
+  value: -67
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Firm
+  value: 700
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Firm
+  value: 1141
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Firm
+  value: 2101
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow to Equity
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Equity
+  value: 216
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Equity
+  value: -509
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Equity
+  value: 121
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Equity
+  value: 184
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Equity
+  value: 697
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Equity
+  value: 1141
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Equity
+  value: 2101
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow per Basic Share
+  value: -0.02
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow per Basic Share
+  value: -0.08
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow per Basic Share
+  value: -0.32
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow per Basic Share
+  value: 0.17
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow per Basic Share
+  value: 0.09
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow per Basic Share
+  value: 0.33
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow per Basic Share
+  value: 0.51
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow per Basic Share
+  value: 0.89
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Price/Free Cash Flow
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Price/Free Cash Flow
+  value: null
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Price/Free Cash Flow
+  value: -80.98
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Price/Free Cash Flow
+  value: 100.95
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Price/Free Cash Flow
+  value: 50.16
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Price/Free Cash Flow
+  value: 54.17
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Price/Free Cash Flow
+  value: 158.67
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Price/Free Cash Flow
+  value: 210.28
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash Flow to Net Income
+  value: 0.07
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash Flow to Net Income
+  value: 0.29
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash Flow to Net Income
+  value: 0.25
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash Flow to Net Income
+  value: -0.64
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash Flow to Net Income
+  value: -0.6
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash Flow to Net Income
+  value: 3.39
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash Flow to Net Income
+  value: 2.5
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash Flow to Net Income
+  value: 1.31
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2018
+  item: Capital Expenditures
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2019
+  item: Capital Expenditures
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2020
+  item: Capital Expenditures
+  value: -12
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2021
+  item: Capital Expenditures
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2022
+  item: Capital Expenditures
+  value: -40
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2023
+  item: Capital Expenditures
+  value: -15
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2024
+  item: Capital Expenditures
+  value: -13
+- ticker: PLTR
+  statement: cashflow
+  fiscalYear: 2025
+  item: Capital Expenditures
+  value: -34
+

@@ -1,0 +1,8101 @@
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Sales/Revenue/Turnover
+  value: 2562
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Sales/Revenue/Turnover
+  value: 3652
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Sales/Revenue/Turnover
+  value: 4805
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Sales/Revenue/Turnover
+  value: 3378
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Sales/Revenue/Turnover
+  value: 5992
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Sales/Revenue/Turnover
+  value: 8399
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Sales/Revenue/Turnover
+  value: 9917
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Sales/Revenue/Turnover
+  value: 11102
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Sales/Revenue/Turnover
+  value: 12241
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: + Sales & Services Revenue
+  value: 2562
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: + Sales & Services Revenue
+  value: 3652
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: + Sales & Services Revenue
+  value: 4805
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: + Sales & Services Revenue
+  value: 3378
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: + Sales & Services Revenue
+  value: 5992
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: + Sales & Services Revenue
+  value: 8399
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: + Sales & Services Revenue
+  value: 9917
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: + Sales & Services Revenue
+  value: 11102
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: + Sales & Services Revenue
+  value: 12241
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: '- Cost of Revenue'
+  value: 648
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: '- Cost of Revenue'
+  value: 864
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: '- Cost of Revenue'
+  value: 1196
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: '- Cost of Revenue'
+  value: 876
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: '- Cost of Revenue'
+  value: 1156
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: '- Cost of Revenue'
+  value: 1499
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: '- Cost of Revenue'
+  value: 1703
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: '- Cost of Revenue'
+  value: 1878
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: '- Cost of Revenue'
+  value: 2086
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: + Cost of Goods & Services
+  value: 648
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: + Cost of Goods & Services
+  value: 864
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: + Cost of Goods & Services
+  value: 1196
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: + Cost of Goods & Services
+  value: 876
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: + Cost of Goods & Services
+  value: 1156
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: + Cost of Goods & Services
+  value: 1499
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: + Cost of Goods & Services
+  value: 1703
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: + Cost of Goods & Services
+  value: 1878
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: + Cost of Goods & Services
+  value: 2086
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Gross Profit
+  value: 1914
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Gross Profit
+  value: 2788
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Gross Profit
+  value: 3609
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Gross Profit
+  value: 2502
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Gross Profit
+  value: 4836
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Gross Profit
+  value: 6900
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Gross Profit
+  value: 8214
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Gross Profit
+  value: 9224
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Gross Profit
+  value: 10155
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: + Other Operating Income
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: + Other Operating Income
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Income
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Income
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Income
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Income
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Income
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Income
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Income
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: '- Operating Expenses'
+  value: 1995
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: '- Operating Expenses'
+  value: 2769
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: '- Operating Expenses'
+  value: 4110
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: '- Operating Expenses'
+  value: 5941
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: '- Operating Expenses'
+  value: 4294
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: '- Operating Expenses'
+  value: 5009
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: '- Operating Expenses'
+  value: 6696
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: '- Operating Expenses'
+  value: 6671
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: '- Operating Expenses'
+  value: 7611
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: + Selling, General & Admin
+  value: 1199
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: + Selling, General & Admin
+  value: 1581
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: + Selling, General & Admin
+  value: 2319
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: + Selling, General & Admin
+  value: 2310
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: + Selling, General & Admin
+  value: 2022
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: + Selling, General & Admin
+  value: 2466
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: + Selling, General & Admin
+  value: 3788
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: + Selling, General & Admin
+  value: 3333
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: + Selling, General & Admin
+  value: 3930
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: + Research & Development
+  value: 401
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: + Research & Development
+  value: 579
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: + Research & Development
+  value: 977
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: + Research & Development
+  value: 2753
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: + Research & Development
+  value: 1425
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: + Research & Development
+  value: 1502
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: + Research & Development
+  value: 1722
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: + Research & Development
+  value: 2056
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: + Research & Development
+  value: 2354
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: + Other Operating Expense
+  value: 396
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: + Other Operating Expense
+  value: 609
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Expense
+  value: 815
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Expense
+  value: 878
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Expense
+  value: 847
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Expense
+  value: 1041
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Expense
+  value: 1186
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Expense
+  value: 1282
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Expense
+  value: 1327
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Operating Income (Loss)
+  value: -81
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Operating Income (Loss)
+  value: 19
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Operating Income (Loss)
+  value: -502
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Operating Income (Loss)
+  value: -3439
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Operating Income (Loss)
+  value: 542
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Operating Income (Loss)
+  value: 1891
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Operating Income (Loss)
+  value: 1518
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Operating Income (Loss)
+  value: 2553
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Operating Income (Loss)
+  value: 2544
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: '- Non-Operating (Income) Loss'
+  value: -22
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: '- Non-Operating (Income) Loss'
+  value: -28
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: '- Non-Operating (Income) Loss'
+  value: -90
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: '- Non-Operating (Income) Loss'
+  value: 1243
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: '- Non-Operating (Income) Loss'
+  value: 842
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: '- Non-Operating (Income) Loss'
+  value: -98
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: '- Non-Operating (Income) Loss'
+  value: -584
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: '- Non-Operating (Income) Loss'
+  value: -778
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: '- Non-Operating (Income) Loss'
+  value: -593
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: + Interest Expense, Net
+  value: -16
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: + Interest Expense, Net
+  value: -41
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense, Net
+  value: -76
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense, Net
+  value: 145
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense, Net
+  value: 425
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense, Net
+  value: -162
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense, Net
+  value: -638
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense, Net
+  value: -818
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense, Net
+  value: -705
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: + Interest Expense
+  value: 16
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: + Interest Expense
+  value: 26
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense
+  value: 10
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense
+  value: 172
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense
+  value: 438
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense
+  value: 24
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense
+  value: 83
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: '- Interest Income'
+  value: 32
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: '- Interest Income'
+  value: 67
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: '- Interest Income'
+  value: 86
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: '- Interest Income'
+  value: 27
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: '- Interest Income'
+  value: 13
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: '- Interest Income'
+  value: 186
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: '- Interest Income'
+  value: 721
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: '- Interest Income'
+  value: 818
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: '- Interest Income'
+  value: 705
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: + Other Non-Op (Income) Loss
+  value: -7
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: + Other Non-Op (Income) Loss
+  value: 12
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: + Other Non-Op (Income) Loss
+  value: -14
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: + Other Non-Op (Income) Loss
+  value: 1099
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: + Other Non-Op (Income) Loss
+  value: 417
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: + Other Non-Op (Income) Loss
+  value: 64
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: + Other Non-Op (Income) Loss
+  value: 54
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: + Other Non-Op (Income) Loss
+  value: 40
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: + Other Non-Op (Income) Loss
+  value: 112
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Pretax Income
+  value: -59
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Pretax Income
+  value: 47
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Pretax Income
+  value: -412
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Pretax Income
+  value: -4682
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Pretax Income
+  value: -300
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Pretax Income
+  value: 1989
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Pretax Income
+  value: 2102
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Pretax Income
+  value: 3331
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Pretax Income
+  value: 3137
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: '- Income Tax Expense (Benefit)'
+  value: 11
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: '- Income Tax Expense (Benefit)'
+  value: 64
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: '- Income Tax Expense (Benefit)'
+  value: 263
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: '- Income Tax Expense (Benefit)'
+  value: -97
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: '- Income Tax Expense (Benefit)'
+  value: 52
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: '- Income Tax Expense (Benefit)'
+  value: 96
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: '- Income Tax Expense (Benefit)'
+  value: -2690
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: '- Income Tax Expense (Benefit)'
+  value: 683
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: '- Income Tax Expense (Benefit)'
+  value: 626
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Income (Loss) from Cont Ops
+  value: -70
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Income (Loss) from Cont Ops
+  value: -17
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) from Cont Ops
+  value: -674
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) from Cont Ops
+  value: -4585
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) from Cont Ops
+  value: -352
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) from Cont Ops
+  value: 1893
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) from Cont Ops
+  value: 4792
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) from Cont Ops
+  value: 2648
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) from Cont Ops
+  value: 2511
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: + Discontinued Operations
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: + Discontinued Operations
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: + Discontinued Operations
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: + Discontinued Operations
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: + Discontinued Operations
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: + Discontinued Operations
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: + Discontinued Operations
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: + Discontinued Operations
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: + Discontinued Operations
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Income (Loss) Incl. MI
+  value: -70
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Income (Loss) Incl. MI
+  value: -17
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) Incl. MI
+  value: -674
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) Incl. MI
+  value: -4585
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) Incl. MI
+  value: -352
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) Incl. MI
+  value: 1893
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) Incl. MI
+  value: 4792
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) Incl. MI
+  value: 2648
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) Incl. MI
+  value: 2511
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: '- Minority Interest'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: '- Minority Interest'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: '- Minority Interest'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: '- Minority Interest'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: '- Minority Interest'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: '- Minority Interest'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: '- Minority Interest'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: '- Minority Interest'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: '- Minority Interest'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Net Income, GAAP
+  value: -70
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Net Income, GAAP
+  value: -17
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Net Income, GAAP
+  value: -674
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Net Income, GAAP
+  value: -4585
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Net Income, GAAP
+  value: -352
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Net Income, GAAP
+  value: 1893
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Net Income, GAAP
+  value: 4792
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Net Income, GAAP
+  value: 2648
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Net Income, GAAP
+  value: 2511
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: '- Preferred Dividends'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: '- Preferred Dividends'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: '- Preferred Dividends'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: '- Preferred Dividends'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: '- Preferred Dividends'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: '- Preferred Dividends'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: '- Preferred Dividends'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: '- Preferred Dividends'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: '- Preferred Dividends'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: '- Other Adjustments'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: '- Other Adjustments'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: '- Other Adjustments'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: '- Other Adjustments'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: '- Other Adjustments'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: '- Other Adjustments'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: '- Other Adjustments'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: '- Other Adjustments'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: '- Other Adjustments'
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Net Income Avail to Common, GAAP
+  value: -70
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Net Income Avail to Common, GAAP
+  value: -17
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Net Income Avail to Common, GAAP
+  value: -674
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Net Income Avail to Common, GAAP
+  value: -4585
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Net Income Avail to Common, GAAP
+  value: -352
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Net Income Avail to Common, GAAP
+  value: 1893
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Net Income Avail to Common, GAAP
+  value: 4792
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Net Income Avail to Common, GAAP
+  value: 2648
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Net Income Avail to Common, GAAP
+  value: 2511
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: EBIT
+  value: -81
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: EBIT
+  value: 19
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: EBIT
+  value: -502
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: EBIT
+  value: -3439
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: EBIT
+  value: 542
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: EBIT
+  value: 1891
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: EBIT
+  value: 1518
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: EBIT
+  value: 2553
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: EBIT
+  value: 2544
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: EBITDA
+  value: -2
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: EBITDA
+  value: 101
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA
+  value: -387
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA
+  value: -3313
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA
+  value: 680
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA
+  value: 1972
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA
+  value: 1562
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA
+  value: 2618
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA
+  value: 2544
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: EBITDA Margin (%)
+  value: -0.08
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: EBITDA Margin (%)
+  value: 2.77
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: -8.06
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -98.07
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: 11.35
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: 23.48
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 15.75
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 23.58
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 20.78
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: EBITA
+  value: -81
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: EBITA
+  value: 19
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: EBITA
+  value: -502
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: EBITA
+  value: -3439
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: EBITA
+  value: 542
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: EBITA
+  value: 1891
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: EBITA
+  value: 1518
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: EBITA
+  value: 2553
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: EBITA
+  value: 2544
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Gross Margin (%)
+  value: 74.72
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Gross Margin (%)
+  value: 76.34
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Gross Margin (%)
+  value: 75.1
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Gross Margin (%)
+  value: 74.07
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Gross Margin (%)
+  value: 80.71
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Gross Margin (%)
+  value: 82.15
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Gross Margin (%)
+  value: 82.83
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Gross Margin (%)
+  value: 83.08
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Gross Margin (%)
+  value: 82.96
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Operating Margin (%)
+  value: -3.18
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Operating Margin (%)
+  value: 0.51
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Operating Margin (%)
+  value: -10.44
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Operating Margin (%)
+  value: -101.79
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Operating Margin (%)
+  value: 9.05
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Operating Margin (%)
+  value: 22.51
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Operating Margin (%)
+  value: 15.31
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Operating Margin (%)
+  value: 23
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Operating Margin (%)
+  value: 20.78
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Profit Margin (%)
+  value: -2.73
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Profit Margin (%)
+  value: -0.46
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Profit Margin (%)
+  value: -14.03
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Profit Margin (%)
+  value: -135.71
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Profit Margin (%)
+  value: -5.87
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Profit Margin (%)
+  value: 22.54
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Profit Margin (%)
+  value: 48.32
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Profit Margin (%)
+  value: 23.85
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Profit Margin (%)
+  value: 20.51
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Sales per Employee
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Sales per Employee
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Sales per Employee
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Sales per Employee
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Sales per Employee
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Sales per Employee
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Sales per Employee
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Sales per Employee
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Sales per Employee
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Dividend per Share
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Dividend per Share
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Dividend per Share
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Dividend per Share
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Dividend per Share
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Dividend per Share
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Dividend per Share
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Dividend per Share
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Dividend per Share
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Depreciation Expense
+  value: 79
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Depreciation Expense
+  value: 82
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Depreciation Expense
+  value: 114
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Depreciation Expense
+  value: 126
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Depreciation Expense
+  value: 138
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Depreciation Expense
+  value: 81
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Depreciation Expense
+  value: 44
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Depreciation Expense
+  value: 65
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Depreciation Expense
+  value: null
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Basic Weighted Avg Shares
+  value: 522
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Basic Weighted Avg Shares
+  value: 531
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Basic Weighted Avg Shares
+  value: 531
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Basic Weighted Avg Shares
+  value: 284
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Basic Weighted Avg Shares
+  value: 616
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Basic Weighted Avg Shares
+  value: 637
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Basic Weighted Avg Shares
+  value: 637
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Basic Weighted Avg Shares
+  value: 632
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Basic Weighted Avg Shares
+  value: 613
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Basic EPS, GAAP
+  value: -0.13
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Basic EPS, GAAP
+  value: -0.03
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS, GAAP
+  value: -1.27
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS, GAAP
+  value: -16.12
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS, GAAP
+  value: -0.57
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS, GAAP
+  value: 2.97
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS, GAAP
+  value: 7.52
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS, GAAP
+  value: 4.19
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS, GAAP
+  value: 4.1
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Basic EPS from Cont Ops
+  value: -0.13
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Basic EPS from Cont Ops
+  value: -0.03
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS from Cont Ops
+  value: -1.27
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS from Cont Ops
+  value: -16.12
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS from Cont Ops
+  value: -0.57
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS from Cont Ops
+  value: 2.97
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS from Cont Ops
+  value: 7.52
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS from Cont Ops
+  value: 4.19
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS from Cont Ops
+  value: 4.1
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Diluted Weighted Avg Shares
+  value: 522
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Diluted Weighted Avg Shares
+  value: 531
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Diluted Weighted Avg Shares
+  value: 531
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Diluted Weighted Avg Shares
+  value: 284
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Diluted Weighted Avg Shares
+  value: 616
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Diluted Weighted Avg Shares
+  value: 680
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Diluted Weighted Avg Shares
+  value: 662
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Diluted Weighted Avg Shares
+  value: 645
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Diluted Weighted Avg Shares
+  value: 623
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Diluted EPS, GAAP
+  value: -0.13
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Diluted EPS, GAAP
+  value: -0.03
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS, GAAP
+  value: -1.27
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS, GAAP
+  value: -16.12
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS, GAAP
+  value: -0.57
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS, GAAP
+  value: 2.78
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS, GAAP
+  value: 7.24
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS, GAAP
+  value: 4.11
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS, GAAP
+  value: 4.03
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2017
+  item: Diluted EPS from Cont Ops
+  value: -0.13
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2018
+  item: Diluted EPS from Cont Ops
+  value: -0.03
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS from Cont Ops
+  value: -1.27
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS from Cont Ops
+  value: -16.12
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS from Cont Ops
+  value: -0.57
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS from Cont Ops
+  value: 2.78
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS from Cont Ops
+  value: 7.24
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS from Cont Ops
+  value: 4.11
+- ticker: ABNB
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS from Cont Ops
+  value: 4.03
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Total Current Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Total Current Assets
+  value: 5875
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Assets
+  value: 6561
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Assets
+  value: 8916
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Assets
+  value: 12386
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Assets
+  value: 14861
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Assets
+  value: 16509
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Assets
+  value: 17180
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Assets
+  value: 18797
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Cash, Cash Equivalents & STI
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Cash, Cash Equivalents & STI
+  value: 3329
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash, Cash Equivalents & STI
+  value: 3074
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash, Cash Equivalents & STI
+  value: 6391
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash, Cash Equivalents & STI
+  value: 8322
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash, Cash Equivalents & STI
+  value: 9622
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash, Cash Equivalents & STI
+  value: 10071
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash, Cash Equivalents & STI
+  value: 10611
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash, Cash Equivalents & STI
+  value: 11014
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Cash & Cash Equivalents
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Cash & Cash Equivalents
+  value: 2141
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash & Cash Equivalents
+  value: 2014
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash & Cash Equivalents
+  value: 5481
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash & Cash Equivalents
+  value: 6067
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash & Cash Equivalents
+  value: 7378
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash & Cash Equivalents
+  value: 6874
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash & Cash Equivalents
+  value: 6864
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash & Cash Equivalents
+  value: 6560
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + ST Investments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Investments
+  value: 1188
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Investments
+  value: 1061
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Investments
+  value: 911
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Investments
+  value: 2255
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Investments
+  value: 2244
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Investments
+  value: 3197
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Investments
+  value: 3747
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Investments
+  value: 4454
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Accounts & Notes Receiv
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts & Notes Receiv
+  value: 2305
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts & Notes Receiv
+  value: 3145
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts & Notes Receiv
+  value: 2181
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts & Notes Receiv
+  value: 3715
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts & Notes Receiv
+  value: 4983
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts & Notes Receiv
+  value: 6074
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts & Notes Receiv
+  value: 6078
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts & Notes Receiv
+  value: 7145
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Accounts Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Receivable, Net
+  value: 200
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Receivable, Net
+  value: 205
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Receivable, Net
+  value: 147
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Receivable, Net
+  value: 186
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Notes Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Notes Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Notes Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Notes Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Notes Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Notes Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Notes Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Notes Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Notes Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Loans Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Loans Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Loans Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Loans Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Loans Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Loans Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Loans Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Loans Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Loans Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Other Receivable, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Receivable, Net
+  value: 2305
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Receivable, Net
+  value: 3145
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Receivable, Net
+  value: 2181
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Receivable, Net
+  value: 3715
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Receivable, Net
+  value: 4783
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Receivable, Net
+  value: 5869
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Receivable, Net
+  value: 5931
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Receivable, Net
+  value: 6959
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Inventories
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Inventories
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventories
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventories
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventories
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventories
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventories
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventories
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventories
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Raw Materials
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Raw Materials
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Raw Materials
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Raw Materials
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Raw Materials
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Raw Materials
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Raw Materials
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Raw Materials
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Raw Materials
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Work In Process
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Work In Process
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Work In Process
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Work In Process
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Work In Process
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Work In Process
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Work In Process
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Work In Process
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Work In Process
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Finished Goods
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Finished Goods
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Finished Goods
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Finished Goods
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Finished Goods
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Finished Goods
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Finished Goods
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Finished Goods
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Finished Goods
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Inventory Adjustments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Inventory Adjustments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventory Adjustments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventory Adjustments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventory Adjustments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventory Adjustments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventory Adjustments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventory Adjustments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventory Adjustments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Other Inventory
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Inventory
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Inventory
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Inventory
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Inventory
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Inventory
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Inventory
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Inventory
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Inventory
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Other ST Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Other ST Assets
+  value: 240
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Assets
+  value: 342
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Assets
+  value: 344
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Assets
+  value: 349
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Assets
+  value: 256
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Assets
+  value: 364
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Assets
+  value: 491
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Assets
+  value: 638
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Misc ST Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc ST Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Prepaid Expenses
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Prepaid Expenses
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Prepaid Expenses
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Prepaid Expenses
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Prepaid Expenses
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Prepaid Expenses
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Prepaid Expenses
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Prepaid Expenses
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Prepaid Expenses
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Total Noncurrent Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Total Noncurrent Assets
+  value: 739
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Assets
+  value: 1749
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Assets
+  value: 1575
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Assets
+  value: 1322
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Assets
+  value: 1177
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Assets
+  value: 4136
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Assets
+  value: 3779
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Assets
+  value: 3411
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Property, Plant & Equip, Net
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Property, Plant & Equip, Net
+  value: 309
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip, Net
+  value: 687
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip, Net
+  value: 654
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip, Net
+  value: 429
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip, Net
+  value: 259
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip, Net
+  value: 279
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip, Net
+  value: 291
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip, Net
+  value: 257
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Property, Plant & Equip
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Property, Plant & Equip
+  value: 453
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip
+  value: 866
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip
+  value: 922
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip
+  value: 808
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip
+  value: 571
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip
+  value: 389
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip
+  value: 432
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip
+  value: 460
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: '- Accumulated Depreciation'
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: '- Accumulated Depreciation'
+  value: 144
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: '- Accumulated Depreciation'
+  value: 179
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: '- Accumulated Depreciation'
+  value: 268
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: '- Accumulated Depreciation'
+  value: 379
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: '- Accumulated Depreciation'
+  value: 312
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: '- Accumulated Depreciation'
+  value: 110
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: '- Accumulated Depreciation'
+  value: 141
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: '- Accumulated Depreciation'
+  value: 203
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + LT Investments & Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Investments & Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments & Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments & Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments & Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments & Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments & Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments & Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments & Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + LT Investments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Investments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + LT Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Receivables
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Other LT Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Other LT Assets
+  value: 429
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Assets
+  value: 1062
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Assets
+  value: 921
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Assets
+  value: 893
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Assets
+  value: 918
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Assets
+  value: 3857
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Assets
+  value: 3488
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Assets
+  value: 3154
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Total Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Total Intangible Assets
+  value: 319
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Total Intangible Assets
+  value: 755
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Total Intangible Assets
+  value: 732
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Total Intangible Assets
+  value: 705
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Total Intangible Assets
+  value: 684
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Total Intangible Assets
+  value: 792
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Total Intangible Assets
+  value: 777
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Total Intangible Assets
+  value: 770
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Goodwill
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Goodwill
+  value: 290
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Goodwill
+  value: 652
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Goodwill
+  value: 656
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Goodwill
+  value: 653
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Goodwill
+  value: 650
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Goodwill
+  value: 752
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Goodwill
+  value: 750
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Goodwill
+  value: 754
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Other Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Intangible Assets
+  value: 29
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Intangible Assets
+  value: 103
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Intangible Assets
+  value: 76
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Intangible Assets
+  value: 52
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Intangible Assets
+  value: 34
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Intangible Assets
+  value: 40
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Intangible Assets
+  value: 27
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Intangible Assets
+  value: 16
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Misc LT Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc LT Assets
+  value: 111
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Assets
+  value: 307
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Assets
+  value: 189
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Assets
+  value: 188
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Assets
+  value: 234
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Assets
+  value: 3065
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Assets
+  value: 2711
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Assets
+  value: 2384
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Total Assets
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Total Assets
+  value: 6613
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Total Assets
+  value: 8310
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Total Assets
+  value: 10491
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Total Assets
+  value: 13708
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Total Assets
+  value: 16038
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Total Assets
+  value: 20645
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Total Assets
+  value: 20959
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Total Assets
+  value: 22208
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Payables & Accruals
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Payables & Accruals
+  value: 2871
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Payables & Accruals
+  value: 3990
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Payables & Accruals
+  value: 2773
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Payables & Accruals
+  value: 4695
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Payables & Accruals
+  value: 6357
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Payables & Accruals
+  value: 8026
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Payables & Accruals
+  value: 7984
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Payables & Accruals
+  value: 9246
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Accounts Payable
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts Payable
+  value: 71
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Payable
+  value: 151
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Payable
+  value: 80
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Payable
+  value: 118
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Payable
+  value: 137
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Payable
+  value: 141
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Payable
+  value: 142
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Payable
+  value: 232
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Accrued Taxes
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Accrued Taxes
+  value: 160
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Taxes
+  value: 207
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Taxes
+  value: 165
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Taxes
+  value: 310
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Taxes
+  value: 624
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Taxes
+  value: 1119
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Taxes
+  value: 1055
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Taxes
+  value: 1132
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Other Payables & Accruals
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Payables & Accruals
+  value: 2640
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Payables & Accruals
+  value: 3631
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Payables & Accruals
+  value: 2528
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Payables & Accruals
+  value: 4267
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Payables & Accruals
+  value: 5596
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Payables & Accruals
+  value: 6766
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Payables & Accruals
+  value: 6787
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Payables & Accruals
+  value: 7882
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + ST Debt
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Debt
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Debt
+  value: 38
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Debt
+  value: 83
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Debt
+  value: 63
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Debt
+  value: 59
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Debt
+  value: 61
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Debt
+  value: 63
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Debt
+  value: 2067
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + ST Borrowings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Borrowings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Borrowings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Borrowings
+  value: 27
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Borrowings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Borrowings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Borrowings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Borrowings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Borrowings
+  value: 1999
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + ST Finance Leases
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Finance Leases
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Finance Leases
+  value: 38
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Finance Leases
+  value: 57
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Finance Leases
+  value: 63
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Finance Leases
+  value: 59
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Finance Leases
+  value: 61
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Finance Leases
+  value: 63
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Finance Leases
+  value: 68
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Other ST Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Other ST Liabilities
+  value: 865
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Liabilities
+  value: 1206
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Liabilities
+  value: 2283
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Liabilities
+  value: 1601
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Liabilities
+  value: 1562
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Liabilities
+  value: 1863
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Liabilities
+  value: 2114
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Liabilities
+  value: 2336
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: 1002
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: 1182
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: 1427
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: 1616
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: 1743
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Tax Liabilities
+  value: 219
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: 262
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: 188
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: 183
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: 206
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Misc ST Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc ST Liabilities
+  value: 647
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Liabilities
+  value: 943
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Liabilities
+  value: 2095
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Liabilities
+  value: 416
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Liabilities
+  value: 174
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Liabilities
+  value: 436
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Liabilities
+  value: 498
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Liabilities
+  value: 593
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Total Current Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Total Current Liabilities
+  value: 3736
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Liabilities
+  value: 5234
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Liabilities
+  value: 5140
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Liabilities
+  value: 6359
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Liabilities
+  value: 7978
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Liabilities
+  value: 9950
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Liabilities
+  value: 10161
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Liabilities
+  value: 13649
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + LT Debt
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Debt
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Debt
+  value: 381
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Debt
+  value: 2246
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Debt
+  value: 2355
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Debt
+  value: 2282
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Debt
+  value: 2243
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Debt
+  value: 1995
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Debt
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + LT Borrowings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Borrowings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Borrowings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Borrowings
+  value: 1816
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Borrowings
+  value: 1983
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Borrowings
+  value: 1987
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Borrowings
+  value: 1991
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Borrowings
+  value: 1995
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Borrowings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + LT Finance Leases
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Finance Leases
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Finance Leases
+  value: 381
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Finance Leases
+  value: 431
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Finance Leases
+  value: 372
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Finance Leases
+  value: 295
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Finance Leases
+  value: 252
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Finance Leases
+  value: 236
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Finance Leases
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Other LT Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Other LT Liabilities
+  value: 3394
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Liabilities
+  value: 3503
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Liabilities
+  value: 203
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Liabilities
+  value: 219
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Liabilities
+  value: 218
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Liabilities
+  value: 287
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Liabilities
+  value: 391
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Liabilities
+  value: 360
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Accrued Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Accrued Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Pension Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Pension Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Pension Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Pension Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Pension Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Pension Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Pension Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Pension Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Pension Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Misc LT Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc LT Liabilities
+  value: 3394
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Liabilities
+  value: 3503
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Liabilities
+  value: 203
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Liabilities
+  value: 219
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Liabilities
+  value: 218
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Liabilities
+  value: 287
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Liabilities
+  value: 391
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Liabilities
+  value: 360
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Total Noncurrent Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Total Noncurrent Liabilities
+  value: 3394
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Liabilities
+  value: 3884
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Liabilities
+  value: 2450
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Liabilities
+  value: 2574
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Liabilities
+  value: 2500
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Liabilities
+  value: 2530
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Liabilities
+  value: 2386
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Liabilities
+  value: 360
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Total Liabilities
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Total Liabilities
+  value: 7130
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities
+  value: 9118
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities
+  value: 7590
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities
+  value: 8933
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities
+  value: 10478
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities
+  value: 12480
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities
+  value: 12547
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities
+  value: 14009
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Share Capital & APIC
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Share Capital & APIC
+  value: 259
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Share Capital & APIC
+  value: 618
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Share Capital & APIC
+  value: 8905
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Share Capital & APIC
+  value: 11140
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Share Capital & APIC
+  value: 11557
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Share Capital & APIC
+  value: 11639
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Share Capital & APIC
+  value: 12602
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Share Capital & APIC
+  value: 13763
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Common Stock
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Common Stock
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Common Stock
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Common Stock
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Common Stock
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Common Stock
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Common Stock
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Common Stock
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Common Stock
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Additional Paid in Capital
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Additional Paid in Capital
+  value: 259
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Additional Paid in Capital
+  value: 618
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Additional Paid in Capital
+  value: 8905
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Additional Paid in Capital
+  value: 11140
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Additional Paid in Capital
+  value: 11557
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Additional Paid in Capital
+  value: 11639
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Additional Paid in Capital
+  value: 12602
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Additional Paid in Capital
+  value: 13763
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: '- Treasury Stock'
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: '- Treasury Stock'
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: '- Treasury Stock'
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: '- Treasury Stock'
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: '- Treasury Stock'
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: '- Treasury Stock'
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: '- Treasury Stock'
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: '- Treasury Stock'
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: '- Treasury Stock'
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Retained Earnings
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Retained Earnings
+  value: -769
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Retained Earnings
+  value: -1421
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Retained Earnings
+  value: -6006
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Retained Earnings
+  value: -6358
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Retained Earnings
+  value: -5965
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Retained Earnings
+  value: -3425
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Retained Earnings
+  value: -4225
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Retained Earnings
+  value: -5502
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Other Equity
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Equity
+  value: -8
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Equity
+  value: -4
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Equity
+  value: 3
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Equity
+  value: -7
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Equity
+  value: -32
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Equity
+  value: -49
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Equity
+  value: 35
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Equity
+  value: -62
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Equity Before Minority Interest
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Equity Before Minority Interest
+  value: -517
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Equity Before Minority Interest
+  value: -808
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Equity Before Minority Interest
+  value: 2902
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Equity Before Minority Interest
+  value: 4775
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Equity Before Minority Interest
+  value: 5560
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Equity Before Minority Interest
+  value: 8165
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Equity Before Minority Interest
+  value: 8412
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Equity Before Minority Interest
+  value: 8199
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Total Equity
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Total Equity
+  value: -517
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Total Equity
+  value: -808
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Total Equity
+  value: 2902
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Total Equity
+  value: 4775
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Total Equity
+  value: 5560
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Total Equity
+  value: 8165
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Total Equity
+  value: 8412
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Total Equity
+  value: 8199
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Total Liabilities & Equity
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Total Liabilities & Equity
+  value: 6613
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities & Equity
+  value: 8310
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities & Equity
+  value: 10491
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities & Equity
+  value: 13708
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities & Equity
+  value: 16038
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities & Equity
+  value: 20645
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities & Equity
+  value: 20959
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities & Equity
+  value: 22208
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Shares Outstanding
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Shares Outstanding
+  value: 587
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Shares Outstanding
+  value: 587
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Shares Outstanding
+  value: 599
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Shares Outstanding
+  value: 634
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Shares Outstanding
+  value: 631
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Shares Outstanding
+  value: 638
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Shares Outstanding
+  value: 623
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Shares Outstanding
+  value: 602
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Number of Employees
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Number of Employees
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Number of Employees
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Number of Employees
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Number of Employees
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Number of Employees
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Number of Employees
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Number of Employees
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Number of Employees
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Capital Leases - Total
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Capital Leases - Total
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Capital Leases - Total
+  value: 419
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Capital Leases - Total
+  value: 487
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Capital Leases - Total
+  value: 435
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Capital Leases - Total
+  value: 354
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Capital Leases - Total
+  value: 313
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Capital Leases - Total
+  value: 299
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Capital Leases - Total
+  value: 68
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Net Debt
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Net Debt
+  value: -2141
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt
+  value: -2014
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt
+  value: -3638
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt
+  value: -4084
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt
+  value: -5391
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt
+  value: -4883
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt
+  value: -4869
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt
+  value: -4561
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Net Debt to Equity
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Net Debt to Equity
+  value: 413.85
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt to Equity
+  value: 249.3
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt to Equity
+  value: -125.38
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt to Equity
+  value: -85.53
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt to Equity
+  value: -96.96
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt to Equity
+  value: -59.8
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt to Equity
+  value: -57.88
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt to Equity
+  value: -55.63
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Tangible Common Equity Ratio
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Tangible Common Equity Ratio
+  value: -13.28
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Tangible Common Equity Ratio
+  value: -20.68
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Tangible Common Equity Ratio
+  value: 22.24
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Tangible Common Equity Ratio
+  value: 31.3
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Tangible Common Equity Ratio
+  value: 31.76
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Tangible Common Equity Ratio
+  value: 37.14
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Tangible Common Equity Ratio
+  value: 37.83
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Tangible Common Equity Ratio
+  value: 34.65
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Current Ratio
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Current Ratio
+  value: 1.57
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Current Ratio
+  value: 1.25
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Current Ratio
+  value: 1.73
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Current Ratio
+  value: 1.95
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Current Ratio
+  value: 1.86
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Current Ratio
+  value: 1.66
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Current Ratio
+  value: 1.69
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Current Ratio
+  value: 1.38
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2017
+  item: Cash Conversion Cycle
+  value: null
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2018
+  item: Cash Conversion Cycle
+  value: -14.92
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2019
+  item: Cash Conversion Cycle
+  value: -33.87
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2020
+  item: Cash Conversion Cycle
+  value: -48.19
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2021
+  item: Cash Conversion Cycle
+  value: -31.24
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2022
+  item: Cash Conversion Cycle
+  value: -26.7
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2023
+  item: Cash Conversion Cycle
+  value: -22.34
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2024
+  item: Cash Conversion Cycle
+  value: -21.71
+- ticker: ABNB
+  statement: balance
+  fiscalYear: 2025
+  item: Cash Conversion Cycle
+  value: -27.76
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Net Income
+  value: -70
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Income
+  value: -17
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Income
+  value: -674
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Income
+  value: -4585
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Income
+  value: -352
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Income
+  value: 1893
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Income
+  value: 4792
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Income
+  value: 2648
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Income
+  value: 2511
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Depreciation & Amortization
+  value: 79
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Depreciation & Amortization
+  value: 82
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Depreciation & Amortization
+  value: 114
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Depreciation & Amortization
+  value: 126
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Depreciation & Amortization
+  value: 138
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Depreciation & Amortization
+  value: 81
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Depreciation & Amortization
+  value: 44
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Depreciation & Amortization
+  value: 65
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Depreciation & Amortization
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Non-Cash Items
+  value: 59
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Non-Cash Items
+  value: 109
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Non-Cash Items
+  value: 163
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Non-Cash Items
+  value: 4114
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Non-Cash Items
+  value: 1766
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Non-Cash Items
+  value: 1137
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Non-Cash Items
+  value: -1672
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Non-Cash Items
+  value: 1872
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Non-Cash Items
+  value: 2241
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Stock-Based Compensation
+  value: 38
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Stock-Based Compensation
+  value: 54
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Stock-Based Compensation
+  value: 98
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Stock-Based Compensation
+  value: 3002
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Stock-Based Compensation
+  value: 899
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Stock-Based Compensation
+  value: 930
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Stock-Based Compensation
+  value: 1120
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Stock-Based Compensation
+  value: 1407
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Stock-Based Compensation
+  value: 1592
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Deferred Income Taxes
+  value: -4
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Deferred Income Taxes
+  value: -5
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Deferred Income Taxes
+  value: -6
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Deferred Income Taxes
+  value: -20
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Deferred Income Taxes
+  value: 11
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Deferred Income Taxes
+  value: -1
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Deferred Income Taxes
+  value: -2875
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Deferred Income Taxes
+  value: 433
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Deferred Income Taxes
+  value: 376
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Asset Impairment Charge
+  value: 31
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Asset Impairment Charge
+  value: 49
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Asset Impairment Charge
+  value: 105
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Asset Impairment Charge
+  value: 226
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Asset Impairment Charge
+  value: 113
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Asset Impairment Charge
+  value: 91
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Asset Impairment Charge
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Asset Impairment Charge
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Asset Impairment Charge
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Other Non-Cash Adj
+  value: -6
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Non-Cash Adj
+  value: 11
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Non-Cash Adj
+  value: -34
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Non-Cash Adj
+  value: 906
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Non-Cash Adj
+  value: 743
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Non-Cash Adj
+  value: 117
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Non-Cash Adj
+  value: 83
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Non-Cash Adj
+  value: 32
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Non-Cash Adj
+  value: 273
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Chg in Non-Cash Work Cap
+  value: 183
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Chg in Non-Cash Work Cap
+  value: 421
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Chg in Non-Cash Work Cap
+  value: 620
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Chg in Non-Cash Work Cap
+  value: -285
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Chg in Non-Cash Work Cap
+  value: 761
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Chg in Non-Cash Work Cap
+  value: 319
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Chg in Non-Cash Work Cap
+  value: 720
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Chg in Non-Cash Work Cap
+  value: -67
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Chg in Non-Cash Work Cap
+  value: -106
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + (Inc) Dec in Prepaid Assets
+  value: -139
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Prepaid Assets
+  value: -103
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Prepaid Assets
+  value: -186
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Prepaid Assets
+  value: -16
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Prepaid Assets
+  value: -29
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Prepaid Assets
+  value: -185
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Prepaid Assets
+  value: -102
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Prepaid Assets
+  value: -163
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Prepaid Assets
+  value: -346
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Inc (Dec) in Accts Payable
+  value: 187
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc (Dec) in Accts Payable
+  value: 378
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Accts Payable
+  value: 623
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Accts Payable
+  value: -29
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Accts Payable
+  value: 294
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Accts Payable
+  value: 224
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Accts Payable
+  value: 580
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Accts Payable
+  value: -104
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Accts Payable
+  value: 118
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Inc (Dec) in Other
+  value: 135
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc (Dec) in Other
+  value: 146
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Other
+  value: 183
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Other
+  value: -239
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Other
+  value: 496
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Other
+  value: 280
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Other
+  value: 242
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Other
+  value: 200
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Other
+  value: 122
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Cash from Operating Activities
+  value: 251
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Operating Activities
+  value: 596
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Operating Activities
+  value: 223
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Operating Activities
+  value: -630
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Operating Activities
+  value: 2313
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Operating Activities
+  value: 3430
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Operating Activities
+  value: 3884
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Operating Activities
+  value: 4518
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Operating Activities
+  value: 4646
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Acq of Fixed & Intang
+  value: -100
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Fixed & Intang
+  value: -91
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed & Intang
+  value: -125
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed & Intang
+  value: -37
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed & Intang
+  value: -25
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed & Intang
+  value: -25
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Acq of Fixed Prod Assets
+  value: -100
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Fixed Prod Assets
+  value: -91
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed Prod Assets
+  value: -125
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed Prod Assets
+  value: -37
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed Prod Assets
+  value: -25
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed Prod Assets
+  value: -25
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash (Repurchase) of Equity
+  value: 3651
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash (Repurchase) of Equity
+  value: -1500
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash (Repurchase) of Equity
+  value: -2252
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash (Repurchase) of Equity
+  value: -3430
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash (Repurchase) of Equity
+  value: -3789
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Increase in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Increase in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Increase in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Increase in Capital Stock
+  value: 3651
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Increase in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Increase in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Increase in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Increase in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Increase in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Decrease in Capital Stock
+  value: -1500
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Decrease in Capital Stock
+  value: -2252
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Decrease in Capital Stock
+  value: -3430
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Decrease in Capital Stock
+  value: -3789
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Net Change in LT Investment
+  value: -512
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Change in LT Investment
+  value: -514
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Change in LT Investment
+  value: 145
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Change in LT Investment
+  value: 126
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Change in LT Investment
+  value: -1327
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Change in LT Investment
+  value: -1
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Change in LT Investment
+  value: -928
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Change in LT Investment
+  value: -541
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Change in LT Investment
+  value: -702
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Dec in LT Investment
+  value: 528
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Dec in LT Investment
+  value: 756
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dec in LT Investment
+  value: 1161
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dec in LT Investment
+  value: 3158
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dec in LT Investment
+  value: 3611
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dec in LT Investment
+  value: 4071
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dec in LT Investment
+  value: 2380
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dec in LT Investment
+  value: 2605
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dec in LT Investment
+  value: 2736
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Inc in LT Investment
+  value: -1040
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc in LT Investment
+  value: -1271
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc in LT Investment
+  value: -1016
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc in LT Investment
+  value: -3033
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc in LT Investment
+  value: -4938
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc in LT Investment
+  value: -4072
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc in LT Investment
+  value: -3308
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc in LT Investment
+  value: -3146
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc in LT Investment
+  value: -3438
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Net Cash From Acq & Div
+  value: -177
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Acq & Div
+  value: -60
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Acq & Div
+  value: -400
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Cash from Divestitures
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash from Divestitures
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash from Divestitures
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash from Divestitures
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash from Divestitures
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash from Divestitures
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash from Divestitures
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash from Divestitures
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash from Divestitures
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Cash for Acq of Subs
+  value: -177
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash for Acq of Subs
+  value: -60
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for Acq of Subs
+  value: -400
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Cash for JVs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash for JVs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for JVs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for JVs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for JVs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for JVs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for JVs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for JVs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for JVs
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Other Investing Activities
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Investing Activities
+  value: -3
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Investing Activities
+  value: 34
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Investing Activities
+  value: -9
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Investing Activities
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Investing Activities
+  value: -2
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Investing Activities
+  value: -114
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Investing Activities
+  value: -75
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Investing Activities
+  value: -46
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Cash from Investing Activities
+  value: -789
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Investing Activities
+  value: -668
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Investing Activities
+  value: -347
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Investing Activities
+  value: 80
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Investing Activities
+  value: -1352
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Investing Activities
+  value: -28
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Investing Activities
+  value: -1042
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Investing Activities
+  value: -616
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Investing Activities
+  value: -748
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Dividends Paid
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Dividends Paid
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dividends Paid
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dividends Paid
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dividends Paid
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dividends Paid
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dividends Paid
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dividends Paid
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dividends Paid
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Net Cash From Debt
+  value: 5
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Debt
+  value: 1924
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Debt
+  value: -229
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Cash From Debt
+  value: 5
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash From Debt
+  value: 1929
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash From Debt
+  value: 1979
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash From Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Repayments of Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Repayments of Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Repayments of Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Repayments of Debt
+  value: -5
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Repayments of Debt
+  value: -2208
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Repayments of Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Repayments of Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Repayments of Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Repayments of Debt
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Other Financing Activities
+  value: 668
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Financing Activities
+  value: 141
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Financing Activities
+  value: 855
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Financing Activities
+  value: -2634
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Financing Activities
+  value: 1537
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Financing Activities
+  value: 811
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Financing Activities
+  value: -178
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Financing Activities
+  value: -142
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Financing Activities
+  value: -38
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Cash from Financing Activities
+  value: 673
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Financing Activities
+  value: 141
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Financing Activities
+  value: 855
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Financing Activities
+  value: 2941
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Financing Activities
+  value: 1308
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Financing Activities
+  value: -689
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Financing Activities
+  value: -2430
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Financing Activities
+  value: -3572
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Financing Activities
+  value: -3827
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Effect of Foreign Exchange Rates
+  value: 227
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Effect of Foreign Exchange Rates
+  value: -159
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Effect of Foreign Exchange Rates
+  value: -25
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Effect of Foreign Exchange Rates
+  value: 134
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Effect of Foreign Exchange Rates
+  value: -210
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Effect of Foreign Exchange Rates
+  value: -337
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Effect of Foreign Exchange Rates
+  value: 152
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Effect of Foreign Exchange Rates
+  value: -237
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Effect of Foreign Exchange Rates
+  value: 655
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Net Changes in Cash
+  value: 135
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Net Changes in Cash
+  value: 68
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Changes in Cash
+  value: 730
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Changes in Cash
+  value: 2391
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Changes in Cash
+  value: 2269
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Changes in Cash
+  value: 2713
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Changes in Cash
+  value: 412
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Changes in Cash
+  value: 330
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Changes in Cash
+  value: 71
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: EBITDA
+  value: -2
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: EBITDA
+  value: 101
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA
+  value: -387
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA
+  value: -3313
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA
+  value: 680
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA
+  value: 1972
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA
+  value: 1562
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA
+  value: 2618
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA
+  value: 2544
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: EBITDA Margin (%)
+  value: -0.08
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: EBITDA Margin (%)
+  value: 2.77
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: -8.06
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -98.07
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: 11.35
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: 23.48
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 15.75
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 23.58
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 20.78
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Free Cash Flow
+  value: 151
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow
+  value: 505
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow
+  value: 97
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow
+  value: -667
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow
+  value: 2288
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow
+  value: 3405
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow
+  value: 3884
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow
+  value: 4518
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow
+  value: 4646
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Net Cash Paid for Acquisitions
+  value: 177
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Net Cash Paid for Acquisitions
+  value: 60
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Cash Paid for Acquisitions
+  value: 400
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow to Firm
+  value: 496
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Firm
+  value: 3428
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Firm
+  value: 4518
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Firm
+  value: 4646
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Free Cash Flow to Equity
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow to Equity
+  value: 505
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Equity
+  value: 97
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Equity
+  value: 1257
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Equity
+  value: 2059
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Equity
+  value: 3405
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Equity
+  value: 3884
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Equity
+  value: 4518
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Equity
+  value: 4646
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Free Cash Flow per Basic Share
+  value: 0.29
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow per Basic Share
+  value: 0.95
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow per Basic Share
+  value: 0.18
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow per Basic Share
+  value: -2.35
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow per Basic Share
+  value: 3.71
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow per Basic Share
+  value: 5.35
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow per Basic Share
+  value: 6.1
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow per Basic Share
+  value: 7.15
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow per Basic Share
+  value: 7.58
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Price/Free Cash Flow
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Price/Free Cash Flow
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Price/Free Cash Flow
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Price/Free Cash Flow
+  value: -70.47
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Price/Free Cash Flow
+  value: 43.85
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Price/Free Cash Flow
+  value: 16.83
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Price/Free Cash Flow
+  value: 23.2
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Price/Free Cash Flow
+  value: 18.76
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Price/Free Cash Flow
+  value: 18.2
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Cash Flow to Net Income
+  value: -3.59
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash Flow to Net Income
+  value: -35.32
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash Flow to Net Income
+  value: -0.33
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash Flow to Net Income
+  value: 0.14
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash Flow to Net Income
+  value: -6.57
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash Flow to Net Income
+  value: 1.81
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash Flow to Net Income
+  value: 0.81
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash Flow to Net Income
+  value: 1.71
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash Flow to Net Income
+  value: 1.85
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2017
+  item: Capital Expenditures
+  value: -100
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2018
+  item: Capital Expenditures
+  value: -91
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2019
+  item: Capital Expenditures
+  value: -125
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2020
+  item: Capital Expenditures
+  value: -37
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2021
+  item: Capital Expenditures
+  value: -25
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2022
+  item: Capital Expenditures
+  value: -25
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2023
+  item: Capital Expenditures
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2024
+  item: Capital Expenditures
+  value: null
+- ticker: ABNB
+  statement: cashflow
+  fiscalYear: 2025
+  item: Capital Expenditures
+  value: null
+

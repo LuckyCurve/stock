@@ -1,0 +1,5401 @@
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Sales/Revenue/Turnover
+  value: 229
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Sales/Revenue/Turnover
+  value: 485
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Sales/Revenue/Turnover
+  value: 667
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Sales/Revenue/Turnover
+  value: 804
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Sales/Revenue/Turnover
+  value: 1300
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Sales/Revenue/Turnover
+  value: 2203
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: + Sales & Services Revenue
+  value: 229
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: + Sales & Services Revenue
+  value: 485
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: + Sales & Services Revenue
+  value: 667
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: + Sales & Services Revenue
+  value: 804
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: + Sales & Services Revenue
+  value: 1300
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: + Sales & Services Revenue
+  value: 2203
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: '- Cost of Revenue'
+  value: 55
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: '- Cost of Revenue'
+  value: 73
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: '- Cost of Revenue'
+  value: 105
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: '- Cost of Revenue'
+  value: 111
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: '- Cost of Revenue'
+  value: 124
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: '- Cost of Revenue'
+  value: 194
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: + Cost of Goods & Services
+  value: 55
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: + Cost of Goods & Services
+  value: 73
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: + Cost of Goods & Services
+  value: 105
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: + Cost of Goods & Services
+  value: 111
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: + Cost of Goods & Services
+  value: 124
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: + Cost of Goods & Services
+  value: 194
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Gross Profit
+  value: 174
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Gross Profit
+  value: 412
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Gross Profit
+  value: 562
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Gross Profit
+  value: 693
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Gross Profit
+  value: 1177
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Gross Profit
+  value: 2008
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Income
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Income
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Income
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Income
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Income
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Income
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: '- Operating Expenses'
+  value: 236
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: '- Operating Expenses'
+  value: 540
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: '- Operating Expenses'
+  value: 734
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: '- Operating Expenses'
+  value: 833
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: '- Operating Expenses'
+  value: 1737
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: '- Operating Expenses'
+  value: 1566
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: + Selling, General & Admin
+  value: 119
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: + Selling, General & Admin
+  value: 283
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: + Selling, General & Admin
+  value: 369
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: + Selling, General & Admin
+  value: 395
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: + Selling, General & Admin
+  value: 802
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: + Selling, General & Admin
+  value: 783
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: + Research & Development
+  value: 118
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: + Research & Development
+  value: 257
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: + Research & Development
+  value: 365
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: + Research & Development
+  value: 438
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: + Research & Development
+  value: 935
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: + Research & Development
+  value: 783
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Operating Income (Loss)
+  value: -63
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Operating Income (Loss)
+  value: -127
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Operating Income (Loss)
+  value: -172
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Operating Income (Loss)
+  value: -140
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Operating Income (Loss)
+  value: -561
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Operating Income (Loss)
+  value: 442
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: '- Non-Operating (Income) Loss'
+  value: -3
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: '- Non-Operating (Income) Loss'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: '- Non-Operating (Income) Loss'
+  value: -14
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: '- Non-Operating (Income) Loss'
+  value: -53
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: '- Non-Operating (Income) Loss'
+  value: -75
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: '- Non-Operating (Income) Loss'
+  value: -87
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense, Net
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense, Net
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense, Net
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense, Net
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense, Net
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense, Net
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: '- Interest Income'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: '- Interest Income'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: '- Interest Income'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: '- Interest Income'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: '- Interest Income'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: '- Interest Income'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: + Other Non-Op (Income) Loss
+  value: -3
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: + Other Non-Op (Income) Loss
+  value: -14
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: + Other Non-Op (Income) Loss
+  value: -53
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: + Other Non-Op (Income) Loss
+  value: -75
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: + Other Non-Op (Income) Loss
+  value: -87
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Pretax Income
+  value: -59
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Pretax Income
+  value: -128
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Pretax Income
+  value: -158
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Pretax Income
+  value: -87
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Pretax Income
+  value: -485
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Pretax Income
+  value: 529
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: '- Income Tax Expense (Benefit)'
+  value: 1
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: '- Income Tax Expense (Benefit)'
+  value: 4
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: '- Income Tax Expense (Benefit)'
+  value: -1
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: '- Income Tax Expense (Benefit)'
+  value: -1
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) from Cont Ops
+  value: -59
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) from Cont Ops
+  value: -128
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) from Cont Ops
+  value: -159
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) from Cont Ops
+  value: -91
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) from Cont Ops
+  value: -484
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) from Cont Ops
+  value: 530
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: + Discontinued Operations
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: + Discontinued Operations
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: + Discontinued Operations
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: + Discontinued Operations
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: + Discontinued Operations
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: + Discontinued Operations
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) Incl. MI
+  value: -59
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) Incl. MI
+  value: -128
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) Incl. MI
+  value: -159
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) Incl. MI
+  value: -91
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) Incl. MI
+  value: -484
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) Incl. MI
+  value: 530
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: '- Minority Interest'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: '- Minority Interest'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: '- Minority Interest'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: '- Minority Interest'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: '- Minority Interest'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: '- Minority Interest'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Net Income, GAAP
+  value: -59
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Net Income, GAAP
+  value: -128
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Net Income, GAAP
+  value: -159
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Net Income, GAAP
+  value: -91
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Net Income, GAAP
+  value: -484
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Net Income, GAAP
+  value: 530
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: '- Preferred Dividends'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: '- Other Adjustments'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: '- Other Adjustments'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: '- Other Adjustments'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: '- Other Adjustments'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: '- Other Adjustments'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: '- Other Adjustments'
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Net Income Avail to Common, GAAP
+  value: -59
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Net Income Avail to Common, GAAP
+  value: -128
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Net Income Avail to Common, GAAP
+  value: -159
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Net Income Avail to Common, GAAP
+  value: -91
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Net Income Avail to Common, GAAP
+  value: -484
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Net Income Avail to Common, GAAP
+  value: 530
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: EBIT
+  value: -63
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: EBIT
+  value: -127
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: EBIT
+  value: -172
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: EBIT
+  value: -140
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: EBIT
+  value: -561
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: EBIT
+  value: 442
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA
+  value: -61
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA
+  value: -124
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA
+  value: -164
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA
+  value: -126
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA
+  value: -545
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA
+  value: 458
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -26.48
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -25.65
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -24.62
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: -15.73
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: -41.91
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 20.79
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: EBITA
+  value: -63
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: EBITA
+  value: -127
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: EBITA
+  value: -172
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: EBITA
+  value: -140
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: EBITA
+  value: -561
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: EBITA
+  value: 442
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Gross Margin (%)
+  value: 75.96
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Gross Margin (%)
+  value: 85.04
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Gross Margin (%)
+  value: 84.28
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Gross Margin (%)
+  value: 86.19
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Gross Margin (%)
+  value: 90.49
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Gross Margin (%)
+  value: 91.18
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Operating Margin (%)
+  value: -27.33
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Operating Margin (%)
+  value: -26.23
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Operating Margin (%)
+  value: -25.82
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Operating Margin (%)
+  value: -17.43
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Operating Margin (%)
+  value: -43.11
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Operating Margin (%)
+  value: 20.07
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Profit Margin (%)
+  value: -25.85
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Profit Margin (%)
+  value: -26.37
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Profit Margin (%)
+  value: -23.78
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Profit Margin (%)
+  value: -11.3
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Profit Margin (%)
+  value: -37.25
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Profit Margin (%)
+  value: 24.05
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Sales per Employee
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Sales per Employee
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Sales per Employee
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Sales per Employee
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Sales per Employee
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Sales per Employee
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Dividend per Share
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Dividend per Share
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Dividend per Share
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Dividend per Share
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Dividend per Share
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Dividend per Share
+  value: null
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Depreciation Expense
+  value: 2
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Depreciation Expense
+  value: 3
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Depreciation Expense
+  value: 8
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Depreciation Expense
+  value: 14
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Depreciation Expense
+  value: 16
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Depreciation Expense
+  value: 16
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Basic Weighted Avg Shares
+  value: 148
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Basic Weighted Avg Shares
+  value: 148
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Basic Weighted Avg Shares
+  value: 148
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Basic Weighted Avg Shares
+  value: 159
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Basic Weighted Avg Shares
+  value: 145
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Basic Weighted Avg Shares
+  value: 186
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS, GAAP
+  value: -0.4
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS, GAAP
+  value: -0.87
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS, GAAP
+  value: -1.07
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS, GAAP
+  value: -0.57
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS, GAAP
+  value: -3.33
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS, GAAP
+  value: 2.84
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS from Cont Ops
+  value: -0.4
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS from Cont Ops
+  value: -0.87
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS from Cont Ops
+  value: -1.07
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS from Cont Ops
+  value: -0.57
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS from Cont Ops
+  value: -3.33
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS from Cont Ops
+  value: 2.84
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Diluted Weighted Avg Shares
+  value: 148
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Diluted Weighted Avg Shares
+  value: 148
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Diluted Weighted Avg Shares
+  value: 148
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Diluted Weighted Avg Shares
+  value: 159
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Diluted Weighted Avg Shares
+  value: 145
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Diluted Weighted Avg Shares
+  value: 202
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS, GAAP
+  value: -0.4
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS, GAAP
+  value: -0.87
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS, GAAP
+  value: -1.07
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS, GAAP
+  value: -0.57
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS, GAAP
+  value: -3.33
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS, GAAP
+  value: 2.62
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS from Cont Ops
+  value: -0.4
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS from Cont Ops
+  value: -0.87
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS from Cont Ops
+  value: -1.07
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS from Cont Ops
+  value: -0.57
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS from Cont Ops
+  value: -3.33
+- ticker: RDDT
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS from Cont Ops
+  value: 2.62
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Assets
+  value: 474
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Assets
+  value: 1601
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Assets
+  value: 1484
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Assets
+  value: 1480
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Assets
+  value: 2223
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Assets
+  value: 3136
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash, Cash Equivalents & STI
+  value: 363
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash, Cash Equivalents & STI
+  value: 1413
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash, Cash Equivalents & STI
+  value: 1267
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash, Cash Equivalents & STI
+  value: 1213
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash, Cash Equivalents & STI
+  value: 1841
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash, Cash Equivalents & STI
+  value: 2477
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash & Cash Equivalents
+  value: 112
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash & Cash Equivalents
+  value: 1338
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash & Cash Equivalents
+  value: 436
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash & Cash Equivalents
+  value: 401
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash & Cash Equivalents
+  value: 562
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash & Cash Equivalents
+  value: 954
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Investments
+  value: 251
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Investments
+  value: 75
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Investments
+  value: 831
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Investments
+  value: 812
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Investments
+  value: 1279
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Investments
+  value: 1523
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts & Notes Receiv
+  value: 92
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts & Notes Receiv
+  value: 162
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts & Notes Receiv
+  value: 199
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts & Notes Receiv
+  value: 253
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts & Notes Receiv
+  value: 350
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts & Notes Receiv
+  value: 590
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Receivable, Net
+  value: 87
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Receivable, Net
+  value: 162
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Receivable, Net
+  value: 192
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Receivable, Net
+  value: 245
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Receivable, Net
+  value: 350
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Receivable, Net
+  value: 590
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Notes Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Loans Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Receivable, Net
+  value: 6
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Receivable, Net
+  value: 1
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Receivable, Net
+  value: 7
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Receivable, Net
+  value: 8
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Receivable, Net
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventories
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventories
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventories
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventories
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventories
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventories
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Raw Materials
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Raw Materials
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Raw Materials
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Raw Materials
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Raw Materials
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Raw Materials
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Work In Process
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Work In Process
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Work In Process
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Work In Process
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Work In Process
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Work In Process
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Finished Goods
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Finished Goods
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Finished Goods
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Finished Goods
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Finished Goods
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Finished Goods
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventory Adjustments
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventory Adjustments
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventory Adjustments
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventory Adjustments
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventory Adjustments
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventory Adjustments
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Inventory
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Inventory
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Inventory
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Inventory
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Inventory
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Inventory
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Assets
+  value: 19
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Assets
+  value: 25
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Assets
+  value: 18
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Assets
+  value: 14
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Assets
+  value: 33
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Assets
+  value: 69
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Prepaid Expenses
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Prepaid Expenses
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Prepaid Expenses
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Prepaid Expenses
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Prepaid Expenses
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Prepaid Expenses
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Assets
+  value: 50
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Assets
+  value: 44
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Assets
+  value: 116
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Assets
+  value: 115
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Assets
+  value: 113
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Assets
+  value: 103
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip, Net
+  value: 29
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip, Net
+  value: 23
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip, Net
+  value: 31
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip, Net
+  value: 39
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip, Net
+  value: 36
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip, Net
+  value: 33
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip
+  value: 32
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip
+  value: 28
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip
+  value: 37
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip
+  value: 46
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip
+  value: 47
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip
+  value: 50
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: '- Accumulated Depreciation'
+  value: 3
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: '- Accumulated Depreciation'
+  value: 5
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: '- Accumulated Depreciation'
+  value: 6
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: '- Accumulated Depreciation'
+  value: 7
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: '- Accumulated Depreciation'
+  value: 11
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: '- Accumulated Depreciation'
+  value: 16
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments & Receivables
+  value: 5
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments & Receivables
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments
+  value: 5
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Receivables
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Receivables
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Receivables
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Receivables
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Receivables
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Receivables
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Assets
+  value: 16
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Assets
+  value: 21
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Assets
+  value: 85
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Assets
+  value: 76
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Assets
+  value: 77
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Assets
+  value: 70
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Total Intangible Assets
+  value: 7
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Total Intangible Assets
+  value: 12
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Total Intangible Assets
+  value: 68
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Total Intangible Assets
+  value: 57
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Total Intangible Assets
+  value: 68
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Total Intangible Assets
+  value: 58
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Goodwill
+  value: 6
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Goodwill
+  value: 6
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Goodwill
+  value: 26
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Goodwill
+  value: 26
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Goodwill
+  value: 42
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Goodwill
+  value: 42
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Intangible Assets
+  value: 1
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Intangible Assets
+  value: 6
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Intangible Assets
+  value: 41
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Intangible Assets
+  value: 30
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Intangible Assets
+  value: 25
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Intangible Assets
+  value: 15
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Assets
+  value: 9
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Assets
+  value: 9
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Assets
+  value: 18
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Assets
+  value: 19
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Assets
+  value: 10
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Assets
+  value: 12
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Assets
+  value: 524
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Assets
+  value: 1645
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Assets
+  value: 1600
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Assets
+  value: 1596
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Assets
+  value: 2337
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Assets
+  value: 3239
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Payables & Accruals
+  value: 26
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Payables & Accruals
+  value: 31
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Payables & Accruals
+  value: 54
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Payables & Accruals
+  value: 76
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Payables & Accruals
+  value: 84
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Payables & Accruals
+  value: 155
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Payable
+  value: 9
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Payable
+  value: 23
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Payable
+  value: 33
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Payable
+  value: 47
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Payable
+  value: 45
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Payable
+  value: 63
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Taxes
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Taxes
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Taxes
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Taxes
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Taxes
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Taxes
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Payables & Accruals
+  value: 16
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Payables & Accruals
+  value: 8
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Payables & Accruals
+  value: 21
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Payables & Accruals
+  value: 29
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Payables & Accruals
+  value: 39
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Payables & Accruals
+  value: 92
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Debt
+  value: 6
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Debt
+  value: 7
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Debt
+  value: 8
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Debt
+  value: 4
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Debt
+  value: 6
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Debt
+  value: 7
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Finance Leases
+  value: 6
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Finance Leases
+  value: 7
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Finance Leases
+  value: 8
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Finance Leases
+  value: 4
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Finance Leases
+  value: 6
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Finance Leases
+  value: 7
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Liabilities
+  value: 18
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Liabilities
+  value: 33
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Liabilities
+  value: 45
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Liabilities
+  value: 54
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Liabilities
+  value: 86
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Liabilities
+  value: 109
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: 2
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: 8
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: 8
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: 7
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: 15
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: 18
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Liabilities
+  value: 15
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Liabilities
+  value: 25
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Liabilities
+  value: 37
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Liabilities
+  value: 47
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Liabilities
+  value: 71
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Liabilities
+  value: 91
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Liabilities
+  value: 50
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Liabilities
+  value: 70
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Liabilities
+  value: 106
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Liabilities
+  value: 134
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Liabilities
+  value: 176
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Liabilities
+  value: 271
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Debt
+  value: 13
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Debt
+  value: 7
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Debt
+  value: 12
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Debt
+  value: 22
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Debt
+  value: 21
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Debt
+  value: 16
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Borrowings
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Finance Leases
+  value: 13
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Finance Leases
+  value: 7
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Finance Leases
+  value: 12
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Finance Leases
+  value: 22
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Finance Leases
+  value: 21
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Finance Leases
+  value: 16
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Liabilities
+  value: 613
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Liabilities
+  value: 1854
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Liabilities
+  value: 1861
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Liabilities
+  value: 1854
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Liabilities
+  value: 9
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Liabilities
+  value: 23
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Pension Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Pension Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Pension Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Pension Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Pension Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Pension Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Liabilities
+  value: 613
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Liabilities
+  value: 1854
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Liabilities
+  value: 1861
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Liabilities
+  value: 1854
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Liabilities
+  value: 9
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Liabilities
+  value: 23
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Liabilities
+  value: 626
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Liabilities
+  value: 1861
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Liabilities
+  value: 1872
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Liabilities
+  value: 1876
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Liabilities
+  value: 30
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Liabilities
+  value: 39
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities
+  value: 676
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities
+  value: 1931
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities
+  value: 1979
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities
+  value: 2009
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities
+  value: 206
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities
+  value: 310
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Share Capital & APIC
+  value: 106
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Share Capital & APIC
+  value: 181
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Share Capital & APIC
+  value: 250
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Share Capital & APIC
+  value: 303
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Share Capital & APIC
+  value: 3332
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Share Capital & APIC
+  value: 3596
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Common Stock
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Common Stock
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Common Stock
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Common Stock
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Common Stock
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Common Stock
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Additional Paid in Capital
+  value: 106
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Additional Paid in Capital
+  value: 181
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Additional Paid in Capital
+  value: 250
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Additional Paid in Capital
+  value: 303
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Additional Paid in Capital
+  value: 3332
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Additional Paid in Capital
+  value: 3596
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: '- Treasury Stock'
+  value: 10
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: '- Treasury Stock'
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: '- Treasury Stock'
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: '- Treasury Stock'
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: '- Treasury Stock'
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: '- Treasury Stock'
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Retained Earnings
+  value: -247
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Retained Earnings
+  value: -467
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Retained Earnings
+  value: -626
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Retained Earnings
+  value: -717
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Retained Earnings
+  value: -1201
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Retained Earnings
+  value: -671
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Equity
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Equity
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Equity
+  value: -4
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Equity
+  value: 1
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Equity
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Equity
+  value: 4
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Equity Before Minority Interest
+  value: -152
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Equity Before Minority Interest
+  value: -286
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Equity Before Minority Interest
+  value: -379
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Equity Before Minority Interest
+  value: -413
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Equity Before Minority Interest
+  value: 2131
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Equity Before Minority Interest
+  value: 2929
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Equity
+  value: -152
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Equity
+  value: -286
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Equity
+  value: -379
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Equity
+  value: -413
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Equity
+  value: 2131
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Equity
+  value: 2929
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities & Equity
+  value: 524
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities & Equity
+  value: 1645
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities & Equity
+  value: 1600
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities & Equity
+  value: 1596
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities & Equity
+  value: 2337
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities & Equity
+  value: 3239
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Shares Outstanding
+  value: 159
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Shares Outstanding
+  value: 159
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Shares Outstanding
+  value: 159
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Shares Outstanding
+  value: 159
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Shares Outstanding
+  value: 180
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Shares Outstanding
+  value: 191
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Number of Employees
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Number of Employees
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Number of Employees
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Number of Employees
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Number of Employees
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Number of Employees
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Capital Leases - Total
+  value: 20
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Capital Leases - Total
+  value: 13
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Capital Leases - Total
+  value: 19
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Capital Leases - Total
+  value: 26
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Capital Leases - Total
+  value: 27
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Capital Leases - Total
+  value: 23
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt
+  value: -112
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt
+  value: -1338
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt
+  value: -436
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt
+  value: -401
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt
+  value: -562
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt
+  value: -954
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt to Equity
+  value: 73.84
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt to Equity
+  value: 467.74
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt to Equity
+  value: 114.97
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt to Equity
+  value: 97.16
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt to Equity
+  value: -26.38
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt to Equity
+  value: -32.56
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Tangible Common Equity Ratio
+  value: -30.73
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Tangible Common Equity Ratio
+  value: -18.26
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Tangible Common Equity Ratio
+  value: -29.15
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Tangible Common Equity Ratio
+  value: -30.49
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Tangible Common Equity Ratio
+  value: 90.93
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Tangible Common Equity Ratio
+  value: 90.25
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Current Ratio
+  value: 9.52
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Current Ratio
+  value: 22.72
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Current Ratio
+  value: 13.94
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Current Ratio
+  value: 11.08
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Current Ratio
+  value: 12.63
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Current Ratio
+  value: 11.56
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2020
+  item: Cash Conversion Cycle
+  value: null
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2021
+  item: Cash Conversion Cycle
+  value: 12.32
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2022
+  item: Cash Conversion Cycle
+  value: -0.42
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2023
+  item: Cash Conversion Cycle
+  value: -31.38
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2024
+  item: Cash Conversion Cycle
+  value: -52.26
+- ticker: RDDT
+  statement: balance
+  fiscalYear: 2025
+  item: Cash Conversion Cycle
+  value: -23.95
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Income
+  value: -59
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Income
+  value: -128
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Income
+  value: -159
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Income
+  value: -91
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Income
+  value: -484
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Income
+  value: 530
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Depreciation & Amortization
+  value: 2
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Depreciation & Amortization
+  value: 3
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Depreciation & Amortization
+  value: 8
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Depreciation & Amortization
+  value: 14
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Depreciation & Amortization
+  value: 16
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Depreciation & Amortization
+  value: 16
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Non-Cash Items
+  value: 31
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Non-Cash Items
+  value: 59
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Non-Cash Items
+  value: 67
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Non-Cash Items
+  value: 32
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Non-Cash Items
+  value: 758
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Non-Cash Items
+  value: 322
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Stock-Based Compensation
+  value: 21
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Stock-Based Compensation
+  value: 49
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Stock-Based Compensation
+  value: 55
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Stock-Based Compensation
+  value: 48
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Stock-Based Compensation
+  value: 802
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Stock-Based Compensation
+  value: 343
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Deferred Income Taxes
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Deferred Income Taxes
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Deferred Income Taxes
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Deferred Income Taxes
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Deferred Income Taxes
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Deferred Income Taxes
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Asset Impairment Charge
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Asset Impairment Charge
+  value: 1
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Asset Impairment Charge
+  value: 3
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Asset Impairment Charge
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Asset Impairment Charge
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Asset Impairment Charge
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Non-Cash Adj
+  value: 10
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Non-Cash Adj
+  value: 9
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Non-Cash Adj
+  value: 8
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Non-Cash Adj
+  value: -16
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Non-Cash Adj
+  value: -43
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Non-Cash Adj
+  value: -21
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Chg in Non-Cash Work Cap
+  value: -36
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Chg in Non-Cash Work Cap
+  value: -64
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Chg in Non-Cash Work Cap
+  value: -10
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Chg in Non-Cash Work Cap
+  value: -30
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Chg in Non-Cash Work Cap
+  value: -67
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Chg in Non-Cash Work Cap
+  value: -177
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Accts Receiv
+  value: -43
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Accts Receiv
+  value: -75
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Accts Receiv
+  value: -30
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Accts Receiv
+  value: -53
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Accts Receiv
+  value: -104
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Accts Receiv
+  value: -241
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Prepaid Assets
+  value: -1
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Prepaid Assets
+  value: 3
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Prepaid Assets
+  value: -2
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Prepaid Assets
+  value: 4
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Prepaid Assets
+  value: -19
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Prepaid Assets
+  value: -37
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Accts Payable
+  value: 23
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Accts Payable
+  value: 16
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Accts Payable
+  value: 32
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Accts Payable
+  value: 25
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Accts Payable
+  value: 59
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Accts Payable
+  value: 109
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Other
+  value: -14
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Other
+  value: -7
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Other
+  value: -10
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Other
+  value: -6
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Other
+  value: -2
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Other
+  value: -7
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Operating Activities
+  value: -62
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Operating Activities
+  value: -130
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Operating Activities
+  value: -94
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Operating Activities
+  value: -75
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Operating Activities
+  value: 222
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Operating Activities
+  value: 691
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed & Intang
+  value: -3
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed & Intang
+  value: -7
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed & Intang
+  value: -6
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed & Intang
+  value: -10
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed & Intang
+  value: -6
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed & Intang
+  value: -7
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed Prod Assets
+  value: -3
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed Prod Assets
+  value: -2
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed Prod Assets
+  value: -6
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed Prod Assets
+  value: -10
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed Prod Assets
+  value: -6
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed Prod Assets
+  value: -7
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Intangible Assets
+  value: -5
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash (Repurchase) of Equity
+  value: -95
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash (Repurchase) of Equity
+  value: 600
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Increase in Capital Stock
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Increase in Capital Stock
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Increase in Capital Stock
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Increase in Capital Stock
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Increase in Capital Stock
+  value: 600
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Increase in Capital Stock
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Decrease in Capital Stock
+  value: -95
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Change in LT Investment
+  value: 84
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Change in LT Investment
+  value: 178
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Change in LT Investment
+  value: -756
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Change in LT Investment
+  value: 51
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Change in LT Investment
+  value: -423
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Change in LT Investment
+  value: -215
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dec in LT Investment
+  value: 394
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dec in LT Investment
+  value: 412
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dec in LT Investment
+  value: 675
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dec in LT Investment
+  value: 1311
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dec in LT Investment
+  value: 1574
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dec in LT Investment
+  value: 2083
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc in LT Investment
+  value: -310
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc in LT Investment
+  value: -234
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc in LT Investment
+  value: -1431
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc in LT Investment
+  value: -1260
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc in LT Investment
+  value: -1997
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc in LT Investment
+  value: -2298
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Acq & Div
+  value: -42
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Acq & Div
+  value: -17
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash from Divestitures
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash from Divestitures
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash from Divestitures
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash from Divestitures
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash from Divestitures
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash from Divestitures
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for Acq of Subs
+  value: -42
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for Acq of Subs
+  value: -17
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for JVs
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for JVs
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for JVs
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for JVs
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for JVs
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for JVs
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Investing Activities
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Investing Activities
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Investing Activities
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Investing Activities
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Investing Activities
+  value: 6
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Investing Activities
+  value: 3
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Investing Activities
+  value: 81
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Investing Activities
+  value: 171
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Investing Activities
+  value: -804
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Investing Activities
+  value: 41
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Investing Activities
+  value: -441
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Investing Activities
+  value: -219
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dividends Paid
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dividends Paid
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dividends Paid
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dividends Paid
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dividends Paid
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dividends Paid
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash From Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Repayments of Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Repayments of Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Repayments of Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Repayments of Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Repayments of Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Repayments of Debt
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Financing Activities
+  value: 8
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Financing Activities
+  value: 1277
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Financing Activities
+  value: -4
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Financing Activities
+  value: -1
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Financing Activities
+  value: -220
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Financing Activities
+  value: -81
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Financing Activities
+  value: 8
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Financing Activities
+  value: 1182
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Financing Activities
+  value: -4
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Financing Activities
+  value: -1
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Financing Activities
+  value: 380
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Financing Activities
+  value: -81
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Changes in Cash
+  value: 28
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Changes in Cash
+  value: 1223
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Changes in Cash
+  value: -902
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Changes in Cash
+  value: -35
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Changes in Cash
+  value: 161
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Changes in Cash
+  value: 391
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA
+  value: -61
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA
+  value: -124
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA
+  value: -164
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA
+  value: -126
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA
+  value: -545
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA
+  value: 458
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -26.48
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -25.65
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -24.62
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: -15.73
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: -41.91
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 20.79
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow
+  value: -65
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow
+  value: -137
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow
+  value: -100
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow
+  value: -85
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow
+  value: 216
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow
+  value: 684
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Cash Paid for Acquisitions
+  value: 42
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Cash Paid for Acquisitions
+  value: 17
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Equity
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Equity
+  value: -132
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Equity
+  value: -100
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Equity
+  value: -85
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Equity
+  value: 216
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Equity
+  value: 684
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow per Basic Share
+  value: -0.44
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow per Basic Share
+  value: -0.93
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow per Basic Share
+  value: -0.68
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow per Basic Share
+  value: -0.53
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow per Basic Share
+  value: 1.48
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow per Basic Share
+  value: 3.67
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Price/Free Cash Flow
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Price/Free Cash Flow
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Price/Free Cash Flow
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Price/Free Cash Flow
+  value: null
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Price/Free Cash Flow
+  value: 104.14
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Price/Free Cash Flow
+  value: 66.6
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash Flow to Net Income
+  value: 1.05
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash Flow to Net Income
+  value: 1.02
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash Flow to Net Income
+  value: 0.59
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash Flow to Net Income
+  value: 0.83
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash Flow to Net Income
+  value: -0.46
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash Flow to Net Income
+  value: 1.3
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Capital Expenditures
+  value: -3
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Capital Expenditures
+  value: -7
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Capital Expenditures
+  value: -6
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Capital Expenditures
+  value: -10
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Capital Expenditures
+  value: -6
+- ticker: RDDT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Capital Expenditures
+  value: -7
+

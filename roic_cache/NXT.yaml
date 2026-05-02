@@ -1,0 +1,5401 @@
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Sales/Revenue/Turnover
+  value: 1171
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Sales/Revenue/Turnover
+  value: 1196
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Sales/Revenue/Turnover
+  value: 1458
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Sales/Revenue/Turnover
+  value: 1902
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Sales/Revenue/Turnover
+  value: 2500
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Sales/Revenue/Turnover
+  value: 2959
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: + Sales & Services Revenue
+  value: 1171
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: + Sales & Services Revenue
+  value: 1196
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: + Sales & Services Revenue
+  value: 1458
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: + Sales & Services Revenue
+  value: 1902
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: + Sales & Services Revenue
+  value: 2500
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: + Sales & Services Revenue
+  value: 2959
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: '- Cost of Revenue'
+  value: 958
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: '- Cost of Revenue'
+  value: 964
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: '- Cost of Revenue'
+  value: 1311
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: '- Cost of Revenue'
+  value: 1615
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: '- Cost of Revenue'
+  value: 1687
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: '- Cost of Revenue'
+  value: 1950
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: + Cost of Goods & Services
+  value: 958
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: + Cost of Goods & Services
+  value: 964
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: + Cost of Goods & Services
+  value: 1311
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: + Cost of Goods & Services
+  value: 1615
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: + Cost of Goods & Services
+  value: 1687
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: + Cost of Goods & Services
+  value: 1950
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Gross Profit
+  value: 213
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Gross Profit
+  value: 232
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Gross Profit
+  value: 147
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Gross Profit
+  value: 287
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Gross Profit
+  value: 813
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Gross Profit
+  value: 1009
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Income
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Income
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Income
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Income
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Income
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Income
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: '- Operating Expenses'
+  value: 64
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: '- Operating Expenses'
+  value: 73
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: '- Operating Expenses'
+  value: 81
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: '- Operating Expenses'
+  value: 118
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: '- Operating Expenses'
+  value: 226
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: '- Operating Expenses'
+  value: 370
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: + Selling, General & Admin
+  value: 55
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: + Selling, General & Admin
+  value: 60
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: + Selling, General & Admin
+  value: 67
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: + Selling, General & Admin
+  value: 97
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: + Selling, General & Admin
+  value: 184
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: + Selling, General & Admin
+  value: 290
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: + Research & Development
+  value: 9
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: + Research & Development
+  value: 13
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: + Research & Development
+  value: 14
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: + Research & Development
+  value: 22
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: + Research & Development
+  value: 42
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: + Research & Development
+  value: 79
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Expense
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Expense
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Expense
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Expense
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Expense
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Expense
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Operating Income (Loss)
+  value: 149
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Operating Income (Loss)
+  value: 159
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Operating Income (Loss)
+  value: 66
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Operating Income (Loss)
+  value: 168
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Operating Income (Loss)
+  value: 587
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Operating Income (Loss)
+  value: 639
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: '- Non-Operating (Income) Loss'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: '- Non-Operating (Income) Loss'
+  value: 1
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: '- Non-Operating (Income) Loss'
+  value: 1
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: '- Non-Operating (Income) Loss'
+  value: -1
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: '- Non-Operating (Income) Loss'
+  value: -21
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: '- Non-Operating (Income) Loss'
+  value: -9
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense, Net
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense, Net
+  value: 1
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense, Net
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense, Net
+  value: 2
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense, Net
+  value: 14
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense, Net
+  value: 13
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense
+  value: 1
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense
+  value: 2
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense
+  value: 14
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense
+  value: 13
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: '- Interest Income'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: '- Interest Income'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: '- Interest Income'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: '- Interest Income'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: '- Interest Income'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: '- Interest Income'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: + Other Non-Op (Income) Loss
+  value: 1
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: + Other Non-Op (Income) Loss
+  value: -2
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: + Other Non-Op (Income) Loss
+  value: -35
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: + Other Non-Op (Income) Loss
+  value: -22
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Pretax Income
+  value: 149
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Pretax Income
+  value: 158
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Pretax Income
+  value: 65
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Pretax Income
+  value: 169
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Pretax Income
+  value: 608
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Pretax Income
+  value: 648
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: '- Income Tax Expense (Benefit)'
+  value: 31
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: '- Income Tax Expense (Benefit)'
+  value: 34
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: '- Income Tax Expense (Benefit)'
+  value: 14
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: '- Income Tax Expense (Benefit)'
+  value: 48
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: '- Income Tax Expense (Benefit)'
+  value: 112
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: '- Income Tax Expense (Benefit)'
+  value: 131
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) from Cont Ops
+  value: 118
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) from Cont Ops
+  value: 124
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) from Cont Ops
+  value: 51
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) from Cont Ops
+  value: 121
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) from Cont Ops
+  value: 496
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) from Cont Ops
+  value: 517
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 5
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 380
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 16
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: + Discontinued Operations
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: + Discontinued Operations
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: + Discontinued Operations
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: + Discontinued Operations
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: + Discontinued Operations
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: + Discontinued Operations
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: + Extraord. & Accounting Changes
+  value: 5
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: + Extraord. & Accounting Changes
+  value: 380
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: + Extraord. & Accounting Changes
+  value: 16
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) Incl. MI
+  value: 118
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) Incl. MI
+  value: 124
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) Incl. MI
+  value: 51
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) Incl. MI
+  value: 116
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) Incl. MI
+  value: 116
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) Incl. MI
+  value: 501
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: '- Minority Interest'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: '- Minority Interest'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: '- Minority Interest'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: '- Minority Interest'
+  value: -2
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: '- Minority Interest'
+  value: -190
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: '- Minority Interest'
+  value: -8
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Net Income, GAAP
+  value: 118
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Net Income, GAAP
+  value: 124
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Net Income, GAAP
+  value: 51
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Net Income, GAAP
+  value: 119
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Net Income, GAAP
+  value: 306
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Net Income, GAAP
+  value: 509
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: '- Preferred Dividends'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: '- Preferred Dividends'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: '- Preferred Dividends'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: '- Preferred Dividends'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: '- Preferred Dividends'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: '- Preferred Dividends'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: '- Other Adjustments'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: '- Other Adjustments'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: '- Other Adjustments'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: '- Other Adjustments'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: '- Other Adjustments'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: '- Other Adjustments'
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Net Income Avail to Common, GAAP
+  value: 118
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Net Income Avail to Common, GAAP
+  value: 124
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Net Income Avail to Common, GAAP
+  value: 51
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Net Income Avail to Common, GAAP
+  value: 119
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Net Income Avail to Common, GAAP
+  value: 306
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Net Income Avail to Common, GAAP
+  value: 509
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: EBIT
+  value: 149
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: EBIT
+  value: 159
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: EBIT
+  value: 66
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: EBIT
+  value: 168
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: EBIT
+  value: 587
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: EBIT
+  value: 639
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA
+  value: 167
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA
+  value: 175
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA
+  value: 77
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA
+  value: 173
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA
+  value: 591
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA
+  value: 653
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: 14.25
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: 14.67
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: 5.29
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 9.1
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 23.66
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 22.05
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: EBITA
+  value: 149
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: EBITA
+  value: 159
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: EBITA
+  value: 66
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: EBITA
+  value: 168
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: EBITA
+  value: 587
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: EBITA
+  value: 639
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Gross Margin (%)
+  value: 18.18
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Gross Margin (%)
+  value: 19.4
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Gross Margin (%)
+  value: 10.09
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Gross Margin (%)
+  value: 15.09
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Gross Margin (%)
+  value: 32.52
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Gross Margin (%)
+  value: 34.09
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Operating Margin (%)
+  value: 12.71
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Operating Margin (%)
+  value: 13.26
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Operating Margin (%)
+  value: 4.52
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Operating Margin (%)
+  value: 8.86
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Operating Margin (%)
+  value: 23.49
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Operating Margin (%)
+  value: 21.6
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Profit Margin (%)
+  value: 10.1
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Profit Margin (%)
+  value: 10.4
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Profit Margin (%)
+  value: 3.49
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Profit Margin (%)
+  value: 6.25
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Profit Margin (%)
+  value: 12.25
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Profit Margin (%)
+  value: 17.21
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Sales per Employee
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Sales per Employee
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Sales per Employee
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Sales per Employee
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Sales per Employee
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Sales per Employee
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Dividend per Share
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Dividend per Share
+  value: 7.91
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Dividend per Share
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Dividend per Share
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Dividend per Share
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Dividend per Share
+  value: null
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Depreciation Expense
+  value: 18
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Depreciation Expense
+  value: 17
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Depreciation Expense
+  value: 11
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Depreciation Expense
+  value: 5
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Depreciation Expense
+  value: 4
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Depreciation Expense
+  value: 13
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Basic Weighted Avg Shares
+  value: 42
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Basic Weighted Avg Shares
+  value: 42
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Basic Weighted Avg Shares
+  value: 42
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Basic Weighted Avg Shares
+  value: 46
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Basic Weighted Avg Shares
+  value: 77
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Basic Weighted Avg Shares
+  value: 144
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS, GAAP
+  value: 2.82
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS, GAAP
+  value: 2.97
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS, GAAP
+  value: 1.22
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS, GAAP
+  value: 2.59
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS, GAAP
+  value: 3.97
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS, GAAP
+  value: 3.55
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS from Cont Ops
+  value: 2.82
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS from Cont Ops
+  value: 2.97
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS from Cont Ops
+  value: 1.22
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS from Cont Ops
+  value: 2.65
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS from Cont Ops
+  value: 6.44
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS from Cont Ops
+  value: 3.6
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Diluted Weighted Avg Shares
+  value: 42
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Diluted Weighted Avg Shares
+  value: 42
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Diluted Weighted Avg Shares
+  value: 42
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Diluted Weighted Avg Shares
+  value: 146
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Diluted Weighted Avg Shares
+  value: 147
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Diluted Weighted Avg Shares
+  value: 149
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS, GAAP
+  value: 2.82
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS, GAAP
+  value: 2.97
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS, GAAP
+  value: 1.22
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS, GAAP
+  value: 0.82
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS, GAAP
+  value: 2.08
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS, GAAP
+  value: 3.41
+- ticker: NXT
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS from Cont Ops
+  value: 2.82
+- ticker: NXT
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS from Cont Ops
+  value: 2.97
+- ticker: NXT
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS from Cont Ops
+  value: 1.22
+- ticker: NXT
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS from Cont Ops
+  value: 0.83
+- ticker: NXT
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS from Cont Ops
+  value: 3.37
+- ticker: NXT
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS from Cont Ops
+  value: 3.47
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Assets
+  value: 583
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Assets
+  value: 714
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Assets
+  value: 872
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Assets
+  value: 1768
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Assets
+  value: 2158
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash, Cash Equivalents & STI
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash, Cash Equivalents & STI
+  value: 218
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash, Cash Equivalents & STI
+  value: 38
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash, Cash Equivalents & STI
+  value: 159
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash, Cash Equivalents & STI
+  value: 474
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash, Cash Equivalents & STI
+  value: 766
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash & Cash Equivalents
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash & Cash Equivalents
+  value: 191
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash & Cash Equivalents
+  value: 29
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash & Cash Equivalents
+  value: 130
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash & Cash Equivalents
+  value: 474
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash & Cash Equivalents
+  value: 766
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Investments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Investments
+  value: 27
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Investments
+  value: 9
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Investments
+  value: 29
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Investments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Investments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts & Notes Receiv
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts & Notes Receiv
+  value: 268
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts & Notes Receiv
+  value: 461
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts & Notes Receiv
+  value: 569
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts & Notes Receiv
+  value: 905
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts & Notes Receiv
+  value: 1094
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Receivable, Net
+  value: 121
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Receivable, Net
+  value: 168
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Receivable, Net
+  value: 271
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Receivable, Net
+  value: 383
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Receivable, Net
+  value: 472
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Notes Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Notes Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Notes Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Notes Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Notes Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Notes Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Loans Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Loans Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Loans Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Loans Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Loans Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Loans Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Receivable, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Receivable, Net
+  value: 147
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Receivable, Net
+  value: 292
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Receivable, Net
+  value: 298
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Receivable, Net
+  value: 523
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Receivable, Net
+  value: 622
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventories
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventories
+  value: 84
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventories
+  value: 172
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventories
+  value: 138
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventories
+  value: 202
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventories
+  value: 209
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Raw Materials
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Raw Materials
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Raw Materials
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Raw Materials
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Raw Materials
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Raw Materials
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Work In Process
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Work In Process
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Work In Process
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Work In Process
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Work In Process
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Work In Process
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Finished Goods
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Finished Goods
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Finished Goods
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Finished Goods
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Finished Goods
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Finished Goods
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventory Adjustments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventory Adjustments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventory Adjustments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventory Adjustments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventory Adjustments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventory Adjustments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Inventory
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Inventory
+  value: 84
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Inventory
+  value: 172
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Inventory
+  value: 138
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Inventory
+  value: 202
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Inventory
+  value: 209
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Assets
+  value: 13
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Assets
+  value: 43
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Assets
+  value: 6
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Assets
+  value: 187
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Assets
+  value: 88
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Prepaid Expenses
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Prepaid Expenses
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Prepaid Expenses
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Prepaid Expenses
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Prepaid Expenses
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Prepaid Expenses
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Assets
+  value: 298
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Assets
+  value: 303
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Assets
+  value: 547
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Assets
+  value: 751
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Assets
+  value: 1035
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip, Net
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip, Net
+  value: 5
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip, Net
+  value: 7
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip, Net
+  value: 7
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip, Net
+  value: 9
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip, Net
+  value: 60
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip
+  value: 17
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip
+  value: 21
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip
+  value: 25
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip
+  value: 31
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip
+  value: 81
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: '- Accumulated Depreciation'
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: '- Accumulated Depreciation'
+  value: 12
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: '- Accumulated Depreciation'
+  value: 14
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: '- Accumulated Depreciation'
+  value: 17
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: '- Accumulated Depreciation'
+  value: 21
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: '- Accumulated Depreciation'
+  value: 21
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments & Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments & Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments & Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments & Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments & Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments & Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Receivables
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Assets
+  value: 293
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Assets
+  value: 296
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Assets
+  value: 540
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Assets
+  value: 741
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Assets
+  value: 974
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Total Intangible Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Total Intangible Assets
+  value: 276
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Total Intangible Assets
+  value: 268
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Total Intangible Assets
+  value: 266
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Total Intangible Assets
+  value: 267
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Total Intangible Assets
+  value: 424
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Goodwill
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Goodwill
+  value: 265
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Goodwill
+  value: 265
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Goodwill
+  value: 265
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Goodwill
+  value: 265
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Goodwill
+  value: 371
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Intangible Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Intangible Assets
+  value: 11
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Intangible Assets
+  value: 3
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Intangible Assets
+  value: 1
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Intangible Assets
+  value: 2
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Intangible Assets
+  value: 53
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Assets
+  value: 17
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Assets
+  value: 28
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Assets
+  value: 274
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Assets
+  value: 475
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Assets
+  value: 550
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Assets
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Assets
+  value: 881
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Assets
+  value: 1017
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Assets
+  value: 1420
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Assets
+  value: 2519
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Assets
+  value: 3193
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Payables & Accruals
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Payables & Accruals
+  value: 296
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Payables & Accruals
+  value: 332
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Payables & Accruals
+  value: 283
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Payables & Accruals
+  value: 539
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Payables & Accruals
+  value: 682
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Payable
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Payable
+  value: 231
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Payable
+  value: 267
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Payable
+  value: 211
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Payable
+  value: 457
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Payable
+  value: 585
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Taxes
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Taxes
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Taxes
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Taxes
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Taxes
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Taxes
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Payables & Accruals
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Payables & Accruals
+  value: 64
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Payables & Accruals
+  value: 65
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Payables & Accruals
+  value: 72
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Payables & Accruals
+  value: 82
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Payables & Accruals
+  value: 97
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Debt
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Debt
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Debt
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Debt
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Debt
+  value: 4
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Debt
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Borrowings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Borrowings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Borrowings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Borrowings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Borrowings
+  value: 4
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Borrowings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Liabilities
+  value: 95
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Liabilities
+  value: 141
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Liabilities
+  value: 224
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Liabilities
+  value: 349
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Liabilities
+  value: 351
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: 77
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: 78
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: 176
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: 226
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: 247
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Liabilities
+  value: 18
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Liabilities
+  value: 63
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Liabilities
+  value: 48
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Liabilities
+  value: 123
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Liabilities
+  value: 104
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Liabilities
+  value: 391
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Liabilities
+  value: 473
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Liabilities
+  value: 507
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Liabilities
+  value: 891
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Liabilities
+  value: 1034
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Debt
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Debt
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Debt
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Debt
+  value: 147
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Debt
+  value: 144
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Debt
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Borrowings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Borrowings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Borrowings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Borrowings
+  value: 147
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Borrowings
+  value: 144
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Borrowings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Finance Leases
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Liabilities
+  value: 34
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Liabilities
+  value: 547
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Liabilities
+  value: 280
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Liabilities
+  value: 491
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Liabilities
+  value: 531
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Liabilities
+  value: 15
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Liabilities
+  value: 30
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Liabilities
+  value: 36
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Liabilities
+  value: 69
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Liabilities
+  value: 97
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Pension Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Pension Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Pension Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Pension Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Pension Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Pension Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Liabilities
+  value: 19
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Liabilities
+  value: 517
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Liabilities
+  value: 244
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Liabilities
+  value: 422
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Liabilities
+  value: 434
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Liabilities
+  value: 34
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Liabilities
+  value: 547
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Liabilities
+  value: 427
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Liabilities
+  value: 635
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Liabilities
+  value: 531
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities
+  value: 425
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities
+  value: 1020
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities
+  value: 935
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities
+  value: 1527
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities
+  value: 1564
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Share Capital & APIC
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Share Capital & APIC
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Share Capital & APIC
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Share Capital & APIC
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Share Capital & APIC
+  value: 4028
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Share Capital & APIC
+  value: 4186
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Common Stock
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Common Stock
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Common Stock
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Common Stock
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Common Stock
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Common Stock
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Additional Paid in Capital
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Additional Paid in Capital
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Additional Paid in Capital
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Additional Paid in Capital
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Additional Paid in Capital
+  value: 4028
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Additional Paid in Capital
+  value: 4186
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: '- Treasury Stock'
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: '- Treasury Stock'
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: '- Treasury Stock'
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: '- Treasury Stock'
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: '- Treasury Stock'
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: '- Treasury Stock'
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Retained Earnings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Retained Earnings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Retained Earnings
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Retained Earnings
+  value: -3076
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Retained Earnings
+  value: -3067
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Retained Earnings
+  value: -2557
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Equity
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Equity
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Equity
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Equity
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Equity
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Equity
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Equity Before Minority Interest
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Equity Before Minority Interest
+  value: 456
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Equity Before Minority Interest
+  value: -3
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Equity Before Minority Interest
+  value: -3076
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Equity Before Minority Interest
+  value: 961
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Equity Before Minority Interest
+  value: 1628
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: + Minority/Non Controlling Interest
+  value: 3561
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: + Minority/Non Controlling Interest
+  value: 31
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Equity
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Equity
+  value: 456
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Equity
+  value: -3
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Equity
+  value: 485
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Equity
+  value: 992
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Equity
+  value: 1628
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities & Equity
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities & Equity
+  value: 881
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities & Equity
+  value: 1017
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities & Equity
+  value: 1420
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities & Equity
+  value: 2519
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities & Equity
+  value: 3193
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Shares Outstanding
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Shares Outstanding
+  value: 46
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Shares Outstanding
+  value: 46
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Shares Outstanding
+  value: 46
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Shares Outstanding
+  value: 141
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Shares Outstanding
+  value: 146
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Number of Employees
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Number of Employees
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Number of Employees
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Number of Employees
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Number of Employees
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Number of Employees
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Capital Leases - Total
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Capital Leases - Total
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Capital Leases - Total
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Capital Leases - Total
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Capital Leases - Total
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Capital Leases - Total
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt
+  value: -191
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt
+  value: -29
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt
+  value: 17
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt
+  value: -326
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt
+  value: -766
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt to Equity
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt to Equity
+  value: -41.79
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt to Equity
+  value: 957.83
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt to Equity
+  value: 3.53
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt to Equity
+  value: -32.9
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt to Equity
+  value: -47.05
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Tangible Common Equity Ratio
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Tangible Common Equity Ratio
+  value: 29.74
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Tangible Common Equity Ratio
+  value: -36.11
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Tangible Common Equity Ratio
+  value: 18.94
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Tangible Common Equity Ratio
+  value: 32.21
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Tangible Common Equity Ratio
+  value: 43.49
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Current Ratio
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Current Ratio
+  value: 1.49
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Current Ratio
+  value: 1.51
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Current Ratio
+  value: 1.72
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Current Ratio
+  value: 1.98
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Current Ratio
+  value: 2.09
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2020
+  item: Cash Conversion Cycle
+  value: null
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2021
+  item: Cash Conversion Cycle
+  value: -5.77
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2022
+  item: Cash Conversion Cycle
+  value: 7.01
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2023
+  item: Cash Conversion Cycle
+  value: 22.05
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2024
+  item: Cash Conversion Cycle
+  value: 14.85
+- ticker: NXT
+  statement: balance
+  fiscalYear: 2025
+  item: Cash Conversion Cycle
+  value: -5.9
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Income
+  value: 118
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Income
+  value: 124
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Income
+  value: 51
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Income
+  value: 121
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Income
+  value: 496
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Income
+  value: 517
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Depreciation & Amortization
+  value: 18
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Depreciation & Amortization
+  value: 17
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Depreciation & Amortization
+  value: 11
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Depreciation & Amortization
+  value: 5
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Depreciation & Amortization
+  value: 4
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Depreciation & Amortization
+  value: 13
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Non-Cash Items
+  value: 2
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Non-Cash Items
+  value: 5
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Non-Cash Items
+  value: -2
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Non-Cash Items
+  value: 61
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Non-Cash Items
+  value: 21
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Non-Cash Items
+  value: 126
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Stock-Based Compensation
+  value: 4
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Stock-Based Compensation
+  value: 4
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Stock-Based Compensation
+  value: 3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Stock-Based Compensation
+  value: 32
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Stock-Based Compensation
+  value: 57
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Stock-Based Compensation
+  value: 119
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Deferred Income Taxes
+  value: -6
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Deferred Income Taxes
+  value: -3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Deferred Income Taxes
+  value: -5
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Deferred Income Taxes
+  value: 26
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Deferred Income Taxes
+  value: -38
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Deferred Income Taxes
+  value: -9
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Asset Impairment Charge
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Asset Impairment Charge
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Asset Impairment Charge
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Asset Impairment Charge
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Asset Impairment Charge
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Asset Impairment Charge
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Non-Cash Adj
+  value: 3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Non-Cash Adj
+  value: 4
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Non-Cash Adj
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Non-Cash Adj
+  value: 3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Non-Cash Adj
+  value: 2
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Non-Cash Adj
+  value: 16
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Chg in Non-Cash Work Cap
+  value: 103
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Chg in Non-Cash Work Cap
+  value: -52
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Chg in Non-Cash Work Cap
+  value: -207
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Chg in Non-Cash Work Cap
+  value: -79
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Chg in Non-Cash Work Cap
+  value: -93
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Chg in Non-Cash Work Cap
+  value: -1
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Accts Receiv
+  value: -37
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Accts Receiv
+  value: -48
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Accts Receiv
+  value: -191
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Accts Receiv
+  value: -167
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Accts Receiv
+  value: -339
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Accts Receiv
+  value: -149
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Inventories
+  value: -36
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Inventories
+  value: -23
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Inventories
+  value: -88
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Inventories
+  value: 25
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Inventories
+  value: -61
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Inventories
+  value: -3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Accts Payable
+  value: 84
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Accts Payable
+  value: 43
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Accts Payable
+  value: 46
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Accts Payable
+  value: -60
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Accts Payable
+  value: 245
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Accts Payable
+  value: 103
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Other
+  value: 92
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Other
+  value: -24
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Other
+  value: 25
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Other
+  value: 123
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Other
+  value: 61
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Other
+  value: 48
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Operating Activities
+  value: 241
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Operating Activities
+  value: 94
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Operating Activities
+  value: -147
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Operating Activities
+  value: 108
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Operating Activities
+  value: 429
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Operating Activities
+  value: 656
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed & Intang
+  value: -2
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed & Intang
+  value: -3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed & Intang
+  value: -6
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed & Intang
+  value: -3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed & Intang
+  value: -7
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed & Intang
+  value: -34
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed Prod Assets
+  value: -2
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed Prod Assets
+  value: -2
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed Prod Assets
+  value: -6
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed Prod Assets
+  value: -3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed Prod Assets
+  value: -6
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed Prod Assets
+  value: -34
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Increase in Capital Stock
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Increase in Capital Stock
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Increase in Capital Stock
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Increase in Capital Stock
+  value: 694
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Increase in Capital Stock
+  value: 552
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Increase in Capital Stock
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Decrease in Capital Stock
+  value: -694
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Decrease in Capital Stock
+  value: -552
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Change in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Change in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Change in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Change in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Change in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Change in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dec in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dec in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dec in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dec in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dec in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dec in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc in LT Investment
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Acq & Div
+  value: -152
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash from Divestitures
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash from Divestitures
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash from Divestitures
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash from Divestitures
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash from Divestitures
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash from Divestitures
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for Acq of Subs
+  value: -152
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for JVs
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for JVs
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for JVs
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for JVs
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for JVs
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for JVs
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Investing Activities
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Investing Activities
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Investing Activities
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Investing Activities
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Investing Activities
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Investing Activities
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Investing Activities
+  value: -2
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Investing Activities
+  value: -3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Investing Activities
+  value: -6
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Investing Activities
+  value: -3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Investing Activities
+  value: -7
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Investing Activities
+  value: -186
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dividends Paid
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dividends Paid
+  value: -331
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dividends Paid
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dividends Paid
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dividends Paid
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dividends Paid
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Debt
+  value: 150
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Debt
+  value: -150
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash From Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash From Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash From Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash From Debt
+  value: 170
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash From Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash From Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Repayments of Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Repayments of Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Repayments of Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Repayments of Debt
+  value: -20
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Repayments of Debt
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Repayments of Debt
+  value: -150
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Financing Activities
+  value: -251
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Financing Activities
+  value: 428
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Financing Activities
+  value: -9
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Financing Activities
+  value: -154
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Financing Activities
+  value: -78
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Financing Activities
+  value: -28
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Financing Activities
+  value: -251
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Financing Activities
+  value: 96
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Financing Activities
+  value: -9
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Financing Activities
+  value: -4
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Financing Activities
+  value: -78
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Financing Activities
+  value: -178
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Changes in Cash
+  value: -11
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Changes in Cash
+  value: 188
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Changes in Cash
+  value: -162
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Changes in Cash
+  value: 101
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Changes in Cash
+  value: 344
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Changes in Cash
+  value: 292
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA
+  value: 167
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA
+  value: 175
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA
+  value: 77
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA
+  value: 173
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA
+  value: 591
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA
+  value: 653
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: 14.25
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: 14.67
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: 5.29
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 9.1
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 23.66
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 22.05
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow
+  value: 239
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow
+  value: 91
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow
+  value: -153
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow
+  value: 104
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow
+  value: 422
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow
+  value: 622
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Cash Paid for Acquisitions
+  value: 152
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Firm
+  value: 239
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Firm
+  value: 92
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Firm
+  value: -153
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Firm
+  value: 106
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Firm
+  value: 434
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Firm
+  value: 632
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Equity
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Equity
+  value: 92
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Equity
+  value: -153
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Equity
+  value: 255
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Equity
+  value: 423
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Equity
+  value: 472
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow per Basic Share
+  value: 5.72
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow per Basic Share
+  value: 2.18
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow per Basic Share
+  value: -3.65
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow per Basic Share
+  value: 2.28
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow per Basic Share
+  value: 5.48
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow per Basic Share
+  value: 4.33
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Price/Free Cash Flow
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Price/Free Cash Flow
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Price/Free Cash Flow
+  value: null
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Price/Free Cash Flow
+  value: 47.7
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Price/Free Cash Flow
+  value: 19.02
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Price/Free Cash Flow
+  value: 9.12
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash Flow to Net Income
+  value: 2.04
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash Flow to Net Income
+  value: 0.76
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash Flow to Net Income
+  value: -2.89
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash Flow to Net Income
+  value: 0.91
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash Flow to Net Income
+  value: 1.4
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash Flow to Net Income
+  value: 1.29
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2020
+  item: Capital Expenditures
+  value: -2
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2021
+  item: Capital Expenditures
+  value: -3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2022
+  item: Capital Expenditures
+  value: -6
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2023
+  item: Capital Expenditures
+  value: -3
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2024
+  item: Capital Expenditures
+  value: -7
+- ticker: NXT
+  statement: cashflow
+  fiscalYear: 2025
+  item: Capital Expenditures
+  value: -34
+

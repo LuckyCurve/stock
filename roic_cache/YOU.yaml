@@ -1,0 +1,6301 @@
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Sales/Revenue/Turnover
+  value: 192
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Sales/Revenue/Turnover
+  value: 231
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Sales/Revenue/Turnover
+  value: 254
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Sales/Revenue/Turnover
+  value: 437
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Sales/Revenue/Turnover
+  value: 614
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Sales/Revenue/Turnover
+  value: 770
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Sales/Revenue/Turnover
+  value: 901
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: + Sales & Services Revenue
+  value: 192
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: + Sales & Services Revenue
+  value: 231
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: + Sales & Services Revenue
+  value: 254
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: + Sales & Services Revenue
+  value: 437
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: + Sales & Services Revenue
+  value: 614
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: + Sales & Services Revenue
+  value: 770
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: + Sales & Services Revenue
+  value: 901
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: '- Cost of Revenue'
+  value: 92
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: '- Cost of Revenue'
+  value: 74
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: '- Cost of Revenue'
+  value: 105
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: '- Cost of Revenue'
+  value: 161
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: '- Cost of Revenue'
+  value: 231
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: '- Cost of Revenue'
+  value: 281
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: '- Cost of Revenue'
+  value: 320
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: + Cost of Goods & Services
+  value: 92
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: + Cost of Goods & Services
+  value: 74
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: + Cost of Goods & Services
+  value: 105
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: + Cost of Goods & Services
+  value: 161
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: + Cost of Goods & Services
+  value: 231
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: + Cost of Goods & Services
+  value: 281
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: + Cost of Goods & Services
+  value: 320
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Gross Profit
+  value: 100
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Gross Profit
+  value: 157
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Gross Profit
+  value: 149
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Gross Profit
+  value: 276
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Gross Profit
+  value: 382
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Gross Profit
+  value: 489
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Gross Profit
+  value: 580
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Income
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Income
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Income
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Income
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Income
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Income
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Income
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: '- Operating Expenses'
+  value: 156
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: '- Operating Expenses'
+  value: 176
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: '- Operating Expenses'
+  value: 264
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: '- Operating Expenses'
+  value: 405
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: '- Operating Expenses'
+  value: 362
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: '- Operating Expenses'
+  value: 366
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: '- Operating Expenses'
+  value: 394
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: + Selling, General & Admin
+  value: 128
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: + Selling, General & Admin
+  value: 135
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: + Selling, General & Admin
+  value: 204
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: + Selling, General & Admin
+  value: 320
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: + Selling, General & Admin
+  value: 266
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: + Selling, General & Admin
+  value: 266
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: + Selling, General & Admin
+  value: 287
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: + Research & Development
+  value: 21
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: + Research & Development
+  value: 32
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: + Research & Development
+  value: 47
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: + Research & Development
+  value: 67
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: + Research & Development
+  value: 74
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: + Research & Development
+  value: 73
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: + Research & Development
+  value: 72
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Expense
+  value: 7
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Expense
+  value: 9
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Expense
+  value: 12
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Expense
+  value: 19
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Expense
+  value: 22
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Expense
+  value: 26
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Expense
+  value: 35
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Operating Income (Loss)
+  value: -56
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Operating Income (Loss)
+  value: -19
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Operating Income (Loss)
+  value: -115
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Operating Income (Loss)
+  value: -129
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Operating Income (Loss)
+  value: 20
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Operating Income (Loss)
+  value: 123
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Operating Income (Loss)
+  value: 186
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: '- Non-Operating (Income) Loss'
+  value: -2
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: '- Non-Operating (Income) Loss'
+  value: -10
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: '- Non-Operating (Income) Loss'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: '- Non-Operating (Income) Loss'
+  value: -12
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: '- Non-Operating (Income) Loss'
+  value: -30
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: '- Non-Operating (Income) Loss'
+  value: 57
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: '- Non-Operating (Income) Loss'
+  value: -20
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense, Net
+  value: -2
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense, Net
+  value: -1
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense, Net
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense, Net
+  value: -7
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense, Net
+  value: -29
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense, Net
+  value: -33
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense, Net
+  value: -24
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: '- Interest Income'
+  value: 2
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: '- Interest Income'
+  value: 1
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: '- Interest Income'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: '- Interest Income'
+  value: 7
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: '- Interest Income'
+  value: 29
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: '- Interest Income'
+  value: 33
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: '- Interest Income'
+  value: 24
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: + Other Non-Op (Income) Loss
+  value: -9
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: + Other Non-Op (Income) Loss
+  value: -5
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: + Other Non-Op (Income) Loss
+  value: -1
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: + Other Non-Op (Income) Loss
+  value: 89
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: + Other Non-Op (Income) Loss
+  value: 5
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Pretax Income
+  value: -54
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Pretax Income
+  value: -9
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Pretax Income
+  value: -115
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Pretax Income
+  value: -117
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Pretax Income
+  value: 51
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Pretax Income
+  value: 67
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Pretax Income
+  value: 206
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: '- Income Tax Expense (Benefit)'
+  value: -2
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: '- Income Tax Expense (Benefit)'
+  value: 1
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: '- Income Tax Expense (Benefit)'
+  value: -159
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: '- Income Tax Expense (Benefit)'
+  value: 38
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) from Cont Ops
+  value: -54
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) from Cont Ops
+  value: -9
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) from Cont Ops
+  value: -115
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) from Cont Ops
+  value: -115
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) from Cont Ops
+  value: 50
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) from Cont Ops
+  value: 225
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) from Cont Ops
+  value: 168
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: '- Net Extraordinary Losses (Gains)'
+  value: -158
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: '- Net Extraordinary Losses (Gains)'
+  value: -100
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 44
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 111
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 118
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: + Discontinued Operations
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: + Discontinued Operations
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: + Discontinued Operations
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: + Discontinued Operations
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: + Discontinued Operations
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: + Discontinued Operations
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: + Discontinued Operations
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: + Extraord. & Accounting Changes
+  value: -158
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: + Extraord. & Accounting Changes
+  value: -100
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: + Extraord. & Accounting Changes
+  value: 44
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: + Extraord. & Accounting Changes
+  value: 111
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: + Extraord. & Accounting Changes
+  value: 118
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) Incl. MI
+  value: -54
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) Incl. MI
+  value: -9
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) Incl. MI
+  value: 43
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) Incl. MI
+  value: -16
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) Incl. MI
+  value: 6
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) Incl. MI
+  value: 114
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) Incl. MI
+  value: 50
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: '- Minority Interest'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: '- Minority Interest'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: '- Minority Interest'
+  value: 79
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: '- Minority Interest'
+  value: 50
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: '- Minority Interest'
+  value: -22
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: '- Minority Interest'
+  value: -56
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: '- Minority Interest'
+  value: -59
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Net Income, GAAP
+  value: -54
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Net Income, GAAP
+  value: -9
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Net Income, GAAP
+  value: -36
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Net Income, GAAP
+  value: -66
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Net Income, GAAP
+  value: 28
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Net Income, GAAP
+  value: 170
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Net Income, GAAP
+  value: 109
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: '- Preferred Dividends'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: '- Preferred Dividends'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: '- Preferred Dividends'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: '- Preferred Dividends'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: '- Preferred Dividends'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: '- Preferred Dividends'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: '- Preferred Dividends'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: '- Other Adjustments'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: '- Other Adjustments'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: '- Other Adjustments'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: '- Other Adjustments'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: '- Other Adjustments'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: '- Other Adjustments'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: '- Other Adjustments'
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Net Income Avail to Common, GAAP
+  value: -54
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Net Income Avail to Common, GAAP
+  value: -9
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Net Income Avail to Common, GAAP
+  value: -36
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Net Income Avail to Common, GAAP
+  value: -66
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Net Income Avail to Common, GAAP
+  value: 28
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Net Income Avail to Common, GAAP
+  value: 170
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Net Income Avail to Common, GAAP
+  value: 109
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: EBIT
+  value: -56
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: EBIT
+  value: -19
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: EBIT
+  value: -115
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: EBIT
+  value: -129
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: EBIT
+  value: 20
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: EBIT
+  value: 123
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: EBIT
+  value: 186
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA
+  value: -49
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA
+  value: -10
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA
+  value: -103
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA
+  value: -110
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA
+  value: 42
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA
+  value: 150
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA
+  value: 221
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: -25.4
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -4.12
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -40.39
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -25.21
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 6.81
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 19.43
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 24.55
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: EBITA
+  value: -56
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: EBITA
+  value: -19
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: EBITA
+  value: -115
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: EBITA
+  value: -129
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: EBITA
+  value: 20
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: EBITA
+  value: 123
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: EBITA
+  value: 186
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Gross Margin (%)
+  value: 51.99
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Gross Margin (%)
+  value: 68.06
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Gross Margin (%)
+  value: 58.68
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Gross Margin (%)
+  value: 63.18
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Gross Margin (%)
+  value: 62.28
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Gross Margin (%)
+  value: 63.51
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Gross Margin (%)
+  value: 64.42
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Operating Margin (%)
+  value: -29.21
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Operating Margin (%)
+  value: -8.2
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Operating Margin (%)
+  value: -45.26
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Operating Margin (%)
+  value: -29.5
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Operating Margin (%)
+  value: 3.28
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Operating Margin (%)
+  value: 15.99
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Operating Margin (%)
+  value: 20.7
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Profit Margin (%)
+  value: -28.2
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Profit Margin (%)
+  value: -4.03
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Profit Margin (%)
+  value: -14.21
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Profit Margin (%)
+  value: -14.99
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Profit Margin (%)
+  value: 4.58
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Profit Margin (%)
+  value: 22.02
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Profit Margin (%)
+  value: 12.12
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Sales per Employee
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Sales per Employee
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Sales per Employee
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Sales per Employee
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Sales per Employee
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Sales per Employee
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Sales per Employee
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Dividend per Share
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Dividend per Share
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Dividend per Share
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Dividend per Share
+  value: 0.46
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Dividend per Share
+  value: 1.38
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Dividend per Share
+  value: 0.99
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Dividend per Share
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Depreciation Expense
+  value: 7
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Depreciation Expense
+  value: 9
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Depreciation Expense
+  value: 12
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Depreciation Expense
+  value: 19
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Depreciation Expense
+  value: 22
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Depreciation Expense
+  value: 26
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Depreciation Expense
+  value: 35
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Basic Weighted Avg Shares
+  value: 57
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Basic Weighted Avg Shares
+  value: 57
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Basic Weighted Avg Shares
+  value: 76
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Basic Weighted Avg Shares
+  value: 82
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Basic Weighted Avg Shares
+  value: 91
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Basic Weighted Avg Shares
+  value: 94
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Basic Weighted Avg Shares
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS, GAAP
+  value: -0.95
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS, GAAP
+  value: -0.16
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS, GAAP
+  value: -0.48
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS, GAAP
+  value: -0.8
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS, GAAP
+  value: 0.31
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS, GAAP
+  value: 1.81
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS, GAAP
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS from Cont Ops
+  value: -0.95
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS from Cont Ops
+  value: -0.16
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS from Cont Ops
+  value: -1.53
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS from Cont Ops
+  value: -1.41
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS from Cont Ops
+  value: 0.55
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS from Cont Ops
+  value: 2.4
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS from Cont Ops
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Diluted Weighted Avg Shares
+  value: 57
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Diluted Weighted Avg Shares
+  value: 57
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Diluted Weighted Avg Shares
+  value: 76
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Diluted Weighted Avg Shares
+  value: 82
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Diluted Weighted Avg Shares
+  value: 92
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Diluted Weighted Avg Shares
+  value: 145
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Diluted Weighted Avg Shares
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS, GAAP
+  value: -0.95
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS, GAAP
+  value: -0.16
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS, GAAP
+  value: -0.48
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS, GAAP
+  value: -0.8
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS, GAAP
+  value: 0.31
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS, GAAP
+  value: 1.17
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS, GAAP
+  value: null
+- ticker: YOU
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS from Cont Ops
+  value: -0.95
+- ticker: YOU
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS from Cont Ops
+  value: -0.16
+- ticker: YOU
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS from Cont Ops
+  value: -1.53
+- ticker: YOU
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS from Cont Ops
+  value: -1.41
+- ticker: YOU
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS from Cont Ops
+  value: 0.54
+- ticker: YOU
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS from Cont Ops
+  value: 1.56
+- ticker: YOU
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS from Cont Ops
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Assets
+  value: 262
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Assets
+  value: 172
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Assets
+  value: 653
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Assets
+  value: 742
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Assets
+  value: 770
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Assets
+  value: 662
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Assets
+  value: 765
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash, Cash Equivalents & STI
+  value: 247
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash, Cash Equivalents & STI
+  value: 154
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash, Cash Equivalents & STI
+  value: 615
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash, Cash Equivalents & STI
+  value: 705
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash, Cash Equivalents & STI
+  value: 723
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash, Cash Equivalents & STI
+  value: 609
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash, Cash Equivalents & STI
+  value: 700
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash & Cash Equivalents
+  value: 214
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash & Cash Equivalents
+  value: 116
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash & Cash Equivalents
+  value: 280
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash & Cash Equivalents
+  value: 39
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash & Cash Equivalents
+  value: 58
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash & Cash Equivalents
+  value: 67
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash & Cash Equivalents
+  value: 86
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Investments
+  value: 33
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Investments
+  value: 38
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Investments
+  value: 335
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Investments
+  value: 666
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Investments
+  value: 665
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Investments
+  value: 543
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Investments
+  value: 614
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts & Notes Receiv
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts & Notes Receiv
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts & Notes Receiv
+  value: 5
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts & Notes Receiv
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts & Notes Receiv
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts & Notes Receiv
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts & Notes Receiv
+  value: 2
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Receivable, Net
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Receivable, Net
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Receivable, Net
+  value: 5
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Receivable, Net
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Receivable, Net
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Receivable, Net
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Receivable, Net
+  value: 2
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Notes Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Notes Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Notes Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Notes Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Notes Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Notes Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Notes Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Loans Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Loans Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Loans Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Loans Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Loans Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Loans Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Loans Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Receivable, Net
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventories
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventories
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventories
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventories
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventories
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventories
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventories
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Raw Materials
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Raw Materials
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Raw Materials
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Raw Materials
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Raw Materials
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Raw Materials
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Raw Materials
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Work In Process
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Work In Process
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Work In Process
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Work In Process
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Work In Process
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Work In Process
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Work In Process
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Finished Goods
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Finished Goods
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Finished Goods
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Finished Goods
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Finished Goods
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Finished Goods
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Finished Goods
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventory Adjustments
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventory Adjustments
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventory Adjustments
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventory Adjustments
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventory Adjustments
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventory Adjustments
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventory Adjustments
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Inventory
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Inventory
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Inventory
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Inventory
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Inventory
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Inventory
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Inventory
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Assets
+  value: 13
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Assets
+  value: 17
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Assets
+  value: 32
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Assets
+  value: 36
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Assets
+  value: 46
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Assets
+  value: 52
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Assets
+  value: 63
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Prepaid Expenses
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Prepaid Expenses
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Prepaid Expenses
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Prepaid Expenses
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Prepaid Expenses
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Prepaid Expenses
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Prepaid Expenses
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Assets
+  value: 57
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Assets
+  value: 61
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Assets
+  value: 160
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Assets
+  value: 296
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Assets
+  value: 275
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Assets
+  value: 533
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Assets
+  value: 539
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip, Net
+  value: 27
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip, Net
+  value: 35
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip, Net
+  value: 45
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip, Net
+  value: 182
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip, Net
+  value: 178
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip, Net
+  value: 166
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip, Net
+  value: 159
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip
+  value: 48
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip
+  value: 65
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip
+  value: 86
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip
+  value: 237
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip
+  value: 249
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip
+  value: 257
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip
+  value: 274
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: '- Accumulated Depreciation'
+  value: 21
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: '- Accumulated Depreciation'
+  value: 30
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: '- Accumulated Depreciation'
+  value: 41
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: '- Accumulated Depreciation'
+  value: 55
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: '- Accumulated Depreciation'
+  value: 70
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: '- Accumulated Depreciation'
+  value: 91
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: '- Accumulated Depreciation'
+  value: 115
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments & Receivables
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments & Receivables
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments & Receivables
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments & Receivables
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments & Receivables
+  value: 6
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments & Receivables
+  value: 7
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments & Receivables
+  value: 3
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments
+  value: 6
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments
+  value: 7
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments
+  value: 3
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Receivables
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Receivables
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Receivables
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Receivables
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Receivables
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Receivables
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Receivables
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Assets
+  value: 30
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Assets
+  value: 25
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Assets
+  value: 115
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Assets
+  value: 114
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Assets
+  value: 90
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Assets
+  value: 360
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Assets
+  value: 377
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Total Intangible Assets
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Total Intangible Assets
+  value: 2
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Total Intangible Assets
+  value: 83
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Total Intangible Assets
+  value: 81
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Total Intangible Assets
+  value: 84
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Total Intangible Assets
+  value: 78
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Total Intangible Assets
+  value: 65
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Goodwill
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Goodwill
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Goodwill
+  value: 60
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Goodwill
+  value: 59
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Goodwill
+  value: 63
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Goodwill
+  value: 63
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Goodwill
+  value: 63
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Intangible Assets
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Intangible Assets
+  value: 2
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Intangible Assets
+  value: 23
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Intangible Assets
+  value: 22
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Intangible Assets
+  value: 21
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Intangible Assets
+  value: 15
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Intangible Assets
+  value: 3
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Assets
+  value: 29
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Assets
+  value: 23
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Assets
+  value: 32
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Assets
+  value: 33
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Assets
+  value: 6
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Assets
+  value: 282
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Assets
+  value: 311
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Total Assets
+  value: 319
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Total Assets
+  value: 232
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Total Assets
+  value: 813
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Total Assets
+  value: 1038
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Total Assets
+  value: 1045
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Total Assets
+  value: 1195
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Total Assets
+  value: 1303
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Payables & Accruals
+  value: 18
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Payables & Accruals
+  value: 17
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Payables & Accruals
+  value: 58
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Payables & Accruals
+  value: 92
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Payables & Accruals
+  value: 151
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Payables & Accruals
+  value: 179
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Payables & Accruals
+  value: 218
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Payable
+  value: 7
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Payable
+  value: 9
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Payable
+  value: 9
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Payable
+  value: 8
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Payable
+  value: 12
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Payable
+  value: 18
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Payable
+  value: 7
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Taxes
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Taxes
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Taxes
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Taxes
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Taxes
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Taxes
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Taxes
+  value: 15
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Payables & Accruals
+  value: 11
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Payables & Accruals
+  value: 9
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Payables & Accruals
+  value: 49
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Payables & Accruals
+  value: 84
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Payables & Accruals
+  value: 140
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Payables & Accruals
+  value: 161
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Payables & Accruals
+  value: 196
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Debt
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Debt
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Debt
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Debt
+  value: 5
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Debt
+  value: 6
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Debt
+  value: 6
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Debt
+  value: 6
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Finance Leases
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Finance Leases
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Finance Leases
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Finance Leases
+  value: 5
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Finance Leases
+  value: 6
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Finance Leases
+  value: 6
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Finance Leases
+  value: 6
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Liabilities
+  value: 146
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Liabilities
+  value: 129
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Liabilities
+  value: 207
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Liabilities
+  value: 301
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Liabilities
+  value: 395
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Liabilities
+  value: 458
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Liabilities
+  value: 536
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: 121
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: 102
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: 189
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: 283
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: 376
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: 440
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: 516
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Liabilities
+  value: 25
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Liabilities
+  value: 27
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Liabilities
+  value: 18
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Liabilities
+  value: 17
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Liabilities
+  value: 19
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Liabilities
+  value: 18
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Liabilities
+  value: 20
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Liabilities
+  value: 164
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Liabilities
+  value: 146
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Liabilities
+  value: 265
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Liabilities
+  value: 397
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Liabilities
+  value: 552
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Liabilities
+  value: 643
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Liabilities
+  value: 760
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Debt
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Debt
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Debt
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Debt
+  value: 125
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Debt
+  value: 122
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Debt
+  value: 115
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Debt
+  value: 107
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Borrowings
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Finance Leases
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Finance Leases
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Finance Leases
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Finance Leases
+  value: 125
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Finance Leases
+  value: 122
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Finance Leases
+  value: 115
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Finance Leases
+  value: 107
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Liabilities
+  value: 3
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Liabilities
+  value: 4
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Liabilities
+  value: 9
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Liabilities
+  value: 4
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Liabilities
+  value: 2
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Liabilities
+  value: 199
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Liabilities
+  value: 232
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Liabilities
+  value: 3
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Liabilities
+  value: 4
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Liabilities
+  value: 2
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Liabilities
+  value: 2
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Liabilities
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Pension Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Pension Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Pension Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Pension Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Pension Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Pension Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Pension Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Liabilities
+  value: 4
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Liabilities
+  value: 5
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Liabilities
+  value: 2
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Liabilities
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Liabilities
+  value: 198
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Liabilities
+  value: 232
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Liabilities
+  value: 3
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Liabilities
+  value: 4
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Liabilities
+  value: 9
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Liabilities
+  value: 129
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Liabilities
+  value: 124
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Liabilities
+  value: 314
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Liabilities
+  value: 339
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities
+  value: 167
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities
+  value: 150
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities
+  value: 273
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities
+  value: 527
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities
+  value: 676
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities
+  value: 957
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities
+  value: 1099
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Share Capital & APIC
+  value: 435
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Share Capital & APIC
+  value: 569
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Share Capital & APIC
+  value: 314
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Share Capital & APIC
+  value: 394
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Share Capital & APIC
+  value: 305
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Share Capital & APIC
+  value: 114
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Share Capital & APIC
+  value: 57
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Common Stock
+  value: 435
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Common Stock
+  value: 569
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Common Stock
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Common Stock
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Common Stock
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Common Stock
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Common Stock
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Additional Paid in Capital
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Additional Paid in Capital
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Additional Paid in Capital
+  value: 314
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Additional Paid in Capital
+  value: 394
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Additional Paid in Capital
+  value: 305
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Additional Paid in Capital
+  value: 114
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Additional Paid in Capital
+  value: 57
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: '- Treasury Stock'
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: '- Treasury Stock'
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: '- Treasury Stock'
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: '- Treasury Stock'
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: '- Treasury Stock'
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: '- Treasury Stock'
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: '- Treasury Stock'
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Retained Earnings
+  value: -291
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Retained Earnings
+  value: -495
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Retained Earnings
+  value: -36
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Retained Earnings
+  value: -102
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Retained Earnings
+  value: -74
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Retained Earnings
+  value: 84
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Retained Earnings
+  value: 120
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Equity
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Equity
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Equity
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Equity
+  value: -2
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Equity
+  value: 2
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Equity
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Equity
+  value: 1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Equity Before Minority Interest
+  value: 152
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Equity Before Minority Interest
+  value: 82
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Equity Before Minority Interest
+  value: 278
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Equity Before Minority Interest
+  value: 291
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Equity Before Minority Interest
+  value: 233
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Equity Before Minority Interest
+  value: 198
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Equity Before Minority Interest
+  value: 178
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: + Minority/Non Controlling Interest
+  value: 262
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: + Minority/Non Controlling Interest
+  value: 220
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: + Minority/Non Controlling Interest
+  value: 136
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: + Minority/Non Controlling Interest
+  value: 40
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: + Minority/Non Controlling Interest
+  value: 27
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Total Equity
+  value: 152
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Total Equity
+  value: 82
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Total Equity
+  value: 539
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Total Equity
+  value: 511
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Total Equity
+  value: 369
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Total Equity
+  value: 238
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Total Equity
+  value: 204
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities & Equity
+  value: 319
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities & Equity
+  value: 232
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities & Equity
+  value: 813
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities & Equity
+  value: 1038
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities & Equity
+  value: 1045
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities & Equity
+  value: 1195
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities & Equity
+  value: 1303
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Shares Outstanding
+  value: 74
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Shares Outstanding
+  value: 74
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Shares Outstanding
+  value: 77
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Shares Outstanding
+  value: 89
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Shares Outstanding
+  value: 93
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Shares Outstanding
+  value: 97
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Shares Outstanding
+  value: 98
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Number of Employees
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Number of Employees
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Number of Employees
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Number of Employees
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Number of Employees
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Number of Employees
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Number of Employees
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Capital Leases - Total
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Capital Leases - Total
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Capital Leases - Total
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Capital Leases - Total
+  value: 130
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Capital Leases - Total
+  value: 127
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Capital Leases - Total
+  value: 121
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Capital Leases - Total
+  value: 112
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt
+  value: -214
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt
+  value: -116
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt
+  value: -280
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt
+  value: -39
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt
+  value: -58
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt
+  value: -67
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt
+  value: -86
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt to Equity
+  value: -140.81
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt to Equity
+  value: -141.13
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt to Equity
+  value: -51.92
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt to Equity
+  value: -7.62
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt to Equity
+  value: -15.68
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt to Equity
+  value: -28.11
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt to Equity
+  value: -41.95
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Tangible Common Equity Ratio
+  value: 47.45
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Tangible Common Equity Ratio
+  value: 35.02
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Tangible Common Equity Ratio
+  value: 62.57
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Tangible Common Equity Ratio
+  value: 44.94
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Tangible Common Equity Ratio
+  value: 29.71
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Tangible Common Equity Ratio
+  value: 14.32
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Tangible Common Equity Ratio
+  value: 11.22
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Current Ratio
+  value: 1.6
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Current Ratio
+  value: 1.17
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Current Ratio
+  value: 2.47
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Current Ratio
+  value: 1.87
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Current Ratio
+  value: 1.39
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Current Ratio
+  value: 1.03
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Current Ratio
+  value: 1.01
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2019
+  item: Cash Conversion Cycle
+  value: null
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2020
+  item: Cash Conversion Cycle
+  value: -37.15
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2021
+  item: Cash Conversion Cycle
+  value: -25.65
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2022
+  item: Cash Conversion Cycle
+  value: -16.28
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2023
+  item: Cash Conversion Cycle
+  value: -15.05
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2024
+  item: Cash Conversion Cycle
+  value: -19.1
+- ticker: YOU
+  statement: balance
+  fiscalYear: 2025
+  item: Cash Conversion Cycle
+  value: -13.84
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Income
+  value: -54
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Income
+  value: -9
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Income
+  value: -115
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Income
+  value: -115
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Income
+  value: 50
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Income
+  value: 225
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Income
+  value: 168
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Depreciation & Amortization
+  value: 7
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Depreciation & Amortization
+  value: 9
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Depreciation & Amortization
+  value: 12
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Depreciation & Amortization
+  value: 19
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Depreciation & Amortization
+  value: 22
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Depreciation & Amortization
+  value: 26
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Depreciation & Amortization
+  value: 35
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Non-Cash Items
+  value: 18
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Non-Cash Items
+  value: 5
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Non-Cash Items
+  value: 55
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Non-Cash Items
+  value: 140
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Non-Cash Items
+  value: 35
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Non-Cash Items
+  value: -130
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Non-Cash Items
+  value: 73
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Stock-Based Compensation
+  value: 15
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Stock-Based Compensation
+  value: 3
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Stock-Based Compensation
+  value: 37
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Stock-Based Compensation
+  value: 138
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Stock-Based Compensation
+  value: 37
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Stock-Based Compensation
+  value: 35
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Stock-Based Compensation
+  value: 39
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Deferred Income Taxes
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Deferred Income Taxes
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Deferred Income Taxes
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Deferred Income Taxes
+  value: -2
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Deferred Income Taxes
+  value: -1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Deferred Income Taxes
+  value: -166
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Deferred Income Taxes
+  value: 24
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Asset Impairment Charge
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Asset Impairment Charge
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Asset Impairment Charge
+  value: 5
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Asset Impairment Charge
+  value: 3
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Asset Impairment Charge
+  value: 5
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Asset Impairment Charge
+  value: 1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Asset Impairment Charge
+  value: 5
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Non-Cash Adj
+  value: 3
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Non-Cash Adj
+  value: 1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Non-Cash Adj
+  value: 14
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Non-Cash Adj
+  value: 1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Non-Cash Adj
+  value: -7
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Non-Cash Adj
+  value: -1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Non-Cash Adj
+  value: 5
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Chg in Non-Cash Work Cap
+  value: 45
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Chg in Non-Cash Work Cap
+  value: -17
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Chg in Non-Cash Work Cap
+  value: 118
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Chg in Non-Cash Work Cap
+  value: 125
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Chg in Non-Cash Work Cap
+  value: 119
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Chg in Non-Cash Work Cap
+  value: 174
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Chg in Non-Cash Work Cap
+  value: 97
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Accts Receiv
+  value: -4
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Accts Receiv
+  value: 4
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Accts Receiv
+  value: 1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Accts Receiv
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Accts Receiv
+  value: -2
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Prepaid Assets
+  value: -7
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Prepaid Assets
+  value: 3
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Prepaid Assets
+  value: -16
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Prepaid Assets
+  value: -6
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Prepaid Assets
+  value: -10
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Prepaid Assets
+  value: -7
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Prepaid Assets
+  value: -9
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Accts Payable
+  value: 6
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Accts Payable
+  value: -1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Accts Payable
+  value: 51
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Accts Payable
+  value: 34
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Accts Payable
+  value: 38
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Accts Payable
+  value: 123
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Accts Payable
+  value: 40
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Other
+  value: 46
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Other
+  value: -19
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Other
+  value: 87
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Other
+  value: 93
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Other
+  value: 90
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Other
+  value: 58
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Other
+  value: 68
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Operating Activities
+  value: 17
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Operating Activities
+  value: -12
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Operating Activities
+  value: 70
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Operating Activities
+  value: 168
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Operating Activities
+  value: 225
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Operating Activities
+  value: 296
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Operating Activities
+  value: 372
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed & Intang
+  value: -15
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed & Intang
+  value: -17
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed & Intang
+  value: -29
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed & Intang
+  value: -32
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed & Intang
+  value: -26
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed & Intang
+  value: -12
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed & Intang
+  value: -29
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed Prod Assets
+  value: -15
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed Prod Assets
+  value: -17
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed Prod Assets
+  value: -28
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed Prod Assets
+  value: -31
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed Prod Assets
+  value: -26
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed Prod Assets
+  value: -12
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed Prod Assets
+  value: -29
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Intangible Assets
+  value: -1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Intangible Assets
+  value: -1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Intangible Assets
+  value: -1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Intangible Assets
+  value: -1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash (Repurchase) of Equity
+  value: 180
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash (Repurchase) of Equity
+  value: -62
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash (Repurchase) of Equity
+  value: 505
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash (Repurchase) of Equity
+  value: -5
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash (Repurchase) of Equity
+  value: -70
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash (Repurchase) of Equity
+  value: -273
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash (Repurchase) of Equity
+  value: -126
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Increase in Capital Stock
+  value: 192
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Increase in Capital Stock
+  value: 148
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Increase in Capital Stock
+  value: 517
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Increase in Capital Stock
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Increase in Capital Stock
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Increase in Capital Stock
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Increase in Capital Stock
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Decrease in Capital Stock
+  value: -12
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Decrease in Capital Stock
+  value: -210
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Decrease in Capital Stock
+  value: -12
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Decrease in Capital Stock
+  value: -5
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Decrease in Capital Stock
+  value: -70
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Decrease in Capital Stock
+  value: -273
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Decrease in Capital Stock
+  value: -126
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Change in LT Investment
+  value: -11
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Change in LT Investment
+  value: -4
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Change in LT Investment
+  value: -298
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Change in LT Investment
+  value: -328
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Change in LT Investment
+  value: 14
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Change in LT Investment
+  value: 126
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Change in LT Investment
+  value: -70
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dec in LT Investment
+  value: 90
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dec in LT Investment
+  value: 166
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dec in LT Investment
+  value: 690
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dec in LT Investment
+  value: 1135
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dec in LT Investment
+  value: 973
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dec in LT Investment
+  value: 1098
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dec in LT Investment
+  value: 677
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc in LT Investment
+  value: -101
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc in LT Investment
+  value: -171
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc in LT Investment
+  value: -988
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc in LT Investment
+  value: -1463
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc in LT Investment
+  value: -959
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc in LT Investment
+  value: -972
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc in LT Investment
+  value: -748
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Acq & Div
+  value: -76
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Acq & Div
+  value: -4
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Acq & Div
+  value: 3
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash from Divestitures
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash from Divestitures
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash from Divestitures
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash from Divestitures
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash from Divestitures
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash from Divestitures
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash from Divestitures
+  value: 3
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for Acq of Subs
+  value: -76
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for Acq of Subs
+  value: -4
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for JVs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for JVs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for JVs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for JVs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for JVs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for JVs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for JVs
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Investing Activities
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Investing Activities
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Investing Activities
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Investing Activities
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Investing Activities
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Investing Activities
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Investing Activities
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Investing Activities
+  value: -26
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Investing Activities
+  value: -22
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Investing Activities
+  value: -403
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Investing Activities
+  value: -360
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Investing Activities
+  value: -16
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Investing Activities
+  value: 114
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Investing Activities
+  value: -97
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dividends Paid
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dividends Paid
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dividends Paid
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dividends Paid
+  value: -38
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dividends Paid
+  value: -125
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dividends Paid
+  value: -93
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dividends Paid
+  value: -92
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash From Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Repayments of Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Repayments of Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Repayments of Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Repayments of Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Repayments of Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Repayments of Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Repayments of Debt
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Financing Activities
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Financing Activities
+  value: -1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Financing Activities
+  value: -2
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Financing Activities
+  value: -6
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Financing Activities
+  value: -21
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Financing Activities
+  value: -35
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Financing Activities
+  value: -39
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Financing Activities
+  value: 180
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Financing Activities
+  value: -63
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Financing Activities
+  value: 503
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Financing Activities
+  value: -49
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Financing Activities
+  value: -216
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Financing Activities
+  value: -402
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Financing Activities
+  value: -257
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Changes in Cash
+  value: 171
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Changes in Cash
+  value: -97
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Changes in Cash
+  value: 170
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Changes in Cash
+  value: -240
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Changes in Cash
+  value: -6
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Changes in Cash
+  value: 8
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Changes in Cash
+  value: 18
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA
+  value: -49
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA
+  value: -10
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA
+  value: -103
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA
+  value: -110
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA
+  value: 42
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA
+  value: 150
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA
+  value: 221
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: -25.4
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -4.12
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -40.39
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -25.21
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 6.81
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 19.43
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 24.55
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow
+  value: 1
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow
+  value: -29
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow
+  value: 41
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow
+  value: 136
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow
+  value: 199
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow
+  value: 283
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow
+  value: 343
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Cash Paid for Acquisitions
+  value: 76
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Cash Paid for Acquisitions
+  value: 4
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Cash Paid for Acquisitions
+  value: -3
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Firm
+  value: 199
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Firm
+  value: 343
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Equity
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Equity
+  value: -29
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Equity
+  value: 42
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Equity
+  value: 137
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Equity
+  value: 199
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Equity
+  value: 284
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Equity
+  value: 343
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow per Basic Share
+  value: 0.02
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow per Basic Share
+  value: -0.51
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow per Basic Share
+  value: 0.54
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow per Basic Share
+  value: 1.66
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow per Basic Share
+  value: 2.2
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow per Basic Share
+  value: 3.02
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow per Basic Share
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Price/Free Cash Flow
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Price/Free Cash Flow
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Price/Free Cash Flow
+  value: 22.06
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Price/Free Cash Flow
+  value: 10.42
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Price/Free Cash Flow
+  value: 7.28
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Price/Free Cash Flow
+  value: 12.5
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Price/Free Cash Flow
+  value: null
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash Flow to Net Income
+  value: -0.31
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash Flow to Net Income
+  value: 1.33
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash Flow to Net Income
+  value: -1.93
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash Flow to Net Income
+  value: -2.57
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash Flow to Net Income
+  value: 8.01
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash Flow to Net Income
+  value: 1.74
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash Flow to Net Income
+  value: 3.41
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2019
+  item: Capital Expenditures
+  value: -15
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2020
+  item: Capital Expenditures
+  value: -17
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2021
+  item: Capital Expenditures
+  value: -29
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2022
+  item: Capital Expenditures
+  value: -32
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2023
+  item: Capital Expenditures
+  value: -26
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2024
+  item: Capital Expenditures
+  value: -12
+- ticker: YOU
+  statement: cashflow
+  fiscalYear: 2025
+  item: Capital Expenditures
+  value: -29
+

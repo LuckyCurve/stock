@@ -1,0 +1,9001 @@
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Sales/Revenue/Turnover
+  value: 901
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Sales/Revenue/Turnover
+  value: 2104
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Sales/Revenue/Turnover
+  value: 3533
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Sales/Revenue/Turnover
+  value: 4847
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Sales/Revenue/Turnover
+  value: 7146
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Sales/Revenue/Turnover
+  value: 8967
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Sales/Revenue/Turnover
+  value: 10119
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Sales/Revenue/Turnover
+  value: 11148
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Sales/Revenue/Turnover
+  value: 11861
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Sales/Revenue/Turnover
+  value: 12602
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: + Sales & Services Revenue
+  value: 901
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: + Sales & Services Revenue
+  value: 2104
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: + Sales & Services Revenue
+  value: 3533
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: + Sales & Services Revenue
+  value: 4847
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: + Sales & Services Revenue
+  value: 7146
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: + Sales & Services Revenue
+  value: 8967
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: + Sales & Services Revenue
+  value: 10119
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: + Sales & Services Revenue
+  value: 11148
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: + Sales & Services Revenue
+  value: 11861
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: + Sales & Services Revenue
+  value: 12602
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: '- Cost of Revenue'
+  value: 751
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: '- Cost of Revenue'
+  value: 1737
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: '- Cost of Revenue'
+  value: 2818
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: '- Cost of Revenue'
+  value: 3703
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: '- Cost of Revenue'
+  value: 5325
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: '- Cost of Revenue'
+  value: 6582
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: '- Cost of Revenue'
+  value: 7285
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: '- Cost of Revenue'
+  value: 7986
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: '- Cost of Revenue'
+  value: 8394
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: '- Cost of Revenue'
+  value: 8848
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: + Cost of Goods & Services
+  value: 751
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: + Cost of Goods & Services
+  value: 1737
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: + Cost of Goods & Services
+  value: 2818
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: + Cost of Goods & Services
+  value: 3703
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: + Cost of Goods & Services
+  value: 5325
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: + Cost of Goods & Services
+  value: 6582
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: + Cost of Goods & Services
+  value: 7285
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: + Cost of Goods & Services
+  value: 7986
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: + Cost of Goods & Services
+  value: 8394
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: + Cost of Goods & Services
+  value: 8848
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Gross Profit
+  value: 150
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Gross Profit
+  value: 368
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Gross Profit
+  value: 715
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Gross Profit
+  value: 1144
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Gross Profit
+  value: 1821
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Gross Profit
+  value: 2385
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Gross Profit
+  value: 2834
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Gross Profit
+  value: 3162
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Gross Profit
+  value: 3468
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Gross Profit
+  value: 3754
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: + Other Operating Income
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: + Other Operating Income
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Income
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Income
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Income
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Income
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Income
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Income
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Income
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: + Other Operating Income
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: '- Operating Expenses'
+  value: 257
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: '- Operating Expenses'
+  value: 705
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: '- Operating Expenses'
+  value: 983
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: '- Operating Expenses'
+  value: 1397
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: '- Operating Expenses'
+  value: 1911
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: '- Operating Expenses'
+  value: 2459
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: '- Operating Expenses'
+  value: 2778
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: '- Operating Expenses'
+  value: 3185
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: '- Operating Expenses'
+  value: 3355
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: '- Operating Expenses'
+  value: 3500
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: + Selling, General & Admin
+  value: 257
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: + Selling, General & Admin
+  value: 705
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: + Selling, General & Admin
+  value: 983
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: + Selling, General & Admin
+  value: 1397
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: + Selling, General & Admin
+  value: 1911
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: + Selling, General & Admin
+  value: 2459
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: + Selling, General & Admin
+  value: 2778
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: + Selling, General & Admin
+  value: 3185
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: + Selling, General & Admin
+  value: 3355
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: + Selling, General & Admin
+  value: 3500
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: + Research & Development
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: + Research & Development
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: + Research & Development
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: + Research & Development
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: + Research & Development
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: + Research & Development
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: + Research & Development
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: + Research & Development
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: + Research & Development
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: + Research & Development
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: + Other Operating Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: + Other Operating Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: + Other Operating Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: + Other Operating Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Operating Income (Loss)
+  value: -107
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Operating Income (Loss)
+  value: -338
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Operating Income (Loss)
+  value: -268
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Operating Income (Loss)
+  value: -253
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Operating Income (Loss)
+  value: -90
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Operating Income (Loss)
+  value: -74
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Operating Income (Loss)
+  value: 56
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Operating Income (Loss)
+  value: -24
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Operating Income (Loss)
+  value: 113
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Operating Income (Loss)
+  value: 254
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: '- Non-Operating (Income) Loss'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: '- Non-Operating (Income) Loss'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: '- Non-Operating (Income) Loss'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: '- Non-Operating (Income) Loss'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: '- Non-Operating (Income) Loss'
+  value: 2
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: '- Non-Operating (Income) Loss'
+  value: 2
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: '- Non-Operating (Income) Loss'
+  value: 4
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: '- Non-Operating (Income) Loss'
+  value: -72
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: '- Non-Operating (Income) Loss'
+  value: -39
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: '- Non-Operating (Income) Loss'
+  value: -9
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: + Interest Expense, Net
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: + Interest Expense, Net
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense, Net
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense, Net
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense, Net
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense, Net
+  value: 2
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense, Net
+  value: -9
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense, Net
+  value: -58
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense, Net
+  value: -35
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: + Interest Expense, Net
+  value: -15
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: + Interest Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: + Interest Expense
+  value: 1
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: + Interest Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense
+  value: 2
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense
+  value: 3
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense
+  value: 4
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense
+  value: 6
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: + Interest Expense
+  value: 5
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: '- Interest Income'
+  value: 1
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: '- Interest Income'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: '- Interest Income'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: '- Interest Income'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: '- Interest Income'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: '- Interest Income'
+  value: 1
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: '- Interest Income'
+  value: 12
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: '- Interest Income'
+  value: 62
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: '- Interest Income'
+  value: 41
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: '- Interest Income'
+  value: 20
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: + Other Non-Op (Income) Loss
+  value: 2
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: + Other Non-Op (Income) Loss
+  value: 13
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: + Other Non-Op (Income) Loss
+  value: -13
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: + Other Non-Op (Income) Loss
+  value: -4
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: + Other Non-Op (Income) Loss
+  value: 6
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Pretax Income
+  value: -107
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Pretax Income
+  value: -338
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Pretax Income
+  value: -268
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Pretax Income
+  value: -252
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Pretax Income
+  value: -92
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Pretax Income
+  value: -75
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Pretax Income
+  value: 53
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Pretax Income
+  value: 48
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Pretax Income
+  value: 152
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Pretax Income
+  value: 263
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: '- Income Tax Expense (Benefit)'
+  value: 3
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: '- Income Tax Expense (Benefit)'
+  value: 9
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: '- Income Tax Expense (Benefit)'
+  value: -241
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: '- Income Tax Expense (Benefit)'
+  value: 40
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Income (Loss) from Cont Ops
+  value: -107
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Income (Loss) from Cont Ops
+  value: -338
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) from Cont Ops
+  value: -268
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) from Cont Ops
+  value: -252
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) from Cont Ops
+  value: -92
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) from Cont Ops
+  value: -75
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) from Cont Ops
+  value: 50
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) from Cont Ops
+  value: 40
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) from Cont Ops
+  value: 393
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Income (Loss) from Cont Ops
+  value: 223
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: + Discontinued Operations
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: + Discontinued Operations
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: + Discontinued Operations
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: + Discontinued Operations
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: + Discontinued Operations
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: + Discontinued Operations
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: + Discontinued Operations
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: + Discontinued Operations
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: + Discontinued Operations
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: + Discontinued Operations
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Income (Loss) Incl. MI
+  value: -107
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Income (Loss) Incl. MI
+  value: -338
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Income (Loss) Incl. MI
+  value: -268
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) Incl. MI
+  value: -252
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) Incl. MI
+  value: -92
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) Incl. MI
+  value: -75
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) Incl. MI
+  value: 50
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) Incl. MI
+  value: 40
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) Incl. MI
+  value: 393
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Income (Loss) Incl. MI
+  value: 223
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: '- Minority Interest'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: '- Minority Interest'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: '- Minority Interest'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: '- Minority Interest'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: '- Minority Interest'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: '- Minority Interest'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: '- Minority Interest'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: '- Minority Interest'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: '- Minority Interest'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: '- Minority Interest'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Net Income, GAAP
+  value: -107
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Net Income, GAAP
+  value: -338
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Net Income, GAAP
+  value: -268
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Net Income, GAAP
+  value: -252
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Net Income, GAAP
+  value: -92
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Net Income, GAAP
+  value: -75
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Net Income, GAAP
+  value: 50
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Net Income, GAAP
+  value: 40
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Net Income, GAAP
+  value: 393
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Net Income, GAAP
+  value: 223
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: '- Preferred Dividends'
+  value: 362
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: '- Other Adjustments'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: '- Other Adjustments'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: '- Other Adjustments'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: '- Other Adjustments'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: '- Other Adjustments'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: '- Other Adjustments'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: '- Other Adjustments'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: '- Other Adjustments'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: '- Other Adjustments'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: '- Other Adjustments'
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Net Income Avail to Common, GAAP
+  value: -107
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Net Income Avail to Common, GAAP
+  value: -700
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Net Income Avail to Common, GAAP
+  value: -268
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Net Income Avail to Common, GAAP
+  value: -252
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Net Income Avail to Common, GAAP
+  value: -92
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Net Income Avail to Common, GAAP
+  value: -75
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Net Income Avail to Common, GAAP
+  value: 50
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Net Income Avail to Common, GAAP
+  value: 40
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Net Income Avail to Common, GAAP
+  value: 393
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Net Income Avail to Common, GAAP
+  value: 223
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: EBIT
+  value: -107
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: EBIT
+  value: -338
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: EBIT
+  value: -268
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: EBIT
+  value: -253
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: EBIT
+  value: -90
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: EBIT
+  value: -74
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: EBIT
+  value: 56
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: EBIT
+  value: -24
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: EBIT
+  value: 113
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: EBIT
+  value: 254
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: EBITDA
+  value: -102
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: EBITDA
+  value: -325
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA
+  value: -245
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA
+  value: -222
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA
+  value: -55
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA
+  value: -18
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA
+  value: 140
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA
+  value: 86
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA
+  value: 227
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: EBITDA
+  value: 384
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: EBITDA Margin (%)
+  value: -11.37
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: EBITDA Margin (%)
+  value: -15.46
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: -6.92
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -4.58
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -0.77
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -0.2
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 1.38
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 0.77
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 1.92
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: EBITDA Margin (%)
+  value: 3.04
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: EBITA
+  value: -107
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: EBITA
+  value: -338
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: EBITA
+  value: -268
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: EBITA
+  value: -253
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: EBITA
+  value: -90
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: EBITA
+  value: -74
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: EBITA
+  value: 56
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: EBITA
+  value: -24
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: EBITA
+  value: 113
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: EBITA
+  value: 254
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Gross Margin (%)
+  value: 16.64
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Gross Margin (%)
+  value: 17.47
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Gross Margin (%)
+  value: 20.23
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Gross Margin (%)
+  value: 23.6
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Gross Margin (%)
+  value: 25.48
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Gross Margin (%)
+  value: 26.6
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Gross Margin (%)
+  value: 28.01
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Gross Margin (%)
+  value: 28.36
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Gross Margin (%)
+  value: 29.24
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Gross Margin (%)
+  value: 29.79
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Operating Margin (%)
+  value: -11.93
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Operating Margin (%)
+  value: -16.06
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Operating Margin (%)
+  value: -7.58
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Operating Margin (%)
+  value: -5.21
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Operating Margin (%)
+  value: -1.27
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Operating Margin (%)
+  value: -0.82
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Operating Margin (%)
+  value: 0.56
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Operating Margin (%)
+  value: -0.21
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Operating Margin (%)
+  value: 0.95
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Operating Margin (%)
+  value: 2.02
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Profit Margin (%)
+  value: -11.9
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Profit Margin (%)
+  value: -16.07
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Profit Margin (%)
+  value: -7.58
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Profit Margin (%)
+  value: -5.21
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Profit Margin (%)
+  value: -1.29
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Profit Margin (%)
+  value: -0.84
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Profit Margin (%)
+  value: 0.49
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Profit Margin (%)
+  value: 0.36
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Profit Margin (%)
+  value: 3.31
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Profit Margin (%)
+  value: 1.77
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Sales per Employee
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Sales per Employee
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Sales per Employee
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Sales per Employee
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Sales per Employee
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Sales per Employee
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Sales per Employee
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Sales per Employee
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Sales per Employee
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Sales per Employee
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Dividend per Share
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Dividend per Share
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Dividend per Share
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Dividend per Share
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Dividend per Share
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Dividend per Share
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Dividend per Share
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Dividend per Share
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Dividend per Share
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Dividend per Share
+  value: null
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Depreciation Expense
+  value: 5
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Depreciation Expense
+  value: 13
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Depreciation Expense
+  value: 23
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Depreciation Expense
+  value: 31
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Depreciation Expense
+  value: 36
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Depreciation Expense
+  value: 55
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Depreciation Expense
+  value: 83
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Depreciation Expense
+  value: 110
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Depreciation Expense
+  value: 115
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Depreciation Expense
+  value: 129
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Basic Weighted Avg Shares
+  value: 396
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Basic Weighted Avg Shares
+  value: 396
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Basic Weighted Avg Shares
+  value: 396
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Basic Weighted Avg Shares
+  value: 398
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Basic Weighted Avg Shares
+  value: 407
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Basic Weighted Avg Shares
+  value: 417
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Basic Weighted Avg Shares
+  value: 422
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Basic Weighted Avg Shares
+  value: 429
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Basic Weighted Avg Shares
+  value: 421
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Basic Weighted Avg Shares
+  value: 414
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Basic EPS, GAAP
+  value: -0.27
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Basic EPS, GAAP
+  value: -1.77
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS, GAAP
+  value: -0.68
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS, GAAP
+  value: -0.63
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS, GAAP
+  value: -0.23
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS, GAAP
+  value: -0.18
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS, GAAP
+  value: 0.12
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS, GAAP
+  value: 0.09
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS, GAAP
+  value: 0.93
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Basic EPS, GAAP
+  value: 0.54
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Basic EPS from Cont Ops
+  value: -0.27
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Basic EPS from Cont Ops
+  value: -0.85
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Basic EPS from Cont Ops
+  value: -0.68
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS from Cont Ops
+  value: -0.63
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS from Cont Ops
+  value: -0.23
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS from Cont Ops
+  value: -0.18
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS from Cont Ops
+  value: 0.12
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS from Cont Ops
+  value: 0.09
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS from Cont Ops
+  value: 0.93
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Basic EPS from Cont Ops
+  value: 0.54
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Diluted Weighted Avg Shares
+  value: 396
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Diluted Weighted Avg Shares
+  value: 396
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Diluted Weighted Avg Shares
+  value: 396
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Diluted Weighted Avg Shares
+  value: 398
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Diluted Weighted Avg Shares
+  value: 407
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Diluted Weighted Avg Shares
+  value: 417
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Diluted Weighted Avg Shares
+  value: 428
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Diluted Weighted Avg Shares
+  value: 432
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Diluted Weighted Avg Shares
+  value: 431
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Diluted Weighted Avg Shares
+  value: 426
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Diluted EPS, GAAP
+  value: -0.27
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Diluted EPS, GAAP
+  value: -1.77
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS, GAAP
+  value: -0.68
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS, GAAP
+  value: -0.63
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS, GAAP
+  value: -0.23
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS, GAAP
+  value: -0.18
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS, GAAP
+  value: 0.12
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS, GAAP
+  value: 0.09
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS, GAAP
+  value: 0.91
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Diluted EPS, GAAP
+  value: 0.52
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2016
+  item: Diluted EPS from Cont Ops
+  value: -0.27
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2018
+  item: Diluted EPS from Cont Ops
+  value: -0.85
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2019
+  item: Diluted EPS from Cont Ops
+  value: -0.68
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS from Cont Ops
+  value: -0.63
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS from Cont Ops
+  value: -0.23
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS from Cont Ops
+  value: -0.18
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS from Cont Ops
+  value: 0.12
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS from Cont Ops
+  value: 0.09
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS from Cont Ops
+  value: 0.91
+- ticker: CHWY
+  statement: income
+  fiscalYear: 2026
+  item: Diluted EPS from Cont Ops
+  value: 0.52
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Total Current Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Total Current Assets
+  value: 433
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Assets
+  value: 449
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Assets
+  value: 630
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Assets
+  value: 1227
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Assets
+  value: 1324
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Assets
+  value: 1525
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Assets
+  value: 2104
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Assets
+  value: 1662
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Total Current Assets
+  value: 2036
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Cash, Cash Equivalents & STI
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Cash, Cash Equivalents & STI
+  value: 69
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash, Cash Equivalents & STI
+  value: 88
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash, Cash Equivalents & STI
+  value: 212
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash, Cash Equivalents & STI
+  value: 563
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash, Cash Equivalents & STI
+  value: 603
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash, Cash Equivalents & STI
+  value: 679
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash, Cash Equivalents & STI
+  value: 1134
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash, Cash Equivalents & STI
+  value: 597
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Cash, Cash Equivalents & STI
+  value: 879
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Cash & Cash Equivalents
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Cash & Cash Equivalents
+  value: 69
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Cash & Cash Equivalents
+  value: 88
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash & Cash Equivalents
+  value: 212
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash & Cash Equivalents
+  value: 563
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash & Cash Equivalents
+  value: 603
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash & Cash Equivalents
+  value: 332
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash & Cash Equivalents
+  value: 602
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash & Cash Equivalents
+  value: 596
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Cash & Cash Equivalents
+  value: 860
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + ST Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Investments
+  value: 347
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Investments
+  value: 532
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Investments
+  value: 1
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + ST Investments
+  value: 19
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Accounts & Notes Receiv
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts & Notes Receiv
+  value: 192
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts & Notes Receiv
+  value: 127
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts & Notes Receiv
+  value: 81
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts & Notes Receiv
+  value: 101
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts & Notes Receiv
+  value: 124
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts & Notes Receiv
+  value: 127
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts & Notes Receiv
+  value: 154
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts & Notes Receiv
+  value: 169
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Accounts & Notes Receiv
+  value: 222
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Accounts Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts Receivable, Net
+  value: 37
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Receivable, Net
+  value: 49
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Receivable, Net
+  value: 80
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Receivable, Net
+  value: 101
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Receivable, Net
+  value: 124
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Receivable, Net
+  value: 127
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Receivable, Net
+  value: 154
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Receivable, Net
+  value: 169
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Accounts Receivable, Net
+  value: 222
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Other Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Receivable, Net
+  value: 156
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Receivable, Net
+  value: 79
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Receivable, Net
+  value: 1
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Other Receivable, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Inventories
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Inventories
+  value: 166
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventories
+  value: 221
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventories
+  value: 318
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventories
+  value: 513
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventories
+  value: 560
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventories
+  value: 678
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventories
+  value: 719
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventories
+  value: 837
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Inventories
+  value: 865
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Raw Materials
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Raw Materials
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Raw Materials
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Raw Materials
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Raw Materials
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Raw Materials
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Raw Materials
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Raw Materials
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Raw Materials
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Raw Materials
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Work In Process
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Work In Process
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Work In Process
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Work In Process
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Work In Process
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Work In Process
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Work In Process
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Work In Process
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Work In Process
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Work In Process
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Finished Goods
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Finished Goods
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Finished Goods
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Finished Goods
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Finished Goods
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Finished Goods
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Finished Goods
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Finished Goods
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Finished Goods
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Finished Goods
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Inventory Adjustments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Inventory Adjustments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Inventory Adjustments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventory Adjustments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventory Adjustments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventory Adjustments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventory Adjustments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventory Adjustments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventory Adjustments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Inventory Adjustments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Other Inventory
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Inventory
+  value: 166
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Inventory
+  value: 221
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Inventory
+  value: 318
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Inventory
+  value: 513
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Inventory
+  value: 560
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Inventory
+  value: 678
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Inventory
+  value: 719
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Inventory
+  value: 837
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Other Inventory
+  value: 865
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Other ST Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Other ST Assets
+  value: 6
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Assets
+  value: 12
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Assets
+  value: 19
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Assets
+  value: 49
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Assets
+  value: 37
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Assets
+  value: 41
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Assets
+  value: 97
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Assets
+  value: 60
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Other ST Assets
+  value: 70
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Misc ST Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc ST Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Misc ST Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Prepaid Expenses
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Prepaid Expenses
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Prepaid Expenses
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Prepaid Expenses
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Prepaid Expenses
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Prepaid Expenses
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Prepaid Expenses
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Prepaid Expenses
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Prepaid Expenses
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Prepaid Expenses
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Total Noncurrent Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Total Noncurrent Assets
+  value: 71
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Assets
+  value: 93
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Assets
+  value: 303
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Assets
+  value: 514
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Assets
+  value: 763
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Assets
+  value: 995
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Assets
+  value: 1083
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Assets
+  value: 1352
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Total Noncurrent Assets
+  value: 1331
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Property, Plant & Equip, Net
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Property, Plant & Equip, Net
+  value: 68
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip, Net
+  value: 92
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip, Net
+  value: 298
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip, Net
+  value: 507
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip, Net
+  value: 740
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip, Net
+  value: 902
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip, Net
+  value: 996
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip, Net
+  value: 1013
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Property, Plant & Equip, Net
+  value: 1020
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Property, Plant & Equip
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Property, Plant & Equip
+  value: 88
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Property, Plant & Equip
+  value: 134
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip
+  value: 368
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip
+  value: 612
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip
+  value: 895
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip
+  value: 1133
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip
+  value: 1302
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip
+  value: 1425
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Property, Plant & Equip
+  value: 1549
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: '- Accumulated Depreciation'
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: '- Accumulated Depreciation'
+  value: 20
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: '- Accumulated Depreciation'
+  value: 42
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: '- Accumulated Depreciation'
+  value: 70
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: '- Accumulated Depreciation'
+  value: 104
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: '- Accumulated Depreciation'
+  value: 155
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: '- Accumulated Depreciation'
+  value: 231
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: '- Accumulated Depreciation'
+  value: 306
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: '- Accumulated Depreciation'
+  value: 412
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: '- Accumulated Depreciation'
+  value: 528
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + LT Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + LT Investments
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + LT Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + LT Receivables
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Other LT Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Other LT Assets
+  value: 3
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Assets
+  value: 1
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Assets
+  value: 5
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Assets
+  value: 7
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Assets
+  value: 23
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Assets
+  value: 93
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Assets
+  value: 87
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Assets
+  value: 340
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Other LT Assets
+  value: 310
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Total Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Total Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Total Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Total Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Total Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Total Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Total Intangible Assets
+  value: 39
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Total Intangible Assets
+  value: 39
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Total Intangible Assets
+  value: 39
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Total Intangible Assets
+  value: 39
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Goodwill
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Goodwill
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Goodwill
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Goodwill
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Goodwill
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Goodwill
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Goodwill
+  value: 39
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Goodwill
+  value: 39
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Goodwill
+  value: 39
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Goodwill
+  value: 39
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Other Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Other Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Misc LT Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc LT Assets
+  value: 3
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Assets
+  value: 1
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Assets
+  value: 5
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Assets
+  value: 7
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Assets
+  value: 23
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Assets
+  value: 53
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Assets
+  value: 47
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Assets
+  value: 300
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Misc LT Assets
+  value: 271
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Total Assets
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Total Assets
+  value: 503
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Total Assets
+  value: 542
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Total Assets
+  value: 932
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Total Assets
+  value: 1741
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Total Assets
+  value: 2086
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Total Assets
+  value: 2520
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Total Assets
+  value: 3187
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Total Assets
+  value: 3014
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Total Assets
+  value: 3366
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Payables & Accruals
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Payables & Accruals
+  value: 547
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Payables & Accruals
+  value: 814
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Payables & Accruals
+  value: 1101
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Payables & Accruals
+  value: 1381
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Payables & Accruals
+  value: 1645
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Payables & Accruals
+  value: 1828
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Payables & Accruals
+  value: 2111
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Payables & Accruals
+  value: 2207
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Payables & Accruals
+  value: 2302
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Accounts Payable
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Accounts Payable
+  value: 335
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Accounts Payable
+  value: 503
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Payable
+  value: 683
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Payable
+  value: 778
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Payable
+  value: 883
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Payable
+  value: 1033
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Payable
+  value: 1105
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Payable
+  value: 1176
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Accounts Payable
+  value: 1221
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Accrued Taxes
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Accrued Taxes
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Taxes
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Taxes
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Taxes
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Taxes
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Taxes
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Taxes
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Taxes
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Accrued Taxes
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Other Payables & Accruals
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Payables & Accruals
+  value: 211
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Payables & Accruals
+  value: 311
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Payables & Accruals
+  value: 417
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Payables & Accruals
+  value: 602
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Payables & Accruals
+  value: 762
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Payables & Accruals
+  value: 795
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Payables & Accruals
+  value: 1006
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Payables & Accruals
+  value: 1031
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Other Payables & Accruals
+  value: 1080
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + ST Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + ST Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + ST Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + ST Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + ST Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + ST Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + ST Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + ST Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Other ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Other ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Other ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Other ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Misc ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Misc ST Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Total Current Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Total Current Liabilities
+  value: 547
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Total Current Liabilities
+  value: 814
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Liabilities
+  value: 1101
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Liabilities
+  value: 1381
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Liabilities
+  value: 1645
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Liabilities
+  value: 1828
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Liabilities
+  value: 2111
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Liabilities
+  value: 2207
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Total Current Liabilities
+  value: 2302
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + LT Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Debt
+  value: 200
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Debt
+  value: 328
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Debt
+  value: 410
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Debt
+  value: 472
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Debt
+  value: 528
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Debt
+  value: 502
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + LT Debt
+  value: 519
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + LT Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + LT Borrowings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + LT Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + LT Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + LT Finance Leases
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Finance Leases
+  value: 200
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Finance Leases
+  value: 328
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Finance Leases
+  value: 410
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Finance Leases
+  value: 472
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Finance Leases
+  value: 528
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Finance Leases
+  value: 502
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + LT Finance Leases
+  value: 519
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Other LT Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Other LT Liabilities
+  value: 40
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Other LT Liabilities
+  value: 64
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Liabilities
+  value: 35
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Liabilities
+  value: 34
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Liabilities
+  value: 16
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Liabilities
+  value: 60
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Liabilities
+  value: 38
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Liabilities
+  value: 44
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Other LT Liabilities
+  value: 48
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Accrued Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Accrued Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Accrued Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Accrued Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Pension Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Pension Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Pension Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Pension Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Pension Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Pension Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Pension Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Pension Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Pension Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Pension Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Deferred Revenue
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Misc LT Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Misc LT Liabilities
+  value: 40
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Misc LT Liabilities
+  value: 64
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Liabilities
+  value: 35
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Liabilities
+  value: 34
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Liabilities
+  value: 16
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Liabilities
+  value: 60
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Liabilities
+  value: 38
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Liabilities
+  value: 44
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Misc LT Liabilities
+  value: 48
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Total Noncurrent Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Total Noncurrent Liabilities
+  value: 40
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Total Noncurrent Liabilities
+  value: 64
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Liabilities
+  value: 236
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Liabilities
+  value: 362
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Liabilities
+  value: 427
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Liabilities
+  value: 532
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Liabilities
+  value: 566
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Liabilities
+  value: 546
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Total Noncurrent Liabilities
+  value: 567
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Total Liabilities
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Total Liabilities
+  value: 587
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities
+  value: 878
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities
+  value: 1336
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities
+  value: 1743
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities
+  value: 2072
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities
+  value: 2360
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities
+  value: 2677
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities
+  value: 2753
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Total Liabilities
+  value: 2868
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Share Capital & APIC
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Share Capital & APIC
+  value: 1241
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Share Capital & APIC
+  value: 1256
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Share Capital & APIC
+  value: 1440
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Share Capital & APIC
+  value: 1935
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Share Capital & APIC
+  value: 2026
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Share Capital & APIC
+  value: 2176
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Share Capital & APIC
+  value: 2486
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Share Capital & APIC
+  value: 1844
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Share Capital & APIC
+  value: 1857
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Common Stock
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Common Stock
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Common Stock
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Common Stock
+  value: 4
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Common Stock
+  value: 4
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Common Stock
+  value: 4
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Common Stock
+  value: 4
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Common Stock
+  value: 4
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Common Stock
+  value: 4
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Common Stock
+  value: 4
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Additional Paid in Capital
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Additional Paid in Capital
+  value: 1241
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Additional Paid in Capital
+  value: 1256
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Additional Paid in Capital
+  value: 1436
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Additional Paid in Capital
+  value: 1931
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Additional Paid in Capital
+  value: 2021
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Additional Paid in Capital
+  value: 2171
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Additional Paid in Capital
+  value: 2482
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Additional Paid in Capital
+  value: 1840
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Additional Paid in Capital
+  value: 1853
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: '- Treasury Stock'
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: '- Treasury Stock'
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: '- Treasury Stock'
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: '- Treasury Stock'
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: '- Treasury Stock'
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: '- Treasury Stock'
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: '- Treasury Stock'
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: '- Treasury Stock'
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: '- Treasury Stock'
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: '- Treasury Stock'
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Retained Earnings
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Retained Earnings
+  value: -1324
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Retained Earnings
+  value: -1592
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Retained Earnings
+  value: -1844
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Retained Earnings
+  value: -1937
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Retained Earnings
+  value: -2011
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Retained Earnings
+  value: -2015
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Retained Earnings
+  value: -1976
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Retained Earnings
+  value: -1583
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Retained Earnings
+  value: -1360
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Other Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Other Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Other Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Other Equity
+  value: 1
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Equity Before Minority Interest
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Equity Before Minority Interest
+  value: -84
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Equity Before Minority Interest
+  value: -336
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Equity Before Minority Interest
+  value: -404
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Equity Before Minority Interest
+  value: -2
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Equity Before Minority Interest
+  value: 15
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Equity Before Minority Interest
+  value: 160
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Equity Before Minority Interest
+  value: 510
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Equity Before Minority Interest
+  value: 262
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Equity Before Minority Interest
+  value: 498
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Total Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Total Equity
+  value: -84
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Total Equity
+  value: -336
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Total Equity
+  value: -404
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Total Equity
+  value: -2
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Total Equity
+  value: 15
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Total Equity
+  value: 160
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Total Equity
+  value: 510
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Total Equity
+  value: 262
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Total Equity
+  value: 498
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Total Liabilities & Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Total Liabilities & Equity
+  value: 503
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Total Liabilities & Equity
+  value: 542
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities & Equity
+  value: 932
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities & Equity
+  value: 1741
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities & Equity
+  value: 2086
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities & Equity
+  value: 2520
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities & Equity
+  value: 3187
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities & Equity
+  value: 3014
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Total Liabilities & Equity
+  value: 3366
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Shares Outstanding
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Shares Outstanding
+  value: 399
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Shares Outstanding
+  value: 399
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Shares Outstanding
+  value: 401
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Shares Outstanding
+  value: 415
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Shares Outstanding
+  value: 420
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Shares Outstanding
+  value: 425
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Shares Outstanding
+  value: 432
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Shares Outstanding
+  value: 414
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Shares Outstanding
+  value: 415
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Number of Employees
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Number of Employees
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Number of Employees
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Number of Employees
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Number of Employees
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Number of Employees
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Number of Employees
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Number of Employees
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Number of Employees
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Number of Employees
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Capital Leases - Total
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Capital Leases - Total
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Capital Leases - Total
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Capital Leases - Total
+  value: 200
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Capital Leases - Total
+  value: 328
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Capital Leases - Total
+  value: 410
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Capital Leases - Total
+  value: 472
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Capital Leases - Total
+  value: 528
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Capital Leases - Total
+  value: 502
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Capital Leases - Total
+  value: 519
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Net Debt
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Net Debt
+  value: -69
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt
+  value: -88
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt
+  value: -212
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt
+  value: -563
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt
+  value: -603
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt
+  value: -332
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt
+  value: -602
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt
+  value: -596
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Net Debt
+  value: -860
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Net Debt to Equity
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Net Debt to Equity
+  value: 82.16
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Net Debt to Equity
+  value: 26.29
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt to Equity
+  value: 52.5
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt to Equity
+  value: 28111.03
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt to Equity
+  value: -4092.56
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt to Equity
+  value: -206.93
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt to Equity
+  value: -118.03
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt to Equity
+  value: -227.84
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Net Debt to Equity
+  value: -172.75
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Tangible Common Equity Ratio
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Tangible Common Equity Ratio
+  value: -16.63
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Tangible Common Equity Ratio
+  value: -62.03
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Tangible Common Equity Ratio
+  value: -43.33
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Tangible Common Equity Ratio
+  value: -0.12
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Tangible Common Equity Ratio
+  value: 0.71
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Tangible Common Equity Ratio
+  value: 4.87
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Tangible Common Equity Ratio
+  value: 14.96
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Tangible Common Equity Ratio
+  value: 7.47
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Tangible Common Equity Ratio
+  value: 13.78
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Current Ratio
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Current Ratio
+  value: 0.79
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Current Ratio
+  value: 0.55
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Current Ratio
+  value: 0.57
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Current Ratio
+  value: 0.89
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Current Ratio
+  value: 0.8
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Current Ratio
+  value: 0.83
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Current Ratio
+  value: 1
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Current Ratio
+  value: 0.75
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Current Ratio
+  value: 0.88
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2016
+  item: Cash Conversion Cycle
+  value: null
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2018
+  item: Cash Conversion Cycle
+  value: -11.56
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2019
+  item: Cash Conversion Cycle
+  value: -23.8
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2020
+  item: Cash Conversion Cycle
+  value: -25.55
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2021
+  item: Cash Conversion Cycle
+  value: -15.2
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2022
+  item: Cash Conversion Cycle
+  value: -11.41
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2023
+  item: Cash Conversion Cycle
+  value: -11.71
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2024
+  item: Cash Conversion Cycle
+  value: -12.08
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2025
+  item: Cash Conversion Cycle
+  value: -10.11
+- ticker: CHWY
+  statement: balance
+  fiscalYear: 2026
+  item: Cash Conversion Cycle
+  value: -8.53
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Net Income
+  value: -107
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Income
+  value: -338
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Income
+  value: -268
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Income
+  value: -252
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Income
+  value: -92
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Income
+  value: -75
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Income
+  value: 50
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Income
+  value: 40
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Income
+  value: 393
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Net Income
+  value: 223
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Depreciation & Amortization
+  value: 5
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Depreciation & Amortization
+  value: 13
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Depreciation & Amortization
+  value: 23
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Depreciation & Amortization
+  value: 31
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Depreciation & Amortization
+  value: 36
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Depreciation & Amortization
+  value: 55
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Depreciation & Amortization
+  value: 83
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Depreciation & Amortization
+  value: 110
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Depreciation & Amortization
+  value: 115
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Depreciation & Amortization
+  value: 129
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Non-Cash Items
+  value: 10
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Non-Cash Items
+  value: 19
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Non-Cash Items
+  value: 25
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Non-Cash Items
+  value: 156
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Non-Cash Items
+  value: 148
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Non-Cash Items
+  value: 111
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Non-Cash Items
+  value: 212
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Non-Cash Items
+  value: 267
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Non-Cash Items
+  value: 82
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Non-Cash Items
+  value: 375
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Stock-Based Compensation
+  value: 5
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Stock-Based Compensation
+  value: 11
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Stock-Based Compensation
+  value: 14
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Stock-Based Compensation
+  value: 135
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Stock-Based Compensation
+  value: 121
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Stock-Based Compensation
+  value: 78
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Stock-Based Compensation
+  value: 158
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Stock-Based Compensation
+  value: 239
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Stock-Based Compensation
+  value: 306
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Stock-Based Compensation
+  value: 298
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Deferred Income Taxes
+  value: -258
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Deferred Income Taxes
+  value: 29
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Asset Impairment Charge
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Asset Impairment Charge
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Asset Impairment Charge
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Asset Impairment Charge
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Asset Impairment Charge
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Asset Impairment Charge
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Asset Impairment Charge
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Asset Impairment Charge
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Asset Impairment Charge
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Asset Impairment Charge
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Other Non-Cash Adj
+  value: 4
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Non-Cash Adj
+  value: 8
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Non-Cash Adj
+  value: 11
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Non-Cash Adj
+  value: 21
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Non-Cash Adj
+  value: 26
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Non-Cash Adj
+  value: 34
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Non-Cash Adj
+  value: 54
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Non-Cash Adj
+  value: 28
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Non-Cash Adj
+  value: 34
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Other Non-Cash Adj
+  value: 48
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Chg in Non-Cash Work Cap
+  value: 100
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Chg in Non-Cash Work Cap
+  value: 227
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Chg in Non-Cash Work Cap
+  value: 206
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Chg in Non-Cash Work Cap
+  value: 113
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Chg in Non-Cash Work Cap
+  value: 42
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Chg in Non-Cash Work Cap
+  value: 100
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Chg in Non-Cash Work Cap
+  value: 5
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Chg in Non-Cash Work Cap
+  value: 70
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Chg in Non-Cash Work Cap
+  value: 6
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Chg in Non-Cash Work Cap
+  value: -35
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + (Inc) Dec in Accts Receiv
+  value: -8
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Accts Receiv
+  value: -20
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Accts Receiv
+  value: -12
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Accts Receiv
+  value: -32
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Accts Receiv
+  value: -20
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Accts Receiv
+  value: -21
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Accts Receiv
+  value: -3
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Accts Receiv
+  value: -27
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Accts Receiv
+  value: -15
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + (Inc) Dec in Accts Receiv
+  value: -53
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + (Inc) Dec in Inventories
+  value: -49
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Inventories
+  value: -69
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Inventories
+  value: -55
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Inventories
+  value: -97
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Inventories
+  value: -195
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Inventories
+  value: -42
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Inventories
+  value: -115
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Inventories
+  value: -41
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Inventories
+  value: -118
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + (Inc) Dec in Inventories
+  value: -28
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + (Inc) Dec in Prepaid Assets
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + (Inc) Dec in Prepaid Assets
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + (Inc) Dec in Prepaid Assets
+  value: -6
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Prepaid Assets
+  value: -10
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Prepaid Assets
+  value: -10
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Prepaid Assets
+  value: -7
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Prepaid Assets
+  value: -11
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Prepaid Assets
+  value: -50
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Prepaid Assets
+  value: -14
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + (Inc) Dec in Prepaid Assets
+  value: -22
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Inc (Dec) in Accts Payable
+  value: 159
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc (Dec) in Accts Payable
+  value: 290
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Accts Payable
+  value: 269
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Accts Payable
+  value: 261
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Accts Payable
+  value: 282
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Accts Payable
+  value: 213
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Accts Payable
+  value: 155
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Accts Payable
+  value: 224
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Accts Payable
+  value: 181
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Inc (Dec) in Accts Payable
+  value: 98
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Inc (Dec) in Other
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc (Dec) in Other
+  value: 26
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc (Dec) in Other
+  value: 9
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Other
+  value: -10
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Other
+  value: -15
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Other
+  value: -43
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Other
+  value: -22
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Other
+  value: -36
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Other
+  value: -27
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Inc (Dec) in Other
+  value: -31
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Cash from Operating Activities
+  value: 7
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Operating Activities
+  value: -80
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Operating Activities
+  value: -13
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Operating Activities
+  value: 47
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Operating Activities
+  value: 133
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Operating Activities
+  value: 192
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Operating Activities
+  value: 350
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Operating Activities
+  value: 486
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Operating Activities
+  value: 596
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Cash from Operating Activities
+  value: 692
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Acq of Fixed & Intang
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Acq of Fixed Prod Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash (Repurchase) of Equity
+  value: 110
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash (Repurchase) of Equity
+  value: 318
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash (Repurchase) of Equity
+  value: -943
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Cash (Repurchase) of Equity
+  value: -262
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Increase in Capital Stock
+  value: 110
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Increase in Capital Stock
+  value: 318
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Decrease in Capital Stock
+  value: -943
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Decrease in Capital Stock
+  value: -262
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Net Change in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Change in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Change in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Change in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Change in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Change in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Change in LT Investment
+  value: -344
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Change in LT Investment
+  value: -144
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Change in LT Investment
+  value: 538
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Net Change in LT Investment
+  value: -17
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Dec in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Dec in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dec in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dec in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dec in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dec in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dec in LT Investment
+  value: 200
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dec in LT Investment
+  value: 3078
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dec in LT Investment
+  value: 538
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Dec in LT Investment
+  value: 24
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Inc in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Inc in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Inc in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc in LT Investment
+  value: -544
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc in LT Investment
+  value: -3222
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc in LT Investment
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Inc in LT Investment
+  value: -41
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Acq & Div
+  value: -40
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Net Cash From Acq & Div
+  value: -5
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Cash from Divestitures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash from Divestitures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash from Divestitures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash from Divestitures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash from Divestitures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash from Divestitures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash from Divestitures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash from Divestitures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash from Divestitures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Cash from Divestitures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for Acq of Subs
+  value: -40
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Cash for Acq of Subs
+  value: -5
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Cash for JVs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash for JVs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash for JVs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for JVs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for JVs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for JVs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for JVs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for JVs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for JVs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Cash for JVs
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Other Investing Activities
+  value: -22
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Investing Activities
+  value: -196
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Investing Activities
+  value: 32
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Investing Activities
+  value: -50
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Investing Activities
+  value: -124
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Investing Activities
+  value: -193
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Investing Activities
+  value: -232
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Investing Activities
+  value: -143
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Investing Activities
+  value: -144
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Other Investing Activities
+  value: -129
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Cash from Investing Activities
+  value: -22
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Investing Activities
+  value: -196
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Investing Activities
+  value: 32
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Investing Activities
+  value: -50
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Investing Activities
+  value: -124
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Investing Activities
+  value: -193
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Investing Activities
+  value: -616
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Investing Activities
+  value: -287
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Investing Activities
+  value: 395
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Cash from Investing Activities
+  value: -152
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Dividends Paid
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Dividends Paid
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Dividends Paid
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dividends Paid
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dividends Paid
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dividends Paid
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dividends Paid
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dividends Paid
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dividends Paid
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Dividends Paid
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Net Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Debt
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Debt
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Debt
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Debt
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Net Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Cash From Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Repayments of Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Repayments of Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Repayments of Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Repayments of Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Repayments of Debt
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Repayments of Debt
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Repayments of Debt
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Repayments of Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Repayments of Debt
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Repayments of Debt
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Other Financing Activities
+  value: 75
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Other Financing Activities
+  value: 188
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Other Financing Activities
+  value: 1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Financing Activities
+  value: 17
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Financing Activities
+  value: 25
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Financing Activities
+  value: 42
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Financing Activities
+  value: -6
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Financing Activities
+  value: 72
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Financing Activities
+  value: -53
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Other Financing Activities
+  value: -13
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Cash from Financing Activities
+  value: 75
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash from Financing Activities
+  value: 188
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash from Financing Activities
+  value: 1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Financing Activities
+  value: 127
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Financing Activities
+  value: 342
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Financing Activities
+  value: 41
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Financing Activities
+  value: -7
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Financing Activities
+  value: 72
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Financing Activities
+  value: -997
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Cash from Financing Activities
+  value: -276
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Effect of Foreign Exchange Rates
+  value: -1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Net Changes in Cash
+  value: 60
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Net Changes in Cash
+  value: -88
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Changes in Cash
+  value: 20
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Changes in Cash
+  value: 124
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Changes in Cash
+  value: 351
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Changes in Cash
+  value: 40
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Changes in Cash
+  value: -272
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Changes in Cash
+  value: 270
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Changes in Cash
+  value: -6
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Net Changes in Cash
+  value: 264
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: EBITDA
+  value: -102
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: EBITDA
+  value: -325
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA
+  value: -245
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA
+  value: -222
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA
+  value: -55
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA
+  value: -18
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA
+  value: 140
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA
+  value: 86
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA
+  value: 227
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: EBITDA
+  value: 384
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: EBITDA Margin (%)
+  value: -11.37
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: EBITDA Margin (%)
+  value: -15.46
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: EBITDA Margin (%)
+  value: -6.92
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: -4.58
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -0.77
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -0.2
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 1.38
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 0.77
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 1.92
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: EBITDA Margin (%)
+  value: 3.04
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Free Cash Flow
+  value: 7
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow
+  value: -80
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow
+  value: -13
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow
+  value: 47
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow
+  value: 133
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow
+  value: 192
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow
+  value: 350
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow
+  value: 486
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow
+  value: 596
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Free Cash Flow
+  value: 692
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Cash Paid for Acquisitions
+  value: 40
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Net Cash Paid for Acquisitions
+  value: 5
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Firm
+  value: 352
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Firm
+  value: 489
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Free Cash Flow to Firm
+  value: 695
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Free Cash Flow to Equity
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow to Equity
+  value: -441
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow to Equity
+  value: -14
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Equity
+  value: 46
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Equity
+  value: 132
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Equity
+  value: 191
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Equity
+  value: 349
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Equity
+  value: 486
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Equity
+  value: 595
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Free Cash Flow to Equity
+  value: 691
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Free Cash Flow per Basic Share
+  value: 0.02
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Free Cash Flow per Basic Share
+  value: -0.2
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Free Cash Flow per Basic Share
+  value: -0.03
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow per Basic Share
+  value: 0.12
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow per Basic Share
+  value: 0.33
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow per Basic Share
+  value: 0.46
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow per Basic Share
+  value: 0.83
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow per Basic Share
+  value: 1.13
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow per Basic Share
+  value: 1.42
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Free Cash Flow per Basic Share
+  value: 1.67
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Price/Free Cash Flow
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Price/Free Cash Flow
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Price/Free Cash Flow
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Price/Free Cash Flow
+  value: 226.65
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Price/Free Cash Flow
+  value: 312.34
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Price/Free Cash Flow
+  value: 103.6
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Price/Free Cash Flow
+  value: 55.11
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Price/Free Cash Flow
+  value: 15.83
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Price/Free Cash Flow
+  value: 28.17
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Price/Free Cash Flow
+  value: 17.92
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Cash Flow to Net Income
+  value: -0.07
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Cash Flow to Net Income
+  value: 0.24
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Cash Flow to Net Income
+  value: 0.05
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash Flow to Net Income
+  value: -0.18
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash Flow to Net Income
+  value: -1.44
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash Flow to Net Income
+  value: -2.55
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash Flow to Net Income
+  value: 7.01
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash Flow to Net Income
+  value: 12.28
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash Flow to Net Income
+  value: 1.52
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Cash Flow to Net Income
+  value: 3.1
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2016
+  item: Capital Expenditures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2018
+  item: Capital Expenditures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2019
+  item: Capital Expenditures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2020
+  item: Capital Expenditures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2021
+  item: Capital Expenditures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2022
+  item: Capital Expenditures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2023
+  item: Capital Expenditures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2024
+  item: Capital Expenditures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2025
+  item: Capital Expenditures
+  value: null
+- ticker: CHWY
+  statement: cashflow
+  fiscalYear: 2026
+  item: Capital Expenditures
+  value: null
+

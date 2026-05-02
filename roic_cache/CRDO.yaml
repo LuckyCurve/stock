@@ -1,0 +1,5401 @@
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Sales/Revenue/Turnover
+  value: 54
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Sales/Revenue/Turnover
+  value: 59
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Sales/Revenue/Turnover
+  value: 106
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Sales/Revenue/Turnover
+  value: 184
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Sales/Revenue/Turnover
+  value: 193
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Sales/Revenue/Turnover
+  value: 437
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: + Sales & Services Revenue
+  value: 54
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: + Sales & Services Revenue
+  value: 59
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: + Sales & Services Revenue
+  value: 106
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: + Sales & Services Revenue
+  value: 184
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: + Sales & Services Revenue
+  value: 193
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: + Sales & Services Revenue
+  value: 437
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: '- Cost of Revenue'
+  value: 8
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: '- Cost of Revenue'
+  value: 20
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: '- Cost of Revenue'
+  value: 42
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: '- Cost of Revenue'
+  value: 78
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: '- Cost of Revenue'
+  value: 74
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: '- Cost of Revenue'
+  value: 154
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: + Cost of Goods & Services
+  value: 8
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: + Cost of Goods & Services
+  value: 20
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: + Cost of Goods & Services
+  value: 42
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: + Cost of Goods & Services
+  value: 78
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: + Cost of Goods & Services
+  value: 74
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: + Cost of Goods & Services
+  value: 154
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Gross Profit
+  value: 46
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Gross Profit
+  value: 38
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Gross Profit
+  value: 64
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Gross Profit
+  value: 106
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Gross Profit
+  value: 119
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Gross Profit
+  value: 283
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Income
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Income
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Income
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Income
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Income
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Income
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: '- Operating Expenses'
+  value: 44
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: '- Operating Expenses'
+  value: 64
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: '- Operating Expenses'
+  value: 83
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: '- Operating Expenses'
+  value: 125
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: '- Operating Expenses'
+  value: 156
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: '- Operating Expenses'
+  value: 245
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: + Selling, General & Admin
+  value: 16
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: + Selling, General & Admin
+  value: 29
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: + Selling, General & Admin
+  value: 35
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: + Selling, General & Admin
+  value: 48
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: + Selling, General & Admin
+  value: 60
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: + Selling, General & Admin
+  value: 99
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: + Research & Development
+  value: 28
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: + Research & Development
+  value: 35
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: + Research & Development
+  value: 48
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: + Research & Development
+  value: 77
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: + Research & Development
+  value: 96
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: + Research & Development
+  value: 146
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: + Other Operating Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: + Other Operating Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Operating Income (Loss)
+  value: 2
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Operating Income (Loss)
+  value: -25
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Operating Income (Loss)
+  value: -19
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Operating Income (Loss)
+  value: -19
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Operating Income (Loss)
+  value: -36
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Operating Income (Loss)
+  value: 38
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: '- Non-Operating (Income) Loss'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: '- Non-Operating (Income) Loss'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: '- Non-Operating (Income) Loss'
+  value: 3
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: '- Non-Operating (Income) Loss'
+  value: -1
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: '- Non-Operating (Income) Loss'
+  value: -14
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: '- Non-Operating (Income) Loss'
+  value: -17
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense, Net
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense, Net
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense, Net
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense, Net
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense, Net
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense, Net
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: + Interest Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: + Interest Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: '- Interest Income'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: '- Interest Income'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: '- Interest Income'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: '- Interest Income'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: '- Interest Income'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: '- Interest Income'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: + Other Non-Op (Income) Loss
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: + Other Non-Op (Income) Loss
+  value: 3
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: + Other Non-Op (Income) Loss
+  value: -1
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: + Other Non-Op (Income) Loss
+  value: -14
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: + Other Non-Op (Income) Loss
+  value: -17
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Pretax Income
+  value: 2
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Pretax Income
+  value: -25
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Pretax Income
+  value: -22
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Pretax Income
+  value: -18
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Pretax Income
+  value: -23
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Pretax Income
+  value: 55
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: '- Income Tax Expense (Benefit)'
+  value: 1
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: '- Income Tax Expense (Benefit)'
+  value: 2
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: '- Income Tax Expense (Benefit)'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: '- Income Tax Expense (Benefit)'
+  value: -1
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: '- Income Tax Expense (Benefit)'
+  value: 6
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: '- Income Tax Expense (Benefit)'
+  value: 3
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) from Cont Ops
+  value: 1
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) from Cont Ops
+  value: -28
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) from Cont Ops
+  value: -22
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) from Cont Ops
+  value: -17
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) from Cont Ops
+  value: -28
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) from Cont Ops
+  value: 52
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: '- Net Extraordinary Losses (Gains)'
+  value: 3
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: + Discontinued Operations
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: + Discontinued Operations
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: + Discontinued Operations
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: + Discontinued Operations
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: + Discontinued Operations
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: + Discontinued Operations
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: + Extraord. & Accounting Changes
+  value: 3
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Income (Loss) Incl. MI
+  value: -1
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Income (Loss) Incl. MI
+  value: -28
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) Incl. MI
+  value: -22
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) Incl. MI
+  value: -17
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) Incl. MI
+  value: -28
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) Incl. MI
+  value: 52
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: '- Minority Interest'
+  value: -1
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: '- Minority Interest'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: '- Minority Interest'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: '- Minority Interest'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: '- Minority Interest'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: '- Minority Interest'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Net Income, GAAP
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Net Income, GAAP
+  value: -28
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Net Income, GAAP
+  value: -22
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Net Income, GAAP
+  value: -17
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Net Income, GAAP
+  value: -28
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Net Income, GAAP
+  value: 52
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: '- Preferred Dividends'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: '- Other Adjustments'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: '- Other Adjustments'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: '- Other Adjustments'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: '- Other Adjustments'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: '- Other Adjustments'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: '- Other Adjustments'
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Net Income Avail to Common, GAAP
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Net Income Avail to Common, GAAP
+  value: -28
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Net Income Avail to Common, GAAP
+  value: -22
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Net Income Avail to Common, GAAP
+  value: -17
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Net Income Avail to Common, GAAP
+  value: -28
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Net Income Avail to Common, GAAP
+  value: 52
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: EBIT
+  value: 2
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: EBIT
+  value: -25
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: EBIT
+  value: -19
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: EBIT
+  value: -19
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: EBIT
+  value: -36
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: EBIT
+  value: 38
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA
+  value: 4
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA
+  value: -23
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA
+  value: -14
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA
+  value: -9
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA
+  value: -23
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA
+  value: 60
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: 7.21
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -39.21
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -13.19
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: -5.06
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: -11.67
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 13.72
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: EBITA
+  value: 2
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: EBITA
+  value: -25
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: EBITA
+  value: -19
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: EBITA
+  value: -19
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: EBITA
+  value: -36
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: EBITA
+  value: 38
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Gross Margin (%)
+  value: 85.64
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Gross Margin (%)
+  value: 65.21
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Gross Margin (%)
+  value: 60.12
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Gross Margin (%)
+  value: 57.65
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Gross Margin (%)
+  value: 61.89
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Gross Margin (%)
+  value: 64.77
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Operating Margin (%)
+  value: 3.85
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Operating Margin (%)
+  value: -42.99
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Operating Margin (%)
+  value: -17.69
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Operating Margin (%)
+  value: -10.22
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Operating Margin (%)
+  value: -18.81
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Operating Margin (%)
+  value: 8.7
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Profit Margin (%)
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Profit Margin (%)
+  value: -46.87
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Profit Margin (%)
+  value: -20.83
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Profit Margin (%)
+  value: -8.98
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Profit Margin (%)
+  value: -14.7
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Profit Margin (%)
+  value: 11.95
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Sales per Employee
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Sales per Employee
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Sales per Employee
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Sales per Employee
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Sales per Employee
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Sales per Employee
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Dividend per Share
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Dividend per Share
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Dividend per Share
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Dividend per Share
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Dividend per Share
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Dividend per Share
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Depreciation Expense
+  value: 2
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Depreciation Expense
+  value: 2
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Depreciation Expense
+  value: 5
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Depreciation Expense
+  value: 10
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Depreciation Expense
+  value: 14
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Depreciation Expense
+  value: 22
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Basic Weighted Avg Shares
+  value: 140
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Basic Weighted Avg Shares
+  value: 140
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Basic Weighted Avg Shares
+  value: 88
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Basic Weighted Avg Shares
+  value: 147
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Basic Weighted Avg Shares
+  value: 155
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Basic Weighted Avg Shares
+  value: 168
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS, GAAP
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS, GAAP
+  value: -0.2
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS, GAAP
+  value: -0.25
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS, GAAP
+  value: -0.11
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS, GAAP
+  value: -0.18
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS, GAAP
+  value: 0.31
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Basic EPS from Cont Ops
+  value: 0.01
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Basic EPS from Cont Ops
+  value: -0.2
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS from Cont Ops
+  value: -0.25
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS from Cont Ops
+  value: -0.11
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS from Cont Ops
+  value: -0.18
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS from Cont Ops
+  value: 0.31
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Diluted Weighted Avg Shares
+  value: 140
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Diluted Weighted Avg Shares
+  value: 140
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Diluted Weighted Avg Shares
+  value: 88
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Diluted Weighted Avg Shares
+  value: 147
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Diluted Weighted Avg Shares
+  value: 155
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Diluted Weighted Avg Shares
+  value: 181
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS, GAAP
+  value: null
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS, GAAP
+  value: -0.2
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS, GAAP
+  value: -0.25
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS, GAAP
+  value: -0.11
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS, GAAP
+  value: -0.18
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS, GAAP
+  value: 0.29
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2020
+  item: Diluted EPS from Cont Ops
+  value: 0.01
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2021
+  item: Diluted EPS from Cont Ops
+  value: -0.2
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS from Cont Ops
+  value: -0.25
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS from Cont Ops
+  value: -0.11
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS from Cont Ops
+  value: -0.18
+- ticker: CRDO
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS from Cont Ops
+  value: 0.29
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Assets
+  value: 96
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Assets
+  value: 138
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Assets
+  value: 332
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Assets
+  value: 328
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Assets
+  value: 530
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Assets
+  value: 714
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash, Cash Equivalents & STI
+  value: 74
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash, Cash Equivalents & STI
+  value: 104
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash, Cash Equivalents & STI
+  value: 259
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash, Cash Equivalents & STI
+  value: 218
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash, Cash Equivalents & STI
+  value: 410
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash, Cash Equivalents & STI
+  value: 431
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Cash & Cash Equivalents
+  value: 74
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Cash & Cash Equivalents
+  value: 104
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash & Cash Equivalents
+  value: 259
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash & Cash Equivalents
+  value: 109
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash & Cash Equivalents
+  value: 67
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash & Cash Equivalents
+  value: 236
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Investments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Investments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Investments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Investments
+  value: 109
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Investments
+  value: 343
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Investments
+  value: 195
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts & Notes Receiv
+  value: 18
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts & Notes Receiv
+  value: 18
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts & Notes Receiv
+  value: 40
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts & Notes Receiv
+  value: 59
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts & Notes Receiv
+  value: 60
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts & Notes Receiv
+  value: 162
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Receivable, Net
+  value: 14
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Receivable, Net
+  value: 14
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Receivable, Net
+  value: 30
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Receivable, Net
+  value: 50
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Receivable, Net
+  value: 60
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Receivable, Net
+  value: 162
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Notes Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Loans Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Receivable, Net
+  value: 4
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Receivable, Net
+  value: 5
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Receivable, Net
+  value: 10
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Receivable, Net
+  value: 9
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Receivable, Net
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventories
+  value: 2
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventories
+  value: 7
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventories
+  value: 27
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventories
+  value: 46
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventories
+  value: 26
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventories
+  value: 90
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Raw Materials
+  value: 1
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Raw Materials
+  value: 2
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Raw Materials
+  value: 12
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Raw Materials
+  value: 17
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Raw Materials
+  value: 9
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Raw Materials
+  value: 13
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Work In Process
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Work In Process
+  value: 2
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Work In Process
+  value: 10
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Work In Process
+  value: 7
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Work In Process
+  value: 7
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Work In Process
+  value: 25
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Finished Goods
+  value: 1
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Finished Goods
+  value: 3
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Finished Goods
+  value: 5
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Finished Goods
+  value: 21
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Finished Goods
+  value: 9
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Finished Goods
+  value: 53
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Inventory Adjustments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Inventory Adjustments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventory Adjustments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventory Adjustments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventory Adjustments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventory Adjustments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Inventory
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Inventory
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Inventory
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Inventory
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Inventory
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Inventory
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Assets
+  value: 2
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Assets
+  value: 9
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Assets
+  value: 6
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Assets
+  value: 5
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Assets
+  value: 35
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Assets
+  value: 30
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Prepaid Expenses
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Prepaid Expenses
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Prepaid Expenses
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Prepaid Expenses
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Prepaid Expenses
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Prepaid Expenses
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Assets
+  value: 12
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Assets
+  value: 18
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Assets
+  value: 44
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Assets
+  value: 69
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Assets
+  value: 72
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Assets
+  value: 96
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip, Net
+  value: 11
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip, Net
+  value: 14
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip, Net
+  value: 39
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip, Net
+  value: 55
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip, Net
+  value: 57
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip, Net
+  value: 79
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Property, Plant & Equip
+  value: 14
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Property, Plant & Equip
+  value: 20
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip
+  value: 49
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip
+  value: 73
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip
+  value: 85
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip
+  value: 123
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: '- Accumulated Depreciation'
+  value: 4
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: '- Accumulated Depreciation'
+  value: 6
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: '- Accumulated Depreciation'
+  value: 10
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: '- Accumulated Depreciation'
+  value: 18
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: '- Accumulated Depreciation'
+  value: 29
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: '- Accumulated Depreciation'
+  value: 44
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments & Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Investments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Investments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Receivables
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Assets
+  value: 2
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Assets
+  value: 3
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Assets
+  value: 5
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Assets
+  value: 14
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Assets
+  value: 15
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Assets
+  value: 17
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Total Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Total Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Total Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Total Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Total Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Total Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Goodwill
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Goodwill
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Goodwill
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Goodwill
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Goodwill
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Goodwill
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Assets
+  value: 2
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Assets
+  value: 3
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Assets
+  value: 5
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Assets
+  value: 14
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Assets
+  value: 15
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Assets
+  value: 17
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Total Assets
+  value: 108
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Total Assets
+  value: 155
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Total Assets
+  value: 376
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Total Assets
+  value: 397
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Total Assets
+  value: 602
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Total Assets
+  value: 809
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Payables & Accruals
+  value: 5
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Payables & Accruals
+  value: 7
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Payables & Accruals
+  value: 18
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Payables & Accruals
+  value: 18
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Payables & Accruals
+  value: 29
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Payables & Accruals
+  value: 87
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Accounts Payable
+  value: 2
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Accounts Payable
+  value: 4
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Payable
+  value: 8
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Payable
+  value: 6
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Payable
+  value: 13
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Payable
+  value: 56
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Taxes
+  value: 1
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Taxes
+  value: 1
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Taxes
+  value: 1
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Taxes
+  value: 1
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Taxes
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Taxes
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Payables & Accruals
+  value: 1
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Payables & Accruals
+  value: 3
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Payables & Accruals
+  value: 8
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Payables & Accruals
+  value: 11
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Payables & Accruals
+  value: 16
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Payables & Accruals
+  value: 31
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Debt
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Debt
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Debt
+  value: 2
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Debt
+  value: 3
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Debt
+  value: 3
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Debt
+  value: 3
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + ST Finance Leases
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + ST Finance Leases
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Finance Leases
+  value: 2
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Finance Leases
+  value: 3
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Finance Leases
+  value: 3
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Finance Leases
+  value: 3
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Other ST Liabilities
+  value: 14
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Other ST Liabilities
+  value: 6
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Liabilities
+  value: 6
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Liabilities
+  value: 11
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Liabilities
+  value: 13
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Liabilities
+  value: 17
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: 5
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: 4
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: 1
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: 4
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: 4
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc ST Liabilities
+  value: 9
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc ST Liabilities
+  value: 2
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Liabilities
+  value: 5
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Liabilities
+  value: 6
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Liabilities
+  value: 9
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Liabilities
+  value: 17
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Total Current Liabilities
+  value: 19
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Total Current Liabilities
+  value: 13
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Liabilities
+  value: 26
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Liabilities
+  value: 31
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Liabilities
+  value: 45
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Liabilities
+  value: 108
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Debt
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Debt
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Debt
+  value: 15
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Debt
+  value: 13
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Debt
+  value: 11
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Debt
+  value: 13
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Borrowings
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + LT Finance Leases
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + LT Finance Leases
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Finance Leases
+  value: 15
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Finance Leases
+  value: 13
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Finance Leases
+  value: 11
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Finance Leases
+  value: 13
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Other LT Liabilities
+  value: 99
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Other LT Liabilities
+  value: 198
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Liabilities
+  value: 6
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Liabilities
+  value: 6
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Liabilities
+  value: 7
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Accrued Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Accrued Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Pension Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Pension Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Pension Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Pension Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Pension Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Pension Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Revenue
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Revenue
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Misc LT Liabilities
+  value: 99
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Misc LT Liabilities
+  value: 198
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Liabilities
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Liabilities
+  value: 5
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Liabilities
+  value: 6
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Liabilities
+  value: 7
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Total Noncurrent Liabilities
+  value: 99
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Total Noncurrent Liabilities
+  value: 198
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Liabilities
+  value: 15
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Liabilities
+  value: 19
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Liabilities
+  value: 17
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Liabilities
+  value: 20
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities
+  value: 117
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities
+  value: 211
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities
+  value: 42
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities
+  value: 50
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities
+  value: 62
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities
+  value: 128
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Share Capital & APIC
+  value: 10
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Share Capital & APIC
+  value: 13
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Share Capital & APIC
+  value: 425
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Share Capital & APIC
+  value: 455
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Share Capital & APIC
+  value: 676
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Share Capital & APIC
+  value: 765
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Common Stock
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Common Stock
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Common Stock
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Common Stock
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Common Stock
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Common Stock
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Additional Paid in Capital
+  value: 10
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Additional Paid in Capital
+  value: 13
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Additional Paid in Capital
+  value: 425
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Additional Paid in Capital
+  value: 455
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Additional Paid in Capital
+  value: 676
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Additional Paid in Capital
+  value: 765
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: '- Treasury Stock'
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: '- Treasury Stock'
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: '- Treasury Stock'
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: '- Treasury Stock'
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: '- Treasury Stock'
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: '- Treasury Stock'
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Retained Earnings
+  value: -19
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Retained Earnings
+  value: -68
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Retained Earnings
+  value: -90
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Retained Earnings
+  value: -107
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Retained Earnings
+  value: -135
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Retained Earnings
+  value: -83
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Other Equity
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Other Equity
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Equity
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Equity
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Equity
+  value: -1
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Equity
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Equity Before Minority Interest
+  value: -9
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Equity Before Minority Interest
+  value: -55
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Equity Before Minority Interest
+  value: 334
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Equity Before Minority Interest
+  value: 348
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Equity Before Minority Interest
+  value: 540
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Equity Before Minority Interest
+  value: 682
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Total Equity
+  value: -9
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Total Equity
+  value: -55
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Total Equity
+  value: 334
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Total Equity
+  value: 348
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Total Equity
+  value: 540
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Total Equity
+  value: 682
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Total Liabilities & Equity
+  value: 108
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Total Liabilities & Equity
+  value: 155
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities & Equity
+  value: 376
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities & Equity
+  value: 397
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities & Equity
+  value: 602
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities & Equity
+  value: 809
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Shares Outstanding
+  value: 145
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Shares Outstanding
+  value: 145
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Shares Outstanding
+  value: 145
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Shares Outstanding
+  value: 149
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Shares Outstanding
+  value: 164
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Shares Outstanding
+  value: 171
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Number of Employees
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Number of Employees
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Number of Employees
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Number of Employees
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Number of Employees
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Number of Employees
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Capital Leases - Total
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Capital Leases - Total
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Capital Leases - Total
+  value: 17
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Capital Leases - Total
+  value: 15
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Capital Leases - Total
+  value: 14
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Capital Leases - Total
+  value: 16
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt
+  value: -74
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt
+  value: -104
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt
+  value: -259
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt
+  value: -109
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt
+  value: -67
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt
+  value: -236
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Net Debt to Equity
+  value: 785.59
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Net Debt to Equity
+  value: 187.18
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt to Equity
+  value: -77.6
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt to Equity
+  value: -31.23
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt to Equity
+  value: -12.39
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt to Equity
+  value: -34.67
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Tangible Common Equity Ratio
+  value: -8.71
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Tangible Common Equity Ratio
+  value: -35.65
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Tangible Common Equity Ratio
+  value: 88.95
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Tangible Common Equity Ratio
+  value: 87.5
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Tangible Common Equity Ratio
+  value: 89.74
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Tangible Common Equity Ratio
+  value: 84.22
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Current Ratio
+  value: 5.16
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Current Ratio
+  value: 11
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Current Ratio
+  value: 12.54
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Current Ratio
+  value: 10.58
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Current Ratio
+  value: 11.88
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Current Ratio
+  value: 6.62
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2020
+  item: Cash Conversion Cycle
+  value: null
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2021
+  item: Cash Conversion Cycle
+  value: 127.13
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2022
+  item: Cash Conversion Cycle
+  value: 186.86
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2023
+  item: Cash Conversion Cycle
+  value: 222.51
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2024
+  item: Cash Conversion Cycle
+  value: 215.23
+- ticker: CRDO
+  statement: balance
+  fiscalYear: 2025
+  item: Cash Conversion Cycle
+  value: 171.94
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Income
+  value: 1
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Income
+  value: -28
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Income
+  value: -22
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Income
+  value: -17
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Income
+  value: -28
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Income
+  value: 52
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Depreciation & Amortization
+  value: 2
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Depreciation & Amortization
+  value: 2
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Depreciation & Amortization
+  value: 5
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Depreciation & Amortization
+  value: 10
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Depreciation & Amortization
+  value: 14
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Depreciation & Amortization
+  value: 22
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Non-Cash Items
+  value: 1
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Non-Cash Items
+  value: 4
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Non-Cash Items
+  value: 16
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Non-Cash Items
+  value: 33
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Non-Cash Items
+  value: 48
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Non-Cash Items
+  value: 99
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Stock-Based Compensation
+  value: 1
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Stock-Based Compensation
+  value: 3
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Stock-Based Compensation
+  value: 9
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Stock-Based Compensation
+  value: 24
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Stock-Based Compensation
+  value: 39
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Stock-Based Compensation
+  value: 77
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Deferred Income Taxes
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Asset Impairment Charge
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Asset Impairment Charge
+  value: 2
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Asset Impairment Charge
+  value: 6
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Asset Impairment Charge
+  value: 8
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Asset Impairment Charge
+  value: 5
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Asset Impairment Charge
+  value: 9
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Non-Cash Adj
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Non-Cash Adj
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Non-Cash Adj
+  value: 1
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Non-Cash Adj
+  value: 1
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Non-Cash Adj
+  value: 4
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Non-Cash Adj
+  value: 13
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Chg in Non-Cash Work Cap
+  value: -15
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Chg in Non-Cash Work Cap
+  value: -21
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Chg in Non-Cash Work Cap
+  value: -30
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Chg in Non-Cash Work Cap
+  value: -50
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Chg in Non-Cash Work Cap
+  value: -1
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Chg in Non-Cash Work Cap
+  value: -108
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Accts Receiv
+  value: -11
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Accts Receiv
+  value: -2
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Accts Receiv
+  value: -21
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Accts Receiv
+  value: -20
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Accts Receiv
+  value: -10
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Accts Receiv
+  value: -102
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Inventories
+  value: 1
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Inventories
+  value: -7
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Inventories
+  value: -22
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Inventories
+  value: -24
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Inventories
+  value: 16
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Inventories
+  value: -70
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + (Inc) Dec in Prepaid Assets
+  value: -7
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Prepaid Assets
+  value: 3
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Prepaid Assets
+  value: 1
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Prepaid Assets
+  value: -8
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Accts Payable
+  value: 10
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Accts Payable
+  value: -6
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Accts Payable
+  value: 14
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Accts Payable
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Accts Payable
+  value: 14
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Accts Payable
+  value: 58
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc (Dec) in Other
+  value: -16
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc (Dec) in Other
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Other
+  value: -5
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Other
+  value: -6
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Other
+  value: -13
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Other
+  value: 7
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Operating Activities
+  value: -10
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Operating Activities
+  value: -42
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Operating Activities
+  value: -31
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Operating Activities
+  value: -25
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Operating Activities
+  value: 33
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Operating Activities
+  value: 65
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed & Intang
+  value: -9
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed & Intang
+  value: -6
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed & Intang
+  value: -18
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed & Intang
+  value: -22
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed & Intang
+  value: -16
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed & Intang
+  value: -36
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Fixed Prod Assets
+  value: -9
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Fixed Prod Assets
+  value: -6
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed Prod Assets
+  value: -18
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed Prod Assets
+  value: -22
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed Prod Assets
+  value: -16
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed Prod Assets
+  value: -36
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash (Repurchase) of Equity
+  value: -23
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash (Repurchase) of Equity
+  value: 194
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash (Repurchase) of Equity
+  value: 173
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Increase in Capital Stock
+  value: 194
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Increase in Capital Stock
+  value: 173
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Increase in Capital Stock
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Decrease in Capital Stock
+  value: -23
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Change in LT Investment
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Change in LT Investment
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Change in LT Investment
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Change in LT Investment
+  value: -109
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Change in LT Investment
+  value: -234
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Change in LT Investment
+  value: 148
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dec in LT Investment
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dec in LT Investment
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dec in LT Investment
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dec in LT Investment
+  value: 50
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dec in LT Investment
+  value: 170
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dec in LT Investment
+  value: 407
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Inc in LT Investment
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Inc in LT Investment
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc in LT Investment
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc in LT Investment
+  value: -159
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc in LT Investment
+  value: -404
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc in LT Investment
+  value: -259
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Acq & Div
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash from Divestitures
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash from Divestitures
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash from Divestitures
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash from Divestitures
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash from Divestitures
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash from Divestitures
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash for JVs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash for JVs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for JVs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for JVs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for JVs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for JVs
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Investing Activities
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Investing Activities
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Investing Activities
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Investing Activities
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Investing Activities
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Investing Activities
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Investing Activities
+  value: -9
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Investing Activities
+  value: -6
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Investing Activities
+  value: -18
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Investing Activities
+  value: -131
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Investing Activities
+  value: -249
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Investing Activities
+  value: 112
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Dividends Paid
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Dividends Paid
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dividends Paid
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dividends Paid
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dividends Paid
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dividends Paid
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash From Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Repayments of Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Repayments of Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Repayments of Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Repayments of Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Repayments of Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Repayments of Debt
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Other Financing Activities
+  value: 61
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Other Financing Activities
+  value: 101
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Financing Activities
+  value: 10
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Financing Activities
+  value: 5
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Financing Activities
+  value: 2
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Financing Activities
+  value: -8
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash from Financing Activities
+  value: 61
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash from Financing Activities
+  value: 78
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Financing Activities
+  value: 204
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Financing Activities
+  value: 5
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Financing Activities
+  value: 175
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Financing Activities
+  value: -8
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Effect of Foreign Exchange Rates
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Changes in Cash
+  value: 42
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Changes in Cash
+  value: 29
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Changes in Cash
+  value: 156
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Changes in Cash
+  value: -151
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Changes in Cash
+  value: -41
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Changes in Cash
+  value: 169
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA
+  value: 4
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA
+  value: -23
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA
+  value: -14
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA
+  value: -9
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA
+  value: -23
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA
+  value: 60
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: EBITDA Margin (%)
+  value: 7.21
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: EBITDA Margin (%)
+  value: -39.21
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: -13.19
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: -5.06
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: -11.67
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 13.72
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow
+  value: -19
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow
+  value: -48
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow
+  value: -48
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow
+  value: -46
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow
+  value: 17
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow
+  value: 29
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Cash Paid for Acquisitions
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Firm
+  value: -19
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Firm
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Firm
+  value: 29
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow to Equity
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow to Equity
+  value: -48
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Equity
+  value: -48
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Equity
+  value: -46
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Equity
+  value: 17
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Equity
+  value: 29
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Free Cash Flow per Basic Share
+  value: -0.14
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Free Cash Flow per Basic Share
+  value: -0.35
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow per Basic Share
+  value: -0.55
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow per Basic Share
+  value: -0.31
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow per Basic Share
+  value: 0.11
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow per Basic Share
+  value: 0.17
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Price/Free Cash Flow
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Price/Free Cash Flow
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Price/Free Cash Flow
+  value: -73.64
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Price/Free Cash Flow
+  value: -411.22
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Price/Free Cash Flow
+  value: 57.27
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Price/Free Cash Flow
+  value: 77.11
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Cash Flow to Net Income
+  value: null
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Cash Flow to Net Income
+  value: 1.54
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash Flow to Net Income
+  value: 1.39
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash Flow to Net Income
+  value: 1.49
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash Flow to Net Income
+  value: -1.15
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash Flow to Net Income
+  value: 1.25
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2020
+  item: Capital Expenditures
+  value: -9
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2021
+  item: Capital Expenditures
+  value: -6
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2022
+  item: Capital Expenditures
+  value: -18
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2023
+  item: Capital Expenditures
+  value: -22
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2024
+  item: Capital Expenditures
+  value: -16
+- ticker: CRDO
+  statement: cashflow
+  fiscalYear: 2025
+  item: Capital Expenditures
+  value: -36
+
