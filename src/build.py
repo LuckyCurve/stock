@@ -41,34 +41,69 @@ def main():
     with open(template_path, 'r', encoding='utf-8') as f:
         template = f.read()
 
-    # Download ECharts if not cached
-    echarts_path = os.path.join(script_dir, '.cache', 'echarts.min.js')
+    # Download assets helper
+    cache_dir_assets = os.path.join(script_dir, '.cache')
+    os.makedirs(cache_dir_assets, exist_ok=True)
+
+    def download_asset(name, url, cache_path):
+        if not os.path.exists(cache_path) or os.path.getsize(cache_path) == 0:
+            print(f'Downloading {name} from CDN...', file=sys.stderr)
+            try:
+                import urllib.request
+                urllib.request.urlretrieve(url, cache_path)
+                print(f'Downloaded: {os.path.getsize(cache_path)} bytes', file=sys.stderr)
+            except Exception as e:
+                print(f'WARNING: {name} download failed: {e}', file=sys.stderr)
+                if os.path.exists(cache_path):
+                    os.remove(cache_path)
+
+    def inline_or_cdn(name, cache_path, url, wrap='script'):
+        if os.path.exists(cache_path) and os.path.getsize(cache_path) > 0:
+            with open(cache_path, 'r', encoding='utf-8') as f:
+                content = f.read()
+            print(f'{name} inline: {os.path.getsize(cache_path)} bytes', file=sys.stderr)
+            if wrap == 'script':
+                return '<script>' + content + '</script>'
+            elif wrap == 'style':
+                return '<style>' + content + '</style>'
+        print(f'{name} via CDN (download failed)', file=sys.stderr)
+        if wrap == 'script':
+            return '<script src="' + url + '"></script>'
+        elif wrap == 'style':
+            return '<link rel="stylesheet" href="' + url + '">'
+        return ''
+
+    # ECharts
+    echarts_path = os.path.join(cache_dir_assets, 'echarts.min.js')
     echarts_url = 'https://cdn.jsdelivr.net/npm/echarts@5/dist/echarts.min.js'
-    os.makedirs(os.path.dirname(echarts_path), exist_ok=True)
+    download_asset('ECharts', echarts_url, echarts_path)
+    echarts_script = inline_or_cdn('ECharts', echarts_path, echarts_url, 'script')
 
-    if not os.path.exists(echarts_path) or os.path.getsize(echarts_path) == 0:
-        print('Downloading ECharts from CDN...', file=sys.stderr)
-        try:
-            import urllib.request
-            urllib.request.urlretrieve(echarts_url, echarts_path)
-            print(f'Downloaded: {os.path.getsize(echarts_path)} bytes', file=sys.stderr)
-        except Exception as e:
-            print(f'WARNING: ECharts download failed: {e}', file=sys.stderr)
-            if os.path.exists(echarts_path):
-                os.remove(echarts_path)
+    # Popper.js
+    popper_path = os.path.join(cache_dir_assets, 'popper.min.js')
+    popper_url = 'https://cdn.jsdelivr.net/npm/@popperjs/core@2/dist/umd/popper.min.js'
+    download_asset('Popper.js', popper_url, popper_path)
+    popper_script = inline_or_cdn('Popper.js', popper_path, popper_url, 'script')
 
-    if os.path.exists(echarts_path) and os.path.getsize(echarts_path) > 0:
-        with open(echarts_path, 'r', encoding='utf-8') as f:
-            echarts_js = f.read()
-        echarts_script = '<script>' + echarts_js + '</script>'
-        print(f'ECharts inline: {os.path.getsize(echarts_path)} bytes', file=sys.stderr)
-    else:
-        echarts_script = '<script src="' + echarts_url + '"></script>'
-        print('ECharts via CDN (download failed)', file=sys.stderr)
+    # Tippy.js
+    tippy_path = os.path.join(cache_dir_assets, 'tippy-bundle.umd.min.js')
+    tippy_url = 'https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy-bundle.umd.min.js'
+    download_asset('Tippy.js', tippy_url, tippy_path)
+    tippy_script = inline_or_cdn('Tippy.js', tippy_path, tippy_url, 'script')
+
+    # Tippy CSS
+    tippy_css_path = os.path.join(cache_dir_assets, 'tippy.css')
+    tippy_css_url = 'https://cdn.jsdelivr.net/npm/tippy.js@6/dist/tippy.css'
+    download_asset('Tippy CSS', tippy_css_url, tippy_css_path)
+    tippy_css = inline_or_cdn('Tippy CSS', tippy_css_path, tippy_css_url, 'style')
+
+    tippy_scripts = popper_script + tippy_script
 
     # Replace placeholders and write output
     html = template.replace('{{{DATA}}}', data_json)
     html = html.replace('{{{ECHARTS_SCRIPT}}}', echarts_script)
+    html = html.replace('{{{TIPPY_SCRIPTS}}}', tippy_scripts)
+    html = html.replace('{{{TIPPY_CSS}}}', tippy_css)
 
     output_path = os.path.join(script_dir, 'munger-dashboard.html')
     with open(output_path, 'w', encoding='utf-8') as f:

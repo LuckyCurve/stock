@@ -12,7 +12,17 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 
 /* Layout */
 .app { display: flex; height: 100vh; overflow: hidden; }
-.left-panel { width: 220px; background: #fff; border-right: 1px solid #dee2e6; display: flex; flex-direction: column; flex-shrink: 0; }
+.left-panel { width: 220px; background: #fff; border-right: 1px solid #dee2e6; display: flex; flex-direction: column; flex-shrink: 0; transition: width 0.2s; }
+.left-panel.collapsed { width: 32px; overflow: hidden; }
+.left-panel.collapsed .panel-header span { display: none; }
+.left-panel.collapsed .ticker-filter,
+.left-panel.collapsed .ticker-list,
+.left-panel.collapsed .verdict-toggle,
+.left-panel.collapsed .verdict-body { display: none; }
+.panel-toggle { background: none; border: none; cursor: pointer; font-size: 14px; color: #6c757d; padding: 0 2px; line-height: 1; flex-shrink: 0; }
+.panel-toggle:hover { color: #1a73e8; }
+.left-panel.collapsed .panel-header { justify-content: center; padding: 10px 0; }
+.left-panel.collapsed .panel-toggle { font-size: 16px; }
 .right-panel { flex: 1; display: flex; flex-direction: column; overflow: hidden; min-width: 0; }
 
 /* Top bar */
@@ -21,7 +31,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .top-bar .meta { font-size: 11px; color: #6c757d; }
 
 /* Left panel */
-.panel-header { padding: 10px 12px; border-bottom: 1px solid #eee; font-size: 11px; color: #6c757d; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; }
+.panel-header { padding: 10px 12px; border-bottom: 1px solid #eee; font-size: 11px; color: #6c757d; font-weight: 600; text-transform: uppercase; letter-spacing: 0.5px; display: flex; align-items: center; justify-content: space-between; }
 .ticker-filter { position: relative; padding: 6px 10px; border-bottom: 1px solid #eee; }
 .ticker-filter input { width: 100%; padding: 5px 24px 5px 8px; border: 1px solid #dee2e6; border-radius: 4px; font-size: 12px; outline: none; background: #fff; }
 .ticker-filter input:focus { border-color: #1a73e8; box-shadow: 0 0 0 2px rgba(26,115,232,0.15); }
@@ -142,7 +152,7 @@ tr.highlight:hover { background: #d2e3fc; }
 .filter-panel.collapsed .filter-header .filter-title::after { content: ' (' attr(data-count) ')'; font-size: 11px; color: #6c757d; font-weight: 400; }
 
 /* Tooltip hint for hover-able labels */
-[title] { text-decoration: underline dotted #adb5bd; text-underline-offset: 3px; cursor: help; }
+[data-tippy-content] { text-decoration: underline dotted #adb5bd; text-underline-offset: 3px; cursor: help; }
 
 /* Clickable ticker link in summary table */
 .ticker-link { color: #1a73e8; cursor: pointer; text-decoration: none; }
@@ -154,12 +164,14 @@ tr.highlight:hover { background: #d2e3fc; }
 ::-webkit-scrollbar-thumb { background: #ccc; border-radius: 3px; }
 ::-webkit-scrollbar-thumb:hover { background: #999; }
 </style>
+{{{TIPPY_CSS}}}
+{{{TIPPY_SCRIPTS}}}
 </head>
 <body>
 <div class="app">
   <!-- Left Panel -->
   <div class="left-panel">
-    <div class="panel-header">Tickers (勾选对比 / 点击详情)</div>
+    <div class="panel-header"><span>Tickers (勾选对比 / 点击详情)</span><button class="panel-toggle" id="panelToggle">◀</button></div>
     <div class="ticker-filter">
       <input type="text" id="tickerFilter" placeholder="搜索 ticker..." />
       <span class="filter-clear" id="filterClear">&times;</span>
@@ -201,6 +213,7 @@ let state = {
   filters: {},
   filterCollapsed: false,
   balanceMode: 'absolute',
+  panelCollapsed: false,
 };
 
 const MAX_COMPARE = 8;
@@ -233,12 +246,17 @@ function handleResize() {
 function init() {
   loadStars();
   loadFilters();
+  loadPanelState();
   renderTickerList();
   renderVerdict();
   renderMetaInfo();
   renderContent();
   bindSubTabs();
   bindFilter();
+  document.getElementById('panelToggle').addEventListener('click', togglePanel);
+  if (typeof tippy === 'function') {
+    tippy('[data-tippy-content]', { theme: 'light-border', maxWidth: 280, delay: [200, 0], allowHTML: false });
+  }
 }
 
 // ========= STARS =========
@@ -295,6 +313,39 @@ function saveFilters() {
   try {
     localStorage.setItem(FILTERS_KEY, JSON.stringify(state.filters));
   } catch (e) {}
+}
+
+const PANEL_KEY = 'stock-screener-panel-collapsed';
+
+function loadPanelState() {
+  try {
+    state.panelCollapsed = localStorage.getItem(PANEL_KEY) === 'true';
+  } catch (e) {}
+  if (state.panelCollapsed) {
+    document.querySelector('.left-panel').classList.add('collapsed');
+    document.getElementById('panelToggle').textContent = '\u25B6';
+  }
+}
+
+function togglePanel() {
+  state.panelCollapsed = !state.panelCollapsed;
+  const panel = document.querySelector('.left-panel');
+  const btn = document.getElementById('panelToggle');
+  if (state.panelCollapsed) {
+    panel.classList.add('collapsed');
+    btn.textContent = '\u25B6';
+  } else {
+    panel.classList.remove('collapsed');
+    btn.textContent = '\u25C0';
+  }
+  try { localStorage.setItem(PANEL_KEY, String(state.panelCollapsed)); } catch (e) {}
+  setTimeout(() => { chartInstances.forEach(c => { try { c.resize(); } catch(e) {} }); }, 300);
+}
+
+function refreshTooltips() {
+  if (typeof tippy === 'function') {
+    tippy('[data-tippy-content]', { theme: 'light-border', maxWidth: 280, delay: [200, 0], allowHTML: false });
+  }
 }
 
 function resetFilters() {
@@ -514,6 +565,7 @@ function renderContent() {
     case 'compare': renderCompare(area); break;
     case 'detail':  renderDetail(area);  break;
   }
+  refreshTooltips();
 }
 
 function disposeCharts() {
@@ -610,7 +662,7 @@ function renderSummary(area) {
 
   let html = filterHtml + '<table><thead><tr>';
   for (const c of cols) {
-    html += '<th data-col="' + c.key + '" title="' + c.zh + '">' + c.label + '<span class="sort-arrow">' + arrow(c.key) + '</span></th>';
+    html += '<th data-col="' + c.key + '" data-tippy-content="' + c.zh + '">' + c.label + '<span class="sort-arrow">' + arrow(c.key) + '</span></th>';
   }
   html += '</tr></thead><tbody>';
 
@@ -973,7 +1025,7 @@ function renderRatiosTable(tickers) {
   html += '</tr></thead><tbody>';
 
   for (const rk of ratioKeys) {
-    html += '<tr><td title="' + rk.zh + '">' + rk.label + '</td>';
+    html += '<tr><td data-tippy-content="' + rk.zh + '">' + rk.label + '</td>';
     const vals = tickers.map(t => t.key_ratios ? t.key_ratios[rk.key] : null);
     const nonNull = vals.filter(v => v != null);
     const isLowerBetter = rk.key === 'capex_ratio';
@@ -1045,7 +1097,7 @@ function renderDetail(area) {
   html += '<div class="screen-card"><h3 style="margin-bottom:8px;font-size:13px;color:#1a73e8;">\u8292\u683C\u7B5B\u9009</h3>';
   html += '<div class="screen-criteria">';
   for (const c of t.munger_screen.criteria) {
-    html += '<div class="criterion ' + (c.pass ? 'pass' : 'fail') + '" title="' + (c.zh || '') + '">';
+    html += '<div class="criterion ' + (c.pass ? 'pass' : 'fail') + '" data-tippy-content="' + (c.zh || '') + '">';
     html += '<div class="c-label">' + (c.pass ? '\u2705' : '\u274C') + ' ' + c.name + '</div>';
     html += '<div class="c-value">' + (c.value != null ? (typeof c.value === 'number' ? c.value.toFixed(1) : c.value) : '\u2014') + '</div>';
     html += '</div>';
@@ -1087,7 +1139,7 @@ function renderDetail(area) {
     {en:'ROIC%',zh:'投入资本回报率 = NOPAT / IC × 100'},
   ];
   for (const h of roicHeaders) {
-    html += '<th title="' + h.zh + '">' + h.en + '</th>';
+    html += '<th data-tippy-content="' + h.zh + '">' + h.en + '</th>';
   }
   html += '</tr></thead><tbody>';
   for (const r of t.roic_detail) {
