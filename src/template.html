@@ -344,6 +344,10 @@ function togglePanel() {
 
 function refreshTooltips() {
   if (typeof tippy === 'function') {
+    // Destroy existing instances first to avoid duplicates when called multiple times
+    document.querySelectorAll('[data-tippy-content]').forEach(el => {
+      if (el._tippy) el._tippy.destroy();
+    });
     tippy('[data-tippy-content]', { theme: 'light-border', maxWidth: 280, delay: [200, 0], allowHTML: false });
   }
 }
@@ -753,6 +757,9 @@ function renderSummary(area) {
       renderSummary(area);
     });
   }
+
+  // Refresh tooltips after DOM rebuild (renderSummary may be called directly, bypassing renderContent)
+  refreshTooltips();
 }
 
 // ========= COMPARE TAB =========
