@@ -28,6 +28,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 /* Top bar */
 .top-bar { background: #fff; padding: 10px 20px; display: flex; align-items: center; justify-content: space-between; border-bottom: 1px solid #dee2e6; }
 .top-bar h1 { font-size: 16px; font-weight: 600; color: #1a73e8; }
+.top-bar .tagline { font-size: 11px; color: #adb5bd; font-style: italic; letter-spacing: 0.3px; margin-top: 2px; }
 .top-bar .meta { font-size: 11px; color: #6c757d; }
 
 /* Left panel */
@@ -184,7 +185,10 @@ tr.highlight:hover { background: #d2e3fc; }
   <!-- Right Panel -->
   <div class="right-panel">
     <div class="top-bar">
-      <h1>📊 股票筛选器</h1>
+      <div>
+        <h1>📊 股票筛选器</h1>
+        <div class="tagline">悟已往之不谏，知来者之可追。实迷途其未远，觉今是而昨非。</div>
+      </div>
       <div class="meta" id="metaInfo"></div>
     </div>
     <div class="sub-tabs" id="subTabs">
