@@ -1128,10 +1128,10 @@ function renderDetail(area) {
   });
 
   // Bind statement tabs
-  document.querySelectorAll('.stmt-tab').forEach(tab => {
+  document.querySelectorAll('.stmt-tab[data-stmt]').forEach(tab => {
     tab.addEventListener('click', () => {
       state.activeStatement = tab.dataset.stmt;
-      document.querySelectorAll('.stmt-tab').forEach(t2 => t2.classList.toggle('active', t2.dataset.stmt === state.activeStatement));
+      document.querySelectorAll('.stmt-tab[data-stmt]').forEach(t2 => t2.classList.toggle('active', t2.dataset.stmt === state.activeStatement));
       renderStatement(t);
     });
   });
