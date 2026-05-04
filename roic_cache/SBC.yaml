@@ -1,0 +1,3616 @@
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\band\mentions.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\bilibili\subtitle.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\boss\send.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\codex\ask.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\codex\send.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\chatwise\ask.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\chatwise\model.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\chatwise\send.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\cursor\ask.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\cursor\composer.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\cursor\send.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\twitter\followers.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\twitter\following.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\xianyu\chat.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\xianyu\item.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Sales/Revenue/Turnover
+  value: 174
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Sales/Revenue/Turnover
+  value: 194
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Sales/Revenue/Turnover
+  value: 205
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Sales/Revenue/Turnover
+  value: 174
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: + Sales & Services Revenue
+  value: 174
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: + Sales & Services Revenue
+  value: 194
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: + Sales & Services Revenue
+  value: 205
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: + Sales & Services Revenue
+  value: 174
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: '- Cost of Revenue'
+  value: 59
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: '- Cost of Revenue'
+  value: 56
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: '- Cost of Revenue'
+  value: 49
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: '- Cost of Revenue'
+  value: 46
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: + Cost of Goods & Services
+  value: 59
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: + Cost of Goods & Services
+  value: 56
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: + Cost of Goods & Services
+  value: 49
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: + Cost of Goods & Services
+  value: 46
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Gross Profit
+  value: 115
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Gross Profit
+  value: 137
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Gross Profit
+  value: 156
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Gross Profit
+  value: 127
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Income
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Income
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Income
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Income
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: '- Operating Expenses'
+  value: 93
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: '- Operating Expenses'
+  value: 66
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: '- Operating Expenses'
+  value: 71
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: '- Operating Expenses'
+  value: 60
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: + Selling, General & Admin
+  value: 93
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: + Selling, General & Admin
+  value: 66
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: + Selling, General & Admin
+  value: 71
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: + Selling, General & Admin
+  value: 60
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: + Research & Development
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: + Research & Development
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: + Research & Development
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: + Research & Development
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: + Other Operating Expense
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: + Other Operating Expense
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: + Other Operating Expense
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: + Other Operating Expense
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Operating Income (Loss)
+  value: 21
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Operating Income (Loss)
+  value: 71
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Operating Income (Loss)
+  value: 85
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Operating Income (Loss)
+  value: 67
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: '- Non-Operating (Income) Loss'
+  value: -2
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: '- Non-Operating (Income) Loss'
+  value: -3
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: '- Non-Operating (Income) Loss'
+  value: 12
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: '- Non-Operating (Income) Loss'
+  value: -15
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense, Net
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense, Net
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense, Net
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense, Net
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: + Interest Expense
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: + Interest Expense
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: + Interest Expense
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: + Interest Expense
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: '- Interest Income'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: '- Interest Income'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: '- Interest Income'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: '- Interest Income'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: + Other Non-Op (Income) Loss
+  value: -2
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: + Other Non-Op (Income) Loss
+  value: -2
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: + Other Non-Op (Income) Loss
+  value: 12
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: + Other Non-Op (Income) Loss
+  value: -15
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Pretax Income
+  value: 24
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Pretax Income
+  value: 74
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Pretax Income
+  value: 73
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Pretax Income
+  value: 82
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: '- Income Tax Expense (Benefit)'
+  value: 18
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: '- Income Tax Expense (Benefit)'
+  value: 35
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: '- Income Tax Expense (Benefit)'
+  value: 27
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: '- Income Tax Expense (Benefit)'
+  value: 31
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: '- (Income) Loss from Affiliates'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) from Cont Ops
+  value: 6
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) from Cont Ops
+  value: 39
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) from Cont Ops
+  value: 47
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) from Cont Ops
+  value: 51
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: '- Net Extraordinary Losses (Gains)'
+  value: -2
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: '- Net Extraordinary Losses (Gains)'
+  value: -2
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: '- Net Extraordinary Losses (Gains)'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: + Discontinued Operations
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: + Discontinued Operations
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: + Discontinued Operations
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: + Discontinued Operations
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: + Extraord. & Accounting Changes
+  value: -2
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: + Extraord. & Accounting Changes
+  value: -2
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: + Extraord. & Accounting Changes
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Income (Loss) Incl. MI
+  value: 7
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Income (Loss) Incl. MI
+  value: 40
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Income (Loss) Incl. MI
+  value: 47
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Income (Loss) Incl. MI
+  value: 51
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: '- Minority Interest'
+  value: 1
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: '- Minority Interest'
+  value: 1
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: '- Minority Interest'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: '- Minority Interest'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Net Income, GAAP
+  value: 6
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Net Income, GAAP
+  value: 39
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Net Income, GAAP
+  value: 47
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Net Income, GAAP
+  value: 51
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: '- Preferred Dividends'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: '- Preferred Dividends'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: '- Preferred Dividends'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: '- Preferred Dividends'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: '- Other Adjustments'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: '- Other Adjustments'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: '- Other Adjustments'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: '- Other Adjustments'
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Net Income Avail to Common, GAAP
+  value: 6
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Net Income Avail to Common, GAAP
+  value: 39
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Net Income Avail to Common, GAAP
+  value: 47
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Net Income Avail to Common, GAAP
+  value: 51
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: EBIT
+  value: 21
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: EBIT
+  value: 71
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: EBIT
+  value: 85
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: EBIT
+  value: 67
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA
+  value: 27
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA
+  value: 83
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA
+  value: 89
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA
+  value: 70
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: 15.66
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 43.05
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 43.41
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 40.42
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: EBITA
+  value: 21
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: EBITA
+  value: 71
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: EBITA
+  value: 85
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: EBITA
+  value: 67
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Gross Margin (%)
+  value: 65.94
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Gross Margin (%)
+  value: 70.94
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Gross Margin (%)
+  value: 75.97
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Gross Margin (%)
+  value: 73.32
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Operating Margin (%)
+  value: 12.26
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Operating Margin (%)
+  value: 36.72
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Operating Margin (%)
+  value: 41.56
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Operating Margin (%)
+  value: 38.87
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Profit Margin (%)
+  value: 3.63
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Profit Margin (%)
+  value: 20.34
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Profit Margin (%)
+  value: 22.69
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Profit Margin (%)
+  value: 29.37
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Sales per Employee
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Sales per Employee
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Sales per Employee
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Sales per Employee
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Dividend per Share
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Dividend per Share
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Dividend per Share
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Dividend per Share
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Depreciation Expense
+  value: 6
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Depreciation Expense
+  value: 12
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Depreciation Expense
+  value: 4
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Depreciation Expense
+  value: 3
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Basic Weighted Avg Shares
+  value: 101
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Basic Weighted Avg Shares
+  value: 101
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Basic Weighted Avg Shares
+  value: 97
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Basic Weighted Avg Shares
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS, GAAP
+  value: 0.06
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS, GAAP
+  value: 0.39
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS, GAAP
+  value: 0.48
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS, GAAP
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Basic EPS from Cont Ops
+  value: 0.06
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Basic EPS from Cont Ops
+  value: 0.38
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Basic EPS from Cont Ops
+  value: 0.48
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Basic EPS from Cont Ops
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Diluted Weighted Avg Shares
+  value: 101
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Diluted Weighted Avg Shares
+  value: 101
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Diluted Weighted Avg Shares
+  value: 97
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Diluted Weighted Avg Shares
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS, GAAP
+  value: 0.06
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS, GAAP
+  value: 0.39
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS, GAAP
+  value: 0.48
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS, GAAP
+  value: null
+- ticker: SBC
+  statement: income
+  fiscalYear: 2022
+  item: Diluted EPS from Cont Ops
+  value: 0.06
+- ticker: SBC
+  statement: income
+  fiscalYear: 2023
+  item: Diluted EPS from Cont Ops
+  value: 0.38
+- ticker: SBC
+  statement: income
+  fiscalYear: 2024
+  item: Diluted EPS from Cont Ops
+  value: 0.48
+- ticker: SBC
+  statement: income
+  fiscalYear: 2025
+  item: Diluted EPS from Cont Ops
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Assets
+  value: 113
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Assets
+  value: 166
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Assets
+  value: 184
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Assets
+  value: 231
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash, Cash Equivalents & STI
+  value: 54
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash, Cash Equivalents & STI
+  value: 103
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash, Cash Equivalents & STI
+  value: 125
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash, Cash Equivalents & STI
+  value: 164
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Cash & Cash Equivalents
+  value: 52
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Cash & Cash Equivalents
+  value: 103
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Cash & Cash Equivalents
+  value: 125
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Cash & Cash Equivalents
+  value: 164
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Investments
+  value: 2
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Investments
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Investments
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Investments
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts & Notes Receiv
+  value: 44
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts & Notes Receiv
+  value: 53
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts & Notes Receiv
+  value: 48
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts & Notes Receiv
+  value: 53
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Receivable, Net
+  value: 13
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Receivable, Net
+  value: 35
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Receivable, Net
+  value: 30
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Receivable, Net
+  value: 30
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Notes Receivable, Net
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Notes Receivable, Net
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Notes Receivable, Net
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Notes Receivable, Net
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Loans Receivable, Net
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Loans Receivable, Net
+  value: 8
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Loans Receivable, Net
+  value: 10
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Loans Receivable, Net
+  value: 9
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Receivable, Net
+  value: 31
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Receivable, Net
+  value: 9
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Receivable, Net
+  value: 8
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Receivable, Net
+  value: 14
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventories
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventories
+  value: 3
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventories
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventories
+  value: 3
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Raw Materials
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Raw Materials
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Raw Materials
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Raw Materials
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Work In Process
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Work In Process
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Work In Process
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Work In Process
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Finished Goods
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Finished Goods
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Finished Goods
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Finished Goods
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Inventory Adjustments
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Inventory Adjustments
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Inventory Adjustments
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Inventory Adjustments
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Inventory
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Inventory
+  value: 3
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Inventory
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Inventory
+  value: 3
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Assets
+  value: 14
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Assets
+  value: 7
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Assets
+  value: 10
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Assets
+  value: 11
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Prepaid Expenses
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Prepaid Expenses
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Prepaid Expenses
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Prepaid Expenses
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Derivative & Hedging Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Assets Held-for-Sale
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Deferred Tax Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Assets
+  value: 113
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Assets
+  value: 93
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Assets
+  value: 82
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Assets
+  value: 149
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip, Net
+  value: 22
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip, Net
+  value: 20
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip, Net
+  value: 14
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip, Net
+  value: 16
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Property, Plant & Equip
+  value: 57
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Property, Plant & Equip
+  value: 30
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Property, Plant & Equip
+  value: 25
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Property, Plant & Equip
+  value: 25
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: '- Accumulated Depreciation'
+  value: 36
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: '- Accumulated Depreciation'
+  value: 11
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: '- Accumulated Depreciation'
+  value: 11
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: '- Accumulated Depreciation'
+  value: 9
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments & Receivables
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments & Receivables
+  value: 21
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments & Receivables
+  value: 21
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments & Receivables
+  value: 39
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Investments
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Investments
+  value: 21
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Investments
+  value: 21
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Investments
+  value: 39
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Receivables
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Receivables
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Receivables
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Receivables
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Assets
+  value: 90
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Assets
+  value: 53
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Assets
+  value: 47
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Assets
+  value: 93
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Total Intangible Assets
+  value: 11
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Total Intangible Assets
+  value: 23
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Total Intangible Assets
+  value: 6
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Total Intangible Assets
+  value: 63
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Goodwill
+  value: 4
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Goodwill
+  value: 4
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Goodwill
+  value: 5
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Goodwill
+  value: 15
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Intangible Assets
+  value: 7
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Intangible Assets
+  value: 20
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Intangible Assets
+  value: 2
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Intangible Assets
+  value: 48
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Deferred Tax Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Derivative & Hedging Assets
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Assets
+  value: 79
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Assets
+  value: 29
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Assets
+  value: 41
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Assets
+  value: 30
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Total Assets
+  value: 225
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Total Assets
+  value: 259
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Total Assets
+  value: 266
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Total Assets
+  value: 380
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Payables & Accruals
+  value: 37
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Payables & Accruals
+  value: 59
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Payables & Accruals
+  value: 44
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Payables & Accruals
+  value: 35
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Accounts Payable
+  value: 15
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Accounts Payable
+  value: 27
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Accounts Payable
+  value: 15
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Accounts Payable
+  value: 18
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Taxes
+  value: 12
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Taxes
+  value: 23
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Taxes
+  value: 23
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Taxes
+  value: 11
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Interest & Dividends Payable
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Payables & Accruals
+  value: 11
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Payables & Accruals
+  value: 10
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Payables & Accruals
+  value: 6
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Payables & Accruals
+  value: 7
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Debt
+  value: 8
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Debt
+  value: 7
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Debt
+  value: 4
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Debt
+  value: 14
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Borrowings
+  value: 5
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Borrowings
+  value: 4
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Borrowings
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Borrowings
+  value: 9
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + ST Finance Leases
+  value: 3
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + ST Finance Leases
+  value: 4
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + ST Finance Leases
+  value: 4
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + ST Finance Leases
+  value: 5
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Other ST Liabilities
+  value: 56
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Other ST Liabilities
+  value: 26
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Other ST Liabilities
+  value: 13
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Other ST Liabilities
+  value: 12
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: 30
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: 25
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: 13
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: 7
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc ST Liabilities
+  value: 25
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc ST Liabilities
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc ST Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc ST Liabilities
+  value: 5
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Total Current Liabilities
+  value: 101
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Total Current Liabilities
+  value: 92
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Total Current Liabilities
+  value: 61
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Total Current Liabilities
+  value: 61
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Debt
+  value: 8
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Debt
+  value: 15
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Debt
+  value: 8
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Debt
+  value: 38
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Borrowings
+  value: 6
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Borrowings
+  value: 13
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Borrowings
+  value: 7
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Borrowings
+  value: 34
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + LT Finance Leases
+  value: 2
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + LT Finance Leases
+  value: 2
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + LT Finance Leases
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + LT Finance Leases
+  value: 4
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Other LT Liabilities
+  value: 8
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Other LT Liabilities
+  value: 7
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Other LT Liabilities
+  value: 2
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Other LT Liabilities
+  value: 18
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Accrued Liabilities
+  value: 7
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Accrued Liabilities
+  value: 6
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Accrued Liabilities
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Accrued Liabilities
+  value: 16
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Pension Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Pension Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Pension Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Pension Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Revenue
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Revenue
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Revenue
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Revenue
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Deferred Tax Liabilities
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Derivatives & Hedging
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Derivatives & Hedging
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Derivatives & Hedging
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Derivatives & Hedging
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Misc LT Liabilities
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Misc LT Liabilities
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Misc LT Liabilities
+  value: 1
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Misc LT Liabilities
+  value: 2
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Total Noncurrent Liabilities
+  value: 16
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Total Noncurrent Liabilities
+  value: 23
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Total Noncurrent Liabilities
+  value: 10
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Total Noncurrent Liabilities
+  value: 56
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities
+  value: 118
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities
+  value: 115
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities
+  value: 71
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities
+  value: 117
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Preferred Equity and Hybrid Capital
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Share Capital & APIC
+  value: 27
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Share Capital & APIC
+  value: 37
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Share Capital & APIC
+  value: 63
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Share Capital & APIC
+  value: 73
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Common Stock
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Common Stock
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Common Stock
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Common Stock
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Additional Paid in Capital
+  value: 27
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Additional Paid in Capital
+  value: 37
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Additional Paid in Capital
+  value: 63
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Additional Paid in Capital
+  value: 73
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: '- Treasury Stock'
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: '- Treasury Stock'
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: '- Treasury Stock'
+  value: 3
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: '- Treasury Stock'
+  value: 8
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Retained Earnings
+  value: 103
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Retained Earnings
+  value: 143
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Retained Earnings
+  value: 189
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Retained Earnings
+  value: 240
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Other Equity
+  value: -25
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Other Equity
+  value: -38
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Other Equity
+  value: -54
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Other Equity
+  value: -57
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Equity Before Minority Interest
+  value: 105
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Equity Before Minority Interest
+  value: 142
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Equity Before Minority Interest
+  value: 195
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Equity Before Minority Interest
+  value: 248
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: + Minority/Non Controlling Interest
+  value: 3
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: + Minority/Non Controlling Interest
+  value: 2
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: + Minority/Non Controlling Interest
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: + Minority/Non Controlling Interest
+  value: 15
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Total Equity
+  value: 108
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Total Equity
+  value: 144
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Total Equity
+  value: 195
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Total Equity
+  value: 263
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Total Liabilities & Equity
+  value: 225
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Total Liabilities & Equity
+  value: 259
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Total Liabilities & Equity
+  value: 266
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Total Liabilities & Equity
+  value: 380
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Shares Outstanding
+  value: 101
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Shares Outstanding
+  value: 101
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Shares Outstanding
+  value: 103
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Shares Outstanding
+  value: 103
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Number of Employees
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Number of Employees
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Number of Employees
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Number of Employees
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Capital Leases - Total
+  value: 6
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Capital Leases - Total
+  value: 6
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Capital Leases - Total
+  value: 6
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Capital Leases - Total
+  value: 9
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt
+  value: -41
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt
+  value: -86
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt
+  value: -118
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt
+  value: -121
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Net Debt to Equity
+  value: -38.43
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Net Debt to Equity
+  value: -60.14
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Net Debt to Equity
+  value: -60.72
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Net Debt to Equity
+  value: -45.93
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Tangible Common Equity Ratio
+  value: 45.12
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Tangible Common Equity Ratio
+  value: 51.16
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Tangible Common Equity Ratio
+  value: 72.66
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Tangible Common Equity Ratio
+  value: 63.08
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Current Ratio
+  value: 1.12
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Current Ratio
+  value: 1.79
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Current Ratio
+  value: 3.01
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Current Ratio
+  value: 3.78
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2022
+  item: Cash Conversion Cycle
+  value: null
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2023
+  item: Cash Conversion Cycle
+  value: -71.87
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2024
+  item: Cash Conversion Cycle
+  value: -81.86
+- ticker: SBC
+  statement: balance
+  fiscalYear: 2025
+  item: Cash Conversion Cycle
+  value: -43.17
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Income
+  value: 6
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Income
+  value: 39
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Income
+  value: 47
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Income
+  value: 51
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Depreciation & Amortization
+  value: 6
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Depreciation & Amortization
+  value: 12
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Depreciation & Amortization
+  value: 4
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Depreciation & Amortization
+  value: 3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Non-Cash Items
+  value: -1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Non-Cash Items
+  value: 8
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Non-Cash Items
+  value: 17
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Non-Cash Items
+  value: -3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Stock-Based Compensation
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Stock-Based Compensation
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Stock-Based Compensation
+  value: 13
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Stock-Based Compensation
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Deferred Income Taxes
+  value: -4
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Deferred Income Taxes
+  value: 4
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Deferred Income Taxes
+  value: -14
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Deferred Income Taxes
+  value: 5
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Asset Impairment Charge
+  value: 1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Asset Impairment Charge
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Asset Impairment Charge
+  value: 16
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Asset Impairment Charge
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Non-Cash Adj
+  value: 2
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Non-Cash Adj
+  value: 3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Non-Cash Adj
+  value: 3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Non-Cash Adj
+  value: -8
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Chg in Non-Cash Work Cap
+  value: -11
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Chg in Non-Cash Work Cap
+  value: -8
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Chg in Non-Cash Work Cap
+  value: -47
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Chg in Non-Cash Work Cap
+  value: -27
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Accts Receiv
+  value: -10
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Accts Receiv
+  value: -6
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Accts Receiv
+  value: 13
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Accts Receiv
+  value: 4
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Inventories
+  value: -1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Inventories
+  value: -2
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Inventories
+  value: 1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Inventories
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + (Inc) Dec in Prepaid Assets
+  value: -6
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + (Inc) Dec in Prepaid Assets
+  value: 1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + (Inc) Dec in Prepaid Assets
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + (Inc) Dec in Prepaid Assets
+  value: 1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Accts Payable
+  value: 17
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Accts Payable
+  value: 8
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Accts Payable
+  value: -45
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Accts Payable
+  value: -20
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc (Dec) in Other
+  value: -12
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc (Dec) in Other
+  value: -8
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc (Dec) in Other
+  value: -16
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc (Dec) in Other
+  value: -11
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Operating Activities
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Operating Activities
+  value: 51
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Operating Activities
+  value: 21
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Operating Activities
+  value: 25
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Change in Fixed & Intang
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp in Fixed & Intang
+  value: 2
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp in Fixed & Intang
+  value: 8
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp in Fixed & Intang
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp in Fixed & Intang
+  value: 7
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Fixed Prod Assets
+  value: 2
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Fixed Prod Assets
+  value: 8
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Fixed Prod Assets
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Fixed Prod Assets
+  value: 7
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Disp of Intangible Assets
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed & Intang
+  value: -25
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed & Intang
+  value: -11
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed & Intang
+  value: -3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed & Intang
+  value: -3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Fixed Prod Assets
+  value: -25
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Fixed Prod Assets
+  value: -10
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Fixed Prod Assets
+  value: -3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Fixed Prod Assets
+  value: -3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Acq of Intangible Assets
+  value: -2
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Acq of Intangible Assets
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash (Repurchase) of Equity
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash (Repurchase) of Equity
+  value: -5
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Increase in Capital Stock
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Increase in Capital Stock
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Increase in Capital Stock
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Increase in Capital Stock
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Decrease in Capital Stock
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Decrease in Capital Stock
+  value: -5
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Change in LT Investment
+  value: -3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Change in LT Investment
+  value: 2
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Change in LT Investment
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Change in LT Investment
+  value: -1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dec in LT Investment
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dec in LT Investment
+  value: 4
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dec in LT Investment
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dec in LT Investment
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Inc in LT Investment
+  value: -3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Inc in LT Investment
+  value: -2
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Inc in LT Investment
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Inc in LT Investment
+  value: -1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Acq & Div
+  value: -6
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Acq & Div
+  value: 1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Acq & Div
+  value: -5
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Acq & Div
+  value: -43
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash from Divestitures
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash from Divestitures
+  value: 1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash from Divestitures
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash from Divestitures
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for Acq of Subs
+  value: -6
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for Acq of Subs
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for Acq of Subs
+  value: -5
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for Acq of Subs
+  value: -43
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash for JVs
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash for JVs
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash for JVs
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash for JVs
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Investing Activities
+  value: -1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Investing Activities
+  value: 2
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Investing Activities
+  value: -1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Investing Activities
+  value: 18
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Investing Activities
+  value: -33
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Investing Activities
+  value: 2
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Investing Activities
+  value: -10
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Investing Activities
+  value: -21
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Dividends Paid
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Dividends Paid
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Dividends Paid
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Dividends Paid
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Debt
+  value: -5
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Debt
+  value: 4
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Debt
+  value: 12
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Debt
+  value: 33
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Cash From Debt
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Cash From Debt
+  value: 12
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Cash From Debt
+  value: 12
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Cash From Debt
+  value: 35
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Repayments of Debt
+  value: -5
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Repayments of Debt
+  value: -9
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Repayments of Debt
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Repayments of Debt
+  value: -2
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Other Financing Activities
+  value: -3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Other Financing Activities
+  value: 3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Other Financing Activities
+  value: 11
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Other Financing Activities
+  value: 10
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: + Net Cash From Disc Ops
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash from Financing Activities
+  value: -8
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash from Financing Activities
+  value: 6
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash from Financing Activities
+  value: 23
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash from Financing Activities
+  value: 38
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Effect of Foreign Exchange Rates
+  value: -12
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Effect of Foreign Exchange Rates
+  value: -7
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Effect of Foreign Exchange Rates
+  value: -11
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Effect of Foreign Exchange Rates
+  value: -3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Changes in Cash
+  value: -41
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Changes in Cash
+  value: 59
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Changes in Cash
+  value: 33
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Changes in Cash
+  value: 42
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA
+  value: 27
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA
+  value: 83
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA
+  value: 89
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA
+  value: 70
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: EBITDA Margin (%)
+  value: 15.66
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: EBITDA Margin (%)
+  value: 43.05
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: EBITDA Margin (%)
+  value: 43.41
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: EBITDA Margin (%)
+  value: 40.42
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow
+  value: -25
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow
+  value: 39
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow
+  value: 17
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow
+  value: 22
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Net Cash Paid for Acquisitions
+  value: 6
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Net Cash Paid for Acquisitions
+  value: -1
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Net Cash Paid for Acquisitions
+  value: 5
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Net Cash Paid for Acquisitions
+  value: 43
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Firm
+  value: -25
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Firm
+  value: 39
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Firm
+  value: 17
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Firm
+  value: 22
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow to Equity
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow to Equity
+  value: 53
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow to Equity
+  value: 29
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow to Equity
+  value: 63
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Free Cash Flow per Basic Share
+  value: -0.25
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Free Cash Flow per Basic Share
+  value: 0.39
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Free Cash Flow per Basic Share
+  value: 0.18
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Free Cash Flow per Basic Share
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Price/Free Cash Flow
+  value: 41.27
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Price/Free Cash Flow
+  value: 17.53
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Price/Free Cash Flow
+  value: 22.38
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Price/Free Cash Flow
+  value: null
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Cash Flow to Net Income
+  value: -0.01
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Cash Flow to Net Income
+  value: 1.29
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Cash Flow to Net Income
+  value: 0.44
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Cash Flow to Net Income
+  value: 0.48
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2022
+  item: Capital Expenditures
+  value: -25
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2023
+  item: Capital Expenditures
+  value: -11
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2024
+  item: Capital Expenditures
+  value: -3
+- ticker: SBC
+  statement: cashflow
+  fiscalYear: 2025
+  item: Capital Expenditures
+  value: -3
+
