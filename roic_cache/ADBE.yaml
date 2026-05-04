@@ -1,18 +1,3 @@
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\band\mentions.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\bilibili\subtitle.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\boss\send.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\chatwise\ask.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\chatwise\model.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\chatwise\send.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\codex\ask.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\codex\send.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\cursor\ask.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\cursor\composer.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\cursor\send.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\twitter\followers.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\twitter\following.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\xianyu\chat.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
-⚠  Failed to load module C:\Users\LuckyCurve\.opencli\clis\xianyu\item.js: The requested module '@jackwener/opencli/errors' does not provide an export named 'SelectorError'
 - ticker: ADBE
   statement: income
   fiscalYear: 1986
