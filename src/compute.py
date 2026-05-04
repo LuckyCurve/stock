@@ -202,7 +202,7 @@ def compute_key_ratios(data):
         if op_income is not None:
             ratios['operating_margin'] = op_income / revenue * 100
         if capex is not None:
-            ratios['capex_ratio'] = capex / revenue * 100
+            ratios['capex_ratio'] = abs(capex) / revenue * 100
     if net_income and net_income != 0 and fcf is not None:
         ratios['fcf_to_ni'] = fcf / net_income
     if current_ratio is not None:
