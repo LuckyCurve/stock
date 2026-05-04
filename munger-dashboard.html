@@ -99,6 +99,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .ticker-star { cursor: pointer; font-size: 14px; line-height: 1; flex-shrink: 0; color: #999; user-select: none; padding-left: 4px; }
 .ticker-star:hover { color: #fbbc04; }
 .ticker-star.starred { color: #fbbc04; }
+.ticker-star.excluded { color: #ea4335; }
 .ticker-divider { border-top: 1px solid #dee2e6; margin: 4px 10px; }
 .star-select-all { display: block; width: calc(100% - 20px); margin: 4px 10px; padding: 5px 8px; border: 1px solid #fbbc04; border-radius: 4px; background: #fef7e0; color: #e37400; font-size: 11px; font-weight: 600; cursor: pointer; text-align: center; transition: background 0.15s, color 0.15s; user-select: none; }
 .star-select-all:hover { background: #fbbc04; color: #fff; }
@@ -268,7 +269,7 @@ let state = {
   sortAsc: false,
   activeStatement: 'income',
   filterText: '',
-  stars: [],
+  tags: {},
   filters: {},
   filterCollapsed: false,
   balanceMode: 'absolute',
@@ -326,7 +327,7 @@ function handleResize() {
 
 // ========= INIT =========
 function init() {
-  loadStars();
+  loadTags();
   loadFilters();
   loadPanelState();
   renderTickerList();
@@ -342,39 +343,67 @@ function init() {
 }
 
 // ========= STARS =========
-const STARS_KEY = 'stock-screener-stars';
+const TAGS_KEY = 'stock-screener-tags';
+const OLD_STARS_KEY = 'stock-screener-stars';
 
-function loadStars() {
+function loadTags() {
+  // Migrate old stars data on first load
+  try {
+    const oldStars = localStorage.getItem(OLD_STARS_KEY);
+    if (oldStars) {
+      const arr = JSON.parse(oldStars);
+      const migrated = {};
+      for (const t of arr) migrated[t] = 'star';
+      localStorage.setItem(TAGS_KEY, JSON.stringify(migrated));
+      localStorage.removeItem(OLD_STARS_KEY);
+    }
+  } catch (e) {}
+
   // URL hash takes priority (for sharing)
   const hash = window.location.hash;
-  const match = hash.match(/stars=([^&]*)/);
-  if (match && match[1]) {
-    state.stars = match[1].split(',').filter(s => s.length > 0);
+  const starsMatch = hash.match(/stars=([^&]*)/);
+  const excludedMatch = hash.match(/excluded=([^&]*)/);
+  if (starsMatch || excludedMatch) {
+    state.tags = {};
+    if (starsMatch && starsMatch[1]) {
+      for (const t of starsMatch[1].split(',').filter(s => s.length > 0)) {
+        state.tags[t] = 'star';
+      }
+    }
+    if (excludedMatch && excludedMatch[1]) {
+      for (const t of excludedMatch[1].split(',').filter(s => s.length > 0)) {
+        state.tags[t] = 'exclude';
+      }
+    }
   } else {
     try {
-      const stored = localStorage.getItem(STARS_KEY);
-      state.stars = stored ? JSON.parse(stored) : [];
+      const stored = localStorage.getItem(TAGS_KEY);
+      state.tags = stored ? JSON.parse(stored) : {};
     } catch (e) {
-      state.stars = [];
+      state.tags = {};
     }
   }
-  // Always sync hash from current state
-  syncStarsHash();
+  syncTagsHash();
 }
 
-function syncStarsHash() {
-  if (state.stars.length > 0) {
-    history.replaceState(null, '', '#stars=' + state.stars.join(','));
+function syncTagsHash() {
+  const stars = Object.entries(state.tags).filter(([,v]) => v === 'star').map(([k]) => k);
+  const excluded = Object.entries(state.tags).filter(([,v]) => v === 'exclude').map(([k]) => k);
+  const parts = [];
+  if (stars.length > 0) parts.push('stars=' + stars.join(','));
+  if (excluded.length > 0) parts.push('excluded=' + excluded.join(','));
+  if (parts.length > 0) {
+    history.replaceState(null, '', '#' + parts.join('&'));
   } else {
     history.replaceState(null, '', window.location.pathname + window.location.search);
   }
 }
 
-function saveStars() {
+function saveTags() {
   try {
-    localStorage.setItem(STARS_KEY, JSON.stringify(state.stars));
+    localStorage.setItem(TAGS_KEY, JSON.stringify(state.tags));
   } catch (e) {}
-  syncStarsHash();
+  syncTagsHash();
 }
 
 function loadFilters() {
@@ -439,31 +468,34 @@ function resetFilters() {
   saveFilters();
 }
 
-function toggleStar(ticker) {
-  const idx = state.stars.indexOf(ticker);
-  if (idx >= 0) {
-    state.stars.splice(idx, 1);
+function toggleTag(ticker) {
+  const current = state.tags[ticker];
+  if (!current) {
+    state.tags[ticker] = 'star';
+  } else if (current === 'star') {
+    state.tags[ticker] = 'exclude';
   } else {
-    state.stars.push(ticker);
+    delete state.tags[ticker];
   }
-  saveStars();
+  saveTags();
   renderTickerList();
 }
 
 function toggleAllStars() {
-  if (state.stars.length === 0) return;
-  const allStarredChecked = state.stars.every(t => state.checkedTickers.has(t));
+  const starredTickers = Object.entries(state.tags).filter(([,v]) => v === 'star').map(([k]) => k);
+  if (starredTickers.length === 0) return;
+  const allStarredChecked = starredTickers.every(t => state.checkedTickers.has(t));
   if (allStarredChecked) {
-    for (const t of state.stars) {
+    for (const t of starredTickers) {
       state.checkedTickers.delete(t);
     }
   } else {
-    if (state.stars.length > MAX_COMPARE) {
+    if (starredTickers.length > MAX_COMPARE) {
       alert('\u6700\u591A\u540C\u65F6\u5BF9\u6BD4 ' + MAX_COMPARE + ' \u652F\u80A1\u7968');
       return;
     }
     state.checkedTickers.clear();
-    for (const t of state.stars) {
+    for (const t of starredTickers) {
       state.checkedTickers.add(t);
     }
   }
@@ -477,15 +509,19 @@ function renderTickerList() {
   list.innerHTML = '';
   const filter = state.filterText.toLowerCase();
 
-  // Split into starred and unstarred, preserving order
+  // Split into starred, untagged, excluded, preserving order
   const starred = [];
-  const unstarred = [];
+  const untagged = [];
+  const excluded = [];
   for (const t of DATA.summary) {
     if (filter && !t.ticker.toLowerCase().includes(filter)) continue;
-    if (state.stars.includes(t.ticker)) {
+    const tag = state.tags[t.ticker];
+    if (tag === 'star') {
       starred.push(t);
+    } else if (tag === 'exclude') {
+      excluded.push(t);
     } else {
-      unstarred.push(t);
+      untagged.push(t);
     }
   }
 
@@ -508,10 +544,11 @@ function renderTickerList() {
     mini.textContent = t.roic_median != null ? t.roic_median.toFixed(1) : '\u2014';
     mini.style.color = t.roic_median >= 20 ? '#137333' : t.roic_median >= 15 ? '#34a853' : t.roic_median >= 10 ? '#ea8600' : t.roic_median >= 0 ? '#d93025' : '#a50e0e';
 
+    const tag = state.tags[t.ticker];
     const star = document.createElement('span');
-    star.className = 'ticker-star' + (state.stars.includes(t.ticker) ? ' starred' : '');
-    star.textContent = state.stars.includes(t.ticker) ? '\u2605' : '\u2606';
-    star.addEventListener('click', (e) => { e.stopPropagation(); toggleStar(t.ticker); });
+    star.className = 'ticker-star' + (tag === 'star' ? ' starred' : tag === 'exclude' ? ' excluded' : '');
+    star.textContent = tag === 'star' ? '\u2605' : tag === 'exclude' ? '\uD83D\uDEAB' : '\u2606';
+    star.addEventListener('click', (e) => { e.stopPropagation(); toggleTag(t.ticker); });
 
     div.appendChild(cb);
     div.appendChild(name);
@@ -531,11 +568,19 @@ function renderTickerList() {
     div.appendChild(mini);
     div.appendChild(star);
     list.appendChild(div);
+
+    // Excluded group: semi-hidden
+    if (tag === 'exclude') {
+      div.style.opacity = '0.45';
+      div.addEventListener('mouseenter', () => { div.style.opacity = '0.8'; });
+      div.addEventListener('mouseleave', () => { div.style.opacity = '0.45'; });
+    }
   }
 
   // Star select-all button
-  if (state.stars.length > 0) {
-    const visibleStars = state.stars.filter(s => !filter || s.toLowerCase().includes(filter));
+  const starredTickers = Object.entries(state.tags).filter(([,v]) => v === 'star').map(([k]) => k);
+  if (starredTickers.length > 0) {
+    const visibleStars = starredTickers.filter(s => !filter || s.toLowerCase().includes(filter));
     if (visibleStars.length > 0) {
       const allStarredChecked = visibleStars.every(t => state.checkedTickers.has(t));
       const btn = document.createElement('div');
@@ -551,15 +596,25 @@ function renderTickerList() {
   // Render starred group
   for (const t of starred) renderItem(t);
 
-  // Divider between groups
-  if (starred.length > 0 && unstarred.length > 0) {
+  // Divider between starred and untagged
+  if (starred.length > 0 && untagged.length > 0) {
     const hr = document.createElement('div');
     hr.className = 'ticker-divider';
     list.appendChild(hr);
   }
 
-  // Render unstarred group
-  for (const t of unstarred) renderItem(t);
+  // Render untagged group
+  for (const t of untagged) renderItem(t);
+
+  // Divider between untagged and excluded
+  if ((starred.length > 0 || untagged.length > 0) && excluded.length > 0) {
+    const hr = document.createElement('div');
+    hr.className = 'ticker-divider';
+    list.appendChild(hr);
+  }
+
+  // Render excluded group
+  for (const t of excluded) renderItem(t);
 }
 
 function renderVerdict() {
