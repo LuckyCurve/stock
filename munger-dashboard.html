@@ -100,6 +100,7 @@ body { font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-
 .ticker-star:hover { color: #fbbc04; }
 .ticker-star.starred { color: #fbbc04; }
 .ticker-star.excluded { color: #ea4335; }
+.ticker-star:not(.starred):not(.excluded):hover { color: #fbbc04; }
 .ticker-divider { border-top: 1px solid #dee2e6; margin: 4px 10px; }
 .star-select-all { display: block; width: calc(100% - 20px); margin: 4px 10px; padding: 5px 8px; border: 1px solid #fbbc04; border-radius: 4px; background: #fef7e0; color: #e37400; font-size: 11px; font-weight: 600; cursor: pointer; text-align: center; transition: background 0.15s, color 0.15s; user-select: none; }
 .star-select-all:hover { background: #fbbc04; color: #fff; }
@@ -468,14 +469,23 @@ function resetFilters() {
   saveFilters();
 }
 
-function toggleTag(ticker) {
+function toggleStar(ticker) {
   const current = state.tags[ticker];
-  if (!current) {
-    state.tags[ticker] = 'star';
-  } else if (current === 'star') {
-    state.tags[ticker] = 'exclude';
-  } else {
+  if (current === 'star') {
     delete state.tags[ticker];
+  } else {
+    state.tags[ticker] = 'star';
+  }
+  saveTags();
+  renderTickerList();
+}
+
+function toggleExclude(ticker) {
+  const current = state.tags[ticker];
+  if (current === 'exclude') {
+    delete state.tags[ticker];
+  } else {
+    state.tags[ticker] = 'exclude';
   }
   saveTags();
   renderTickerList();
@@ -546,9 +556,13 @@ function renderTickerList() {
 
     const tag = state.tags[t.ticker];
     const star = document.createElement('span');
-    star.className = 'ticker-star' + (tag === 'star' ? ' starred' : tag === 'exclude' ? ' excluded' : '');
-    star.textContent = tag === 'star' ? '\u2605' : tag === 'exclude' ? '\uD83D\uDEAB' : '\u2606';
-    star.addEventListener('click', (e) => { e.stopPropagation(); toggleTag(t.ticker); });
+    star.className = 'ticker-star' + (tag === 'star' ? ' starred' : '');
+    star.textContent = tag === 'star' ? '\u2605' : '\u2606';
+    star.addEventListener('click', (e) => { e.stopPropagation(); toggleStar(t.ticker); });
+    const exc = document.createElement('span');
+    exc.className = 'ticker-star' + (tag === 'exclude' ? ' excluded' : '');
+    exc.textContent = tag === 'exclude' ? '\uD83D\uDEAB' : '\u25CB';
+    exc.addEventListener('click', (e) => { e.stopPropagation(); toggleExclude(t.ticker); });
 
     div.appendChild(cb);
     div.appendChild(name);
@@ -567,6 +581,7 @@ function renderTickerList() {
 
     div.appendChild(mini);
     div.appendChild(star);
+    div.appendChild(exc);
     list.appendChild(div);
 
     // Excluded group: semi-hidden
