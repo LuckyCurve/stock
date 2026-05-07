@@ -315,6 +315,9 @@ function getChartZoomConfig() {
         borderColor: '#dee2e6', fillerColor: 'rgba(26,115,232,0.12)',
         handleStyle: { color: '#1a73e8' }, textStyle: { fontSize: 9 }, moveHandleSize: 3 },
       { type: 'inside', yAxisIndex: 0 },
+      { type: 'slider', xAxisIndex: 0, bottom: 0, height: 14, start: 0, end: 100,
+        borderColor: '#dee2e6', fillerColor: 'rgba(26,115,232,0.12)',
+        handleStyle: { color: '#1a73e8' }, textStyle: { fontSize: 9 } },
       { type: 'inside', xAxisIndex: 0 },
     ],
   };
@@ -975,9 +978,9 @@ function renderRoicChart(tickers) {
   chart.setOption({
     ...getChartZoomConfig(),
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
-    legend: { bottom: 0, textStyle: { fontSize: 10 } },
-    grid: { top: 25, right: 45, bottom: 55, left: 50 },
-    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
+    legend: { bottom: 20, textStyle: { fontSize: 10 } },
+    grid: { top: 25, right: 45, bottom: 75, left: 50 },
+    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 30, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
     yAxis: { type: 'value', name: 'ROIC%', nameLocation: 'end',
       axisLine: { lineStyle: { color: '#dee2e6' } },
       splitLine: { lineStyle: { color: '#f0f0f0' } }
@@ -1051,11 +1054,12 @@ function renderGrowthChart(tickers) {
 
   chart.setOption({
     ...getChartZoomConfig(),
-    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? '$' + v.toFixed(2) + 'M' : '\u2014' },
-    legend: { bottom: 0, textStyle: { fontSize: 9 }, type: 'scroll' },
-    grid: { top: 25, right: 45, bottom: 55, left: 60 },
-    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
-    yAxis: { type: 'log', name: '$M (log)', nameLocation: 'end',
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? (v >= 1000 ? '$' + (v/1000).toFixed(1) + 'B' : '$' + v.toFixed(0) + 'M') : '\u2014' },
+    legend: { bottom: 20, textStyle: { fontSize: 9 }, type: 'scroll' },
+    grid: { top: 25, right: 45, bottom: 75, left: 60 },
+    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 30, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
+    yAxis: { type: 'value', name: '$M', nameLocation: 'end',
+      axisLabel: { formatter: v => v >= 1000 ? (v/1000).toFixed(0) + 'B' : v.toFixed(0) },
       axisLine: { lineStyle: { color: '#dee2e6' } },
       splitLine: { lineStyle: { color: '#f0f0f0' } }
     },
@@ -1155,9 +1159,9 @@ function renderEpsYoyCompareChart(tickers) {
   chart.setOption({
     ...getChartZoomConfig(),
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
-    legend: { bottom: 0, textStyle: { fontSize: 10 } },
-    grid: { top: 25, right: 45, bottom: 55, left: 50 },
-    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
+    legend: { bottom: 20, textStyle: { fontSize: 10 } },
+    grid: { top: 25, right: 45, bottom: 75, left: 50 },
+    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 45, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
     yAxis: { type: 'value', name: 'YoY%', nameLocation: 'end',
       axisLine: { lineStyle: { color: '#dee2e6' } },
       splitLine: { lineStyle: { color: '#f0f0f0' } }
@@ -1373,7 +1377,7 @@ function renderDetailRevenueChart(t) {
   chart.setOption({
     ...getChartZoomConfig(),
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? '$' + v.toFixed(2) + 'M' : '\u2014' },
-    grid: { top: 25, right: 45, bottom: 30, left: 55 },
+    grid: { top: 25, right: 45, bottom: 50, left: 55 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10 }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
     series: [{ type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#1a73e8' }, areaStyle: { color: 'rgba(26,115,232,0.08)' } }],
@@ -1393,7 +1397,7 @@ function renderDetailNetCashChart(t) {
   chart.setOption({
     ...getChartZoomConfig(),
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
-    grid: { top: 25, right: 45, bottom: 30, left: 45 },
+    grid: { top: 25, right: 45, bottom: 50, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
     series: [{
@@ -1420,7 +1424,7 @@ function renderDetailRoicChart(t) {
   chart.setOption({
     ...getChartZoomConfig(),
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
-    grid: { top: 25, right: 45, bottom: 30, left: 45 },
+    grid: { top: 25, right: 45, bottom: 50, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
     series: [{
@@ -1450,7 +1454,7 @@ function renderDetailEpsYoyChart(t) {
   chart.setOption({
     ...getChartZoomConfig(),
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
-    grid: { top: 25, right: 45, bottom: 30, left: 45 },
+    grid: { top: 25, right: 45, bottom: 50, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
     series: [{
@@ -1548,8 +1552,8 @@ function renderDetailBalanceChart(t) {
         return tip;
       }
     },
-    legend: { bottom: 0, textStyle: { fontSize: 10 } },
-    grid: { top: 25, right: 45, bottom: 55, left: isNormalized ? 45 : 60 },
+    legend: { bottom: 20, textStyle: { fontSize: 10 } },
+    grid: { top: 25, right: 45, bottom: 75, left: isNormalized ? 45 : 60 },
     xAxis: { type: 'category', data: years.map(String), axisLabel: { fontSize: 10, rotate: years.length > 20 ? 45 : 0 } },
     yAxis: {
       type: 'value',
