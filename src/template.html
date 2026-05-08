@@ -1416,35 +1416,46 @@ function renderDetailRoicChart(t) {
 
   chart.setOption({
     ...getChartZoomConfig(),
-    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
+    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '—' },
     legend: { bottom: 0, textStyle: { fontSize: 10 }, itemWidth: 20, itemHeight: 10 },
     grid: { top: 25, right: 45, bottom: 55, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
+    visualMap: {
+      show: false,
+      dimension: 1,
+      seriesIndex: 0,
+      pieces: [
+        { gt: 20, color: '#34a853' },
+        { gt: 10, lte: 20, color: '#e37400' },
+        { lte: 10, color: '#ea4335' },
+      ],
+    },
     series: [
       {
         name: 'ROIC',
-        type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#1a73e8' },
-        areaStyle: { color: 'rgba(26,115,232,0.08)' },
+        type: 'line', data: data, symbolSize: 4,
+        lineStyle: { width: 2.5 },
+        areaStyle: { opacity: 0.12 },
         markLine: {
           silent: true, symbol: 'none',
           data: [
-            { yAxis: 10, lineStyle: { color: '#fbbc04', type: 'dashed', width: 2 }, label: { formatter: '10%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } },
-            { yAxis: 20, lineStyle: { color: '#34a853', type: 'dashed', width: 2 }, label: { formatter: '20%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } },
+            { yAxis: 10, lineStyle: { color: '#e37400', type: 'dashed', width: 1.5 }, label: { formatter: '10%', fontSize: 10, position: 'insideEndTop' } },
+            { yAxis: 20, lineStyle: { color: '#34a853', type: 'dashed', width: 1.5 }, label: { formatter: '20%', fontSize: 10, position: 'insideEndTop' } },
           ]
         }
       },
       {
         name: '5年均值',
         type: 'line', data: ma5, symbolSize: 0,
-        lineStyle: { color: '#fbbc04', type: 'dashed', width: 2 },
-        itemStyle: { color: '#fbbc04' },
+        lineStyle: { color: '#9aa0a6', type: 'dashed', width: 1.5 },
+        itemStyle: { color: '#9aa0a6' },
       },
       {
         name: '10年均值',
         type: 'line', data: ma10, symbolSize: 0,
-        lineStyle: { color: '#9c27b0', type: 'dotted', width: 2 },
-        itemStyle: { color: '#9c27b0' },
+        lineStyle: { color: '#9aa0a6', type: 'dotted', width: 1.5 },
+        itemStyle: { color: '#9aa0a6' },
       },
     ],
   });
