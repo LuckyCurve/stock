@@ -1005,10 +1005,11 @@ function renderGrowthChart(tickers) {
     legend: { bottom: 20, textStyle: { fontSize: 9 }, type: 'scroll' },
     grid: { top: 25, right: 45, bottom: 75, left: 60 },
     xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 30, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
-    yAxis: { type: 'value', name: '$M', nameLocation: 'end',
+    yAxis: { type: 'log', name: '$M (log)', nameLocation: 'end',
       axisLabel: { formatter: v => v >= 1000 ? (v/1000).toFixed(0) + 'B' : v.toFixed(0) },
       axisLine: { lineStyle: { color: '#dee2e6' } },
-      splitLine: { lineStyle: { color: '#f0f0f0' } }
+      splitLine: { lineStyle: { color: '#f0f0f0' } },
+      min: 1,
     },
     series: series,
   });
@@ -1341,18 +1342,46 @@ function renderDetailNetCashChart(t) {
   const data = Object.entries(series).map(([y,v]) => [parseInt(y), v]).sort((a,b) => a[0]-b[0]);
   const minYear = data.length ? data[0][0] : 2000;
   const maxYear = data.length ? data[data.length-1][0] : 2025;
+
+  // Compute y-axis min/max with padding to ensure 0-line is visible
+  const values = data.map(d => d[1]).filter(v => v != null);
+  let yMin = values.length ? Math.min(...values) : -10;
+  let yMax = values.length ? Math.max(...values) : 10;
+  const padding = (yMax - yMin) * 0.1 || 5;
+  yMin -= padding;
+  yMax += padding;
+  // Ensure 0 is within range
+  if (yMin > 0) yMin = -padding;
+  if (yMax < 0) yMax = padding;
+
   chart.setOption({
     ...getChartZoomConfig(),
-    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
+    tooltip: {
+      trigger: 'axis',
+      valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014',
+      formatter: function(params) {
+        if (!params || !params.length) return '';
+        const p = params[0];
+        const val = p.value != null ? p.value[1] : null;
+        const color = val != null && val >= 0 ? '#34a853' : '#ea4335';
+        return '<strong>' + Math.round(p.value[0]) + '</strong><br/>' +
+               '<span style="color:' + color + '">' + (val != null ? val.toFixed(2) + '%' : '\u2014') + '</span>';
+      }
+    },
     grid: { top: 25, right: 45, bottom: 50, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
-    yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
+    yAxis: { type: 'value', min: yMin, max: yMax, axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
     series: [{
-      type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#34a853' },
-      areaStyle: { color: 'rgba(52,168,83,0.08)' },
+      type: 'bar', data: data,
+      itemStyle: {
+        color: function(params) {
+          const val = params.value != null ? params.value[1] : null;
+          return val != null && val >= 0 ? '#34a853' : '#ea4335';
+        }
+      },
       markLine: {
         silent: true, symbol: 'none',
-        data: [{ yAxis: 0, lineStyle: { color: '#ea4335', type: 'dashed', width: 2 }, label: { formatter: '0%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } }]
+        data: [{ yAxis: 0, lineStyle: { color: '#666', type: 'dashed', width: 2 }, label: { formatter: '0%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } }]
       }
     }],
   });
