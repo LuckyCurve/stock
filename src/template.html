@@ -244,13 +244,13 @@ const FILTERS_KEY = 'stock-screener-filters';
 // Chart instances for cleanup
 let chartInstances = [];
 
-// Chart zoom config: toolbox box-select + y-axis slider + wheel zoom
+// Chart zoom config: toolbox box-select + y-axis slider + wheel zoom (x-axis zoom removed)
 function getChartZoomConfig() {
   return {
     toolbox: {
       right: 8, top: 0,
       feature: {
-        dataZoom: { yAxisIndex: 0, xAxisIndex: 0, title: { zoom: '框选缩放', back: '还原' } },
+        dataZoom: { yAxisIndex: 0, title: { zoom: '框选缩放', back: '还原' } },
         restore: { title: '重置' },
       },
       iconStyle: { borderColor: '#adb5bd' },
@@ -262,10 +262,6 @@ function getChartZoomConfig() {
         borderColor: '#dee2e6', fillerColor: 'rgba(26,115,232,0.12)',
         handleStyle: { color: '#1a73e8' }, textStyle: { fontSize: 9 }, moveHandleSize: 3 },
       { type: 'inside', yAxisIndex: 0 },
-      { type: 'slider', xAxisIndex: 0, bottom: 0, height: 14, start: 0, end: 100,
-        borderColor: '#dee2e6', fillerColor: 'rgba(26,115,232,0.12)',
-        handleStyle: { color: '#1a73e8' }, textStyle: { fontSize: 9 } },
-      { type: 'inside', xAxisIndex: 0 },
     ],
   };
 }
@@ -1388,6 +1384,22 @@ function renderDetailNetCashChart(t) {
   if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
 
+function computeMovingAverage(data, window) {
+  // Compute N-year moving average from [year, value] sorted data.
+  // Returns array of [year, ma_value] starting from the Nth point.
+  if (data.length < window) return [];
+  const result = [];
+  for (let i = window - 1; i < data.length; i++) {
+    const slice = data.slice(i - window + 1, i + 1);
+    const valid = slice.filter(d => d[1] != null);
+    if (valid.length === window) {
+      const avg = valid.reduce((sum, d) => sum + d[1], 0) / window;
+      result.push([data[i][0], avg]);
+    }
+  }
+  return result;
+}
+
 function renderDetailRoicChart(t) {
   const dom = document.getElementById('chartDetailRoic');
   if (!dom || typeof echarts === 'undefined') return;
@@ -1397,23 +1409,44 @@ function renderDetailRoicChart(t) {
   const data = Object.entries(series).map(([y,v]) => [parseInt(y), v]).sort((a,b) => a[0]-b[0]);
   const minYear = data.length ? data[0][0] : 2000;
   const maxYear = data.length ? data[data.length-1][0] : 2025;
+
+  // Compute moving averages
+  const ma5 = computeMovingAverage(data, 5);
+  const ma10 = computeMovingAverage(data, 10);
+
   chart.setOption({
     ...getChartZoomConfig(),
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
-    grid: { top: 25, right: 45, bottom: 50, left: 45 },
+    legend: { bottom: 0, textStyle: { fontSize: 10 }, itemWidth: 20, itemHeight: 10 },
+    grid: { top: 25, right: 45, bottom: 55, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
     yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
-    series: [{
-      type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#1a73e8' },
-      areaStyle: { color: 'rgba(26,115,232,0.08)' },
-      markLine: {
-        silent: true, symbol: 'none',
-        data: [
-          { yAxis: 10, lineStyle: { color: '#fbbc04', type: 'dashed', width: 2 }, label: { formatter: '10%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } },
-          { yAxis: 20, lineStyle: { color: '#34a853', type: 'dashed', width: 2 }, label: { formatter: '20%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } },
-        ]
-      }
-    }],
+    series: [
+      {
+        name: 'ROIC',
+        type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#1a73e8' },
+        areaStyle: { color: 'rgba(26,115,232,0.08)' },
+        markLine: {
+          silent: true, symbol: 'none',
+          data: [
+            { yAxis: 10, lineStyle: { color: '#fbbc04', type: 'dashed', width: 2 }, label: { formatter: '10%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } },
+            { yAxis: 20, lineStyle: { color: '#34a853', type: 'dashed', width: 2 }, label: { formatter: '20%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } },
+          ]
+        }
+      },
+      {
+        name: '5年均值',
+        type: 'line', data: ma5, symbolSize: 0,
+        lineStyle: { color: '#fbbc04', type: 'dashed', width: 2 },
+        itemStyle: { color: '#fbbc04' },
+      },
+      {
+        name: '10年均值',
+        type: 'line', data: ma10, symbolSize: 0,
+        lineStyle: { color: '#9c27b0', type: 'dotted', width: 2 },
+        itemStyle: { color: '#9c27b0' },
+      },
+    ],
   });
   if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
@@ -1427,18 +1460,44 @@ function renderDetailEpsYoyChart(t) {
   const data = Object.entries(series).map(([y,v]) => [parseInt(y), v]).sort((a,b) => a[0]-b[0]);
   const minYear = data.length ? data[0][0] : 2000;
   const maxYear = data.length ? data[data.length-1][0] : 2025;
+
+  // Compute y-axis min/max with padding to ensure 0-line is visible
+  const values = data.map(d => d[1]).filter(v => v != null);
+  let yMin = values.length ? Math.min(...values) : -10;
+  let yMax = values.length ? Math.max(...values) : 10;
+  const padding = (yMax - yMin) * 0.1 || 5;
+  yMin -= padding;
+  yMax += padding;
+  if (yMin > 0) yMin = -padding;
+  if (yMax < 0) yMax = padding;
+
   chart.setOption({
     ...getChartZoomConfig(),
-    tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
+    tooltip: {
+      trigger: 'axis',
+      formatter: function(params) {
+        if (!params || !params.length) return '';
+        const p = params[0];
+        const val = p.value != null ? p.value[1] : null;
+        const color = val != null && val >= 0 ? '#34a853' : '#ea4335';
+        return '<strong>' + Math.round(p.value[0]) + '</strong><br/>' +
+               '<span style="color:' + color + '">' + (val != null ? val.toFixed(2) + '%' : '\u2014') + '</span>';
+      }
+    },
     grid: { top: 25, right: 45, bottom: 50, left: 45 },
     xAxis: { type: 'value', min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v), fontSize: 10 } },
-    yAxis: { type: 'value', axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
+    yAxis: { type: 'value', min: yMin, max: yMax, axisLabel: { fontSize: 10, formatter: v => v.toFixed(0) + '%' }, splitLine: { lineStyle: { color: '#f0f0f0' } } },
     series: [{
-      type: 'line', data: data, symbolSize: 3, itemStyle: { color: '#9c27b0' },
-      areaStyle: { color: 'rgba(156,39,176,0.08)' },
+      type: 'bar', data: data,
+      itemStyle: {
+        color: function(params) {
+          const val = params.value != null ? params.value[1] : null;
+          return val != null && val >= 0 ? '#34a853' : '#ea4335';
+        }
+      },
       markLine: {
         silent: true, symbol: 'none',
-        data: [{ yAxis: 0, lineStyle: { color: '#ea4335', type: 'dashed', width: 2 }, label: { formatter: '0%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } }]
+        data: [{ yAxis: 0, lineStyle: { color: '#666', type: 'dashed', width: 2 }, label: { formatter: '0%', fontSize: 11, fontWeight: 'bold', position: 'insideEndTop' } }]
       }
     }],
   });
