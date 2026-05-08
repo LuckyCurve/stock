@@ -1612,26 +1612,7 @@ function renderDetailBalanceChart(t) {
       splitLine: { lineStyle: { color: '#f0f0f0' } }
     },
     series: series,
-    toolbox: {
-      right: 8, top: 0,
-      feature: {
-        dataZoom: { yAxisIndex: 0, xAxisIndex: 0, title: { zoom: '框选缩放', back: '还原' } },
-        restore: { title: '重置' },
-      },
-      iconStyle: { borderColor: '#adb5bd' },
-      emphasis: { iconStyle: { borderColor: '#1a73e8' } },
-      itemSize: 13,
-    },
-    dataZoom: [
-      { type: 'slider', yAxisIndex: 0, right: 3, width: 18, start: 0, end: 100,
-        borderColor: '#dee2e6', fillerColor: 'rgba(26,115,232,0.12)',
-        handleStyle: { color: '#1a73e8' }, textStyle: { fontSize: 9 }, moveHandleSize: 3 },
-      { type: 'inside', yAxisIndex: 0 },
-      { type: 'slider', xAxisIndex: 0, bottom: 0, height: 14, start: 0, end: 100,
-        borderColor: '#dee2e6', fillerColor: 'rgba(26,115,232,0.12)',
-        handleStyle: { color: '#1a73e8' }, textStyle: { fontSize: 9 } },
-      { type: 'inside', xAxisIndex: 0 },
-    ],
+    ...getChartZoomConfig(),
   });
   if (!_resizeBound) { window.addEventListener('resize', handleResize); _resizeBound = true; }
 }
