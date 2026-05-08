@@ -921,9 +921,9 @@ function renderRoicChart(tickers) {
   chart.setOption({
     ...getChartZoomConfig(),
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
-    legend: { bottom: 20, textStyle: { fontSize: 10 } },
-    grid: { top: 25, right: 45, bottom: 75, left: 50 },
-    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 30, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
+    legend: { bottom: 0, textStyle: { fontSize: 10 }, itemWidth: 20, itemHeight: 10 },
+    grid: { top: 25, right: 45, bottom: 55, left: 50 },
+    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
     yAxis: { type: 'value', name: 'ROIC%', nameLocation: 'end',
       axisLine: { lineStyle: { color: '#dee2e6' } },
       splitLine: { lineStyle: { color: '#f0f0f0' } }
@@ -998,9 +998,9 @@ function renderGrowthChart(tickers) {
   chart.setOption({
     ...getChartZoomConfig(),
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? (v >= 1000 ? '$' + (v/1000).toFixed(1) + 'B' : '$' + v.toFixed(0) + 'M') : '\u2014' },
-    legend: { bottom: 20, textStyle: { fontSize: 9 }, type: 'scroll' },
-    grid: { top: 25, right: 45, bottom: 75, left: 60 },
-    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 30, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
+    legend: { bottom: 0, textStyle: { fontSize: 9 }, type: 'scroll', itemWidth: 20, itemHeight: 10 },
+    grid: { top: 25, right: 45, bottom: 55, left: 60 },
+    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
     yAxis: { type: 'log', name: '$M (log)', nameLocation: 'end',
       axisLabel: { formatter: v => v >= 1000 ? (v/1000).toFixed(0) + 'B' : v.toFixed(0) },
       axisLine: { lineStyle: { color: '#dee2e6' } },
@@ -1103,9 +1103,9 @@ function renderEpsYoyCompareChart(tickers) {
   chart.setOption({
     ...getChartZoomConfig(),
     tooltip: { trigger: 'axis', valueFormatter: v => v != null ? v.toFixed(2) + '%' : '\u2014' },
-    legend: { bottom: 20, textStyle: { fontSize: 10 } },
-    grid: { top: 25, right: 45, bottom: 75, left: 50 },
-    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 45, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
+    legend: { bottom: 0, textStyle: { fontSize: 10 }, itemWidth: 20, itemHeight: 10 },
+    grid: { top: 25, right: 45, bottom: 55, left: 50 },
+    xAxis: { type: 'value', name: 'Year', nameLocation: 'center', nameGap: 25, min: minYear, max: maxYear, axisLabel: { formatter: v => Math.round(v) } },
     yAxis: { type: 'value', name: 'YoY%', nameLocation: 'end',
       axisLine: { lineStyle: { color: '#dee2e6' } },
       splitLine: { lineStyle: { color: '#f0f0f0' } }
@@ -1587,8 +1587,8 @@ function renderDetailBalanceChart(t) {
         return tip;
       }
     },
-    legend: { bottom: 20, textStyle: { fontSize: 10 } },
-    grid: { top: 25, right: 45, bottom: 75, left: isNormalized ? 45 : 60 },
+    legend: { bottom: 0, textStyle: { fontSize: 10 }, itemWidth: 20, itemHeight: 10 },
+    grid: { top: 25, right: 45, bottom: 55, left: isNormalized ? 45 : 60 },
     xAxis: { type: 'category', data: years.map(String), axisLabel: { fontSize: 10, rotate: years.length > 20 ? 45 : 0 } },
     yAxis: {
       type: 'value',
