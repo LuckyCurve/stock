@@ -1481,7 +1481,8 @@ function renderDetailRoicChart(t) {
       pieces: [
         { gt: 20, color: '#34a853' },
         { gt: 10, lte: 20, color: '#e37400' },
-        { lte: 10, color: '#ea4335' },
+        { gt: 0, lte: 10, color: '#ea4335' },
+        { lte: 0, color: '#a50e0e' },
       ],
     },
     series: [
