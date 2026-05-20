@@ -5399,3 +5399,7 @@
   item: Capital Expenditures
   value: -36
 
+
+  Update available: v1.7.22 → v1.8.0
+  Run: npm install -g @jackwener/opencli
+
